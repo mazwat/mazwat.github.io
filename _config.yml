@@ -16,7 +16,6 @@ doks:
     footer:
         content:
             logo:
-                text: Computing Documentation
                 image:
             copyright: Copyright &copy; 2021. <br>All rights reserved.
 
