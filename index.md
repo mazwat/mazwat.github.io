@@ -7,17 +7,10 @@ keywords:
 title: Computing Documentation 
 description: Matt Watkins documents for Computing Courses
 
-# Author box
-author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description
-
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: COMP140
+      excerpt: Module Workshop Documents & Resources
       cta: Read more
       url: '#'
 ---
