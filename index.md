@@ -4,28 +4,13 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
-buttons:
-    - content: Button
-      url: '#'
-      external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
-
-# Author box
-author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description
+title: Computing Documentation 
+description: Matt Watkins documents for Computing Courses
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: COMP140
+      excerpt: Module Workshop Documents & Resources
       cta: Read more
-      url: '#'
+      url: 'default.md'
 ---
