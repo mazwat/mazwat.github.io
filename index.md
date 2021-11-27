@@ -12,5 +12,5 @@ grid_navigation:
     - title: COMP140
       excerpt: Module Workshop Documents & Resources
       cta: Read more
-      url: 'default.md'
+      url: 'comp140-intro.md'
 ---
