@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Workshop & Support Documents for Computing at Games Academy
 
 🚀 🐼
 
