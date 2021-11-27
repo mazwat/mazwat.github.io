@@ -19,6 +19,5 @@ grid_navigation:
       excerpt: Module Workshop Documents & Resources
       cta: Read more
       url: 'comp140-intro'
----
 
 
