@@ -14,7 +14,6 @@ grid_navigation:
       cta: Read more
       url: 'comp140-intro'
 
-# Grid navigation
 grid_navigation:
     - title: COMP120
       excerpt: Module Workshop Documents & Resources
