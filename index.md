@@ -4,16 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
-buttons:
-    - content: Button
-      url: '#'
-      external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
+title: Computing Documentation 
+description: Matt Watkins documents for Computing Courses
 
 # Author box
 author:
