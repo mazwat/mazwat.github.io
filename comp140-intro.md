@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: COMP140
+description: Workshop Materials for the module
 
 # Author box
 author:
