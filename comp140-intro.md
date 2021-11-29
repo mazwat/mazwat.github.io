@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: COMP140
+description: Workshop Materials for the module
 
 # Author box
 author:
@@ -28,4 +28,4 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+# COMP140
