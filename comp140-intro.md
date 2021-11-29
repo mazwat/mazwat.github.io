@@ -12,7 +12,7 @@ description: Workshop Materials for the module
 author:
     title: Matt Watkins
     title_url: '#'
-    external_url: true
+    external_url: false
     description: Lecturer in Computing - Falmouth University
 
 # Micro navigation
