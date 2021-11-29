@@ -3001,11 +3001,11 @@ h1:hover .title-anchor-link:hover,h1:hover .title-anchor-link:focus,h1:hover .ti
 }
 .green .nav-grid__item
 {
-	background-color: #F0FAE6;
+	background-color: #18ac9c;
 }
 .green .nav-grid__item:hover,.green .nav-grid__item:active,.green .nav-grid__item:focus
 {
-	background-color: #F0FAE6;
+	background-color: #18ac9c;
 }
 .green .section--darker-theme-color-bg
 {
@@ -3013,11 +3013,11 @@ h1:hover .title-anchor-link:hover,h1:hover .title-anchor-link:focus,h1:hover .ti
 }
 .green .page-nav
 {
-	background-color: #F0FAE6;
+	background-color: #18ac9c;
 }
 .green.error-404
 {
-	background-color: #F0FAE6;
+	background-color: #18ac9c;
 }
 .red .hero-subheader
 {
