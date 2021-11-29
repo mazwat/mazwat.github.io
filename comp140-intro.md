@@ -11,7 +11,6 @@ description: Workshop Materials for the module
 # Author box
 author:
     title: Matt Watkins
-    title_url: '#'
     external_url: false
     description: Lecturer in Computing - Falmouth University
 
@@ -28,4 +27,4 @@ page_nav:
         url: '#'
 ---
 
-# COMP140
+# List of Resources
