@@ -10,10 +10,8 @@ description: Workshop Materials for the module
 
 # Author box
 author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description
+    title: Matt Watkins
+    description: Lecturer in Computing at Falmouth University
 
 # Micro navigation
 micro_nav: true
