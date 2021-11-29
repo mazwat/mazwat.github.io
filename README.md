@@ -1,2 +1,2 @@
-# Computing Documentation website
+# Computing documentation website
 Developed from the Doks Jekyll template
