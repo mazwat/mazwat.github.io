@@ -24,7 +24,7 @@ page_nav:
         url: '#'
     next:
         content: Next page
-        url: '#'
+        url: 'oop-ws'
 ---
 
 # List of Workshop Resources
