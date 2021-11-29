@@ -12,7 +12,7 @@ doks:
         content:
             logo:
                 image: true
-            copyright: Copyright &copy; 2021. <br>All rights reserved.
+            copyright: Copyright Matt Watkins &copy; 2021. <br>All rights reserved.
 
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
