@@ -29,7 +29,7 @@ page_nav:
 
 # List of Workshop Resources
 
-### 1 - [Object Oriented Programming](oop-ws "OOP")
+### 1 - [Object Oriented Programming](comp140-intro/oop-ws "OOP")
 ### 2 - [Software Architecture](software-ws.md "Software Architecture")
 ### 3 - Unified Markup Language (UML)
 ### 4 - Data Structures

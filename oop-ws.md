@@ -5,8 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140
-description: Worksheet 1
+title: COMP140 - Worksheet 1
 
 # Author box
 author:
@@ -26,4 +25,4 @@ page_nav:
         url: '#'
 ---
 
-# COMP140 - Object Oriented Programming
+# Object Oriented Programming
