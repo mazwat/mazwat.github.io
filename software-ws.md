@@ -26,4 +26,4 @@ page_nav:
         url: '#'
 ---
 
-# COMP140 - Software Architecture
+# Software Architecture
