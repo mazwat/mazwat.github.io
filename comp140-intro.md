@@ -27,4 +27,4 @@ page_nav:
         url: '#'
 ---
 
-# COMP140
+# List of Resources
