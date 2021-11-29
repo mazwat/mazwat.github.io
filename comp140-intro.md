@@ -29,8 +29,9 @@ page_nav:
 
 # List of Workshop Resources
 
-### 1 - [Object Oriented Programming](oop-ws.md "OOP")
+### 1 - [Object Oriented Programming](oop-ws "OOP")
 ### 2 - Software Architecture
 ### 3 - Unified Markup Language (UML)
 ### 4 - Data Structures
 ### 5 - Design Patterns
+    
