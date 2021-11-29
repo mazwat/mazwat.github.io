@@ -28,3 +28,9 @@ page_nav:
 ---
 
 # List of Resources
+
+Workshop 1 - Object Oriented Programming
+Workshop 2 - Software Architecture
+Workshop 3 - Unified Markup Language (UML)
+Workshop 4 - Data Structures
+Workshop 5 - Design Patterns
