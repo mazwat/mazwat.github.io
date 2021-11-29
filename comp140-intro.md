@@ -27,10 +27,10 @@ page_nav:
         url: '#'
 ---
 
-# List of Resources
+# List of Workshop Resources
 
-### Workshop 1 - Object Oriented Programming
-### Workshop 2 - Software Architecture
-### Workshop 3 - Unified Markup Language (UML)
-### Workshop 4 - Data Structures
-Workshop 5 - Design Patterns
+### 1 - Object Oriented Programming
+### 2 - Software Architecture
+### 3 - Unified Markup Language (UML)
+### 4 - Data Structures
+### 5 - Design Patterns
