@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140
+title: COMP120
 description: Workshop Materials for the module
 
 # Author box
@@ -28,4 +28,4 @@ page_nav:
         url: '#'
 ---
 
-# COMP140
+# COMP120
