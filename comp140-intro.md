@@ -26,7 +26,7 @@ page_nav: false
 
 ### 1 - [Object Oriented Programming](../oop-ws "OOP")
 ### 2 - [Software Architecture](../software-ws "Software Architecture")
-### 3 - Unified Markup Language (UML)
-### 4 - Data Structures
-### 5 - Design Patterns
+### 3 - [Unified Markup Language (UML)](../uml-ws "UML")
+### 4 - [Data Structures](../data-ws "Data Structures") 
+### 5 - [Design Patterns](../patterns-ws "Design Patterns")
     
