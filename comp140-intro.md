@@ -29,7 +29,7 @@ page_nav:
 
 # List of Workshop Resources
 
-### 1 - [Object Oriented Programming](oop-ws "OOP")
+### 1 - [Object Oriented Programming](oop-ws.md "OOP")
 ### 2 - [Software Architecture](software-ws "Software Architecture")
 ### 3 - Unified Markup Language (UML)
 ### 4 - Data Structures
@@ -37,6 +37,10 @@ page_nav:
 
 ```
 Some code
+
+if(this < then > that) {
+    fsdfjdkldjlkf;
+}
 
 ```
     
