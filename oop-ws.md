@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: COMP140
-description: Worksheet for Workshop
+description: Worksheet 1
 
 # Author box
 author:
