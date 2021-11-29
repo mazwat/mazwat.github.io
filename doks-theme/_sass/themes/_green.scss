@@ -12,7 +12,7 @@
 /* ----- Nav grid ----- */
 .green {
 	.nav-grid__item {
-		background-color: #FFF; /*$color-theme-green;*/
+		background-color: $color-theme-green;
 
 		&:hover,
 		&:active,
