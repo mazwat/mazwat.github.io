@@ -22,10 +22,10 @@
 		display: block;
 		float: right;
 		color: $color-dark-blue;
-		font-size: .875em;
+		font-size: .5em; /*.875em;*/
 		background-color: $color-white;
 		border-radius: 1.25rem;
-		padding: .25rem 1.25rem .3125rem 1.25rem;
+		padding: .2rem 1rem .2rem 1rem; /*.25rem 1.25rem .3125rem 1.25rem;*/
 		transition: background-color .2s;
 
 		&:hover,
