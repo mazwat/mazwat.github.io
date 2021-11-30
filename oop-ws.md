@@ -29,8 +29,8 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-## PART 1
-### Using OOP in **Visual Studio**
+## PART 1 - Using OOP in **Visual Studio**
+### Exercise 1
 
 ![Add Console App](images/create-console.png)
 
@@ -48,8 +48,18 @@ A Wolf
 A Fox
 A Pug
 ```
- info - You should use a loop to iterate through the array. Your Dog class needs a method to return the value of name. 
+You should use a loop to iterate through the array. Your Dog class needs a method to return the value of name. 
 You should use ``console.ReadLine`` to input the value.
 {: .callout .callout--info}
 
+### Exercise 2
 
+1. Expanding on the previous exercise. Create 2 new classes called Wild and Domestic. 
+2. Once again use the loop to iterate output values.
+3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
+4. Output should be something like this:
+```
+The Labrador wags its tail!
+The Poodle Wags its tail!
+and so on…
+```
