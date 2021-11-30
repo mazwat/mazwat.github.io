@@ -66,6 +66,8 @@ and so on…
 ```
 ### Exercise 2
 
+Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
+
 1. Create a class ``Smoothie`` and do the following:
 2. Create a property called ``Ingredients``.
 3. Create a ``GetCost`` method which calculates the total cost of the ingredients used to make the smoothie.
