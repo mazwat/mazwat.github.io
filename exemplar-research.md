@@ -42,7 +42,7 @@ Review any 3 experiences you find from these links or from your own independent 
 
 ### Notable Alt-Controller Games 
 
-Deep VR - https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation 
+[Deep VR]: https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation 
 􏰀Space Box - https://www.gamasutra.com/view/news/290700/ ALTCTRLGDC_Showcase_Spacebox.php
 􏰀Line Wobbler - http://wobblylabs.com/projects/wobbler 
 􏰀Tie Your Laces - https://twitter.com/wethrowswitches/status/1181557419199094784 
