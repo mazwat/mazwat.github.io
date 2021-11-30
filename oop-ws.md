@@ -52,7 +52,9 @@ You should use a loop to iterate through the array. Your Dog class needs a metho
 You should use ``console.ReadLine`` to input the value.
 {: .callout .callout--info}
 
-1. Expanding on the previous exercise. Create 2 new classes called ``Wild`` and ``Domestic``. 
+Let's expand on the previous exercise. 
+
+1. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
 3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
 4. Output should be something like this:
@@ -74,7 +76,7 @@ and so on…
 Remember to change "-berries" to "-berry". See the examples below.
 {: .callout .callout--info}
 
-``s1 = Smoothie(new string[] { "Banana" })
+```s1 = Smoothie(new string[] { "Banana" })
 s1.Ingredients ➞ { "Banana" }
 s1.GetCost() ➞ "£0.50"
 s1.GetPrice() ➞ "£1.25"
@@ -83,7 +85,7 @@ s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })
 s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }
 s2.GetCost() ➞ “£3.50"
 s2.GetPrice() ➞ "£8.75"
-s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"``
+s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"```
 
 The price list:
 
