@@ -43,9 +43,9 @@ Review any 3 experiences you find from these links or from your own independent 
 
 ## Inspiration
 
-### Notable Alt-Controller Games 
-
 Here are some links to projects that might provide inspiration for your research. 
+
+### Notable Alt-Controller Games 
 
 [Deep VR](https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation)  
 􏰀[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)  

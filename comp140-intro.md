@@ -30,6 +30,7 @@ page_nav: false
 #### 4 - [Data Structures](../data-ws "Data Structures") 
 #### 5 - [Design Patterns](../patterns-ws "Design Patterns")  
 
+----
 
 # Research Challenges
 
