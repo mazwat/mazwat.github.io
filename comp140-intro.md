@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: COMP140
-description: Workshop Materials for the module
+description: Materials for the module
 
 # Author box
 author:
