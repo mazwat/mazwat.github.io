@@ -24,6 +24,7 @@ page_nav: false
 # Research Exemplar Projects
 
 ![Marshmallow Laser Feast](images/marshmallow.png)
+*Attribution: Marshmallow Laser Feast  - In the Eyes of the Animal*
 
 Welcome to Week 1 of COMP140. As a bookend to the weeks activities I would like you to research custom game controllers or alt controllers as they are also known, experimental games and playful interactive experiences that have been developed using physical computing and electronics. 
 
@@ -44,13 +45,13 @@ Review any 3 experiences you find from these links or from your own independent 
 
 Here are some links to projects that might provide inspiration for your research. 
 
-[Deep VR](https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation) 
-􏰀[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)
-􏰀[Line Wobbler](http://wobblylabs.com/projects/wobble) 
-􏰀[Tie Your Laces](https://twitter.com/wethrowswitches/status/1181557419199094784)
-[GDC Alt-Ctrl 2018 Roundup](https://www.gamasutra.com/altctrlgdc2018)
-􏰀[Nintendo Labo](https://www.nintendo.co.uk/Nintendo-Labo/NintendoLabo-1328637.html) 
-􏰀[Xbox Adaptive Controller](https://www.microsoft.com/en-gb/p/xbox-adaptive-controller/8nsdbhz1n3d8)
+[Deep VR](https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation)   
+􏰀[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)  
+􏰀[Line Wobbler](http://wobblylabs.com/projects/wobble)   
+􏰀[Tie Your Laces](https://twitter.com/wethrowswitches/status/1181557419199094784)  
+[GDC Alt-Ctrl 2018 Roundup](https://www.gamasutra.com/altctrlgdc2018)  
+􏰀[Nintendo Labo](https://www.nintendo.co.uk/Nintendo-Labo/NintendoLabo-1328637.html)   
+􏰀[Xbox Adaptive Controller](https://www.microsoft.com/en-gb/p/xbox-adaptive-controller/8nsdbhz1n3d8)  
 
 ### Experimental Games
 
