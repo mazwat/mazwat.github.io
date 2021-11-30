@@ -26,3 +26,16 @@ page_nav:
 ---
 
 # Object Oriented Programming
+
+This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
+
+## PART 1
+### Using OOP in Visual Studio
+
+(add image here)
+
+Create a console app project in VISUAL STUDIO
+Create a C# program that requests 5 names of Dog from the user and stores them in an array of objects of type Dog. To do this, first create a dog class that has a name member variable of type string..
+Your input should be: Labrador, Poodle, Wolf, Fox, Pug. 
+Your output should be: 
+
