@@ -76,7 +76,7 @@ and so on…
 Remember to change "-berries" to "-berry". See the examples below.
 {: .callout .callout--info}
 
-```s1 = Smoothie(new string[] { "Banana" })
+> ```s1 = Smoothie(new string[] { "Banana" })
 s1.Ingredients ➞ { "Banana" }
 s1.GetCost() ➞ "£0.50"
 s1.GetPrice() ➞ "£1.25"
@@ -86,7 +86,8 @@ s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })
 s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }
 s2.GetCost() ➞ “£3.50"
 s2.GetPrice() ➞ "£8.75"
-s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"```
+s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"
+```
 
 The price list:
 
