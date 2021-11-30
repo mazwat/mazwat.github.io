@@ -52,8 +52,6 @@ You should use a loop to iterate through the array. Your Dog class needs a metho
 You should use ``console.ReadLine`` to input the value.
 {: .callout .callout--info}
 
-### Exercise 2
-
 1. Expanding on the previous exercise. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
 3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
@@ -64,7 +62,7 @@ The Labrador wags its tail!
 The Poodle Wags its tail!
 and so on…
 ```
-### Exercise 3
+### Exercise 2
 
 1. Create a class ``Smoothie`` and do the following:
 2. Create a property called ``Ingredients``.
