@@ -30,7 +30,7 @@ page_nav:
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
 ## PART 1
-### Using OOP in Visual Studio
+### Using OOP in *Visual Studio*
 
 ![Add Console App](images/create-console.png)
 
@@ -48,4 +48,7 @@ A Wolf
 A Fox
 A Pug
 ```
-> blockquote  Hints - You should use a loop to iterate through the array. Your Dog class needs a method to return the value of name. Your should use ``console.ReadLine`` to input the value
+> info - You should use a loop to iterate through the array. Your Dog class needs a method to return the value of name. 
+> You should use ``console.ReadLine`` to input the value.
+
+
