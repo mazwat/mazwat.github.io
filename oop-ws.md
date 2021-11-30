@@ -72,10 +72,11 @@ and so on…
 5. Create a GetName method which gets the ingredients and puts them in alphabetical order into a nice descriptive sentence.
 6. If there are multiple ingredients, add the word "Fusion" to the end but otherwise, add "Smoothie". 
 7. Finally there should be a method called makeSmoothie that outputs the name, ingredients and costs of a smoothie based on inputted ingredients. 
-Remember to change "-berries" to "-berry". See the examples below.
+
+Remember to change "-berries" to "-berry". See the examples below.
 {: .callout .callout--info}
 
-```c#
+```
 s1 = Smoothie(new string[] { "Banana" })
 s1.Ingredients ➞ { "Banana" }
 s1.GetCost() ➞ "£0.50"
