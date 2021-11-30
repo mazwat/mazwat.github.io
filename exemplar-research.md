@@ -41,6 +41,8 @@ Review any 3 experiences you find from these links or from your own independent 
 - What you find interesting about it?
 - Do this before the seminar session in Week 2. Keep this document, it will feed into your coursework! 
 
+## Inspiration
+
 ### Notable Alt-Controller Games 
 
 Here are some links to projects that might provide inspiration for your research. 
