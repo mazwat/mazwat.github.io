@@ -85,7 +85,8 @@ s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })
 s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }
 s2.GetCost() ➞ “£3.50"
 s2.GetPrice() ➞ "£8.75"
-s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"```
+s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"
+```
 
 The price list:
 
