@@ -66,23 +66,22 @@ and so on…
 ```
 ### Exercise 3
 
-1. Create a class Smoothie and do the following:
-2. Create a property called Ingredients.
-3. Create a GetCost method which calculates the total cost of the ingredients used to make the smoothie.
-5. Create a GetName method which gets the ingredients and puts them in alphabetical order into a nice descriptive sentence.
-6. If there are multiple ingredients, add the word "Fusion" to the end but otherwise, add "Smoothie". 
-7. Finally there should be a method called makeSmoothie that outputs the name, ingredients and costs of a smoothie based on inputted ingredients. 
+1. Create a class ``Smoothie`` and do the following:
+2. Create a property called ``Ingredients``.
+3. Create a ``GetCost`` method which calculates the total cost of the ingredients used to make the smoothie.
+5. Create a ``GetName`` method which gets the ingredients and puts them in alphabetical order into a nice descriptive sentence.
+6. If there are multiple ingredients, add the word "Fusion" to the end but otherwise, add "Smoothie". 
+7. Finally there should be a method called ``makeSmoothie`` that outputs the name, ingredients and costs of a smoothie based on inputted ingredients. 
 
 Remember to change "-berries" to "-berry". See the examples below.
 {: .callout .callout--info}
 
-```
-s1 = Smoothie(new string[] { "Banana" })
-s1.Ingredients ➞ { "Banana" }
-s1.GetCost() ➞ "£0.50"
-s1.GetPrice() ➞ "£1.25"
-s1.GetName() ➞ "Banana Smoothie"
 
-s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })
-s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }
-```
+``s1 = Smoothie(new string[] { "Banana" })``
+``s1.Ingredients ➞ { "Banana" }``
+``s1.GetCost() ➞ "£0.50"``
+``s1.GetPrice() ➞ "£1.25"``
+``s1.GetName() ➞ "Banana Smoothie"``
+
+``s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })``
+``s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }``
