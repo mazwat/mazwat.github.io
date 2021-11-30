@@ -37,7 +37,7 @@ This workshop is divided into to 2 parts where we will explore the use of code i
 Create a console app project in VISUAL STUDIO
 1. Create a C# program that requests 5 names of ``Dog`` from the user and stores them in an array of objects of type ``Dog``. To do this, first create a dog class that has a name member variable of type ``string``.
 2. Your input should be: ``Labrador, Poodle, Wolf, Fox, Pug.`` 
-3. Your output should be: 
+3. Your **output** should be: 
 
 ```
 A pack of wild dogs emerged out of the wilderness. 
@@ -57,7 +57,7 @@ Let's expand on the previous exercise.
 1. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
 3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
-4. Output should be something like this:
+4. The **output** should be something like this:
 
 ```
 The Labrador wags its tail!
@@ -83,13 +83,12 @@ Remember to change "-berries" to "-berry". See the examples below.
 ``s1.Ingredients ➞ { "Banana" }``
 
 ``s1.GetCost() ➞ "£0.50"``
-s1.GetPrice() ➞ "£1.25"
-s1.GetName() ➞ "Banana Smoothie"
+``s1.GetPrice() ➞ "£1.25"``
+``s1.GetName() ➞ "Banana Smoothie"``
 ``s2 = Smoothie(new string[] { "Raspberries", "Strawberries", "Blueberries" })``
-s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }
-s2.GetCost() ➞ “£3.50"
-s2.GetPrice() ➞ "£8.75"
-s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"
+``s2.ingredients ➞ { "Raspberries", "Strawberries", "Blueberries" }``
+``s2.GetCost() ➞ “£3.50"``
+``s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"``
 
 The price list:
 
@@ -103,7 +102,7 @@ The price list:
 | Apple | 1.75 |
 | Pineapple | 3.50 |
 
-The output should be 3 sample smoothie combinations and their price.
+The **output** should be 3 sample smoothie combinations and their price.
 
 ## PART 2 - OOP in **Unity**
 ### Exercise 3 - Animal Kingdom
@@ -122,5 +121,5 @@ Based on the Tavern example given create your own auto generated game scene. Thi
     3. A **greeting**. (this can be either audio or text)
     4. Perhaps when the animals **collide** they could utter their greeting then change direction
 6. The scene should be initiated by the ``Village class``. 
-7. Your game should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
+7. Your prototype game system should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
 
