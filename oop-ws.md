@@ -50,6 +50,6 @@ A Pug
 ```
  info - You should use a loop to iterate through the array. Your Dog class needs a method to return the value of name. 
 You should use ``console.ReadLine`` to input the value.
-{: .callout}
+{: .callout .callout--info}
 
 
