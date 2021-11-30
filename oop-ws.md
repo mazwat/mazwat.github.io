@@ -75,8 +75,10 @@ Create a new application called **Smoothie Calculator**. We are going to use cla
 6. If there are multiple ingredients, add the word "Fusion" to the end but otherwise, add "Smoothie". 
 7. Finally there should be a method called ``makeSmoothie`` that outputs the name, ingredients and costs of a smoothie based on inputted ingredients. 
 
-Remember to change "-berries" to "-berry". See the examples below.
+Remember to change "-berries" to "-berry". 
 {: .callout .callout--info}
+
+See the examples below for hints about structuring your properties and methods:
 
 ``s1 = Smoothie(new string[] { "Banana" })``  
 ``s1.Ingredients ➞ { "Banana" }``  
