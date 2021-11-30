@@ -33,9 +33,19 @@ This workshop is divided into to 2 parts where we will explore the use of code i
 ### Using OOP in Visual Studio
 
 (add image here)
+![Add Console App](images/create-console.png)
 
 Create a console app project in VISUAL STUDIO
-Create a C# program that requests 5 names of Dog from the user and stores them in an array of objects of type Dog. To do this, first create a dog class that has a name member variable of type string..
-Your input should be: Labrador, Poodle, Wolf, Fox, Pug. 
+Create a C# program that requests 5 names of ``Dog`` from the user and stores them in an array of objects of type ``Dog``. To do this, first create a dog class that has a name member variable of type ``string``.
+Your input should be: ``Labrador, Poodle, Wolf, Fox, Pug.`` 
 Your output should be: 
+
+```
+A pack of wild dogs emerged out of the wilderness. Amongst their number was:
+A Labrador
+A Poodle
+A Wolf
+A Fox
+A Pug
+```
 
