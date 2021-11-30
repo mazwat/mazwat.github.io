@@ -54,7 +54,7 @@ You should use ``console.ReadLine`` to input the value.
 
 ### Exercise 2
 
-1. Expanding on the previous exercise. Create 2 new classes called Wild and Domestic. 
+1. Expanding on the previous exercise. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
 3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
 4. Output should be something like this:
@@ -100,4 +100,13 @@ The price list:
 | Raspberries | 1.00 |
 | Apple | 1.75 |
 | Pineapple | 3.50 |
+
+The output should be 3 sample smoothie combinations and their price.
+
+## PART 2 - OOP in **Unity**
+### Exercise 3 - Animal Kingdom
+
+Based on the Tavern example given create your own auto generated game scene. This time you are going to be making ‘Animal Kingdom’ a generic rip off of ‘Animal Crossing’. You are going to create a village populated by 10 random animals with their own behaviours.
+
+![Example Scene in Unity](images/unity-animal.png)
 
