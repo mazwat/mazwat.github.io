@@ -110,3 +110,15 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 
 ![Example Scene in Unity](images/unity-animal.png)
 
+1. You need to create a class Village
+2. Create an Animal class and this will have child classes for the different animals in the village. 
+3. Decide on different variables/fields and properties for your animals. Some should be in the animal class and inherited by the chid class and some are overridden by the children.
+4. At least one filed should be protected using get and set.
+5. Some of the properties should appear in your game as physical elements of game objects. As in the example above you could create different colours for animals. Develop some or all of these features:
+ 1. Shape (different primitive or models)
+ 2. Create different random movement for each class.
+ 3. A greeting. (this can be either audio or text)
+ 4. Perhaps when the animals collide they could utter their greeting then change direction
+6. The scene should be initiated by the Village class. 
+7. Your game should be built using objects and classes and make use of properties, constructors, encapsulation, inheritance and polymorphism.
+
