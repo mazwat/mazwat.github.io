@@ -57,23 +57,23 @@ Here are some links to projects that might provide inspiration for your research
 
 ### Experimental Games
 
-[Copenhagen Games Collective](http://www.copenhagengamecollective.org/)
-[Pain Station](https://www.fursr.com/projects/painstation-2-5)
-[Now Play This](https://nowplaythis.net/history/)
-[Kaho Abe](https://kahoabe.net/portfolio/)
+[Copenhagen Games Collective](http://www.copenhagengamecollective.org/)  
+[Pain Station](https://www.fursr.com/projects/painstation-2-5)  
+[Now Play This](https://nowplaythis.net/history/)  
+[Kaho Abe](https://kahoabe.net/portfolio/)  
 
 ### Previous Work from Falmouth Students
 
-[Pancake] (https://youtu.be/36qeLNNPf7M)
-[Games in a Controller](https://youtu.be/Oqrn3l64mBM)
-[Surgery](https://youtu.be/LiTpkKHJizA)
-[Safe](https://youtu.be/X4wB3AakSvA)
-[Tank](https://youtu.be/AL3LrcRskig)
-[Skateboard](https://youtu.be/Wj4EbOyUejE)
-[Snooker](https://youtu.be/4XFZ4PMoPTE) 
+[Pancake](https://youtu.be/36qeLNNPf7M)  
+[Games in a Controller](https://youtu.be/Oqrn3l64mBM)  
+[Surgery](https://youtu.be/LiTpkKHJizA)  
+[Safe](https://youtu.be/X4wB3AakSvA)  
+[Tank](https://youtu.be/AL3LrcRskig)  
+[Skateboard](https://youtu.be/Wj4EbOyUejE)  
+[Snooker](https://youtu.be/4XFZ4PMoPTE)   
 
 ### Other Inspiration
 
-[Instructables](https://www.instructables.com/howto/games/)
-[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)
+[Instructables](https://www.instructables.com/howto/games/)  
+[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)  
 
