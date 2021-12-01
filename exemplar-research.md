@@ -60,7 +60,7 @@ Here are some links to projects that might provide inspiration for your research
 
 ### Experimental Games
 
-![Now Play This](images/nowplaythis.jpg)
+![Now Play This](images/nowplaythis2.jpg)
 *Attribution: Now Play This Festival 2021*
 
 [Copenhagen Games Collective](http://www.copenhagengamecollective.org/)  
