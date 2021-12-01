@@ -62,8 +62,9 @@ Let's expand on the previous exercise.
 ```
 The Labrador wags its tail!
 The Wolf bares its teeth!
-and so on…
 ```
+and so on…
+
 ### Exercise 2 - Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
