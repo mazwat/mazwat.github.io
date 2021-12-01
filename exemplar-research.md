@@ -48,12 +48,12 @@ Here are some links to projects that might provide inspiration for your research
 ### Notable Alt-Controller Games 
 
 [Deep VR](https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation)  
-􏰀[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)  
-􏰀[Line Wobbler](http://wobblylabs.com/projects/wobble)  
-􏰀[Tie Your Laces](https://twitter.com/wethrowswitches/status/1181557419199094784)  
+[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)  
+[Line Wobbler](http://wobblylabs.com/projects/wobble)  
+[Tie Your Laces](https://twitter.com/wethrowswitches/status/1181557419199094784)  
 [GDC Alt-Ctrl 2018 Roundup](https://www.gamasutra.com/altctrlgdc2018)  
-􏰀[Nintendo Labo](https://www.nintendo.co.uk/Nintendo-Labo/NintendoLabo-1328637.html)   
-􏰀[Xbox Adaptive Controller](https://www.microsoft.com/en-gb/p/xbox-adaptive-controller/8nsdbhz1n3d8)  
+[Nintendo Labo](https://www.nintendo.co.uk/Nintendo-Labo/NintendoLabo-1328637.html)   
+[Xbox Adaptive Controller](https://www.microsoft.com/en-gb/p/xbox-adaptive-controller/8nsdbhz1n3d8)  
 
 ### Experimental Games
 
@@ -64,7 +64,13 @@ Kaho Abe - https://kahoabe.net/portfolio/
 
 ### Previous Work from Falmouth Students
 
-Pancake - https://youtu.be/36qeLNNPf7M  Games in a Controller - https://youtu.be/Oqrn3l64mBM  Surgery - https://youtu.be/LiTpkKHJizA  Safe - https://youtu.be/X4wB3AakSvA  Tank - https://youtu.be/AL3LrcRskig  Skateboard - https://youtu.be/Wj4EbOyUejE  Snooker - https://youtu.be/4XFZ4PMoPTE 
+Pancake - https://youtu.be/36qeLNNPf7M
+Games in a Controller - https://youtu.be/Oqrn3l64mBM
+Surgery - https://youtu.be/LiTpkKHJizA
+Safe - https://youtu.be/X4wB3AakSvA
+Tank - https://youtu.be/AL3LrcRskig 
+Skateboard - https://youtu.be/Wj4EbOyUejE 
+Snooker - https://youtu.be/4XFZ4PMoPTE 
 
 ### Other Inspiration
 
