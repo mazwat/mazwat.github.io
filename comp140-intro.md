@@ -31,7 +31,7 @@ page_nav: false
 #### 5 - [Design Patterns](../patterns-ws "Design Patterns")  
 
 
-----
+
 # Research Challenges
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
