@@ -61,7 +61,7 @@ Let's expand on the previous exercise.
 
 ```
 The Labrador wags its tail!
-The Poodle Wags its tail!
+The Wolf bares its teeth!
 and so on…
 ```
 ### Exercise 2 - Smoothies
