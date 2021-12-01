@@ -56,7 +56,7 @@ Let's expand on the previous exercise.
 
 1. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
-3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
+3. Use inheritance to inherit the parent class file name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
 4. The **output** should be something like this:
 
 ```
