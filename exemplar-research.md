@@ -61,7 +61,7 @@ Here are some links to projects that might provide inspiration for your research
 ### Experimental Games
 
 ![Now Play This](images/nowplaythis2.jpg)
-*Attribution: Now Play This Festival 2021*
+*Attribution: Now Play This Festival 2019*
 
 [Copenhagen Games Collective](http://www.copenhagengamecollective.org/)  
 [Pain Station](https://www.fursr.com/projects/painstation-2-5)  
