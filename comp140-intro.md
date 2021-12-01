@@ -28,7 +28,9 @@ page_nav: false
 #### 2 - [Software Architecture](../software-ws "Software Architecture")
 #### 3 - [Unified Markup Language (UML)](../uml-ws "UML")
 #### 4 - [Data Structures](../data-ws "Data Structures") 
-#### 5 - [Design Patterns](../patterns-ws "Design Patterns")    
+#### 5 - [Design Patterns](../patterns-ws "Design Patterns")  
+
+
 ----
 # Research Challenges
 
