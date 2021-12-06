@@ -29,18 +29,17 @@ page_nav:
 
 It is recommended that you have watched video lecture for this week before this workshop.
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
-
-::: video
+**Video Lecture - OOP Part 1**
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-:::
+
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
 ## PART 1 - Research
 ### Exercise 1 - SOLID Principles
 
-![Add Console App](images/poster.png)
+![Poster Example](images/poster.png)
+
 
 In your assigned group of 4-5 research a SOLID principle. Prepare your research in a clear and explanatory way. Provide examples and information that you think will help your colleagues gain an insight into these specific approaches to improving programming in OOP environments.
 
@@ -59,16 +58,25 @@ In your designated space on a **Mural board** (Get the link in the Workshop) cre
 
 Based on your insight into SOLID with specific reference to: **Single Responsibility Principle, Open Closed Principle** and **Liskov Substitution principle** work in teams of 4-5 to design and develop a platformer based on the following image
 
+![Mario Screenshot](images/mario.jpg)
+*Attribution: A screenshot from Nintendo's 1985 classic video game Super Mario Bros.*
 
-
-You are not designing Mario, but you are using this as template.
+You are not designing Mario, but you are using it as a template.
  
- Develop a design specification document for your game. Break down all the key functionality into encapsulated classes. You should design the key classes and relationships that would be in the platformer
-We are not expecting you to use any formal notation at this stage but we expect you to  develop a diagram that represents an overview of all the relationships. We will explore the use of UML in a later session but for now try out the basics here at Lucidchart.
-Please think about the classes, variables and functions that will support the game  
-Develop a basic prototype of your game (one level) in Unity that uses the specification outlined in the document. 
-Your game should employ the class structure and hierarchy from your document.
-Please use the following assets in your game - Kenney Assets
+1. Develop a design specification document for your game. Break down all the key functionality into encapsulated classes. You should design the key classes and relationships that would be in the platformer
+2. We are not expecting you to use any formal notation at this stage but we expect you to  develop a diagram that represents an overview of all the relationships. We will explore the use of UML in a later session but for now try out the basics here at [Lucidchart](https://www.lucidchart.com/pages/landing/uml-diagram-software?utm_source=google&utm_medium=cpc&utm_campaign=_en_tier1_desktop_search_nb_bmm_&km_CPC_CampaignId=2083917481&km_CPC_AdGroupID=76741944236&km_CPC_Keyword=+uml&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442382659825&km_CPC_TargetID=aud-837074142685:kwd-305198913839&km_CPC_Country=9045282&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&mkwid=sSoDWCDED_pcrid_442382659825_pkw_+uml_pmt_b_pdv_c_slid__pgrid_76741944236_ptaid_aud-837074142685:kwd-305198913839_&gclid=Cj0KCQiAvP6ABhCjARIsAH37rbT2UVD-nQlLtSu2B7g6-dp2-eFK4rESbf5GRYqzqHPcDZirgpHV-1waAj5YEALw_wcB)
+3. Please think about the classes, variables and functions that will support the game  
+4. Develop a basic prototype of your game (one level) in Unity that uses the specification outlined in the document. 
+5. Your game should employ the class structure and hierarchy from your document.
+6. Please use the following assets in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
+
+## Video Lecture
+
+It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch it during the week.
+{: .callout .callout--warning}
+
+### Lecture - Software Architecture
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 
