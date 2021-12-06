@@ -17,12 +17,9 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-    prev:
-        content: Previous page
-        url: '#'
     next:
         content: Next page
-        url: '#'
+        url: '../software-architecture-ws.md'
 ---
 
 # Object Oriented Programming

@@ -19,7 +19,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '#'
+        url: '../oop-ws.md'
     next:
         content: Next page
         url: '#'
