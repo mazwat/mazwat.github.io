@@ -32,7 +32,7 @@ This workshop is divided into to 2 parts where we will explore the use of code i
 ## PART 1 - Research
 ### Exercise 1 - SOLID Principles
 
-![Add Console App](images/create-console.png)
+![Add Console App](images/poster.png)
 
 In your assigned group of 4-5 research a SOLID principle. Prepare your research in a clear and explanatory way. Provide examples and information that you think will help your colleagues gain an insight into these specific approaches to improving programming in OOP environments.
 
