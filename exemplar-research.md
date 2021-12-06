@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 Research 1
+title: COMP140 - Research 1
 description: 
 
 # Author box
@@ -28,7 +28,7 @@ page_nav: false
 
 Welcome to Week 1 of COMP140. As a bookend to the weeks activities I would like you to research custom game controllers or alt controllers as they are also known, experimental games and playful interactive experiences that have been developed using physical computing and electronics. 
 
-I have provided a series of links for you to research, to get you started. Consider these stepping stones and from these examples you should be able to link out to even more interesting touch points to get you inspired for making your own creative electronics projects:
+I have provided a series of links for you to research, to get you started. Consider these resources as stepping stones. From these examples you should be able to link out to even more interesting touch points to get you inspired for making your own creative electronics projects:
 
 ## Task
 
