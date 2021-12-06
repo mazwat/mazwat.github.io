@@ -27,12 +27,6 @@ page_nav:
 
 # Sofware Architecture
 
-It is recommended that you have watched video lecture for this week before this workshop.
-
-**Video Lecture - OOP Part 1**
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
-
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
 ## PART 1 - Research
@@ -70,7 +64,7 @@ You are not designing Mario, but you are using it as a template.
 5. Your game should employ the class structure and hierarchy from your document.
 6. Please use the following assets in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
 
-## Video Lecture
+## VIDEO LECTURE
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch it during the week.
 {: .callout .callout--warning}
