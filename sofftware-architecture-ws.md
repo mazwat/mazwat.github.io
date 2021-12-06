@@ -19,10 +19,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '../oop-ws.md'
+        url: '../oop-ws'
     next:
         content: Next page
-        url: '#'
+        url: '../uml-ws'
 ---
 
 # Sofware Architecture
@@ -34,7 +34,7 @@ This workshop is divided into to 2 parts where we will explore the use of code i
 
 ![Add Console App](images/create-console.png)
 
-In ayour assigned group of 4-5 research a SOLID principle. Prepare your research in a clear and explanatory way. Provide examples and information that you think will help your colleagues gain an insight into these specific approaches to improving programming in OOP environments.
+In your assigned group of 4-5 research a SOLID principle. Prepare your research in a clear and explanatory way. Provide examples and information that you think will help your colleagues gain an insight into these specific approaches to improving programming in OOP environments.
 
 In your designated space on a Mural board (Get the link in the Workshop) create a poster that explains the specific principle to your peers. You should include: 
 
