@@ -25,7 +25,7 @@ page_nav:
         url: '../uml-ws'
 ---
 
-# Sofware Architecture
+# Software Architecture
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
