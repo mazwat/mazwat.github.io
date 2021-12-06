@@ -26,15 +26,6 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-It is assumed that you have watched video lecture before this workshop. If not you should find time to watch it during the week.
-{: .callout .callout--warning}
-
-**Video Lecture - OOP Part 1**
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
-**Video Lecture - OOP Part 2**
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/133b71d2-d972-44eb-b841-0d77473af393?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
 ## PART 1 - OOP in **Visual Studio**
 ### Exercise 1 - Dogs Out
 
@@ -129,4 +120,13 @@ Based on the Tavern example given create your own auto generated game scene. Thi
     4. Perhaps when the animals **collide** they could utter their greeting then change direction
 6. The scene should be initiated by the ``Village class``. 
 7. Your prototype game system should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
+
+It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch it during the week.
+{: .callout .callout--warning}
+
+**Video Lecture - OOP Part 1**
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+**Video Lecture - OOP Part 2**
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/133b71d2-d972-44eb-b841-0d77473af393?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
