@@ -22,10 +22,10 @@ page_nav:
         url: '../software-architecture-ws'
     next:
         content: Next page
-        url: '#'
+        url: '../data-structures-ws'
 ---
 
-# Unified Modelling Language (UML)
+# Unified Modelling Language
 
 ## VIDEO LECTURE
 
