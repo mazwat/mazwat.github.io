@@ -27,6 +27,7 @@ page_nav:
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
 It is assumed that you have watched video lecture before this workshop. If not you should find time to watch it during the week.
+{: .callout .callout--warning}
 
 **Video Lecture - OOP Part 1**
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
