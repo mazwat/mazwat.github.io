@@ -56,14 +56,15 @@ Let's expand on the previous exercise.
 
 1. Create 2 new classes called ``Wild`` and ``Domestic``. 
 2. Once again use the loop to iterate output values.
-3. Use inheritance to inherit the parent class filed name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
+3. Use inheritance to inherit the parent class file name. Your should also have a new property called Behaviour which contains the behaviour of each class of dog. It should be both readable and writable.
 4. The **output** should be something like this:
 
 ```
 The Labrador wags its tail!
-The Poodle Wags its tail!
-and so on…
+The Wolf bares its teeth!
 ```
+and so on…
+
 ### Exercise 2 - Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
