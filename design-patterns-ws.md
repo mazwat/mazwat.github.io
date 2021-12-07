@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Worksheet 4
+title: COMP140 - Worksheet 5
 
 # Author box
 author:
@@ -22,7 +22,7 @@ page_nav:
         url: '../data-structures-ws'
 ---
 
-# Design Pattenrs
+# Design Patterns
 
 ## VIDEO LECTURE
 
