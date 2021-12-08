@@ -36,6 +36,16 @@ page_nav:
 3. Add at least 20 additional items to the collection
 4. Display these to the screen
 
+![Start point for Exercise 2](images/net.jpg)
+*Screenshot of Collections Exercise - Start Point*
+
+## EXERCISE 2
+### Sorting
+1. Write a default sort, so that the items are sorted by **name**
+2. Sort the collection when the s key is pressed
+3. Write another sort, to sort by **score**, trigger this with a key press
+4. Write another sort, to sort by **age**, trigger this with a different key press
+
 ## VIDEO LECTURE
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
