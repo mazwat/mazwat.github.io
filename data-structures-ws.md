@@ -46,6 +46,16 @@ page_nav:
 3. Write another sort, to sort by **score**, trigger this with a key press
 4. Write another sort, to sort by **age**, trigger this with a different key press
 
+## Tasks for the rest of the week
+Consider your individual project and implement a data structure class in your code that processes
+a feature of your game/experience. You could them to process:
+• enemies
+• score
+• bullets
+• resource management
+Please use at least one of these: **Lists, LinkedList, Stack, Queue** or **Dictionary**
+Please bring your code to discuss with your programming tutor in your seminar group.
+
 ## VIDEO LECTURE
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
