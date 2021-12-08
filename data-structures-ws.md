@@ -27,8 +27,6 @@ page_nav:
 
 # Data Structures
 
-![Network](images/net.jpg)
-
 ## EXERCISE 1
 ### Collections
 1. Fork the following **[repo](https://gamesgit.falmouth.ac.uk/projects/COMP140-WORKSHOPS/repos/data-structures)**
