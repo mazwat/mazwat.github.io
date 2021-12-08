@@ -48,11 +48,14 @@ page_nav:
 
 ## Tasks for the rest of the week
 Consider your individual project and implement a data structure class in your code that processes
-a feature of your game/experience. You could them to process:
-• enemies
-• score
-• bullets
-• resource management
+a feature of your game/experience. 
+
+For example, you could use them to process:
+- enemies
+- score
+- bullets
+- resource management
+
 Please use at least one of these: **Lists, LinkedList, Stack, Queue** or **Dictionary**
 Please bring your code to discuss with your programming tutor in your seminar group.
 
