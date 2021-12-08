@@ -29,6 +29,13 @@ page_nav:
 
 ![Network](images/net.jpg)
 
+## EXERCISE 1
+### Collections
+1. Fork the following [repo](https://gamesgit.falmouth.ac.uk/projects/COMP140-WORKSHOPS/repos/data-structures)
+2. Open CollectionsExercise in Unity
+3. Add at least 20 additional items to the collection
+4. Display these to the screen
+
 ## VIDEO LECTURE
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
