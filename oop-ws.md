@@ -26,8 +26,8 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-## PART 1 - OOP in **Visual Studio**
-### Exercise 1 - Dogs Out
+## EXERCISE 1 - OOP in **Visual Studio**
+### Who Let the Dogs Out?
 
 ![Add Console App](images/create-console.png)
 
@@ -62,7 +62,8 @@ The Wolf bares its teeth!
 ```
 and so on…
 
-### Exercise 2 - Smoothies
+## Exercise 2 - OOP in Visual Studio
+### Making Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
 
@@ -102,8 +103,8 @@ The price list:
 
 The **output** should be 3 sample smoothie combinations and their price.
 
-## PART 2 - OOP in **Unity**
-### Exercise 3 - Animal Kingdom
+## EXERCISE 3 - OOP in **Unity**
+### Animal Kingdom
 
 Based on the Tavern example given create your own auto generated game scene. This time you are going to be making ‘Animal Kingdom’ a generic rip off of ‘Animal Crossing’. You are going to create a village populated by 10 random animals with their own behaviours.
 
