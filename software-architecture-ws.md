@@ -29,8 +29,8 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-## PART 1 - Research
-### Exercise 1 - SOLID Principles
+## Exercise 1 - Research
+### SOLID Principles
 
 ![Poster Example](images/poster.png)
 
@@ -47,8 +47,8 @@ In your designated space on a **Mural board** (Get the link in the Workshop) cre
  Be creative, articulate your understanding of the concept and be prepared to share your understanding with the group in a review mid session.
 
 
-## PART 2 - Applying Solid Principles
-### Exercise 1 - Design A Basic Mario Platformer
+## EXERCISE 2 - Applying Solid Principles
+### Design A Basic Mario Platformer
 
 Based on your insight into SOLID with specific reference to: **Single Responsibility Principle, Open Closed Principle** and **Liskov Substitution principle** work in teams of 4-5 to design and develop a platformer based on the following image
 
