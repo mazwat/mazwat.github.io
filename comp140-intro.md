@@ -36,4 +36,13 @@ page_nav: false
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal](../project-research "Project Proposal")
+
+# Lecture Materials
+
+#### 1 - [Arduino](../arduino-lm "Arduino Lecture Materials")
+#### 2 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
+#### 3 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
+#### 4 - [Unified Markup Language](../uml-lm "UML Lecture Materials")
+#### 5 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
+#### 6 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
