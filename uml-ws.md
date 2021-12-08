@@ -37,11 +37,20 @@ essential role in defining the core structure and allowing you and team members 
 elements. In physical computing the sequence and order of events can play a critical part in how
 or whether something works as expected.
 
-## UML Diagrams for Individual Creative Computing Project
+
+## EXERCISE 1
+### UML Diagrams – Mario Platformer Group Project
+
+For this exercise you should create a comprehensive **UML Class diagram** to document the design
+of your group project. You maybe doing this retrospectively but it gives you an opportunity to
+reflect on links you made in developing your game.
+
+## EXERCISE 2
+### UML Diagrams for Individual Creative Computing Project
 
 For this exercise you should use the appropriate UML Diagrams to create an initial design of your
 game and control system. Based on these 5 types of diagram: **Use Case, Activity, State, Sequence**
-and **Class**. Please note this will feed into Assignment 1 and 2, so please keep a copy of the diagrams
+and **Class**. Please note this will form part of Assignment 2, so please keep a copy of the diagrams
 you create.
 
 Points to consider:
