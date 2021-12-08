@@ -18,7 +18,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Previous page
+        content: Data Structures
         url: '../data-structures-ws'
 ---
 
