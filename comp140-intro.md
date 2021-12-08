@@ -37,7 +37,7 @@ page_nav: false
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal](../project-research "Project Proposal")
 
-# Lecture Materials
+# Lecture Documentation
 
 #### 1 - [Arduino](../arduino-lm "Arduino Lecture Materials")
 #### 2 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
