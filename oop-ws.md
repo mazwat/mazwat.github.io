@@ -27,7 +27,7 @@ page_nav:
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
 ## EXERCISE 1 - OOP in **Visual Studio**
-### Who Let the Dogs Out?
+### 1. Who Let the Dogs Out?
 
 ![Add Console App](images/create-console.png)
 
@@ -62,8 +62,7 @@ The Wolf bares its teeth!
 ```
 and so on…
 
-## Exercise 2 - OOP in Visual Studio
-### Making Smoothies
+### 2. Making Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
 
