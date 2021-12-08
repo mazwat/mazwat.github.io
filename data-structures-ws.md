@@ -27,6 +27,8 @@ page_nav:
 
 # Data Structures
 
+![Network](images/net.jpg)
+
 ## VIDEO LECTURE
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
