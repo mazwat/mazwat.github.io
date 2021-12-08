@@ -43,7 +43,7 @@ or whether something works as expected.
 
 For this exercise you should create a comprehensive **UML Class diagram** to document the design
 of your group project. You maybe doing this retrospectively but it gives you an opportunity to
-reflect on links you made in developing your game.
+reflect on the formal structure you made in developing your game.
 
 ## EXERCISE 2
 ### UML Diagrams for Individual Creative Computing Project
