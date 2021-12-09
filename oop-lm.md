@@ -328,8 +328,34 @@ class  Apple : Fruit  // derived class (child)
 }
 ```
 As previously specified inheritance is about classes that inherit the variables and methods of their parent. This is defined by the colon operator. In fact it’s written with the child first and the parent after. In the code example form before we have the parent Fruit and the child banana. This goes back to our first discussion about OOP being about categorising. Inheritance is all about objects and their relationship. The child has access to both its parents features and its own.
+
+### Parents & Children
+```c#
+class Game
+{
+	// Create a myCar object
+	Banana myFruit1 = new Banana();
+	Apple  myFruit2 = new  Apple();
+	// Call the eatFruit() method (From the Fruit class) on the myFruit object
+
+myFruit1.eatFruit();
+
+myFruit2.eatFruit();
+
+  
+
+// Print value of the fruit type field (from the Fruit class) and the value of the fruitName from the Banana class
+
+Console.WriteLine(“ name- “ + myFruit1.fruitName);
+
+Console.WriteLine(“ name- “ + myFruit2.fruitName);
+
+  
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4MTE3NTMsNjk3OTM1NTE5LC0yMT
+eyJoaXN0b3J5IjpbLTIwNjM2ODk2MzksNjk3OTM1NTE5LC0yMT
 g1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAx
 LC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
 gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
