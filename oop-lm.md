@@ -376,29 +376,21 @@ class  Strawberry : Fruit  // Derived class (child)
 	{
 		Console.WriteLine(“Red");
 	}
-
 }
-
 class  Kiwi : Fruit  // Derived class (child)
-
 {
-
-public  void fruitColour()
-
-{
-
-Console.WriteLine("Green");
-
-}
-
+	public  void fruitColour()
+	{
+		Console.WriteLine("Green");
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NTY0MDA3LDEyMTgyNTgxNTMsNjk3OT
-M1NTE5LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEs
-Mzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNj
-UyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1
-LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OT
-Y2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUy
-NzFdfQ==
+eyJoaXN0b3J5IjpbODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
+U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwz
+NzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NT
+I2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUs
+LTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5Nj
+YyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3
+MV19
 -->
