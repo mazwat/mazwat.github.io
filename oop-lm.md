@@ -107,11 +107,12 @@ Character guide = new Character();
 ```
 ### Classes are Blueprints
 
-![Unity Class](images/blueprint.png)
+![Unity Class](images/blueprint.jpg)
 
 A class is a potential object, it is the instructions to create a real object in our code, like a blueprint. Like the relationship between a recipe to make a doughnut and the actual doughnuts that are produced. This is the best way to understand the concept.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMT
-E1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0
-NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbMjAwNDM1OTU2Miw5MzQ5NjYyMjYsLTEzNz
+k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
+OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNj
+ddfQ==
 -->
