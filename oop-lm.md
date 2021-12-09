@@ -415,7 +415,7 @@ Fruit has many colours
 ```
 ### Override
 
-Using the keyword ‘override’ we can effectively allow child methods to override the parent.
+Using the keyword ``override`` we can effectively allow child methods to override the parent.
 ```c#
 class  Fruit  // Base class (parent)
 {
@@ -439,12 +439,38 @@ class  Kiwi : Fruit  // Derived class (child)
 	}
 }
 ```
+```c#
+class  Game
+
+{
+
+static  void  Main(string[] args)
+
+{
+
+Fruit  myFruit = new  Animal(); // Create a Animal object
+
+Fruit  myStrawberry = new  Strawberry(); // Create a Pig object
+
+Fruit  myKiwi = new  Kiwi(); // Create a Dog object
+
+  
+
+myFruit.fruitColour();
+
+myStrawberry.fruitColour();
+
+myKiwi.fruitColour();
+
+}
+
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI4Njg5OTEsNzgyOTIzMjkzLDg0OT
-A1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nzg0NCwx
-MDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1Nj
-Y5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0x
-ODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OT
-gwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgw
+eyJoaXN0b3J5IjpbLTE5NDM4OTQ3MDQsLTIxMDI4Njg5OTEsNz
+gyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5
+LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3Mj
+MxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYs
+MTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMz
+YyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2
 XX0=
 -->
