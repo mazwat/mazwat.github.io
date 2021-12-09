@@ -173,12 +173,21 @@ So if we stretch our slightly tenuous doughnut analogy. The doughnuts on the she
 We can use another analogy to describe how methods works, which is that of the factory. A method like a factory is a process that takes an input or multiple inputs to make it work and then it has a return or an output which is the final result of the processes undertaken in the method.  
 The analogy slightly breaks down, as it is not always essential for a method to have an input or an output to function. For instance a ``getTime`` methods does not need an input to tell you the time.
 
+public class  Character  
+{  
+public  string name;  
+public  float strength;public  int health;
 
+public void Attack()  
+{  
+Debug.Log (“Character attacked”);  
+}  
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjM0NjYzLDE0OTQxNjUyNjYsMTc3ND
-gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
-MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
-c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
-NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMj
-Y3XX0=
+eyJoaXN0b3J5IjpbLTEzODIyNDY2NjksMTQ5NDE2NTI2NiwxNz
+c0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIz
+MzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLT
+EzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIw
+NjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MT
+EyNjddfQ==
 -->
