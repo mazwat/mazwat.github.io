@@ -131,7 +131,7 @@ enemy.health = 15;
 enemy.isAlive = true;
 ```
 
-### Encapsulation - Public vs Private members
+## Encapsulation - Public vs Private members
 
 Let’s add another concept - Encapsulation. In order to set a variable to public you have to define it using the word ``public`` preceding the variable type. If you want create a private variable you can explicitly define it as such using the word private (click). Private means that the variable can’t be accessed from outside the class. If you don’t include the word private or public the variable is by default private (click). These different states are also known as access modifiers.
 ```c#
@@ -156,7 +156,7 @@ public class Character
  public int health = 100;  
 }
 ```
-### Public Variables in Unity
+##  Public Variables in Unity
 
 ![Unity Public Variables](images/unity-variable.jpg)
 
@@ -166,7 +166,7 @@ Unity is by its very nature object oriented, so the principles are applied every
 
 So if we stretch our slightly tenuous doughnut analogy. The doughnuts on the shelves are **private**  and not accessible to the outside world. The only way to access a **private** variable is to use a **method**.
 
-### Methods
+## Methods
 
 ![Methods Factory Analogy](images/methods.png)
 
@@ -225,7 +225,7 @@ Character hero = new Character();
 hero.health = 10;  
 int playerHealth = hero.updateHealthAndStrength(20, 15);
 ```
-### Memory allocation of Objects
+## Memory allocation of Objects
 
 It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
 ![Memory Allocation of new spaces](images/memory1.png)
@@ -233,10 +233,11 @@ However if you create new instances of the class that are referencing an existin
 ![Memory Allocation of one space](images/memory2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNj
-k1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3
-LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5OD
-A2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4
-NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2Mz
-ksNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbMTE4NDk4ODYwNywzNzcyMzE5MDEsLTUxNj
+U2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUs
+LTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMT
+Q5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEw
+ODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MS
+wtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+
 -->
