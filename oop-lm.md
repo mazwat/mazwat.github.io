@@ -78,7 +78,7 @@ int health;
 bool isAlive;
 
 //Create character
-name = “Blackbeard”;  
+name = "Blackbeard";  
 strength = 25;  
 health = 15;  
 isAlive = true;
@@ -125,7 +125,7 @@ and then when you instantiate a new class  you can easily access the variables u
 Character enemy = new Character();
 
 //Access public variables
-enemy.name = “Blackbeard”;  
+enemy.name = "Blackbeard";  
 enemy.strength = 25;  
 enemy.health = 15;  
 enemy.isAlive = true;
@@ -180,7 +180,7 @@ public class  Character
 	public int health;
 	public void Attack()  
 	{  
-		Debug.Log(“Character attacked”);  
+		Debug.Log("Character attacked");  
 	}
 }  
 ```
@@ -411,11 +411,11 @@ Fruit has many colours
 Fruit has many colours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1ODY5OTIsODQ5MDUyMTUsMTIxODI1OD
-E1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1
-MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMj
-csMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5
-NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNz
-Q4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTFd
-fQ==
+eyJoaXN0b3J5IjpbNzgyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNT
+gxNTMsNjk3OTM1NTE5LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0
+NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MT
+I3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0x
+OTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mj
+c0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUx
+XX0=
 -->
