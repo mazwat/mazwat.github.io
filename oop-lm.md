@@ -463,12 +463,20 @@ Fruit has many colours
 Red
 Green
 ```
+
+## Composition
+
+Another useful extension to inheritance is Composition and the use of Interfaces. When considering a use case it is worth thinking about whether you have general rules or specialist rules.
+
+## inheritance vs Composition
+
+Inheritance is great when you have a cascading tree of dependencies. clickThe rule in inheritance is . It is a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNz
-gyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5
-LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3Mj
-MxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYs
-MTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMz
-YyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2
-XX0=
+eyJoaXN0b3J5IjpbMjAwNDgzNjQ4MSwtMTgzODQwNzkzMCwtMj
+EwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1
+Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MD
+c1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcs
+MTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5ND
+U0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4
+N119
 -->
