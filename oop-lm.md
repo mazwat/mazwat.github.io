@@ -308,7 +308,7 @@ public  class  Game
 ```
 ## Inheritance
 
-Inheritance is all about a parent chid relationship. The class Fruit has it's own variables and methods and these can be accessed by child classes that contain the keyword operator ’colon’. Banana is now a child of Fruit and so is Apple. Let’s explore this concept a bit more.
+Inheritance is all about a parent chid relationship. The class ``Fruit`` has it's own variables and methods and these can be accessed by child classes that contain the keyword operator ``:``. ``Banana`` is now a child of ``Fruit`` and so is ``Apple``. Let’s explore this concept a bit more.
 ```c#
 class  Fruit  // base class (parent)
 {
@@ -320,19 +320,19 @@ class  Fruit  // base class (parent)
 }
 class  Banana : Fruit  // derived class (child)
 {
-	public  string  fruitName = “Banana”; // Gun field
+	public  string  fruitName = “Banana”; // Fruit field
 }
 	class  Apple : Fruit  // derived class (child)
 {
-public  string  fruitName = “Apple”; // Gun field
+public  string  fruitName = “Apple”; // Fruit field
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA0MjU2NzgsNjk3OTM1NTE5LC0yMT
-g1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAx
-LC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
-gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
-MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
-c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
-NDk1OTFdfQ==
+eyJoaXN0b3J5IjpbMjIxOTQxNzA3LDY5NzkzNTUxOSwtMjE4NT
+c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
+NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
+g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
+LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OT
+QwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5
+NTkxXX0=
 -->
