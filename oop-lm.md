@@ -421,14 +421,14 @@ class  Fruit  // Base class (parent)
 {
 	public  void fruitColour()
 	{
-		Console.WriteLine(“Fruit has many colours”);
+		Console.WriteLine("Fruit has many colours");
 	}
 }
 class  Strawberry : Fruit  // Derived class (child)
 {
 	public  override void fruitColour()
 	{
-		Console.WriteLine(“Red");
+		Console.WriteLine("Red");
 	}
 }
 class  Kiwi : Fruit  // Derived class (child)
@@ -440,11 +440,11 @@ class  Kiwi : Fruit  // Derived class (child)
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDg4MDczMiw3ODI5MjMyOTMsODQ5MD
-UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
-MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
-k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
-NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5OD
-A5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODBd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMDI4Njg5OTEsNzgyOTIzMjkzLDg0OT
+A1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nzg0NCwx
+MDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1Nj
+Y5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0x
+ODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OT
+gwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgw
+XX0=
 -->
