@@ -492,23 +492,23 @@ interface  IfruitColour
 // Kiwi "implements" the IFruit and IfruitColour interface
 class  Kiwi : IFruit, IfruitColour
 {
-	public  string  foodType = “Fruit";
+	public  string  foodType = "Fruit";
 
 public void eatFruit()
 
 {
 
-Console.WriteLine(“Eating:” + foodType);
+Console.WriteLine("Eating:" + foodType);
 
 }
 
-public  string  fruitType = “Kiwi";
+public  string  fruitType = "Kiwi";
 
 public  void  fruitColour()
 
 {
 
-Console.WriteLine(“This “+fruitType +“is Green”);
+Console.WriteLine("This "+fruitType +"is Green");
 
 }
 
@@ -517,11 +517,11 @@ Console.WriteLine(“This “+fruitType +“is Green”);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNzQ0NTIzLC0xODM4NDA3OTMwLC0yMT
-AyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwxMjE4MjU4MTUz
-LDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNz
-U4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywx
-NDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NT
-Q1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3
-XX0=
+eyJoaXN0b3J5IjpbLTEyNTMxNTcyMjEsMjgwNzQ0NTIzLC0xOD
+M4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIx
+NSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxND
+cyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2
+LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MT
+E2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4
+MDNdfQ==
 -->
