@@ -235,12 +235,51 @@ However if you create new instances of the class that are referencing an existin
 
 ![Memory Allocation of one space](images/memory2.png)
 
+## Properties
+
+n this example class ‘player’ we have a variable called ‘health’. Conventionally when we want to share the contents of a variable, in the case of classes we can refer to them as fields (click) we would make it public, but there is a better more secure way.
+
+public  class  Player
+
+{
+
+//Member variables can be referred to as  fields.
+
+public int health;
+
+  
+
+//Health is a basic property
+
+public int Health
+
+{
+
+get
+
+{
+
+//Some other code
+
+}
+
+set
+
+{
+
+//Some other code
+
+}
+
+}
+
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NTYyODAyLC0xNDUwNzU4NzMxLDM3Nz
-IzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2
-LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMz
-M2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIy
-NiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC
-0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQx
-OTgxMTI2N119
+eyJoaXN0b3J5IjpbLTE4MjkzMTQyNTgsLTE0NTA3NTg3MzEsMz
+c3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUy
+NjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC
+0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2
+MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNz
+EsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0x
+NDE5ODExMjY3XX0=
 -->
