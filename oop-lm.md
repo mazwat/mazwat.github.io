@@ -26,7 +26,7 @@ page_nav:
 
 ## Introduction to OOP**
 
-![Add pie chart](images/create-console.png)
+![Add pie chart](images/oop-terms-.png)
 
 
 OOP has a number key concepts that we need to understand in order to make use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
@@ -84,10 +84,9 @@ strength = 25;
 health = 15;  
 isAlive = true;
 ```
-
 Now when we get to thinking about adding a second character it starts to get messy how do we track different variable values for different characters. Do we need to create completely separate variables for each character this seems very wasteful.
 
 This is where classes come in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbNTYzNzUzODc0LC0xNDE5ODExMjY3XX0=
 -->
