@@ -95,7 +95,7 @@ public class Character
 	string name;  
 	float strength;  
 	int health;  
-	book isAlive;  
+	bool isAlive;  
 }
 ```
 We use the name of the class as a data type and we can then create new unique variables that contain the properties of that class.
@@ -105,6 +105,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNDk0NjA1LC0xMjc3NDU0NjM5LDYwMT
-ExOTI2NywtMTQxOTgxMTI2N119
+eyJoaXN0b3J5IjpbMTQzNTUzMTM3MiwtMTI3NzQ1NDYzOSw2MD
+ExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
