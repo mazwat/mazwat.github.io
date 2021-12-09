@@ -139,19 +139,29 @@ Let’s add another concept - Encapsulation. In order to set a variable to publi
 ```c#
 public class  Character  
 {  
-public  string name;  
-public  float strength;
-public  int health;
+ public  string name;  
+ public  float strength;
+ public  int health;
 
 //private member variable, Not available outside the class  
-private  bool isAlive;
+ private  bool isAlive;
 //by default member variables are private  
-int score;  
+ int score;  
+}
+```
+
+Remember that we can set the initial variable values inside the class. However if we don’t the default value will be ‘nil’.
+```c#
+public class Character  
+{  
+ public string name;  
+ public float strength;  
+ public int health = 100;  
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OT
-Y2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUy
-NzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC
-0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MD
+YyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3
+NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOS
+w2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
