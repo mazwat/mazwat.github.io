@@ -391,31 +391,26 @@ This can give confusing results as the base class or parent overrides the child 
 ```c#
 class  Game
 {
-static  void  Main(string[] args)
-{
-	Fruit  myFruit = new  Fruit(); // Create a Fruit object
-	Fruit  myStrawberry = new  Strawberry(); // Create a Strawberry object
-	Fruit  myKiwi = new  Kiwi(); // Create a Kiwi object
+	static  void  Main(string[] args)
+	{
+		Fruit  myFruit = new  Fruit(); // Create a Fruit object
+		Fruit  myStrawberry = new  Strawberry(); // Create a Strawberry object
+		Fruit  myKiwi = new  Kiwi(); // Create a Kiwi object
 
-  
-
-myFruit.fruitColour();
-
-myStrawberry.fruitColour();
-
-myKiwi.fruitColour();
-
-}
-
+		myFruit.fruitColour();
+		myStrawberry.fruitColour();
+		myKiwi.fruitColour();
+	}
 }
 ```
+The output would be this:
+```
 “Fruit has many colours”
-
 “Fruit has many colours”
-
 “Fruit has many colours”
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjAwNjcyMSw4NDkwNTIxNSwxMjE4Mj
+eyJoaXN0b3J5IjpbMTM2NzI0MjgyOSw4NDkwNTIxNSwxMjE4Mj
 U4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0x
 NDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NT
 EyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywt
