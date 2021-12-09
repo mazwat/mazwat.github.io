@@ -394,9 +394,12 @@ class  Game
 {
 	static  void  Main(string[] args)
 	{
-		Fruit  myFruit = new  Fruit(); // Create a Fruit object
-		Fruit  myStrawberry = new  Strawberry(); // Create a Strawberry object
-		Fruit  myKiwi = new  Kiwi(); // Create a Kiwi object
+		// Create a Fruit object
+		Fruit  myFruit = new  Fruit(); 
+		// Create a Strawberry object
+		Fruit  myStrawberry = new  Strawberry(); 
+		// Create a Kiwi object
+		Fruit  myKiwi = new  Kiwi(); 
 
 		myFruit.fruitColour();
 		myStrawberry.fruitColour();
@@ -411,7 +414,7 @@ Fruit has many colours
 Fruit has many colours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDExNDkzNyw3ODI5MjMyOTMsODQ5MD
+eyJoaXN0b3J5IjpbMjA3MDUyMjcyNSw3ODI5MjMyOTMsODQ5MD
 UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
 MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
 k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
