@@ -211,7 +211,7 @@ public class  Character
 	public  string name;  
 	public  float strength;public  int health;
 
-	public int updateHealthAndStrength(int newHealth, int newStrength)  
+	public int updateHealthStrength(int newHealth, int newStrength)  
 	{  
 	int health = health + newHealth;  
 	int strength = strength + newStrength;  
@@ -236,11 +236,11 @@ However if you create new instances of the class that are referencing an existin
 ![Memory Allocation of one space](images/memory2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MT
-Y1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1
-LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMT
-E0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAx
-MDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OT
-EsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
-
+eyJoaXN0b3J5IjpbLTYzOTYxNzQwLC0xNDUwNzU4NzMxLDM3Nz
+IzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2
+LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMz
+M2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIy
+NiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC
+0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQx
+OTgxMTI2N119
 -->
