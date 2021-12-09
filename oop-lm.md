@@ -38,9 +38,9 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 -   **Python** - Mixed Paradigm, but supports OOP
 -   **Javascript** - Mixed Paradigm, but supports OOP
 
-### OOP is about categorising
+### Categorising
 
-It has became dominant because of how we humans describe the world. We define and separate things on the basis of categories otherwise known as taxonomy.
+OOP's dominance is because of how we humans describe the world. We define and separate things on the basis of categories otherwise known as taxonomy.
 
 Sea and land, sand and soil, plants and animals. Within each category we have subcategories - plants can be further defined by whether they are trees or shrubs and so on.
 
@@ -160,8 +160,9 @@ public class Character
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MD
-YyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3
-NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOS
-w2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMT
+Q5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEw
+ODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MS
+wtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+
 -->
