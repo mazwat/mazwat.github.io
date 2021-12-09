@@ -37,7 +37,7 @@ page_nav: false
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal](../project-research "Project Proposal")
 
-# Lecture Documentation
+# Lecture Materials
 
 #### 1 - [Arduino](../arduino-lm "Arduino Lecture Materials")
 #### 2 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
@@ -46,3 +46,6 @@ page_nav: false
 #### 5 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
 #### 6 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjMwMjk0NjFdfQ==
+-->
