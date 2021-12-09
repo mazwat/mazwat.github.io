@@ -358,7 +358,7 @@ name- apple
 ```
 ### Unity & Inheritance from MonoBehaviour
 
-![Unity MonoBehaviour](monobehaviour.jpg)
+![Unity MonoBehaviour](images/monobehaviour.jpg)
 
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a parent of most scripts, as it is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` and ``Update()`` as well as a range of others.
 
@@ -411,7 +411,7 @@ Fruit has many colours
 Fruit has many colours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDQ4OTgyNiw3ODI5MjMyOTMsODQ5MD
+eyJoaXN0b3J5IjpbMTQzNDExNDkzNyw3ODI5MjMyOTMsODQ5MD
 UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
 MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
 k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
