@@ -1,6 +1,3 @@
-
-
-
 ---
 # Page settings
 layout: default
@@ -92,5 +89,5 @@ Now when we get to thinking about adding a second character it starts to get mes
 
 This is where classes come in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODE4NzcxOV19
+eyJoaXN0b3J5IjpbLTE0MTk4MTEyNjddfQ==
 -->
