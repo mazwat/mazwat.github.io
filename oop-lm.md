@@ -240,42 +240,26 @@ However if you create new instances of the class that are referencing an existin
 n this example class ‘player’ we have a variable called ‘health’. Conventionally when we want to share the contents of a variable, in the case of classes we can refer to them as fields (click) we would make it public, but there is a better more secure way.
 
 public  class  Player
-
 {
-
-//Member variables can be referred to as  fields.
-
-public int health;
-
-  
-
-//Health is a basic property
-
-public int Health
-
-{
-
-get
-
-{
-
-//Some other code
-
-}
-
-set
-
-{
-
-//Some other code
-
-}
+	//Member variables can be referred to as  fields.
+	public int health;
+	//Health is a basic property
+	public int Health
+	{
+		get
+		{
+		//Some other code
+		}
+		set
+		{
+			//Some other code
+		}
 
 }
 
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkzMTQyNTgsLTE0NTA3NTg3MzEsMz
+eyJoaXN0b3J5IjpbLTE5ODE1ODk0OTgsLTE0NTA3NTg3MzEsMz
 c3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUy
 NjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC
 0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2
