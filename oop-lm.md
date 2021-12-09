@@ -169,10 +169,16 @@ So if we stretch our slightly tenuous doughnut analogy. The doughnuts on the she
 ### Methods
 
 ![Methods Factory Analogy](images/methods.png)
+
+We can use another analogy to describe how methods works, which is that of the factory. A method like a factory is a process that takes an input or multiple inputs to make it work and then it has a return or an output which is the final result of the processes undertaken in the method.  
+The analogy slightly breaks down, as it is not always essential for a method to have an input or an output to function. For instance a ``getTime`` methods does not need an input to tell you the time.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4Nj
-ExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5
-ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLT
-ExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3
-NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbNjg3NjM0NjYzLDE0OTQxNjUyNjYsMTc3ND
+gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
+MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
+c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
+NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMj
+Y3XX0=
 -->
