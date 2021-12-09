@@ -366,25 +366,16 @@ Another way to understand the application of inheritance is how it is represente
 class  Fruit  // Base class (parent)
 {
 	public  void fruitColour()
-{
-
-Console.WriteLine(“Fruit has many colours”);
-
+	{
+		Console.WriteLine(“Fruit has many colours”);
+	}
 }
-
-}
-
 class  Strawberry : Fruit  // Derived class (child)
-
 {
-
-public  void fruitColour()
-
-{
-
-Console.WriteLine(“Red");
-
-}
+	public  void fruitColour()
+	{
+		Console.WriteLine(“Red");
+	}
 
 }
 
@@ -403,11 +394,11 @@ Console.WriteLine("Green");
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk1NDU0OTEsMTIxODI1ODE1Myw2OT
-c5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODcz
-MSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5ND
-E2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgw
-MTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5Mz
-Q5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3
-NTI3MV19
+eyJoaXN0b3J5IjpbMzg2NTY0MDA3LDEyMTgyNTgxNTMsNjk3OT
+M1NTE5LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEs
+Mzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNj
+UyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1
+LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OT
+Y2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUy
+NzFdfQ==
 -->
