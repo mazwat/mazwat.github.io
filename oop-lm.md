@@ -306,12 +306,48 @@ public  class  Game
 	}
 }
 ```
+## Inheritance
+
+Inheritance is all about a parent chid relationship. The class Fruit has it's own variables and methods and these can be accessed by child classes that contain the keyword operator ’colon’. Banana is now a child of Fruit and so is Apple. Let’s explore this concept a bit more.
+```c#
+class  Fruit  // base class (parent)
+{
+protected  string  foodType = “Fruit"; // Weapon field
+
+public void eatFruit() // Weapon method
+
+{
+
+Console.WriteLine(“Eating:” + foodType);
+
+}
+
+}
+
+  
+
+class  Banana : Fruit  // derived class (child)
+
+{
+
+public  string  fruitName = “Banana”; // Gun field
+
+}
+
+class  Apple : Fruit  // derived class (child)
+
+{
+
+public  string  fruitName = “Apple”; // Gun field
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTM1NTE5LC0yMTg1Nzg0NCwxMDE0Nz
-I2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYs
-NjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMT
-Y3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgw
-Myw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMT
-E1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0
-NTQ2MzldfQ==
+eyJoaXN0b3J5IjpbMTQ3MzA5OTU3Niw2OTc5MzU1MTksLTIxOD
+U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
+LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
+M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
+NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
+k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
+OTU5MV19
 -->
