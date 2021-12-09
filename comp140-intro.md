@@ -30,8 +30,6 @@ page_nav: false
 #### 4 - [Data Structures](../data-ws "Data Structures") 
 #### 5 - [Design Patterns](../patterns-ws "Design Patterns")  
 
-
-
 # Research Challenges
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
@@ -47,5 +45,5 @@ page_nav: false
 #### 6 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMwMjk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTg4MzQ5NzcyMV19
 -->
