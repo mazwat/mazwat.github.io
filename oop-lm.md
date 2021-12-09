@@ -267,9 +267,9 @@ Now you may think this is a complicated way to access a private variable why not
 
 ![Access Modifiers - House analogy](images/getset.png)
 
-We can use the analogy of a house. If we set our field to public anyone or any method call can access it. If we set it to private it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ‘GET’ something. in other instances we want it to be writeable, so we can ‘SET’ something but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure because we are not exposing all variables at all times.
+We can use the analogy of a house. If we set our field to ``public`` anyone or any method call can access it. If we set it to ``private`` it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ``get`` something. in other instances we want it to be writeable, so we can ``set`` something but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure because we are not exposing all variables at all times.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTMyOTE4MiwtMjE4NTc4NDQsMTAxND
+eyJoaXN0b3J5IjpbMTQyMzczMzcxNiwtMjE4NTc4NDQsMTAxND
 cyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2
 LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MT
 E2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4
