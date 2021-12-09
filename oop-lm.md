@@ -86,8 +86,18 @@ isAlive = true;
 ```
 Now when we get to thinking about adding a second character it starts to get messy how do we track different variable values for different characters. Do we need to create completely separate variables for each character this seems very wasteful.
 
-This is where classes come in.
+This is where **classes** come in.
+
+So we can think of classes as blueprints or templates that we can use to define an object. This class of ours can have (click) member variables and these can be accessed anywhere inside this class. From our class we can create different instances of that class, using a constructor. We use the (click) name of the class as a data type and we can then (click) create new unique variables that contain the properties of that class.
+
+public class Character  
+{  
+string name;  
+float strength;  
+int health;  
+book isAlive;  
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xND
-E5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTU0MDkwMDI4OCwtMTI3NzQ1NDYzOSw2MD
+ExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
