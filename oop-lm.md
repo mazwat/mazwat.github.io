@@ -517,7 +517,7 @@ class  Game
 	Kiwi.fruitColour();
 }
 ```
-The class ``Kiwi`` has interfaces ``IFruit`` and the ``IFruitColour`` linked to it, so a new instance can call the methods ``eatFruit`` and ``FruitColor``. In this way a class can be composed of a shopping list of methods rather than being tied into a strict inheritance model.
+The class ``Kiwi`` has the interfaces ``IFruit`` and ``IFruitColour`` linked to it, so a new instance can call the methods ``eatFruit`` and ``FruitColor``. In this way a class can be composed of a shopping list of methods rather than being tied into a strict inheritance model.
 
 You then get this output:
 ```
@@ -537,11 +537,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEwODUsLTY0NzY3MDk1LDI4MDc0ND
-UyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMyOTMs
-ODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3OD
-Q0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUx
-NjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4Nj
-UsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNl19
-
+eyJoaXN0b3J5IjpbLTE4Mzc1NTYxMDksLTExMzEwODUsLTY0Nz
+Y3MDk1LDI4MDc0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5
+MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
+U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwz
+NzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NT
+I2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTVd
+fQ==
 -->
