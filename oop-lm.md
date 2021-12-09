@@ -178,20 +178,30 @@ public class  Character
 	public string name;  
 	public float strength;
 	public int health;
+	public void Attack()  
+	{  
+		Debug.Log(“Character attacked”);  
+	}
+}  
 ```
 This shows how effective OOP can be. We can set-up multiple characters and allow them to use the same functions and methods we just address the specific instance of the class. In this case hero. As you can see we use ‘void’(click) as this corresponds with a method or function that has no input parameters.
-```c#
-public void Attack()  
+
+public class  Character  
 {  
-	Debug.Log (“Character attacked”);  
+public  string name;  
+public  float strength;public  int health;
+
+public int updateHealth(int newHealth)  
+{  
+int health = health + newHealth;  
+return health;  
 }  
 }
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NjAwMjg1LDE0OTQxNjUyNjYsMTc3ND
-gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
-MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
-c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
-NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMj
-Y3XX0=
+eyJoaXN0b3J5IjpbLTEzMTU4NTgwMjMsMTQ5NDE2NTI2NiwxNz
+c0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIz
+MzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLT
+EzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIw
+NjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MT
+EyNjddfQ==
 -->
