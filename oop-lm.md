@@ -362,6 +362,8 @@ Here you can see that if we create  a new instance of any of the children we can
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a parent of most scripts, as it is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` and ``Update()`` as well as a range of others.
 
 ## Polymorphism
+
+Polymorphism is another way to work with inheritance. Say we have a parent and a series of children. They all have methods of the same name but with different outputs.
 ```c#
 class  Fruit  // Base class (parent)
 {
@@ -385,12 +387,39 @@ class  Kiwi : Fruit  // Derived class (child)
 	}
 }
 ```
+This can give confusing results as the base class or parent overrides the child methods due to inheritance. We can overcome this using polymorphism.
+```c#
+class  Game
+{
+static  void  Main(string[] args)
+{
+	Fruit  myFruit = new  Fruit(); // Create a Fruit object
+	Fruit  myStrawberry = new  Strawberry(); // Create a Strawberry object
+	Fruit  myKiwi = new  Kiwi(); // Create a Kiwi object
+
+  
+
+myFruit.fruitColour();
+
+myStrawberry.fruitColour();
+
+myKiwi.fruitColour();
+
+}
+
+}
+```
+“Fruit has many colours”
+
+“Fruit has many colours”
+
+“Fruit has many colours”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
-U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwz
-NzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NT
-I2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUs
-LTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5Nj
-YyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3
+eyJoaXN0b3J5IjpbLTkxMjAwNjcyMSw4NDkwNTIxNSwxMjE4Mj
+U4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0x
+NDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NT
+EyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywt
+MTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNj
+I3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMTExNTQzODc1
 MV19
 -->
