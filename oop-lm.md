@@ -348,8 +348,16 @@ class Game
 }
 ```
 Here you can see that if we create  a new instance of any of the children we can activate both the parent methods as well as the child ones. As they are inherited.
+
+The output would look like this:
+```
+”Eating: Fruit”
+”Eating: Fruit”
+“name- banana”
+“name- apple”
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTYyNjgyNCw2OTc5MzU1MTksLTIxOD
+eyJoaXN0b3J5IjpbLTk5ODUxOTA4MCw2OTc5MzU1MTksLTIxOD
 U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
 LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
 M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
