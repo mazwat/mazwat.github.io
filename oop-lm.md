@@ -525,7 +525,7 @@ Eating Fruit
 This Kiwi is green
 ```
 ## Conclusion
-In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. It's important th
+In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
 
 -   **Objects** - is an abstract data type. It can include multiple properties and methods and may even contain other objects.
 -   **Classes** - a class is a template definition of the method s and variables in a particular kind of object.
@@ -534,12 +534,14 @@ In this lecture we have now covered all the principles of OOP programming that w
 -   **Composition** – Objects can be composed of other objects
 -   **Inheritance** – Objects can be related to other objects
 -   **Polymorphism** – Objects can be used via references to their parent class
+
+It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkyMzk3MzAsLTY0NzY3MDk1LDI4MD
-c0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMy
-OTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxOD
-U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
-LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
-M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
-Nl19
+eyJoaXN0b3J5IjpbLTExMzEwODUsLTY0NzY3MDk1LDI4MDc0ND
+UyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMyOTMs
+ODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3OD
+Q0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUx
+NjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4Nj
+UsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNl19
+
 -->
