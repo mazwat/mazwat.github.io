@@ -482,27 +482,17 @@ Another useful extension to inheritance is Composition and the use of Interfaces
 ```c#
 // Interface
 interface  IFruit
-
 {
-
-void  eatFruit(); // interface method (does not have a body)
-
+	void  eatFruit(); // interface method (does not have a body)
 }
-
 interface  IfruitColour
-
 {
-
-void  fruitColour();  
+	void  fruitColour();  
 }
-
 // Kiwi "implements" the IFruit and IfruitColour interface
-
 class  Kiwi : IFruit, IfruitColour
-
 {
-
-public  string  foodType = “Fruit";
+	public  string  foodType = “Fruit";
 
 public void eatFruit()
 
@@ -527,11 +517,11 @@ Console.WriteLine(“This “+fruitType +“is Green”);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyNTM2OSwtMTgzODQwNzkzMCwtMj
-EwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1
-Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MD
-c1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcs
-MTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5ND
-U0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4
-N119
+eyJoaXN0b3J5IjpbMjgwNzQ0NTIzLC0xODM4NDA3OTMwLC0yMT
+AyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwxMjE4MjU4MTUz
+LDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNz
+U4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywx
+NDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NT
+Q1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3
+XX0=
 -->
