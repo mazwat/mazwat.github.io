@@ -184,7 +184,7 @@ public class  Character
 	}
 }  
 ```
-This shows how effective OOP can be. We can set-up multiple characters and allow them to use the same functions and methods we just address the specific instance of the class. In this case hero. As you can see we use ‘void’(click) as this corresponds with a method or function that has no input parameters.
+This shows how effective OOP can be. We can set-up multiple characters and allow them to use the same functions and methods we just address the specific instance of the class. In this case hero. As you can see we use ``void`` as this corresponds with a method or function that has no input parameters.
 ```c#
 public class  Character  
 {  
@@ -198,15 +198,15 @@ return health;
 }  
 }
 ```
-In this example we have created a function in the character class called updateHealth with an integer parameter called newHealth (click) and we are going to call it via a method.
+In this example we have created a function in the character class called ``updateHealth`` with an integer parameter called newHealth (click) and we are going to call it via a method.
 ```c#
 Character hero = new Character();  
 hero.health = 10;  
 int playerHealth = hero.updateHealth(20);
 ```
-Here you can see we created the instance of ``hero and set it’s initial health to 10 and subsequently we update that health using a method in the variable that will pass the value of 20 to the ‘hero’ instance of the class. The final value of hero.health will be 30.
+Here you can see we created the instance of ``hero`` and set it’s initial health to 10 and subsequently we update that health using a method in the variable that will pass the value of 20 to the ‘hero’ instance of the class. The final value of ``hero.health`` will be 30.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MDkyNTk5LDE0OTQxNjUyNjYsMTc3ND
+eyJoaXN0b3J5IjpbNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
 gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
 MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
 c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
