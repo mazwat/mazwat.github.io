@@ -468,11 +468,17 @@ Green
 
 Another useful extension to inheritance is Composition and the use of Interfaces. When considering a use case it is worth thinking about whether you have general rules or specialist rules.
 
-## inheritance vs Composition
+### Inheritance vs Composition (
+
+-   **Generalising** vs **Specialising**
+-   **Inheritance** - **Strawberry is a Fruit** but **Fruit is not a Strawberry**
+    _A strict tree model_
+-   **Composition** - Fruit can be **made up of Kiwi and/or Strawberry**.  
+    _You can pick and choose_
 
 Inheritance is great when you have a cascading tree of dependencies. clickThe rule in inheritance is . It is a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDgzNjQ4MSwtMTgzODQwNzkzMCwtMj
+eyJoaXN0b3J5IjpbLTU5ODE3ODU4OCwtMTgzODQwNzkzMCwtMj
 EwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1
 Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MD
 c1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcs
