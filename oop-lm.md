@@ -156,10 +156,13 @@ public class Character
  public int health = 100;  
 }
 ```
+### Public Variables in Unity
+
+In unity when we create a public variable in code it is made available to the inspector (click) and we can assign a value to that variable from the unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. (click) As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE5NTAwMSwxNzc0ODM4NjUsLTE4Nj
-ExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5
-ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLT
-ExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3
-NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbLTIwNjk4Mzc1ODgsMTc3NDgzODY1LC0xOD
+YxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgw
+OTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC
+0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEy
+Nzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
 -->
