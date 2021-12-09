@@ -122,8 +122,7 @@ public bool isAlive;
 }
 ```
 and then when you instantiate a new class  you can easily access the variables using the name of the new instance and change them just as you would with normal variables.
-
-
+```c#
 //create an instance of “character”
 Character enemy = new Character();
 
@@ -132,9 +131,10 @@ enemy.name = “Blackbeard”;
 enemy.strength = 25;  
 enemy.health = 15;  
 enemy.isAlive = true;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTI0OTU0MSw5MzQ5NjYyMjYsLTEzNz
-k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
-OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNj
-ddfQ==
+eyJoaXN0b3J5IjpbOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OT
+QwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5
+NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQxOTgxMTI2N1
+19
 -->
