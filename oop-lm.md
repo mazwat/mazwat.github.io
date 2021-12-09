@@ -413,6 +413,9 @@ Fruit has many colours
 Fruit has many colours
 Fruit has many colours
 ```
+### Override
+
+Using the keyword ‘override’ we can effectively allow child methods to override the parent.
 ```c#
 class  Fruit  // Base class (parent)
 {
@@ -421,7 +424,6 @@ class  Fruit  // Base class (parent)
 		Console.WriteLine(“Fruit has many colours”);
 	}
 }
-
 class  Strawberry : Fruit  // Derived class (child)
 {
 	public  override void fruitColour()
@@ -438,7 +440,7 @@ class  Kiwi : Fruit  // Derived class (child)
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTk5NTI5Myw3ODI5MjMyOTMsODQ5MD
+eyJoaXN0b3J5IjpbLTIyMDg4MDczMiw3ODI5MjMyOTMsODQ5MD
 UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
 MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
 k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
