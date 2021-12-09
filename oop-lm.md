@@ -242,13 +242,13 @@ n this example class ‘player’ we have a variable called ‘health’. Conven
 public  class  Player
 {
 	//Member variables can be referred to as  fields.
-	public int health;
+	private int health;
 	//Health is a basic property
 	public int Health
 	{
 		get
 		{
-		//Some other code
+			//Some other code
 		}
 		set
 		{
@@ -257,12 +257,13 @@ public  class  Player
 	}
 }
 ```
+In this example class ``player`` we have a variable called ``health``. Conventionally when we want to share the contents of a variable, in the case of classes we can refer to them as fields (click) we would make it public, but there is a better more secure way.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyOTAzNjM2LC0xNDUwNzU4NzMxLDM3Nz
-IzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2
-LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMz
-M2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIy
-NiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC
-0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQx
-OTgxMTI2N119
+eyJoaXN0b3J5IjpbMTc3MjQzMzcxOCwtMTQ1MDc1ODczMSwzNz
+cyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2
+NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLT
+MzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYy
+MjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MS
+wtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0
+MTk4MTEyNjddfQ==
 -->
