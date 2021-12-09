@@ -336,30 +336,23 @@ class Game
 	// Create a myCar object
 	Banana myFruit1 = new Banana();
 	Apple  myFruit2 = new  Apple();
+	
 	// Call the eatFruit() method (From the Fruit class) on the myFruit object
+	myFruit1.eatFruit();myFruit2.eatFruit();
 
-myFruit1.eatFruit();
-
-myFruit2.eatFruit();
-
-  
-
-// Print value of the fruit type field (from the Fruit class) and the value of the fruitName from the Banana class
-
-Console.WriteLine(“ name- “ + myFruit1.fruitName);
-
-Console.WriteLine(“ name- “ + myFruit2.fruitName);
-
-  
-
+	// Print value of the fruit type field (from the Fruit class) and the 
+	// value of the fruitName from the Banana class
+	Console.WriteLine(“ name- “ + myFruit1.fruitName);
+	Console.WriteLine(“ name- “ + myFruit2.fruitName);
 }
 ```
+Here you can see that if we create  a new instance of any of the children we can activate both the parent methods as well as the child ones. As they are inherited.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM2ODk2MzksNjk3OTM1NTE5LC0yMT
-g1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAx
-LC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
-gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
-MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
-c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
-NDk1OTFdfQ==
+eyJoaXN0b3J5IjpbMTA3MjY0NTQxMCw2OTc5MzU1MTksLTIxOD
+U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
+LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
+M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
+NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
+k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
+OTU5MV19
 -->
