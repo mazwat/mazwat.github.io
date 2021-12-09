@@ -312,42 +312,27 @@ Inheritance is all about a parent chid relationship. The class Fruit has it's ow
 ```c#
 class  Fruit  // base class (parent)
 {
-protected  string  foodType = “Fruit"; // Weapon field
-
-public void eatFruit() // Weapon method
-
-{
-
-Console.WriteLine(“Eating:” + foodType);
-
+	protected  string  foodType = “Fruit"; // Weapon field
+	public void eatFruit() // Weapon method
+	{
+		Console.WriteLine(“Eating:” + foodType);
+	}
 }
-
-}
-
-  
-
 class  Banana : Fruit  // derived class (child)
-
 {
-
-public  string  fruitName = “Banana”; // Gun field
-
+	public  string  fruitName = “Banana”; // Gun field
 }
-
-class  Apple : Fruit  // derived class (child)
-
+	class  Apple : Fruit  // derived class (child)
 {
-
 public  string  fruitName = “Apple”; // Gun field
-
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzA5OTU3Niw2OTc5MzU1MTksLTIxOD
-U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
-LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
-M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
-NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
-k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
-OTU5MV19
+eyJoaXN0b3J5IjpbLTE4MDA0MjU2NzgsNjk3OTM1NTE5LC0yMT
+g1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAx
+LC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
+gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
+MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
+c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
+NDk1OTFdfQ==
 -->
