@@ -479,6 +479,8 @@ Another useful extension to inheritance is Composition and the use of Interfaces
 Another useful extension to inheritance is Composition and the use of Interfaces. When considering a use case it is worth thinking about whether you have general rules or specialist rules. Inheritance is great when you have a cascading tree of dependencies. The rule of inheritance is that it's a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
 
 ### Composition using Interfaces
+
+An Interface defines a contract that must be implemented by a class. The interface doesn’t provide any functionality, just a signature that must be implement by a class which implements the interface. The interface is defined by using ‘I’ keyword (click) followed by the name of interface and it has no body but just the method it is linked to . Class ``Kiwi`` can now have a series of Interfaces that can be accessed.
 ```c#
 // Interface
 interface  IFruit
@@ -493,34 +495,23 @@ interface  IfruitColour
 class  Kiwi : IFruit, IfruitColour
 {
 	public  string  foodType = "Fruit";
-public void eatFruit()
-
-{
-
-Console.WriteLine("Eating:" + foodType);
-
-}
-
-public  string  fruitType = "Kiwi";
-
-public  void  fruitColour()
-
-{
-
-Console.WriteLine("This "+fruitType +"is Green");
-
-}
-
-  
-
+	public void eatFruit()
+	{
+		Console.WriteLine("Eating:" + foodType);
+	}
+	public  string  fruitType = "Kiwi";
+	public  void  fruitColour()
+	{
+		Console.WriteLine("This "+fruitType +"is Green");
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzY3MDk1LDI4MDc0NDUyMywtMTgzOD
-QwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUs
-MTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3Mj
-YwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2
-ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNj
-cwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAz
+eyJoaXN0b3J5IjpbMTY0MTEwNjA4MSwtNjQ3NjcwOTUsMjgwNz
+Q0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5
+Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NT
+c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
+NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
+g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
 XX0=
 -->
