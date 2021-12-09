@@ -225,11 +225,17 @@ Character hero = new Character();
 hero.health = 10;  
 int playerHealth = hero.updateHealthAndStrength(20, 15);
 ```
+
+### Memory allocation of Objects
+
+It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
+![Memory Allocation ](images/memory1.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5ND
-E2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgw
-MTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5Mz
-Q5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3
-NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNj
-csLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbMTk2MDEzMDQyNCwtNTE2NTY2OTc2LDY4MD
+Y5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAw
+NywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOT
+gwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMTExNTQz
+ODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5NTkxLC0xMjc3NDU0Nj
+M5LDYwMTExOTI2NywtMTQxOTgxMTI2N119
 -->
