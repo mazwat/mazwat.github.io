@@ -388,7 +388,7 @@ class  Kiwi : Fruit  // Derived class (child)
 	}
 }
 ```
-This can give confusing results as the base class or parent overrides the child methods due to inheritance. We can overcome this using polymorphism.
+This can give confusing results as the base class or parent overrides the child methods due to inheritance. We can overcome this using **override**.
 ```c#
 class  Game
 {
@@ -411,11 +411,11 @@ Fruit has many colours
 Fruit has many colours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNT
-gxNTMsNjk3OTM1NTE5LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0
-NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MT
-I3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0x
-OTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mj
-c0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUx
-XX0=
+eyJoaXN0b3J5IjpbMjAyMDQ4OTgyNiw3ODI5MjMyOTMsODQ5MD
+UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
+MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
+k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
+NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5OD
+A5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODBd
+fQ==
 -->
