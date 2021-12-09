@@ -29,7 +29,7 @@ page_nav:
 ![OOP Terms](images/oop-terms-pie.png)
 
 
-OOP has a number key concepts that we need to understand in order to make use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
+OOP has a number of key concepts that we need to understand in order to make effective use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
 
  **Object Orientated Programming (OOP)** is the  dominant paradigm in computing and development. Most modern Programming Languages are OOP
 
@@ -105,6 +105,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjIyMzUwNCwtMTIwNjU0OTU5MSwtMT
-I3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbMzYxNjY3MTMyLC0xMjA2NTQ5NTkxLC0xMj
+c3NDU0NjM5LDYwMTExOTI2NywtMTQxOTgxMTI2N119
 -->
