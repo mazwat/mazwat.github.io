@@ -49,7 +49,7 @@ When designing games we talk about *’enemies’* or *’weapons’* with their
 
 In OOP we define these categories as **objects** and the subcategory as a **property**.
 
-![Pixel objects](images/pixel-objects. png)
+![Pixel objects](images/pixel-objects.png)
 
 ### Principle Terminology
 
@@ -105,6 +105,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMDc0Njc3LC0xMjc3NDU0NjM5LDYwMT
-ExOTI2NywtMTQxOTgxMTI2N119
+eyJoaXN0b3J5IjpbLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNj
+AxMTE5MjY3LC0xNDE5ODExMjY3XX0=
 -->
