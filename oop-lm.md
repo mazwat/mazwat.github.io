@@ -99,11 +99,12 @@ public class Character
 }
 ```
 We use the name of the class as a data type and we can then create new unique variables that contain the properties of that class.
-
+```c#
 Character hero = new Character();  
 Character enemy = new Character();  
 Character guide = new Character();
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NTAxLC0xMjc3NDU0NjM5LDYwMTExOT
-I2NywtMTQxOTgxMTI2N119
+eyJoaXN0b3J5IjpbMzgyNDk0NjA1LC0xMjc3NDU0NjM5LDYwMT
+ExOTI2NywtMTQxOTgxMTI2N119
 -->
