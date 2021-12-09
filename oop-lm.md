@@ -327,12 +327,13 @@ class  Apple : Fruit  // derived class (child)
 	public  string  fruitName = “Apple”; // Fruit field
 }
 ```
+As previously specified inheritance is about classes that inherit the variables and methods of their parent. This is defined by the colon operator. In fact it’s written with the child first and the parent after. In the code example form before we have the parent Fruit and the child banana. This goes back to our first discussion about OOP being about categorising. Inheritance is all about objects and their relationship. The child has access to both its parents features and its own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTUxMjc2Myw2OTc5MzU1MTksLTIxOD
-U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
-LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
-M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
-NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
-k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
-OTU5MV19
+eyJoaXN0b3J5IjpbLTExNzA4MTE3NTMsNjk3OTM1NTE5LC0yMT
+g1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAx
+LC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
+gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
+MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
+c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
+NDk1OTFdfQ==
 -->
