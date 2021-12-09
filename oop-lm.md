@@ -355,12 +355,15 @@ Here you can see that if we create  a new instance of any of the children we can
 “name- banana”
 “name- apple”
 ```
+### Unity & Inheritance from MonoBehaviour
+
+Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a parent of most scripts (clas it is auto defined when you create a script in Unity. Any child say ‘pubVar’ in the example has access to the principle Monobehaviour methods like Start and Update (click) as well as a range of others (click)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxOD
-U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
-LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
-M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
-NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
-k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
-OTU5MV19
+eyJoaXN0b3J5IjpbMTY5ODIzOTQxOCwxMjE4MjU4MTUzLDY5Nz
+kzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMx
+LDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MT
+Y1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAx
+NSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzND
+k2NjIyNiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1
+MjcxXX0=
 -->
