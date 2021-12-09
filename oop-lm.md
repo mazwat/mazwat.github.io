@@ -208,8 +208,9 @@ Here you can see we created the instance of ``hero`` and set it’s initial heal
 ```c#
 public class  Character  
 {  
-	public  string name;  
-	public  float strength;public  int health;
+	public string name;  
+	public float strength;
+	public int health;
 
 	public int updateHealthStrength(int newHealth, int newStrength)  
 	{  
@@ -312,19 +313,19 @@ Inheritance is all about a parent chid relationship. The class ``Fruit`` has it'
 ```c#
 class  Fruit  // base class (parent)
 {
-	protected  string  foodType = “Fruit"; // Weapon field
+	protected  string  foodType = "Fruit"; // Weapon field
 	public void eatFruit() // Weapon method
 	{
-		Console.WriteLine(“Eating:” + foodType);
+		Console.WriteLine("Eating:" + foodType);
 	}
 }
 class  Banana : Fruit  // derived class (child)
 {
-	public  string  fruitName = “Banana”; // Fruit field
+	public  string  fruitName = "Banana"; // Fruit field
 }
 class  Apple : Fruit  // derived class (child)
 {
-	public  string  fruitName = “Apple”; // Fruit field
+	public  string  fruitName = "Apple"; // Fruit field
 }
 ```
 As previously specified inheritance is about classes that inherit the variables and methods of their parent. This is defined by the colon operator. In fact it’s written with the child first and the parent after. In the code example form before we have the parent ``Fruit`` and the child ``banana``. This goes back to our first discussion about OOP being about categorising. Inheritance is all about objects and their relationship. The child has access to both its parents features and its own.
@@ -344,16 +345,16 @@ class Main
 
 	// Print value of the fruit type field (from the Fruit class) 
 	// and the value of the fruitName from the Banana class
-	Console.WriteLine(“ name- “ + myFruit1.fruitName);
-	Console.WriteLine(“ name- “ + myFruit2.fruitName);
+	Console.WriteLine(" name- " + myFruit1.fruitName);
+	Console.WriteLine(" name- " + myFruit2.fruitName);
 }
 ```
 Here you can see that if we create  a new instance of any of the children we can activate both the parent methods as well as the child ones. As they are inherited. The output would look like this:
 ```
-”Eating: Fruit”
-”Eating: Fruit”
-“name- banana”
-“name- apple”
+Eating: Fruit
+Eating: Fruit
+name- banana
+name- apple
 ```
 ### Unity & Inheritance from MonoBehaviour
 
@@ -406,15 +407,15 @@ class  Game
 The output would be this:
 ```
 Fruit has many colours
-“Fruit has many colours”
-“Fruit has many colours”
+Fruit has many colours
+Fruit has many colours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc5NDQ1Nyw4NDkwNTIxNSwxMjE4Mj
-U4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0x
-NDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NT
-EyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywt
-MTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNj
-I3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMTExNTQzODc1
-MV19
+eyJoaXN0b3J5IjpbOTI1ODY5OTIsODQ5MDUyMTUsMTIxODI1OD
+E1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1
+MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMj
+csMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5
+NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNz
+Q4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTFd
+fQ==
 -->
