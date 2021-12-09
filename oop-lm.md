@@ -24,7 +24,7 @@ page_nav:
 
 # Object Oriented Programming
 
-## Introduction to OOP**
+## Introduction to OOP
 
 ![OOP Terms](images/oop-terms-pie.png)
 
@@ -49,7 +49,7 @@ When designing games we talk about *’enemies’* or *’weapons’* with their
 
 In OOP we define these categories as **objects** and the subcategory as a **property**.
 
-![Pixel objects](pixel-objects. png)
+![Pixel objects](images/pixel-objects. png)
 
 ## Principle Terminology
 
@@ -63,7 +63,7 @@ In OOP we define these categories as **objects** and the subcategory as a **prop
 
 ## OOP in Unity
 
-![Unity Class](unity-class.png)
+![Unity Class](images/unity-class.png)
 
 Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
 
@@ -88,5 +88,6 @@ Now when we get to thinking about adding a second character it starts to get mes
 
 This is where classes come in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xND
+E5ODExMjY3XX0=
 -->
