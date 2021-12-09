@@ -156,7 +156,7 @@ public class Character
  public int health = 100;  
 }
 ```
-##  Public Variables in Unity
+###  Public Variables in Unity
 
 ![Unity Public Variables](images/unity-variable.jpg)
 
@@ -226,7 +226,7 @@ Character hero = new Character();
 hero.health = 10;  
 int playerHealth = hero.updateHealthAndStrength(20, 15);
 ```
-## Memory allocation of Objects
+### Memory allocation of Objects
 
 It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
 
@@ -537,11 +537,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1NTYxMDksLTExMzEwODUsLTY0Nz
-Y3MDk1LDI4MDc0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5
-MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
-U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwz
-NzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NT
-I2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTVd
+eyJoaXN0b3J5IjpbLTE1MjU3NDkwMTksLTE4Mzc1NTYxMDksLT
+ExMzEwODUsLTY0NzY3MDk1LDI4MDc0NDUyMywtMTgzODQwNzkz
+MCwtMjEwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxOD
+I1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwt
+MTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OT
+UxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDdd
 fQ==
 -->
