@@ -441,18 +441,15 @@ class  Kiwi : Fruit  // Derived class (child)
 ```
 ```c#
 class  Game
-
 {
-
-static  void  Main(string[] args)
-
-{
-
-Fruit  myFruit = new  Animal(); // Create a Animal object
-
-Fruit  myStrawberry = new  Strawberry(); // Create a Pig object
-
-Fruit  myKiwi = new  Kiwi(); // Create a Dog object
+	static  void  Main(string[] args)
+	{
+		// Create a Fruit object
+		Fruit  myFruit = new  Animal(); 
+		// Create a Strawberry object
+		Fruit  myStrawberry = new  Strawberry();
+		// Create a Kiwi object 
+		Fruit  myKiwi = new  Kiwi(); 
 
   
 
@@ -465,8 +462,9 @@ myKiwi.fruitColour();
 }
 
 }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4OTQ3MDQsLTIxMDI4Njg5OTEsNz
+eyJoaXN0b3J5IjpbLTEzMDc5NTg1ODksLTIxMDI4Njg5OTEsNz
 gyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5
 LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3Mj
 MxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYs
