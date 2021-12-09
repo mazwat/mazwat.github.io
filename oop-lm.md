@@ -451,20 +451,20 @@ class  Game
 		// Create a Kiwi object 
 		Fruit  myKiwi = new  Kiwi(); 
 
-  
-
-myFruit.fruitColour();
-
-myStrawberry.fruitColour();
-
-myKiwi.fruitColour();
-
-}
-
+		myFruit.fruitColour();
+		myStrawberry.fruitColour();
+		myKiwi.fruitColour();
+	}
 }
 ```
+The output would then become this:
+```
+Fruit has many colours
+Red
+Green
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc5NTg1ODksLTIxMDI4Njg5OTEsNz
+eyJoaXN0b3J5IjpbLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNz
 gyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5
 LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3Mj
 MxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYs
