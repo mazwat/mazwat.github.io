@@ -517,17 +517,21 @@ class  Game
 	Kiwi.fruitColour();
 }
 ```
+The class ``Kiwi`` has interfaces ``IFruit`` and the ``IFruitColour`` linked to it, so a new instance can call the methods ``eatFruit`` and ``FruitColor``. In this way a class can be composed of a shopping list of methods rather than being tied into a strict inheritance model.
+
 You then get this output:
 ```
 Eating Fruit
 This Kiwi is green
 ```
+
+In this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNDI2MzY4LC02NDc2NzA5NSwyODA3ND
-Q1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNzgyOTIzMjkz
-LDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nz
-g0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01
-MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzOD
-Y1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzZd
-fQ==
+eyJoaXN0b3J5IjpbLTQwNTU4NjQ5MiwtNjQ3NjcwOTUsMjgwNz
+Q0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5
+Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NT
+c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
+NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
+g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
+XX0=
 -->
