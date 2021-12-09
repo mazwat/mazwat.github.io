@@ -132,9 +132,23 @@ enemy.strength = 25;
 enemy.health = 15;  
 enemy.isAlive = true;
 ```
+
+### Encapsulation - Public vs Private members
+
+Let’s add another concept - Encapsulation. In order to set a variable to public you have to define it using the word public preceding the variable type. If you want create a private variable you can explicitly define it as such using the word private (click). Private means that the variable can’t be accessed from outside the class. If you don’t include the word private or public the variable is by default private (click). These different states are also known as access modifiers.
+
+public class  Character  
+{  
+public  string name;  
+public  float strength;public  int health;
+
+//private member variable, Not available outside the class  
+private  bool isAlive;//by default member variables are private  
+int score;  
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OT
-QwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5
-NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQxOTgxMTI2N1
-19
+eyJoaXN0b3J5IjpbLTE5NjA0MzM0MzUsOTgwNjI3NDg3LDkzND
+k2NjIyNiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1
+MjcxLC0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2Ny
+wtMTQxOTgxMTI2N119
 -->
