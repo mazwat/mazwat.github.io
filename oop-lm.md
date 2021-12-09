@@ -147,7 +147,6 @@ public class  Character
  int score;  
 }
 ```
-
 Remember that we can set the initial variable values inside the class. However if we don’t the default value will be ‘nil’.
 ```c#
 public class Character  
@@ -158,9 +157,9 @@ public class Character
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOT
-Q1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0
-ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLD
-E3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAx
-MTE5MjY3LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTE3ODE5NTAwMSwxNzc0ODM4NjUsLTE4Nj
+ExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5
+ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLT
+ExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3
+NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
