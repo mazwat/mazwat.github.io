@@ -30,8 +30,6 @@ page_nav:
 
 Object-oriented programming (OOP) is a computer programming model that organizes software design around **data, or objects**, rather than **functions and logic**.
 
-OOP has a number of key concepts that we need to understand in order to make effective use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
-
  **Object Orientated Programming (OOP)** is the  dominant paradigm in computing and development. Most modern Programming Languages are OOP
 
 -   **C++** - Mixed Paradigm, but supports OOP
@@ -48,11 +46,13 @@ Sea and land, sand and soil, plants and animals. Within each category we have su
 
 When designing games we talk about *’enemies’* or *’weapons’* with their own abilities or differences. Each **category** contains **subcategories**.
 
-In OOP we define these categories as **objects** and the subcategory as a **property**. The **Potion** object can have the property **type** which could be set to **blue**.
+In OOP we define these categories as **objects** and the subcategory as a **property**. The **potion** object could have the property **colour** which could be set to **blue**.
 
 ![Pixel objects](images/pixel-objects.png)
 
 ### Principle Terminology
+
+OOP has a number of key concepts that we need to understand in order to make effective use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
 
 -   **Objects** - is an abstract data type. It can include multiple properties and methods and may even contain other objects.
 -   **Classes** - a class is a template definition of the method s and variables in a particular kind of object.
@@ -107,7 +107,7 @@ Character guide = new Character();
 ```
 ![Unity Class](images/blueprint.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMT
-IwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4
-MTEyNjddfQ==
+eyJoaXN0b3J5IjpbMTMyMzgyMjAwOCwtMTExNTQzODc1MSwxNz
+Q5MTc1MjcxLC0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTEx
+OTI2NywtMTQxOTgxMTI2N119
 -->
