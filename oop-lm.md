@@ -47,7 +47,7 @@ Sea and land, sand and soil, plants and animals. Within each category we have su
 
 When designing games we talk about *’enemies’* or *’weapons’* with their own abilities or differences. Each **category** contains **subcategories**.
 
-In OOP we define these categories as **objects** and the subcategory as a **property**.
+In OOP we define these categories as **objects** and the subcategory as a **property**. The **Potion** object can have the property **type**
 
 ![Pixel objects](images/pixel-objects.png)
 
@@ -105,6 +105,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNj
-AxMTE5MjY3LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTM1NTU1NzgxNiwtMTIwNjU0OTU5MSwtMT
+I3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
