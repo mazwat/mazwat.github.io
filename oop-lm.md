@@ -39,7 +39,7 @@ OOP has a number key concepts that we need to understand in order to make use of
 -   **Python** - Mixed Paradigm, but supports OOP
 -   **Javascript** - Mixed Paradigm, but supports OOP
 
-## OOP is about categorising
+### OOP is about categorising
 
 It has became dominant because of how we humans describe the world. We define and separate things on the basis of categories otherwise known as taxonomy.
 
@@ -51,7 +51,7 @@ In OOP we define these categories as **objects** and the subcategory as a **prop
 
 ![Pixel objects](images/pixel-objects. png)
 
-## Principle Terminology
+### Principle Terminology
 
 -   **Objects** - is an abstract data type. It can include multiple properties and methods and may even contain other objects.
 -   **Classes** - a class is a template definition of the method s and variables in a particular kind of object.
@@ -61,7 +61,7 @@ In OOP we define these categories as **objects** and the subcategory as a **prop
 -   **Inheritance** – Objects can be related to other objects
 -   **Polymorphism** – Objects can be used via references to their parent class
 
-## OOP in Unity
+### OOP in Unity
 
 ![Unity Class](images/unity-class.png)
 
@@ -105,6 +105,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTUzMTM3MiwtMTI3NzQ1NDYzOSw2MD
-ExMTkyNjcsLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbNzYyMDc0Njc3LC0xMjc3NDU0NjM5LDYwMT
+ExOTI2NywtMTQxOTgxMTI2N119
 -->
