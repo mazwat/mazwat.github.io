@@ -289,7 +289,7 @@ public  class  Player
 ```
 You can see that the property ``Health`` with a capital imposes modifiers on the private field ``health``. The external method can get a return of the value of the experience field so this is what is read which is get, and the experience field can be written to using the contextual keyword ``value`` which will set the value to whatever is defined in the method that is writing to it. This control of private and public through get and set is an extension to the concept of **encapsulation**.
 
-In a new class called ``game`` We create an instance or an object called ‘newPlayer’ from the class ‘Player’ (click) and now we can now adjust the field ‘health’ through the property ‘Health’ in much the same way as we did changing public member variables except in this instance the variable remains private but it has a read write access modifier applied to it.
+In a new class called ``game`` We create an instance or an object called ``newPlayer`` from the class ``Player`` and now we can now adjust the field ``health`` through the property ``Health`` in much the same way as we did changing public member variables except in this instance the variable remains private but it has a read write access modifier applied to it.
 ```c#
 public  class  Game
 {
@@ -305,11 +305,11 @@ public  class  Game
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTg5MTA1NiwtMjE4NTc4NDQsMTAxND
-cyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2
-LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MT
-E2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4
-MDMsOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMT
-ExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5NTkxLC0xMjc3
-NDU0NjM5XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ0Nzg0NDMsLTIxODU3ODQ0LDEwMT
+Q3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3
+Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4Nj
+ExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5
+ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEwODAsLT
+ExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMTI3
+NzQ1NDYzOV19
 -->
