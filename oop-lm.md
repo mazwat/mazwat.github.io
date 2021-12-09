@@ -261,13 +261,13 @@ In this example class ``player`` we have a variable called ``health``. Conventio
 
 Properties behave more like methods and we can enclose them using curly brackets and we can add other functions inside them. Inside our property we are going to use ``get`` and ``set`` and these are our known as **access modifiers**.
 
-Now you may think this is a complicated way to access a private variable why not just make it public. Lets have a little look at get and set
+Now you may think this is a complicated way to access a private variable why not just make it public. Lets have a little look at ``get`` and ``set``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcwOTk1ODAsLTE0NTA3NTg3MzEsMz
-c3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUy
-NjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC
-0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2
-MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNz
-EsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0x
-NDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTcwMDk1MzY5NCwtMTQ1MDc1ODczMSwzNz
+cyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2
+NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLT
+MzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYy
+MjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MS
+wtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0
+MTk4MTEyNjddfQ==
 -->
