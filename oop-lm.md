@@ -480,7 +480,7 @@ Another useful extension to inheritance is Composition and the use of Interfaces
 
 ### Composition using Interfaces
 
-An Interface defines a contract that must be implemented by a class. The interface doesn’t provide any functionality, just a signature that must be implement by a class which implements the interface. The interface is defined by using ‘I’ keyword (click) followed by the name of interface and it has no body but just the method it is linked to . Class ``Kiwi`` can now have a series of Interfaces that can be accessed.
+An Interface defines a contract that must be implemented by a class. The interface doesn’t provide any functionality, just a signature that must be implement by a class which implements the interface. The interface is defined by using ``I`` keyword followed by the name of interface and it has no body but just the method it is linked to. In the example class ``Kiwi`` can now have a series of Interfaces that can be accessed.
 ```c#
 // Interface
 interface  IFruit
@@ -506,12 +506,37 @@ class  Kiwi : IFruit, IfruitColour
 	}
 }
 ```
+```c#
+class  Game
+
+{
+
+// Create a myCar object
+
+Kiwi myKiwi = new Kiwi();
+
+  
+
+// Call the methods invoked by the interface
+
+Kiwi.eatFruit();
+
+Kiwi.fruitColour();
+
+  
+
+  
+
+  
+
+}
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTEwNjA4MSwtNjQ3NjcwOTUsMjgwNz
-Q0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5
-Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NT
-c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
-NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
-g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
-XX0=
+eyJoaXN0b3J5IjpbMTM1NDUxMzU4LC02NDc2NzA5NSwyODA3ND
+Q1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNzgyOTIzMjkz
+LDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nz
+g0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01
+MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzOD
+Y1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzZd
+fQ==
 -->
