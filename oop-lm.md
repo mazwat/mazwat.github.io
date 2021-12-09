@@ -262,12 +262,16 @@ In this example class ``player`` we have a variable called ``health``. Conventio
 Properties behave more like methods and we can enclose them using curly brackets and we can add other functions inside them. Inside our property we are going to use ``get`` and ``set`` and these are our known as **access modifiers**.
 
 Now you may think this is a complicated way to access a private variable why not just make it public. Lets have a little look at ``get`` and ``set``.
+
+### Access Modifiers
+
+We can use the analogy of a house. If we set our field to public anyone or any method call can access it. If we set it to private it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ‘GET’ something. in other instances we want it to be writeable, so we can ‘SET’ something (cl but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure (click) because we are not exposing all variables at all times.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3Nz
-IzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2
-LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMz
-M2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIy
-NiwtMTM3OTQwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC
-0xMjA2NTQ5NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQx
-OTgxMTI2N119
+eyJoaXN0b3J5IjpbLTI1Nzg2MTgzOCwxMDE0NzI2MDYsLTE0NT
+A3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3
+LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOT
+Q1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0
+ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLD
+E3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAx
+MTE5MjY3XX0=
 -->
