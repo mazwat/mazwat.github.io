@@ -135,7 +135,7 @@ enemy.isAlive = true;
 
 ### Encapsulation - Public vs Private members
 
-Let’s add another concept - Encapsulation. In order to set a variable to public you have to define it using the word public preceding the variable type. If you want create a private variable you can explicitly define it as such using the word private (click). Private means that the variable can’t be accessed from outside the class. If you don’t include the word private or public the variable is by default private (click). These different states are also known as access modifiers.
+Let’s add another concept - Encapsulation. In order to set a variable to public you have to define it using the word ``public`` preceding the variable type. If you want create a private variable you can explicitly define it as such using the word private (click). Private means that the variable can’t be accessed from outside the class. If you don’t include the word private or public the variable is by default private (click). These different states are also known as access modifiers.
 ```c#
 public class  Character  
 {  
@@ -160,9 +160,9 @@ public class Character
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU0NTgwMTUsLTMzNjIzMzEzNiwxMT
-Q5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNzk0MDEw
-ODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0OTU5MS
-wtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
-
+eyJoaXN0b3J5IjpbLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLT
+MzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYy
+MjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MS
+wtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0
+MTk4MTEyNjddfQ==
 -->
