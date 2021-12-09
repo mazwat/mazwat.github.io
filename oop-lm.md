@@ -205,11 +205,26 @@ hero.health = 10;
 int playerHealth = hero.updateHealth(20);
 ```
 Here you can see we created the instance of ``hero`` and set it’s initial health to 10 and subsequently we update that health using a method in the variable that will pass the value of 20 to the ‘hero’ instance of the class. The final value of ``hero.health`` will be 30.
+```c#
+public class  Character  
+{  
+public  string name;  
+public  float strength;public  int health;
+
+public int updateHealthAndStrength(int newHealth, int newStrength)  
+{  
+int health = health + newHealth;  
+int strength = strength + newStrength;  
+return health;  
+}  
+}
+```
+We can easily add more parameters to our function (click) and call them in the same way we did before (click)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3ND
-gzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMx
-MzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMz
-c5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1
-NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC0xNDE5ODExMj
-Y3XX0=
+eyJoaXN0b3J5IjpbMTI4NTQ5MzAwOCw2ODA2OTUxMjcsMTQ5ND
+E2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgw
+MTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5Mz
+Q5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3
+NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNj
+csLTE0MTk4MTEyNjddfQ==
 -->
