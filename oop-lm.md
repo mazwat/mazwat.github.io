@@ -322,17 +322,17 @@ class  Banana : Fruit  // derived class (child)
 {
 	public  string  fruitName = “Banana”; // Fruit field
 }
-	class  Apple : Fruit  // derived class (child)
+class  Apple : Fruit  // derived class (child)
 {
-public  string  fruitName = “Apple”; // Fruit field
+	public  string  fruitName = “Apple”; // Fruit field
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxOTQxNzA3LDY5NzkzNTUxOSwtMjE4NT
-c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
-NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
-g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
-LDExNDk4MDk4MDMsOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OT
-QwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5
-NTkxXX0=
+eyJoaXN0b3J5IjpbMTU3MTUxMjc2Myw2OTc5MzU1MTksLTIxOD
+U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
+LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
+M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
+NiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYyMjYsLTEzNz
+k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
+OTU5MV19
 -->
