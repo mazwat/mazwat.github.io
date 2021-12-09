@@ -28,6 +28,7 @@ page_nav:
 
 ![OOP Terms](images/oop-terms-pie.png)
 
+Object-oriented programming (OOP) is a computer programming model that organizes software design around **data, or objects**, rather than **functions and logic**.
 
 OOP has a number of key concepts that we need to understand in order to make effective use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
 
@@ -105,6 +106,6 @@ Character enemy = new Character();
 Character guide = new Character();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNjY3MTMyLC0xMjA2NTQ5NTkxLC0xMj
-c3NDU0NjM5LDYwMTExOTI2NywtMTQxOTgxMTI2N119
+eyJoaXN0b3J5IjpbMTc0OTE3NTI3MSwtMTIwNjU0OTU5MSwtMT
+I3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNjddfQ==
 -->
