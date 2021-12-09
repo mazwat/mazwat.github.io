@@ -131,7 +131,9 @@ enemy.health = 15;
 enemy.isAlive = true;
 ```
 
-## Encapsulation - Public vs Private members
+## Encapsulation
+ 
+### Public vs Private members
 
 Let’s add another concept - Encapsulation. In order to set a variable to public you have to define it using the word ``public`` preceding the variable type. If you want create a private variable you can explicitly define it as such using the word private (click). Private means that the variable can’t be accessed from outside the class. If you don’t include the word private or public the variable is by default private (click). These different states are also known as access modifiers.
 ```c#
@@ -537,11 +539,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjY4NTkxMSwtMTUyNTc0OTAxOSwtMT
-gzNzU1NjEwOSwtMTEzMTA4NSwtNjQ3NjcwOTUsMjgwNzQ0NTIz
-LC0xODM4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5Myw4ND
-kwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQs
-MTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NT
-Y2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NV19
-
+eyJoaXN0b3J5IjpbLTYwMTEyODE0NywxNzQyNjg1OTExLC0xNT
+I1NzQ5MDE5LC0xODM3NTU2MTA5LC0xMTMxMDg1LC02NDc2NzA5
+NSwyODA3NDQ1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNz
+gyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5
+LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3Mj
+MxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3LDE0OTQxNjUyNjZd
+fQ==
 -->
