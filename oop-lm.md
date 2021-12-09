@@ -265,15 +265,15 @@ Now you may think this is a complicated way to access a private variable why not
 
 ### Access Modifiers
 
-![Access Modifiers](images/memory2.png)
+![Access Modifiers - House analogy](images/getset.png)
 
 We can use the analogy of a house. If we set our field to public anyone or any method call can access it. If we set it to private it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ‘GET’ something. in other instances we want it to be writeable, so we can ‘SET’ something but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure because we are not exposing all variables at all times.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMTQyODExLC0yMTg1Nzg0NCwxMDE0Nz
-I2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYs
-NjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMT
-Y3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgw
-Myw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMT
-E1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0
-NTQ2MzldfQ==
+eyJoaXN0b3J5IjpbLTM3OTMyOTE4MiwtMjE4NTc4NDQsMTAxND
+cyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2
+LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MT
+E2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4
+MDMsOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMT
+ExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5NTkxLC0xMjc3
+NDU0NjM5XX0=
 -->
