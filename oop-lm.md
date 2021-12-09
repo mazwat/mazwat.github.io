@@ -508,31 +508,22 @@ class  Kiwi : IFruit, IfruitColour
 ```
 ```c#
 class  Game
-
 {
-
-// Create a myCar object
-
-Kiwi myKiwi = new Kiwi();
-
-  
-
-// Call the methods invoked by the interface
-
-Kiwi.eatFruit();
-
-Kiwi.fruitColour();
-
-  
-
-  
-
-  
-
+	// Create a myKiwi object
+	Kiwi myKiwi = new Kiwi();
+	
+	// Call the methods invoked by the interface
+	Kiwi.eatFruit();
+	Kiwi.fruitColour();
 }
-``
+```
+You then get this output:
+```
+Eating Fruit
+This Kiwi is green
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDUxMzU4LC02NDc2NzA5NSwyODA3ND
+eyJoaXN0b3J5IjpbNzUzNDI2MzY4LC02NDc2NzA5NSwyODA3ND
 Q1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNzgyOTIzMjkz
 LDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nz
 g0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01
