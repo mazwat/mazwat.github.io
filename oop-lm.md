@@ -188,14 +188,14 @@ This shows how effective OOP can be. We can set-up multiple characters and allow
 ```c#
 public class  Character  
 {  
-public  string name;  
-public  float strength;public  int health;
+	public  string name;  
+	public  float strength;public  int health;
 
-public int updateHealth(int newHealth)  
-{  
-int health = health + newHealth;  
-return health;  
-}  
+	public int updateHealth(int newHealth)  
+	{  
+		int health = health + newHealth;  
+		return health;  
+	}  
 }
 ```
 In this example we have created a function in the character class called ``updateHealth`` with an integer parameter called newHealth (click) and we are going to call it via a method.
@@ -208,23 +208,28 @@ Here you can see we created the instance of ``hero`` and set it’s initial heal
 ```c#
 public class  Character  
 {  
-public  string name;  
-public  float strength;public  int health;
+	public  string name;  
+	public  float strength;public  int health;
 
-public int updateHealthAndStrength(int newHealth, int newStrength)  
-{  
-int health = health + newHealth;  
-int strength = strength + newStrength;  
-return health;  
-}  
+	public int updateHealthAndStrength(int newHealth, int newStrength)  
+	{  
+	int health = health + newHealth;  
+	int strength = strength + newStrength;  
+	return health;  
+	}  
 }
 ```
-We can easily add more parameters to our function (click) and call them in the same way we did before (click)
+We can easily add more parameters to our function (click) and call them in the same way we did before.
+```c#
+Character hero = new Character();  
+hero.health = 10;  
+int playerHealth = hero.updateHealthAndStrength(20, 15);
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTQ5MzAwOCw2ODA2OTUxMjcsMTQ5ND
-E2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgw
-MTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5Mz
-Q5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3
-NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNj
-csLTE0MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbNDk2NzI2MTcsNjgwNjk1MTI3LDE0OTQxNj
+UyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1
+LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OT
+Y2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUy
+NzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC
+0xNDE5ODExMjY3XX0=
 -->
