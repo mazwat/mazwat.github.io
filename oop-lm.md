@@ -476,13 +476,13 @@ Another useful extension to inheritance is Composition and the use of Interfaces
 -   **Composition** - Fruit can be **made up of Kiwi and/or Strawberry**.  
     _You can pick and choose_
 
-Inheritance is great when you have a cascading tree of dependencies. The rule in inheritance is that is a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
+Another useful extension to inheritance is Composition and the use of Interfaces. When considering a use case it is worth thinking about whether you have general rules or specialist rules. Inheritance is great when you have a cascading tree of dependencies. The rule of inheritance is that it's a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzOTkyMTI1LC0xODM4NDA3OTMwLC0yMT
-AyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwxMjE4MjU4MTUz
-LDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNz
-U4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywx
-NDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NT
-Q1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4MDMsOTgwNjI3NDg3
-XX0=
+eyJoaXN0b3J5IjpbMTU2OTg2NTE2OCwtMTgzODQwNzkzMCwtMj
+EwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1
+Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MD
+c1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcs
+MTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5ND
+U0NTgwMTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4
+N119
 -->
