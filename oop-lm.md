@@ -1,0 +1,96 @@
+
+
+
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: COMP140 - Lecture Documentation 1
+
+# Author box
+author:
+    title: Matt Watkins
+    description: Lecturer in Computing at Falmouth University
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+page_nav:
+    next:
+        content: Next page
+        url: '../software-architecture-ws'
+---
+
+# Object Oriented Programming
+
+## Introduction to OOP**
+
+![Add pie chart](images/create-console.png)
+
+
+OOP has a number key concepts that we need to understand in order to make use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
+
+ **Object Orientated Programming (OOP)** is the  dominant paradigm in computing and development. Most modern Programming Languages are OOP
+
+-   **C++** - Mixed Paradigm, but supports OOP
+-   **C#** - OOP
+-   **Java** – OOP
+-   **Python** - Mixed Paradigm, but supports OOP
+-   **Javascript** - Mixed Paradigm, but supports OOP
+
+## OOP is about categorising
+
+It has became dominant because of how we humans describe the world. We define and separate things on the basis of categories otherwise known as taxonomy.
+
+Sea and land, sand and soil, plants and animals. Within each category we have subcategories - plants can be further defined by whether they are trees or shrubs and so on.
+
+When designing games we talk about *’enemies’* or *’weapons’* with their own abilities or differences. Each **category** contains **subcategories**.
+
+In OOP we define these categories as **objects** and the subcategory as a **property**.
+
+![Add pixel objects](images/create-console.png)
+
+## Principle Terminology
+
+-   **Objects** - is an abstract data type. It can include multiple properties and methods and may even contain other objects.
+-   **Classes** - a class is a template definition of the method s and variables in a particular kind of object.
+-   **Encapsulation** – It describes the idea of bundling data and methods that work on that data within one unit. It is also used to hide the internal representation, or state, of an object from the outside.
+-   **Properties** - a member of an object that controls how one field may be accessed and/or modified.
+-   **Composition** – Objects can be composed of other objects
+-   **Inheritance** – Objects can be related to other objects
+-   **Polymorphism** – Objects can be used via references to their parent class
+
+## OOP in Unity
+
+![Add Unity screen shot](images/create-console.png)
+
+Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
+
+A new class is created with the name that you call the file. In this instance a file is called ``pubVar`` and the public class ``pubVar`` is shown at the top of the script.
+
+## Making a Simple Class
+
+You are probably wondering what’s the purpose of a class. Let’s look at an example. We are setting up the variables for a character and then we are going to define these variables for a specific character.
+```c#
+string name;  
+float strength;  
+int health;  
+bool isAlive;
+
+//Create character
+name = “Blackbeard”;  
+strength = 25;  
+health = 15;  
+isAlive = true;
+```
+
+Now when we get to thinking about adding a second character it starts to get messy how do we track different variable values for different characters. Do we need to create completely separate variables for each character this seems very wasteful.
+
+This is where classes come in.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwODE4NzcxOV19
+-->
