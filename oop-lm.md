@@ -524,14 +524,22 @@ You then get this output:
 Eating Fruit
 This Kiwi is green
 ```
+## Conclusion
+In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. It's important th
 
-In this 
+-   **Objects** - is an abstract data type. It can include multiple properties and methods and may even contain other objects.
+-   **Classes** - a class is a template definition of the method s and variables in a particular kind of object.
+-   **Encapsulation** – It describes the idea of bundling data and methods that work on that data within one unit. It is also used to hide the internal representation, or state, of an object from the outside.
+-   **Properties** - a member of an object that controls how one field may be accessed and/or modified.
+-   **Composition** – Objects can be composed of other objects
+-   **Inheritance** – Objects can be related to other objects
+-   **Polymorphism** – Objects can be used via references to their parent class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTU4NjQ5MiwtNjQ3NjcwOTUsMjgwNz
-Q0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5
-Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NT
-c4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwt
-NTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mz
-g2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTkyMzk3MzAsLTY0NzY3MDk1LDI4MD
+c0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMy
+OTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxOD
+U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
+LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
+M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
+Nl19
 -->
