@@ -338,7 +338,8 @@ class Game
 	Apple  myFruit2 = new  Apple();
 	
 	// Call the eatFruit() method (From the Fruit class) on the myFruit object
-	myFruit1.eatFruit();myFruit2.eatFruit();
+	myFruit1.eatFruit();
+	myFruit2.eatFruit();
 
 	// Print value of the fruit type field (from the Fruit class) and the 
 	// value of the fruitName from the Banana class
@@ -348,7 +349,7 @@ class Game
 ```
 Here you can see that if we create  a new instance of any of the children we can activate both the parent methods as well as the child ones. As they are inherited.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjY0NTQxMCw2OTc5MzU1MTksLTIxOD
+eyJoaXN0b3J5IjpbLTUyMTYyNjgyNCw2OTc5MzU1MTksLTIxOD
 U3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEs
 LTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0OD
 M4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLTMzNjIzMzEz
