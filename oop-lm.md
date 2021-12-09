@@ -110,9 +110,11 @@ Character guide = new Character();
 ![Unity Class](images/blueprint.jpg)
 
 A class is a potential object, it is the instructions to create a real object in our code, like a blueprint. Like the relationship between a recipe to make a doughnut and the actual doughnuts that are produced. This is the best way to understand the concept.
+
+In order to access our member variables from outside our class we need to make them public, we do this by adding the public keyword (click) and then when you instantiate a new class (click) you can easily access the variables using the name of the new instance (click) and change them just as you would with normal variables.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDM1OTU2Miw5MzQ5NjYyMjYsLTEzNz
-k0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MSwtMTIwNjU0
-OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0MTk4MTEyNj
-ddfQ==
+eyJoaXN0b3J5IjpbLTY2ODk1MjE5LDkzNDk2NjIyNiwtMTM3OT
+QwMTA4MCwtMTExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5
+NTkxLC0xMjc3NDU0NjM5LDYwMTExOTI2NywtMTQxOTgxMTI2N1
+19
 -->
