@@ -282,18 +282,18 @@ public  class  Player
 		}
 		set
 		{
-		health = value;
+			health = value;
 		}
 	}
 }
 ```
 You can see that the property ``Health`` with a capital imposes modifiers on the private field ``health``. The external method can get a return of the value of the experience field so this is what is read which is get, and the experience field can be written to using the contextual keyword ``value`` which will set the value to whatever is defined in the method that is writing to it. This control of private and public through get and set is an extension to the concept of **encapsulation**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODAyODYzLC0yMTg1Nzg0NCwxMDE0Nz
-I2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYs
-NjgwNjk1MTI3LDE0OTQxNjUyNjYsMTc3NDgzODY1LC0xODYxMT
-Y3MDA3LC0xOTQ1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgw
-Myw5ODA2Mjc0ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMT
-E1NDM4NzUxLDE3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0
-NTQ2MzldfQ==
+eyJoaXN0b3J5IjpbMjA1NDc3MzMzNSwtMjE4NTc4NDQsMTAxND
+cyNjA2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2
+LDY4MDY5NTEyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MT
+E2NzAwNywtMTk0NTQ1ODAxNSwtMzM2MjMzMTM2LDExNDk4MDk4
+MDMsOTgwNjI3NDg3LDkzNDk2NjIyNiwtMTM3OTQwMTA4MCwtMT
+ExNTQzODc1MSwxNzQ5MTc1MjcxLC0xMjA2NTQ5NTkxLC0xMjc3
+NDU0NjM5XX0=
 -->
