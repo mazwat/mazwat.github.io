@@ -357,12 +357,12 @@ Here you can see that if we create  a new instance of any of the children we can
 ```
 ### Unity & Inheritance from MonoBehaviour
 
-![Unity MonoBehaviour](monobehaviour.png)
+![Unity MonoBehaviour](monobehaviour.jpg)
 
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a parent of most scripts, as it is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` and ``Update()`` as well as a range of others.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODc3NTU2MiwxMjE4MjU4MTUzLDY5Nz
+eyJoaXN0b3J5IjpbLTY2ODk1MzAwNiwxMjE4MjU4MTUzLDY5Nz
 kzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMx
 LDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NTEyNywxNDk0MT
 Y1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywtMTk0NTQ1ODAx
