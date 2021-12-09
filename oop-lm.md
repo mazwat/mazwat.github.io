@@ -413,8 +413,47 @@ Fruit has many colours
 Fruit has many colours
 Fruit has many colours
 ```
+```c#
+class  Fruit  // Base class (parent)
+{
+	public  void fruitColour()
+	{
+Console.WriteLine(“Fruit has many colours”);
+
+}
+
+}
+
+class  Strawberry : Fruit  // Derived class (child)
+
+{
+
+public  override void fruitColour()
+
+{
+
+Console.WriteLine(“Red");
+
+}
+
+}
+
+class  Kiwi : Fruit  // Derived class (child)
+
+{
+
+public  override void fruitColour()
+
+{
+
+Console.WriteLine("Green");
+
+}
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDUyMjcyNSw3ODI5MjMyOTMsODQ5MD
+eyJoaXN0b3J5IjpbLTcwNDE0ODIzMSw3ODI5MjMyOTMsODQ5MD
 UyMTUsMTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEw
 MTQ3MjYwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Nj
 k3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2NiwxNzc0ODM4NjUsLTE4
