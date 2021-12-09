@@ -26,7 +26,7 @@ page_nav:
 
 ## Introduction to OOP**
 
-![Add pie chart](images/oop-terms-.png)
+![OOP Terms](images/oop-terms-pie.png)
 
 
 OOP has a number key concepts that we need to understand in order to make use of it. In this lecture we will look at Objects, Classes, Inheritance, Polymorphim, Abstraction and Encapsulation.
@@ -49,7 +49,7 @@ When designing games we talk about *’enemies’* or *’weapons’* with their
 
 In OOP we define these categories as **objects** and the subcategory as a **property**.
 
-![Add pixel objects](images/create-console.png)
+![Pixel objects](pixel-objects. png)
 
 ## Principle Terminology
 
@@ -63,7 +63,7 @@ In OOP we define these categories as **objects** and the subcategory as a **prop
 
 ## OOP in Unity
 
-![Add Unity screen shot](images/create-console.png)
+![Unity Class](unity-class.png)
 
 Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
 
@@ -88,5 +88,5 @@ Now when we get to thinking about adding a second character it starts to get mes
 
 This is where classes come in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzUzODc0LC0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbNjAxMTE5MjY3LC0xNDE5ODExMjY3XX0=
 -->
