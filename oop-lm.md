@@ -26,8 +26,6 @@ page_nav:
 
 ## Introduction to OOP
 
-![OOP Terms](images/oop-terms-pie.png)
-
 Object-oriented programming (OOP) is a computer programming model that organizes software design around **data, or objects**, rather than **functions and logic**.
 
  **Object Orientated Programming (OOP)** is the  dominant paradigm in computing and development. Most modern Programming Languages are OOP
@@ -160,9 +158,9 @@ public class Character
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLT
-MzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYy
-MjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3NTI3MS
-wtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNjcsLTE0
-MTk4MTEyNjddfQ==
+eyJoaXN0b3J5IjpbMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOT
+Q1NDU4MDE1LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0
+ODcsOTM0OTY2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLD
+E3NDkxNzUyNzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAx
+MTE5MjY3LC0xNDE5ODExMjY3XX0=
 -->
