@@ -477,8 +477,57 @@ Another useful extension to inheritance is Composition and the use of Interfaces
     _You can pick and choose_
 
 Another useful extension to inheritance is Composition and the use of Interfaces. When considering a use case it is worth thinking about whether you have general rules or specialist rules. Inheritance is great when you have a cascading tree of dependencies. The rule of inheritance is that it's a strict model as we’ve seen before where things are all part of a larger whole or tree. Composition is where you have a class that you want to include some but maybe not all of a series of other classes.
+
+### Composition using Interfaces
+```c#
+// Interface
+interface  IFruit
+
+{
+
+void  eatFruit(); // interface method (does not have a body)
+
+}
+
+interface  IfruitColour
+
+{
+
+void  fruitColour();  
+}
+
+// Kiwi "implements" the IFruit and IfruitColour interface
+
+class  Kiwi : IFruit, IfruitColour
+
+{
+
+public  string  foodType = “Fruit";
+
+public void eatFruit()
+
+{
+
+Console.WriteLine(“Eating:” + foodType);
+
+}
+
+public  string  fruitType = “Kiwi";
+
+public  void  fruitColour()
+
+{
+
+Console.WriteLine(“This “+fruitType +“is Green”);
+
+}
+
+  
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTg2NTE2OCwtMTgzODQwNzkzMCwtMj
+eyJoaXN0b3J5IjpbLTExMDEyNTM2OSwtMTgzODQwNzkzMCwtMj
 EwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1
 Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MD
 c1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcs
