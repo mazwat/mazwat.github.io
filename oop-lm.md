@@ -238,7 +238,7 @@ However if you create new instances of the class that are referencing an existin
 ## Properties
 
 n this example class ‘player’ we have a variable called ‘health’. Conventionally when we want to share the contents of a variable, in the case of classes we can refer to them as fields (click) we would make it public, but there is a better more secure way.
-```C#
+```c#
 public  class  Player
 {
 	//Member variables can be referred to as  fields.
@@ -263,7 +263,7 @@ Properties behave more like methods and we can enclose them using curly brackets
 
 Now you may think this is a complicated way to access a private variable why not just make it public. Lets have a little look at ``get`` and ``set``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDk1MzY5NCwtMTQ1MDc1ODczMSwzNz
+eyJoaXN0b3J5IjpbMTQ2NDgzOTEwNiwtMTQ1MDc1ODczMSwzNz
 cyMzE5MDEsLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5NDE2NTI2
 NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgwMTUsLT
 MzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5MzQ5NjYy
