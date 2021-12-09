@@ -369,14 +369,14 @@ class  Fruit  // Base class (parent)
 {
 	public  void fruitColour()
 	{
-		Console.WriteLine(“Fruit has many colours”);
+		Console.WriteLine("Fruit has many colours");
 	}
 }
 class  Strawberry : Fruit  // Derived class (child)
 {
 	public  void fruitColour()
 	{
-		Console.WriteLine(“Red");
+		Console.WriteLine2("Red");
 	}
 }
 class  Kiwi : Fruit  // Derived class (child)
@@ -405,12 +405,12 @@ class  Game
 ```
 The output would be this:
 ```
-“Fruit has many colours”
+Fruit has many colours
 “Fruit has many colours”
 “Fruit has many colours”
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzI0MjgyOSw4NDkwNTIxNSwxMjE4Mj
+eyJoaXN0b3J5IjpbMTIwOTc5NDQ1Nyw4NDkwNTIxNSwxMjE4Mj
 U4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0x
 NDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2LDY4MDY5NT
 EyNywxNDk0MTY1MjY2LDE3NzQ4Mzg2NSwtMTg2MTE2NzAwNywt
