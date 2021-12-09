@@ -219,17 +219,17 @@ public class  Character
 	}  
 }
 ```
-We can easily add more parameters to our function (click) and call them in the same way we did before.
+We can easily add more parameters to our function and call them in the same way we did before.
 ```c#
 Character hero = new Character();  
 hero.health = 10;  
 int playerHealth = hero.updateHealthAndStrength(20, 15);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NzI2MTcsNjgwNjk1MTI3LDE0OTQxNj
-UyNjYsMTc3NDgzODY1LC0xODYxMTY3MDA3LC0xOTQ1NDU4MDE1
-LC0zMzYyMzMxMzYsMTE0OTgwOTgwMyw5ODA2Mjc0ODcsOTM0OT
-Y2MjI2LC0xMzc5NDAxMDgwLC0xMTE1NDM4NzUxLDE3NDkxNzUy
-NzEsLTEyMDY1NDk1OTEsLTEyNzc0NTQ2MzksNjAxMTE5MjY3LC
-0xNDE5ODExMjY3XX0=
+eyJoaXN0b3J5IjpbLTUxNjU2Njk3Niw2ODA2OTUxMjcsMTQ5ND
+E2NTI2NiwxNzc0ODM4NjUsLTE4NjExNjcwMDcsLTE5NDU0NTgw
+MTUsLTMzNjIzMzEzNiwxMTQ5ODA5ODAzLDk4MDYyNzQ4Nyw5Mz
+Q5NjYyMjYsLTEzNzk0MDEwODAsLTExMTU0Mzg3NTEsMTc0OTE3
+NTI3MSwtMTIwNjU0OTU5MSwtMTI3NzQ1NDYzOSw2MDExMTkyNj
+csLTE0MTk4MTEyNjddfQ==
 -->
