@@ -101,10 +101,50 @@ public  static  class  Logger
 }
 ```
 #### Change Colour Script for an Icon
+Lets explore this further in an example which is adapted from this medium article:
+[https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73](https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73)
 
-Lets explore this further in an example which is adapted from this medium article
+```c#
+public  class  ChangeColorPropagateColor : MonoBehaviour
+{
+	public Color color;
+	private  SpriteRenderer  _spriteRenderer;
+	private  SpriteRenderer  _spriteRenderer1;
+	private  void  Start()
+		{
+	_spriteRenderer1 = gameObject.GetComponent<SpriteRenderer>();
+
+_spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+
+}
+
+  
+
+void Update()
+
+{
+
+if (Input.GetKeyDown(KeyCode.F))
+
+{
+
+_spriteRenderer.color = new  Color(
+
+Random.Range(0,1.0f), Random.Range(0, 1.0f),Random.Range(0, 1.0f),1);
+
+color = _spriteRenderer1.color;
+
+Debug.Log(color);
+
+}
+
+}
+
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzMzA0MDIsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbMjAxMzYzOTE2LC0xNTc1OTY1OTQ4LDYxND
+k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
+OF19
 -->
