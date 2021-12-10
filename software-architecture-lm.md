@@ -102,7 +102,7 @@ public  static  class  Logger
 Lets explore this further in an example which is adapted from this medium article:
 [https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73](https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73)
 
-PIC HERE
+![PIxel Icon in Unity](images/coin.jpg)
 
 Avove you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
 and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``Update`` to track the ``Input.GetKeyDown`` to see if somebody presses the key in order to change the color, and then we use a random generator there using a random range to generate the colour. of the icon.
@@ -179,11 +179,13 @@ public  class  ColorChanger : MonoBehaviour
 
 If the icon image is a game object in a scene, then we attach the two scripts to the object, the check input which will check what is being pressed and then the color changes to changes to the color you have defined.
 
+![Attaching scripts to the game object](images/attach-inspector.jpg)
+
 The great thing about this is that it is totally reusable. At any point you can change what key is being pressed or what colour the obect will be. You can also duplicate it and use a range of different objects triggered in different ways with different colours. Everything becomes modular and although the differeny elements interact, each class is only performing one specfici defined task - it has a single responsibility.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5OTY1MTI5LC0xMzMwMjU0OTU3LDE1NT
+eyJoaXN0b3J5IjpbLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
 ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
