@@ -21,11 +21,11 @@ page_nav:
         content: OOP
         url: '../oop-lm'
     next:
-        content: Unified Markup Language
-        url: '../uml-lm'
+        content: Data Structures
+        url: '../data-structures-lm'
 ---
 
-# Software Architecture
+# Unified Markup Language
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MTkwODI3XX0=
+eyJoaXN0b3J5IjpbMjQyNzg1NDkwXX0=
 -->
