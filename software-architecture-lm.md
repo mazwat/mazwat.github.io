@@ -181,7 +181,7 @@ public  class  ColorChanger : MonoBehaviour
 
 If the icon image is a game object in a scene, then we attach the two scripts to the object, the check input which will check what is being pressed and then the color changes to changes to the color you have defined.
 
-The great thing about this is that it is totally reusable. At any point you can change what key is being pressed or what colour the obect will be. You can also duplicate it and use
+The great thing about this is that it is totally reusable. At any point you can change what key is being pressed or what colour the obect will be. You can also duplicate it and use a range of different objects triggered in different ways with different colours. Everything becomes modular and although the differeny elements interact
 
 
 f
@@ -211,7 +211,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTM3NzYyNCwxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTE0Njc3MzU3MTksMTU1NzQ1ODM4NSwtMT
+U3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4
+MjcsLTE0MzIzMzU0MjhdfQ==
 -->
