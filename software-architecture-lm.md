@@ -17,12 +17,15 @@ micro_nav: true
 
 # Page navigation
 page_nav:
+    prev:
+        content: Object Oriented Programming
+        url: '../oop-lm'
     next:
         content: Unified Markup Language
-        url: '../software-architecture-ws'
+        url: '../uml-lm'
 ---
 
 # Software Architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbLTU5ODUxNzU0MiwtMTQzMjMzNTQyOF19
 -->
