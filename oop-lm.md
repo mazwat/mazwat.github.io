@@ -19,7 +19,7 @@ micro_nav: true
 page_nav:
     next:
         content: Software Architecture
-        url: '../software-architecture-ws'
+        url: '../software-architecture-lm'
 ---
 
 # Object Oriented Programming
@@ -539,11 +539,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MDIwNzcsLTYwMTEyODE0NywxNzQyNj
-g1OTExLC0xNTI1NzQ5MDE5LC0xODM3NTU2MTA5LC0xMTMxMDg1
-LC02NDc2NzA5NSwyODA3NDQ1MjMsLTE4Mzg0MDc5MzAsLTIxMD
-I4Njg5OTEsNzgyOTIzMjkzLDg0OTA1MjE1LDEyMTgyNTgxNTMs
-Njk3OTM1NTE5LC0yMTg1Nzg0NCwxMDE0NzI2MDYsLTE0NTA3NT
-g3MzEsMzc3MjMxOTAxLC01MTY1NjY5NzYsNjgwNjk1MTI3XX0=
+eyJoaXN0b3J5IjpbMzA4MTIyMzM4LDk1NTAyMDc3LC02MDExMj
+gxNDcsMTc0MjY4NTkxMSwtMTUyNTc0OTAxOSwtMTgzNzU1NjEw
+OSwtMTEzMTA4NSwtNjQ3NjcwOTUsMjgwNzQ0NTIzLC0xODM4ND
+A3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwx
+MjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNj
+A2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2XX0=
 
 -->
