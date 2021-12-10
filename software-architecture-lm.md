@@ -22,7 +22,7 @@ page_nav:
         url: '../software-architecture-ws'
 ---
 
-# Object Oriented Programming
+# Software Architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDgzMzY4MF19
+eyJoaXN0b3J5IjpbLTE4Mjk1MjY3NTBdfQ==
 -->
