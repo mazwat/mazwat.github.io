@@ -46,7 +46,16 @@ As we write code and our projects scale the interconnecting parts can become con
 
 So having some basic principles to help to design the link between objects, classes and functions is incredibly useful. We want to limit the proliferation of cruft.
 
+## Principles of Software Architecture - SOLID
+
+**SOLID** is basically 5 principles, which will help to create a good software architecture. You can see that all design patterns are based on these principles. SOLID is basically an acronym of the following:
+
+-   **S** is single responsibility principle (SRP)
+-   **O** stands for open closed principle (OCP)
+-   **L** Liskov substitution principle (LSP)
+-   **I** interface segregation principle (ISP)
+-   **D** Dependency injection principle (DIP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjk1NDIxMSw2MTQ5OTk3NzcsMTA0OD
-AwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbOTc4NDk0NjgsNjE0OTk5Nzc3LDEwNDgwMD
+Y0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
