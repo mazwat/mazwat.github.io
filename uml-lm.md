@@ -18,8 +18,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: OOP
-        url: '../oop-lm'
+        content: Software Architecture
+        url: '../software-architecture-lm'
     next:
         content: Data Structures
         url: '../data-structures-lm'
@@ -27,5 +27,5 @@ page_nav:
 
 # Unified Markup Language
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNzg1NDkwXX0=
+eyJoaXN0b3J5IjpbLTEzODc5MzU5NDVdfQ==
 -->
