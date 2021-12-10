@@ -134,20 +134,19 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 ```
 But there is a **better way** to do this.
 
-We break this up into different classes, the first class is the color handler and this is going to generate a random color. So we're essentially just separatingthis out. Then we've got the check input, so this is going to keycode invoke key
+We break this up into different classes, the first class is the ``ColorHandler`` and this is going to generate a random color. So we're essentially just separating this out. Then we've got the check input, so this is going to keycode invoke key
 and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being
 pressed. We will look at that more in a second.
 
 ```c#
-
-
+public  static  class  ColorHandler
+{
+	public  static  Color  GenRandColor()
+	{
+	return new Color(Random.Range(0, 1.0f), Random.Range(0, 1.0f), Random.Range(0, 1.0f), 1);
+	}
+}
 ```
-
-
-
-
-
-
 And then finally, there's colour changes. CSS and this is a. This is basically calling the random colour from the previous example, and then it's going to apply that color to whatever property it's linked to, so
 
 
@@ -260,7 +259,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDUyMjk5NSwxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTExNTQ3ODU0LDE1NTc0NTgzODUsLTE1Nz
+U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
+LC0xNDMyMzM1NDI4XX0=
 -->
