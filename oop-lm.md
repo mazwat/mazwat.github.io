@@ -542,13 +542,13 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 
-OOP is like a skeleton or framework from which to populate with the code that performs the real function of 
+OOP is like a skeleton or framework for the actual code you want to use to perform operations in your applications. Initially it  can feel aa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NDIxNTYxLC04OTYwNjYzNDYsNDExOD
-U5MDAxLDk1NTAyMDc3LC02MDExMjgxNDcsMTc0MjY4NTkxMSwt
-MTUyNTc0OTAxOSwtMTgzNzU1NjEwOSwtMTEzMTA4NSwtNjQ3Nj
-cwOTUsMjgwNzQ0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkx
-LDc4MjkyMzI5Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNT
-UxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxXX0=
+eyJoaXN0b3J5IjpbLTEyNjA4NDU5NSwtODk2MDY2MzQ2LDQxMT
+g1OTAwMSw5NTUwMjA3NywtNjAxMTI4MTQ3LDE3NDI2ODU5MTEs
+LTE1MjU3NDkwMTksLTE4Mzc1NTYxMDksLTExMzEwODUsLTY0Nz
+Y3MDk1LDI4MDc0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5
+MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
+U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMV19
 
 -->
