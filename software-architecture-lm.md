@@ -235,7 +235,7 @@ public class SalaryCalculator
 If we create an abstract class (as mentioned in the [OOP lecture](../oop-lm) we can develop a child classes for the different type of employee that inherits properties of the base or parent. Each class can have its own calculation logic. If we need to add more employee type we can easily extend the principal with more children.
 
 ```c#
-public  abstract class BaseSalaryCalculator
+public abstract class BaseSalaryCalculator
 {
 	protected DeveloperReport DeveloperReport{ get; private  set; }
 	public BaseSalaryCalculator(DeveloperReport developerReport)
@@ -258,7 +258,7 @@ public class SeniorDevSalaryCalculator : BaseSalaryCalculator
 ```
 
 ```c#
-public class  JuniorDevSalaryCalculator : BaseSalaryCalculator
+public class JuniorDevSalaryCalculator : BaseSalaryCalculator
 {
 	public JuniorDevSalaryCalculator(DeveloperReport  developerReport)
 		:base(developerReport)
@@ -339,7 +339,7 @@ public class Banana : Apple
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTg1NzAxNiw1NjU2ODg5NDAsMTI1Nz
+eyJoaXN0b3J5IjpbMTU0ODQ2OTQxMCw1NjU2ODg5NDAsMTI1Nz
 U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
 MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
