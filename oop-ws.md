@@ -18,7 +18,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: Next page
+        content: Software Architecture
         url: '../software-architecture-ws'
 ---
 
@@ -132,3 +132,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 ### Lecture - OOP Part 2
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/133b71d2-d972-44eb-b841-0d77473af393?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMTQyMTg3MF19
+-->
