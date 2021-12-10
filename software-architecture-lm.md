@@ -62,7 +62,10 @@ In this lecture we are going to focus on the first 3 and finally we are also goi
 2.  **Open Closed Principle -** software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 3.  **Liskov’s Substitution Principle** - if poodle is a subtype of dog, then objects of type dog in a program may be replaced with objects of type poodle without altering any of the desirable properties of that program
 4.  **Order of Execution /** **Game Loop -** The flow between processes in software and hardware.
+
+You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwND
-gwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbLTE1MDk3NjM4ODYsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
