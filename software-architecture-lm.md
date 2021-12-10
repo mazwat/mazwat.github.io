@@ -298,10 +298,14 @@ public  class  SalaryCalculator
 The **Liskov Substitution Principle (LSP)** is a Substitutability principle in object-oriented programming Language. This principle states that, if S is a subtype of T, then objects of type T should be replaced with the objects of type S.
 
 ![Liskov Substitution Cartoon](images/liskov.jpg)
+
+In other words, we can say that objects in an application should be replaceable with the instances of their subtypes without modifying the correctness of that application.
+
+For example, the father is a teacher whereas his daughter is a doctor. So, in this case, the daughter can’t simply replace her father even though both belong to the same family.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNjYwMTU0LDU2NTY4ODk0MCwxMjU3NT
-c0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTcz
-OCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1Nz
-Q1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4
-NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbMTI5Mzc0MTA2Niw1NjU2ODg5NDAsMTI1Nz
+U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
+MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
+c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
+ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
