@@ -18,11 +18,11 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: Next page
+        content: Unified Markup Language
         url: '../software-architecture-ws'
 ---
 
 # Software Architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk1MjY3NTBdfQ==
+eyJoaXN0b3J5IjpbLTE0MzIzMzU0MjhdfQ==
 -->
