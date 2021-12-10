@@ -104,10 +104,10 @@ Lets explore this further in an example which is adapted from this medium articl
 
 ![PIxel Icon in Unity](images/coin.jpg)
 
+#### Example 1 - without Single Responsibility
+
 Above you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
 and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``Update`` to track the ``Input.GetKeyDown`` to see if somebody presses the key in order to change the color, and then we use a random generator there using a random range to generate the colour. of the icon.
-
-#### Example 1 - without Single Responsibility
 
 ```c#
 public  class  ChangeColorPropagateColor : MonoBehaviour
@@ -189,7 +189,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTk3NDkwMywtMTc0Njc2ODAsLTEzMz
+eyJoaXN0b3J5IjpbLTE5NDUzMDI4MywtMTc0Njc2ODAsLTEzMz
 AyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3
 NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ
 ==
