@@ -104,6 +104,10 @@ public  static  class  Logger
 Lets explore this further in an example which is adapted from this medium article:
 [https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73](https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73)
 
+PIC HERE
+
+Here you can see there's a picture of an
+
 ```c#
 public  class  ChangeColorPropagateColor : MonoBehaviour
 {
@@ -127,9 +131,356 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 	}
 }
 ```
-This is the princople 
+Here you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example
+here is a public class called
+
+
+
+-
+
+change color, propagate color,
+and already this feels a bit
+
+
+
+dffcaa
+
+weird. It's like it's trying to
+do too many things at once, so
+
+
+
+faedcd
+
+we've got. We define the
+renderer and then we start and
+
+
+
+afa
+
+then we assign the renderer to
+the object and then we use the
+
+
+
+dbf
+
+update to track the input
+keydown to see if somebody.
+
+
+
+
+
+Press the key in order to change
+the color, and then we use a
+
+
+
+ac
+
+random generator there using a
+random range to generate the
+
+
+
+fbb
+
+color. Of the icon.
+
+
+
+
+bfbd
+
+icon, which is a kind of pixel
+art sort of coin, and we're
+
+
+
+
+
+going to create a script which
+is going to change the color of
+
+
+
+fdfaaad
+
+this icon. So the basic example
+here is a public class called
+
+
+
+-
+
+change color, propagate color,
+and already this feels a bit
+
+
+
+dffcaa
+
+weird. It's like it's trying to
+do too many things at once, so
+
+
+
+faedcd
+
+we've got. We define the
+renderer and then we start and
+
+
+
+afa
+
+then we assign the renderer to
+the object and then we use the
+
+
+
+dbf
+
+update to track the input
+keydown to see if somebody.
+
+
+
+
+
+Press the key in order to change
+the color, and then we use a
+
+
+
+ac
+
+random generator there using a
+random range to generate the
+
+
+
+fbb
+
+color. Of the icon.
+
+
+
+
+
+But there is a better way
+to do this.
+
+
+
+
+
+So if we break this up into
+different classes, the first
+
+
+
+acc
+
+class is the color handler and
+this is going to generate a
+
+
+
+bd
+
+random color. So we're
+essentially just separating
+
+
+
+
+
+this out. Then we've got the
+check input, so this is
+
+
+
+
+
+going to keycode invoke key
+and this is going to be
+
+
+
+cc
+
+defined by an object which
+is, so the object is
+
+
+
+ebf
+
+connected to the actual icon
+itself, and so then it will
+
+
+
+daf
+
+detect the keypress based on
+a chosen property of which
+
+
+
+dbb
+
+whichever key is being
+pressed. We will look at
+
+
+
+
+
+that more in a second.
+
+
+
+cfadeb
+
+And then finally, there's color
+changes. CSS and this is a. This
+
+
+
+bdbbca
+
+is basically calling the random
+color from the previous example,
+
+
+
+aedacd
+
+the st first script that we
+looked at, and then it's going
+
+
+
+ece
+
+to apply that color to whatever
+property that it's linked to, so
+
+
+
+
+
+whichever property, it's.
+
+
+
+fcdfae
+
+Whichever objects attached to.
+So if we look here, we've got
+
+
+
+
+
+the example. So if this was the.
+
+
+
+
+
+If this is the icon image in the
+as a game object in the game,
+
+
+
+
+
+then we attach the two scripts,
+the check input which will check
+
+
+
+
+
+the which what is being pressed
+and then the color changes to
+
+
+
+ffadad
+
+change it and you can define
+what color you want to define it
+
+
+
+bddca
+
+too, and so then it's attached
+
+
+
+
+
+to. D. The object in the game,
+and the great thing about this
+
+
+
+a
+
+is this is totally reusable, so
+we can change at any point you
+
+
+
+efcac
+
+can change what key is being
+pressed. You can define it's
+
+
+
+
+
+here. Or you can use or you can
+define, change the color and you
+
+
+
+f
+
+can also duplicate this. You can
+create more game objects. You
+
+
+
+bcabcb
+
+can reuse this and then you can
+change different values for
+
+
+
+
+
+different objects. In this case
+then everything becomes modular
+
+
+
+fadabdd
+
+and it becomes very reusable.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbODM5ODI4MjQ5LDE1NTc0NTgzODUsLTE1Nz
+U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
+LC0xNDMyMzM1NDI4XX0=
 -->
