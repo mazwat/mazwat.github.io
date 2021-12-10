@@ -31,7 +31,12 @@ page_nav:
 
 A way of establishing **patterns** for the development of software.  These architectural patterns are a description of the **relationship** types and **elements** as well as the **constraints** or **limitations** in the system being built. Patterns are usually **reusable solutions** to common problems.
 
-Ralph Johnson a famous programmer and professor at the University of Illinois, who co-authored one the essential books on programming called *Design Patterns*. Design Patterns is something we are going to look at in a later lecture. He questions this idea of architecture, arguing that there was no objective way to define what was fundamental, or high level and consequently there was no formal notion of established structure implied by the word architecture and that a better way to describe this approach is the:
+Ralph Johnson a famous programmer and professor at the University of Illinois, who co-authored one the essential books on programming called *Design Patterns*. 
+
+Design Patterns is something we are going to look at in a later lecture. 
+{: .callout .callout--info}
+
+He questions this idea of architecture, arguing that there was no objective way to define what was fundamental, or high level and consequently there was no formal notion of established structure implied by the word architecture and that a better way to describe this approach is the:
 
 ***‘shared understanding that the expert developers have of the system design’***
 ***The decisions you wish you could get right early in a project'***
@@ -185,7 +190,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NTI0ODE3LDE1NTc0NTgzODUsLTE1Nz
-U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
-LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMT
+U3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4
+MjcsLTE0MzIzMzU0MjhdfQ==
 -->
