@@ -65,12 +65,16 @@ In this lecture we are going to focus on the first 3 and finally we are also goi
 
 You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes and objects.
 
-## Implementing Solid
+## Implementing SOLID
 
 ### Single Reponsibility Principle
 
+*“…it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others.”*
+
+_David R Parnas -_ [_On the Criteria To Be Used in Decomposing Systems into Modules_](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)_. 1972
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTA3MTY4MywtMTU3NTk2NTk0OCw2MT
+eyJoaXN0b3J5IjpbLTM3NDgzOTA1MSwtMTU3NTk2NTk0OCw2MT
 Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
 MjhdfQ==
 -->
