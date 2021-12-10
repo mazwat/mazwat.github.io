@@ -62,6 +62,7 @@ OOP has a number of key concepts that we need to understand in order to make eff
 -   **Composition** – Objects can be composed of other objects
 -   **Inheritance** – Objects can be related to other objects
 -   **Polymorphism** – Objects can be used via references to their parent class
+-  **Abstraction** - A restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
 
 ### OOP in Unity
 
@@ -579,11 +580,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 -   **Composition** – Objects can be composed of other objects
 -   **Inheritance** – Objects can be related to other objects
 -   **Polymorphism** – Objects can be used via references to their parent class
--  **Abstraction** - Data **abstraction** is the process of hiding certain details and showing only essential information to the user.
+-  **Abstraction** - A restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODE0NjY4MiwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbMjAyODQ3MzIzOSwyMDE0MTUyODYxXX0=
 -->
