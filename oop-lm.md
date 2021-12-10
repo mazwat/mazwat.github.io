@@ -16,7 +16,7 @@ author:
 micro_nav: true
 
 # Page navigation
-page_nav:
+page_nav: false
     prev:
         content: Arduino
         url: '../arduino-lm'
@@ -542,11 +542,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExODU5MDAxLDk1NTAyMDc3LC02MDExMj
-gxNDcsMTc0MjY4NTkxMSwtMTUyNTc0OTAxOSwtMTgzNzU1NjEw
-OSwtMTEzMTA4NSwtNjQ3NjcwOTUsMjgwNzQ0NTIzLC0xODM4ND
-A3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwx
-MjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNj
-A2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2XX0=
+eyJoaXN0b3J5IjpbLTg5NjA2NjM0Niw0MTE4NTkwMDEsOTU1MD
+IwNzcsLTYwMTEyODE0NywxNzQyNjg1OTExLC0xNTI1NzQ5MDE5
+LC0xODM3NTU2MTA5LC0xMTMxMDg1LC02NDc2NzA5NSwyODA3ND
+Q1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNzgyOTIzMjkz
+LDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nz
+g0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxXX0=
 
 -->
