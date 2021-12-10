@@ -267,11 +267,11 @@ public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
 	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours;
 }
 ```
-THere are some more advanced principles like 
+There are is a new OOP concpet here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NDYxNDksLTE1NDY0NjE3MjcsMTI4Mj
-QwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAs
-LTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbMTU4NDAyOTYyMSwtMTU0NjQ2MTcyNywxMj
+gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
+MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LD
+YxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMz
+NTQyOF19
 -->
