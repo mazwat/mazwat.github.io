@@ -189,9 +189,10 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 ## Open Closed Principle
 
-
+![Open Closed Cartoon](images/open-closed.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMj
-U0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3
-LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3ND
+Y3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5
+NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xND
+MyMzM1NDI4XX0=
 -->
