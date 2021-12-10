@@ -555,7 +555,7 @@ class  Pig : Animal
 	}
 }
 ```
-From the example above, it is not possible to create an object of the Animal class. To access the abstract class, it must be inherited from another class. 
+From the example above, it is not possible to create an object of the ``Animal`` class. To access the abstract class, it must be inherited from another class. 
 ```c#
 class  Program
 {
@@ -567,7 +567,7 @@ class  Program
 	}
 }
 ```
-The abstract parent class can only be accessed by it's child. The animal sound method is only accessible because it being called from ``Pig`` not ``Animal``.
+The abstract parent class can only be accessed by it's child. The ``Animal`` sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -584,5 +584,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTUwOTc1MSwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbMTY2MDc1MzA0NywyMDE0MTUyODYxXX0=
 -->
