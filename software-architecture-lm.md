@@ -230,8 +230,9 @@ public  class  SalaryCalculator
 	}
 }
 ```
+If we create an abstract class (as mentioned in the [OOP lecture](../oop-lm) we can develop a child classes for the different type of employee that inherits properties of the base or parent. Each class can have its own calculation logic.(click) If we need to add more employee type we can easily extend the principal with more children
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAyMDQ1NCwxMjgyNDAyOTQ4LC0xNj
+eyJoaXN0b3J5IjpbMTE0MzQ2MzMxNiwxMjgyNDAyOTQ4LC0xNj
 UzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1
 NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMD
 Q4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
