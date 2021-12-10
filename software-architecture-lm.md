@@ -111,40 +111,26 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 	private  SpriteRenderer  _spriteRenderer;
 	private  SpriteRenderer  _spriteRenderer1;
 	private  void  Start()
-		{
-	_spriteRenderer1 = gameObject.GetComponent<SpriteRenderer>();
+	{
+		_spriteRenderer1 = gameObject.GetComponent<SpriteRenderer>();
+		_spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
 
-_spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
-
-}
-
-  
-
+	}
 void Update()
-
 {
-
-if (Input.GetKeyDown(KeyCode.F))
-
-{
-
-_spriteRenderer.color = new  Color(
-
-Random.Range(0,1.0f), Random.Range(0, 1.0f),Random.Range(0, 1.0f),1);
-
-color = _spriteRenderer1.color;
-
-Debug.Log(color);
-
-}
-
+	if (Input.GetKeyDown(KeyCode.F))
+	{
+		_spriteRenderer.color = new  Color(Random.Range(0,1.0f), Random.Range(0, 1.0f),Random.Range(0, 1.0f),1);
+		color = _spriteRenderer1.color;
+		Debug.Log(color);
+	}
 }
 
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzYzOTE2LC0xNTc1OTY1OTQ4LDYxND
+eyJoaXN0b3J5IjpbLTg4OTg1MDA0LC0xNTc1OTY1OTQ4LDYxND
 k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
 OF19
 -->
