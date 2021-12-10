@@ -286,20 +286,16 @@ public  class  SalaryCalculator
 		double totalSalaries = 0D;
 		foreach (var  devCalc  in  _developerCalculation0
 		{
-			totalSalaries += devCalc.CalculateSalary();}
-
-  
-
-return  totalSalaries;
-
-}
-
+			totalSalaries += devCalc.CalculateSalary();
+		}
+		return  totalSalaries;
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQwNDQ2OTAsMTI1NzU3NDg4LC0xNT
-Q2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgz
-MjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLT
-E1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkw
-ODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTE0OTU4NzMyNiwxMjU3NTc0ODgsLTE1ND
+Y0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMy
+MywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMT
+U3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4
+MjcsLTE0MzIzMzU0MjhdfQ==
 -->
