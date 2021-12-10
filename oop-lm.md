@@ -16,7 +16,7 @@ author:
 micro_nav: true
 
 # Page navigation
-page_nav: false
+page_nav: 
     prev:
         content: Arduino
         url: '../arduino-lm'
@@ -586,5 +586,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODQ3MzIzOSwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbMTkwMTY4MzMzMiwyMDE0MTUyODYxXX0=
 -->
