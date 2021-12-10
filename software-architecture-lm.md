@@ -269,10 +269,11 @@ public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
 ```
 There are is a new OOP concept here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class. It is a way to call a method on the base class that has been overridden by another method.
 You can find more information on it's application here: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
+{: .callout .callout--info}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
-I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
-LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbODA0Njg0NjE0LDEyNTc1NzQ4OCwtMTU0Nj
+Q2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIz
+LC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNT
+c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
+NywtMTQzMjMzNTQyOF19
 -->
