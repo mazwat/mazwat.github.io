@@ -340,28 +340,18 @@ class Program
 {
 	static  void  Main(string[] args)
 	{
-Fruit fruit = new Orange();
-
-Console.WriteLine(fruit.GetColor());
-
-fruit = new Apple();
-
-Console.WriteLine(fruit.GetColor());
-
-}
-
+		Fruit fruit = new Orange();
+		Console.WriteLine(fruit.GetColor());
+		fruit = new Apple();
+		Console.WriteLine(fruit.GetColor());
+	}
 }
 
 public  abstract  class  Fruit
-
 {
-
-public  abstract  string  GetColor();
-
+	public  abstract  string  GetColor();
 }
-
 public  class  Apple : Fruit
-
 {
 
 public  override  string  GetColor()
@@ -389,7 +379,7 @@ return “Yellow";
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzE1OTI2Niw1NjU2ODg5NDAsMTI1Nz
+eyJoaXN0b3J5IjpbLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1Nz
 U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
 MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
