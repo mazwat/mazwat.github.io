@@ -106,7 +106,8 @@ Lets explore this further in an example which is adapted from this medium articl
 
 PIC HERE
 
-Here you can see there's a picture of an
+Here you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
+and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``Update`` to track the ``Input.GetKeyDown`` to see if somebody presses the key in order to change the color, and then we use a random generator there using a random range to generate the colour. of the icon.
 
 ```c#
 public  class  ChangeColorPropagateColor : MonoBehaviour
@@ -131,29 +132,7 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 	}
 }
 ```
-Here you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
-and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``update`` to track the input
-keydown to see if somebody.
 
-
-
-
-
-Press the key in order to change
-the color, and then we use a
-
-
-
-ac
-
-random generator there using a
-random range to generate the
-
-
-
-fbb
-
-color. Of the icon.
 
 
 
@@ -446,7 +425,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MTc0MTcwLDE1NTc0NTgzODUsLTE1Nz
+eyJoaXN0b3J5IjpbNDkxNjU0OTcyLDE1NTc0NTgzODUsLTE1Nz
 U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
 LC0xNDMyMzM1NDI4XX0=
 -->
