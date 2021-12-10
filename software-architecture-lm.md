@@ -46,7 +46,7 @@ As we write code and our projects scale the interconnecting parts can become con
 
 So having some basic principles to help to design the link between objects, classes and functions is incredibly useful. We want to limit the proliferation of cruft.
 
-## SOLID
+## Introducing SOLID
 
 **SOLID** is basically 5 principles, which will help to create a good software architecture. You can see that all design patterns are based on these principles. SOLID is basically an acronym of the following:
 
@@ -185,7 +185,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDI5MDIyOSwxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbNTc0NTI0ODE3LDE1NTc0NTgzODUsLTE1Nz
+U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
+LC0xNDMyMzM1NDI4XX0=
 -->
