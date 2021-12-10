@@ -145,21 +145,19 @@ public  static  class  ColorHandler
 	}
 }
 ```
-Then we've got the ``CheckInput``. This is going to keycode invoke key and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being
-pressed. We will look at that more in a second.
+Then we've got the ``CheckInput``. This is going to use ``KeyCode InvokeKey`` and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being pressed. We will look at that more in a second.
 ```c#
 public  class  CheckInput : MonoBehaviour
 {
-	public  KeyCode  InvokingKey;
-	public  UnityEvent  keyPressed;
+	public KeyCode InvokingKey;
+	public UnityEvent keyPressed;
 	void Update()	
 	{
 	if (Input.GetKeyDown(InvokingKey))
 		{
-		keyPressed.Invoke();}
-
-}
-
+		keyPressed.Invoke();
+		}
+	}
 }
 ```
 And then finally, there's colour changes. CSS and this is a. This is basically calling the random colour from the previous example, and then it's going to apply that color to whatever property it's linked to, so
@@ -274,7 +272,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTQzNzM1MCwxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbNzExMjk5ODgzLDE1NTc0NTgzODUsLTE1Nz
+U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
+LC0xNDMyMzM1NDI4XX0=
 -->
