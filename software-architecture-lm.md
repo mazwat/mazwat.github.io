@@ -267,11 +267,12 @@ public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
 	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours;
 }
 ```
-There are is a new OOP concpet here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class.
+There are is a new OOP concept here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class. It is a way to call a method on the base class that has been overridden by another method.
+You can find more information on it's application here: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDAyOTYyMSwtMTU0NjQ2MTcyNywxMj
-gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
-MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LD
-YxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMz
-NTQyOF19
+eyJoaXN0b3J5IjpbMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
+I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
+LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
