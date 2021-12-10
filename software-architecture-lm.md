@@ -210,9 +210,38 @@ public  class  DeveloperReport
 
 }
 ```
+```c#
+public  class  SalaryCalculator
+{
+	private  readonly  IEnumerable<DeveloperReport> _developerReports;
+	public  SalaryCalculator(List <DeveloperReport> developerReports)
+{
+_developerReports = developerReports;
+}
+
+  public  double  CalculateTotalSalaries()
+
+{
+
+double totalSalaries = 0D ;
+
+foreach (var  devReport  in  _developerReports)
+
+{
+
+totalSalaries += devReport.HourlyRate * devReport.WorkingHours;
+
+}
+
+return  totalSalaries;
+
+}
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2OD
-I3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4
-NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMT
-kxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbMjMyNDc0MTUsMTI4MjQwMjk0OCwtMTY1Mz
+U2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcs
+MTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0OD
+AwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
 -->
