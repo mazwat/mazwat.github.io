@@ -73,26 +73,26 @@ David R Parnas -_ [_On the Criteria To Be Used in Decomposing Systems into Modul
 
 We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In the piece of code below the class ``Employee`` is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer id responsible, as money is mis-spent.
 ```c#
-public  class  Employee {
-	public  Money  calculatePay();
-	public  void  save();
-	public  String  reportHours();
+public class Employee {
+	public Money calculatePay();
+	public void save();
+	public String reportHours();
 }
 ```
 We can apply this same principle to a game example:
 ```c#
-public  class  Game {
-	public  Health  calculateHealth();
-	public  void  updateUI();
-	public  String  reportDamage();
+public class Game {
+	public Health calculateHealth();
+	public void updateUI();
+	public String reportDamage();
 }
 ```
 If we use **Unity**, this example shows a class that logs and prints to the console. It is perfect because it has one simple task, it is not trying to do anything beyond the scope of its name.
 ```c#
 using  UnityEngine;
-public  static  class  Logger
+public static class Logger
 {
-	public  static  void  PrintToConsole(object  content)
+	public static void PrintToConsole(object  content)
 	{
 	Debug.Log(content);
 	}
@@ -114,8 +114,8 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 {
 	public Color color;
 	private SpriteRenderer _spriteRenderer;
-	private SpriteRenderer  _spriteRenderer1;
-	private  void  Start()
+	private SpriteRenderer _spriteRenderer1;
+	private void Start()
 	{
 		_spriteRenderer1 = gameObject.GetComponent<SpriteRenderer>();
 		_spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
@@ -339,7 +339,7 @@ public class Banana : Apple
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjA4OTQ4Niw1NjU2ODg5NDAsMTI1Nz
+eyJoaXN0b3J5IjpbLTk4MTg1NzAxNiw1NjU2ODg5NDAsMTI1Nz
 U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
 MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
