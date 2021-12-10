@@ -134,54 +134,16 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 ```
 But there is a **better way** to do this.
 
-We break this up into different classes, the first class is the color handler and
-this is going to generate a random color. So we're essentially just separatingthis out. Then we've got the
-check input, so this is
+We break this up into different classes, the first class is the color handler and this is going to generate a random color. So we're essentially just separatingthis out. Then we've got the check input, so this is going to keycode invoke key
+and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being
+pressed. We will look at that more in a second.
 
 
 
 
 
-going to keycode invoke key
-and this is going to be
 
 
-
-cc
-
-defined by an object which
-is, so the object is
-
-
-
-ebf
-
-connected to the actual icon
-itself, and so then it will
-
-
-
-daf
-
-detect the keypress based on
-a chosen property of which
-
-
-
-dbb
-
-whichever key is being
-pressed. We will look at
-
-
-
-
-
-that more in a second.
-
-
-
-cfadeb
 
 And then finally, there's color
 changes. CSS and this is a. This
@@ -317,7 +279,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MzA5NTQyLDE1NTc0NTgzODUsLTE1Nz
-U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
-LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTkwMzQ0Mzc2OCwxNTU3NDU4Mzg1LC0xNT
+c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
+NywtMTQzMjMzNTQyOF19
 -->
