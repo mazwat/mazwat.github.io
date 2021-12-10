@@ -61,8 +61,8 @@ In this lecture we are going to focus on the first 3 and finally we are also goi
 1.  **Single Responsibility Principle -** every class in a computer program should have responsibility over a single part of that program's functionality, which it should encapsulate.
 2.  **Open Closed Principle -** software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 3.  **Liskov’s Substitution Principle** - if poodle is a subtype of dog, then objects of type dog in a program may be replaced with objects of type poodle without altering any of the desirable properties of that program
-4.  **Order of Execution /** **Game Loop -** The flow between processes in software and hardware
+4.  **Order of Execution /** **Game Loop -** The flow between processes in software and hardware.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjg2MzkwNiw2MTQ5OTk3NzcsMTA0OD
-AwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwND
+gwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
