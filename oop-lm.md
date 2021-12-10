@@ -531,6 +531,7 @@ This Kiwi is green
 ```
 ## Abstraction
 
+Indicates that a class is intended only to be a base class of other classes, not instantiated on its own. Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
 ```c#
 abstract  class  Animal
 {
@@ -581,5 +582,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTE2ODY3OCwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbNTk3MTA5ODkzLDIwMTQxNTI4NjFdfQ==
 -->
