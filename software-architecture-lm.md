@@ -195,7 +195,7 @@ The **Open Closed Principle (OCP)** is the SOLID principle which states that the
 
 Basically, we should strive to write a code that doesn’t require modification every time a customer changes its request. Providing such a solution where we can extend the behavior of a class (with that additional customer’s request) and not modify that class, should be our goal most of the time.
 
-### Example 1 -  without Open Closed Principle
+### Example 1 -  without Open Closed
 
 In this example there is a class that creates the properties for a developer report and then a salary calculator that will got through the instance of developer report and calculate the total salaries for all developers.
 
@@ -230,7 +230,7 @@ public  class  SalaryCalculator
 	}
 }
 ```
-### Example 2 -  with Open Closed Principle
+### Example 2 -  with Open Closed
 
 If we create an abstract class (as mentioned in the [OOP lecture](../oop-lm) we can develop a child classes for the different type of employee that inherits properties of the base or parent. Each class can have its own calculation logic. If we need to add more employee type we can easily extend the principal with more children.
 
@@ -304,10 +304,16 @@ In other words, we can say that objects in an application should be replaceable 
 For example, the father is a teacher whereas his daughter is a doctor. So, in this case, the daughter can’t simply replace her father even though both belong to the same family.
 
 ### Example 1 -  without Liskov Substitution
+
+Let's first understand one example without using the Liskov Substitution Principle in C#. In the following example, first, we create the ``Apple`` class with the method ``GetColor``. Then we create the ``Banan``a class which inherits the ``Apple`` class as well as overrides the ``GetColor`` method of the ``Apple`` class. The point is that a ``Banana`` cannot be replaced by an ``Apple``, which results in printing the colour of ``Apple`` as ``Banana`` as shown here.
+
+```c#
+
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjkwMjAwOCw1NjU2ODg5NDAsMTI1Nz
-U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
-MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
-c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
-ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTkyNjYwOTc1LDU2NTY4ODk0MCwxMjU3NT
+c0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTcz
+OCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1Nz
+Q1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4
+NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
 -->
