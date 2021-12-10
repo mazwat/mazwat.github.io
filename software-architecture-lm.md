@@ -258,12 +258,20 @@ public  class  SeniorDevSalaryCalculator : BaseSalaryCalculator
 ```
 
 ```c#
-
+public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
+{
+	public  JuniorDevSalaryCalculator(DeveloperReport  developerReport)
+		:base(developerReport)
+	{
+	}
+	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours;
+}
 ```
+THere are some more advanced principles like 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MzU1Njg0LC0xNTQ2NDYxNzI3LDEyOD
-I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
-LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbNjM1NDYxNDksLTE1NDY0NjE3MjcsMTI4Mj
+QwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAs
+LTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MT
+Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
+MjhdfQ==
 -->
