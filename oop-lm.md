@@ -541,12 +541,14 @@ In this lecture we have now covered all the principles of OOP programming that w
 -   **Polymorphism** – Objects can be used via references to their parent class
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
+
+OOP is like a skeleton or framework from which to populate with the code that performs the real function of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjA2NjM0Niw0MTE4NTkwMDEsOTU1MD
-IwNzcsLTYwMTEyODE0NywxNzQyNjg1OTExLC0xNTI1NzQ5MDE5
-LC0xODM3NTU2MTA5LC0xMTMxMDg1LC02NDc2NzA5NSwyODA3ND
-Q1MjMsLTE4Mzg0MDc5MzAsLTIxMDI4Njg5OTEsNzgyOTIzMjkz
-LDg0OTA1MjE1LDEyMTgyNTgxNTMsNjk3OTM1NTE5LC0yMTg1Nz
-g0NCwxMDE0NzI2MDYsLTE0NTA3NTg3MzEsMzc3MjMxOTAxXX0=
+eyJoaXN0b3J5IjpbMzY5NDIxNTYxLC04OTYwNjYzNDYsNDExOD
+U5MDAxLDk1NTAyMDc3LC02MDExMjgxNDcsMTc0MjY4NTkxMSwt
+MTUyNTc0OTAxOSwtMTgzNzU1NjEwOSwtMTEzMTA4NSwtNjQ3Nj
+cwOTUsMjgwNzQ0NTIzLC0xODM4NDA3OTMwLC0yMTAyODY4OTkx
+LDc4MjkyMzI5Myw4NDkwNTIxNSwxMjE4MjU4MTUzLDY5NzkzNT
+UxOSwtMjE4NTc4NDQsMTAxNDcyNjA2LC0xNDUwNzU4NzMxXX0=
 
 -->
