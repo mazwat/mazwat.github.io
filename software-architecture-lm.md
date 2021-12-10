@@ -113,8 +113,8 @@ and already this feels a bit weird. It's like it's trying to do too many things 
 public  class  ChangeColorPropagateColor : MonoBehaviour
 {
 	public Color color;
-	private  SpriteRenderer  _spriteRenderer;
-	private  SpriteRenderer  _spriteRenderer1;
+	private SpriteRenderer _spriteRenderer;
+	private SpriteRenderer  _spriteRenderer1;
 	private  void  Start()
 	{
 		_spriteRenderer1 = gameObject.GetComponent<SpriteRenderer>();
@@ -139,9 +139,9 @@ But there is a **better way** to do this.
 We break this up into different classes and seperate *.cs* files, the first class is the ``ColorHandler`` and this is going to generate a random color. So we're essentially just separating this out. 
 
 ```c#
-public  static  class  ColorHandler
+public static class ColorHandler
 {
-	public  static  Color  GenRandColor()
+	public static Color GenRandColor()
 	{
 	return new Color(Random.Range(0, 1.0f), Random.Range(0, 1.0f), Random.Range(0, 1.0f), 1);
 	}
@@ -149,7 +149,7 @@ public  static  class  ColorHandler
 ```
 Then we've got the ``CheckInput``. This is going to use ``KeyCode InvokeKey`` and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being pressed.
 ```c#
-public  class  CheckInput : MonoBehaviour
+public class CheckInput : MonoBehaviour
 {
 	public KeyCode InvokingKey;
 	public UnityEvent keyPressed;
@@ -165,16 +165,16 @@ public  class  CheckInput : MonoBehaviour
 And then finally, there's ``ColorChanger`` and this is basically calling the random colour from the previous example, and then it's going to apply that color to whichever game object its attached to.
 
 ```c#
-using  UnityEngine;
+using UnityEngine;
 
-public  class  ColorChanger : MonoBehaviour
+public class ColorChanger : MonoBehaviour
 {
 	public Color color;
-	public  void  ChangeColor() {
+	public void ChangeColor() {
 		color = ColorHandler.GenRandColor();
 		ApplyColor(color);
 	}
-	private  void  ApplyColor(Color  clr)
+	private void ApplyColor(Color  clr)
 	{
 		gameObject.GetComponent<SpriteRenderer>().color = clr;
 	}
@@ -200,20 +200,20 @@ Basically, we should strive to write a code that doesn’t require modification 
 In this example there is a class that creates the properties for a developer report and then a salary calculator that will got through the instance of developer report and calculate the total salaries for all developers.
 
 ```c#
-public  class  DeveloperReport
+public class DeveloperReport
 {
-	public  int  Id { get; set; }
-	public  string  Name { get; set; }
-	public  string  Level { get; set; }
-	public  int  WorkingHours { get; set; }
-	public  double  HourlyRate { get; set; }
+	public int Id { get; set; }
+	public string Name { get; set; }
+	public string Level { get; set; }
+	public int WorkingHours { get; set; }
+	public double HourlyRate { get; set; }
 
 }
 ```
 ```c#
-public  class  SalaryCalculator
+public class SalaryCalculator
 {
-	private  readonly  IEnumerable<DeveloperReport> _developerReports;
+	private readonly IEnumerable<DeveloperReport> _developerReports;
 	public  SalaryCalculator(List <DeveloperReport> developerReports)
 	{
 		_developerReports = developerReports;
@@ -235,30 +235,30 @@ public  class  SalaryCalculator
 If we create an abstract class (as mentioned in the [OOP lecture](../oop-lm) we can develop a child classes for the different type of employee that inherits properties of the base or parent. Each class can have its own calculation logic. If we need to add more employee type we can easily extend the principal with more children.
 
 ```c#
-public  abstract  class  BaseSalaryCalculator
+public  abstract class BaseSalaryCalculator
 {
-	protected  DeveloperReport  DeveloperReport { get; private  set; }
-	public  BaseSalaryCalculator(DeveloperReport  developerReport)
+	protected DeveloperReport DeveloperReport{ get; private  set; }
+	public BaseSalaryCalculator(DeveloperReport developerReport)
 	{
 		DeveloperReport = developerReport;
 	}
-	public  abstract  double  CalculateSalary();
+	public abstract double CalculateSalary();
 }
 ```
 
 ```c#
-public  class  SeniorDevSalaryCalculator : BaseSalaryCalculator
+public class SeniorDevSalaryCalculator : BaseSalaryCalculator
 {
-	public  SeniorDevSalaryCalculator(DeveloperReport  report)
+	public SeniorDevSalaryCalculator(DeveloperReport report)
 		:base(report)
 	{
 	}
-	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours * 1.2;
+	public override double CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours * 1.2;
 }
 ```
 
 ```c#
-public class  JuniorDevSalaryCalculator: BaseSalaryCalculator
+public class  JuniorDevSalaryCalculator : BaseSalaryCalculator
 {
 	public JuniorDevSalaryCalculator(DeveloperReport  developerReport)
 		:base(developerReport)
@@ -339,7 +339,7 @@ public class Banana : Apple
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjkxNTMyMCw1NjU2ODg5NDAsMTI1Nz
+eyJoaXN0b3J5IjpbLTYzNjA4OTQ4Niw1NjU2ODg5NDAsMTI1Nz
 U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
 MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
