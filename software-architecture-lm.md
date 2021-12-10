@@ -73,8 +73,18 @@ You can see how features of OOP from the previous lecture form a major part of S
 
 _David R Parnas -_ [_On the Criteria To Be Used in Decomposing Systems into Modules_](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)_. 1972
 
+We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In above piece of code the class employee is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer id responsible, as money is mis-spent.
+
+```c#
+public  class  Employee {
+	public  Money  calculatePay();
+	public  void  save();
+	public  String  reportHours();
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDgzOTA1MSwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg4MTIxNjEsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
