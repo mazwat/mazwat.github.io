@@ -258,13 +258,13 @@ public  class  SeniorDevSalaryCalculator : BaseSalaryCalculator
 ```
 
 ```c#
-public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
+public class  JuniorDevSalaryCalculator: BaseSalaryCalculator
 {
-	public  JuniorDevSalaryCalculator(DeveloperReport  developerReport)
+	public JuniorDevSalaryCalculator(DeveloperReport  developerReport)
 		:base(developerReport)
 	{
 	}
-	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours;
+	public override double CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours;
 }
 ```
 There is a *new OOP concept* here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class. It is a way to call a method on the base class that has been overridden by another method.
@@ -274,17 +274,17 @@ You can find more information on it's application here: [https://docs.microsoft.
 We can now perform the calculation with a simple loop and each instance has the definition of its child but also it’s parent without having to create an exception for each. So basically, our SalaryCalculator class is now closed for modification and opened for an extension, which is exactly what OCP states.
 
 ```c#
-public  class  SalaryCalculator
+public class SalaryCalculator
 {
-	private  readonly  IEnumerable<BaseSalaryCalculator> _developerCalculation;
+	private readonly IEnumerable<BaseSalaryCalculator>_developerCalculation;
 	public  SalaryCalculator(IEnumerable<BaseSalaryCalculator> developerCalculation)
 	{
 		_developerCalculation = developerCalculation;
 	}
-	public  double  CalculateTotalSalaries()
+	public double CalculateTotalSalaries()
 	{
 		double totalSalaries = 0D;
-		foreach (var  devCalc  in  _developerCalculation0
+		foreach(var  devCalc  in  _developerCalculation0
 		{
 			totalSalaries += devCalc.CalculateSalary();
 		}
@@ -308,36 +308,29 @@ For example, the father is a teacher whereas his daughter is a doctor. So, in th
 Let's first understand one example without using the Liskov Substitution Principle in C#. In the following example, first, we create the ``Apple`` class with the method ``GetColor``. Then we create the ``Banan``a class which inherits the ``Apple`` class as well as overrides the ``GetColor`` method of the ``Apple`` class. The point is that a ``Banana`` cannot be replaced by an ``Apple``, which results in printing the colour of ``Apple`` as ``Banana`` as shown here.
 
 ```c#
-class  Program
+class Program
 {
-	static  void  Main(string[] args)
+	static void Main(string[] args)
 	{
 		Apple apple = new Orange();
 		Console.WriteLine(apple.GetColor());
 	}
 }
 
-public  class  Apple
+public class Apple
 {
-	public  virtual  string  GetColor()
-	{return “Green";
-
+	public virtual string  GetColor()
+	{
+		return “Green";
+	}
 }
 
-}
-
-public  class  Banana : Apple
-
+public class Banana : Apple
 {
-
-public  override  string  GetColor()
-
-{
-
-return “Yellow”;
-
-}
-
+	public override string GetColor()
+	{
+		return “Yellow”;
+	}
 }
 ```
 
@@ -346,9 +339,9 @@ return “Yellow”;
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg4NjIyODAsNTY1Njg4OTQwLDEyNT
-c1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1
-NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNT
-U3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2
-NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbMTY4NjkxNTMyMCw1NjU2ODg5NDAsMTI1Nz
+U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
+MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
+c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
+ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
