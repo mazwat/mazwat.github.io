@@ -195,7 +195,7 @@ The **Open Closed Principle (OCP)** is the SOLID principle which states that the
 
 Basically, we should strive to write a code that doesn’t require modification every time a customer changes its request. Providing such a solution where we can extend the behavior of a class (with that additional customer’s request) and not modify that class, should be our goal most of the time.
 
-### Example - Open Closed Principle
+### Example 1 -  without Open Closed Principle
 
 In this example there is a class that creates the properties for a developer report and then a salary calculator that will got through the instance of developer report and calculate the total salaries for all developers.
 
@@ -231,7 +231,7 @@ public  class  SalaryCalculator
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzk4NTE0NywxMjgyNDAyOTQ4LC0xNj
+eyJoaXN0b3J5IjpbLTEyNjAyMDQ1NCwxMjgyNDAyOTQ4LC0xNj
 UzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1
 NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMD
 Q4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
