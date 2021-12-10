@@ -194,8 +194,24 @@ The **Open Closed Principle (OCP)** is the SOLID principle which states that the
 ![Open Closed Cartoon](images/open-closed.jpg)
 
 Basically, we should strive to write a code that doesn’t require modification every time a customer changes its request. Providing such a solution where we can extend the behavior of a class (with that additional customer’s request) and not modify that class, should be our goal most of the time.
+
+### Example - Open Closed Principle
+
+In this example there is a class that creates the properties for a developer report and then a salary calculator that will got through the instance of developer report and calculate the total salaries for all developers.
+
+```c#
+public  class  DeveloperReport
+{
+	public  int  Id { get; set; }
+	public  string  Name { get; set; }
+	public  string  Level { get; set; }
+	public  int  WorkingHours { get; set; }
+	public  double  HourlyRate { get; set; }
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY2MDE1NSwtMTY1MzU2NTczOCw2OD
+eyJoaXN0b3J5IjpbMTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2OD
 I3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4
 NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMT
 kxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
