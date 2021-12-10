@@ -543,12 +543,3 @@ In this lecture we have now covered all the principles of OOP programming that w
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or overly complex but with practice it makes your code more lightweight, modular and secure.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDc4NDUwOCwtODk2MDY2MzQ2LDQxMT
-g1OTAwMSw5NTUwMjA3NywtNjAxMTI4MTQ3LDE3NDI2ODU5MTEs
-LTE1MjU3NDkwMTksLTE4Mzc1NTYxMDksLTExMzEwODUsLTY0Nz
-Y3MDk1LDI4MDc0NDUyMywtMTgzODQwNzkzMCwtMjEwMjg2ODk5
-MSw3ODI5MjMyOTMsODQ5MDUyMTUsMTIxODI1ODE1Myw2OTc5Mz
-U1MTksLTIxODU3ODQ0LDEwMTQ3MjYwNiwtMTQ1MDc1ODczMV19
-
--->
