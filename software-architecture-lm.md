@@ -50,12 +50,14 @@ So having some basic principles to help to design the link between objects, clas
 
 **SOLID** is basically 5 principles, which will help to create a good software architecture. You can see that all design patterns are based on these principles. SOLID is basically an acronym of the following:
 
--   **S**ingle responsibility principle (SRP) - every class in a computer program should have responsibility over a single part of that program's functionality, which it should encapsulate.
+-   **S** is single responsibility principle (SRP)
 -   **O** stands for open closed principle (OCP)
 -   **L** Liskov substitution principle (LSP)
 -   **I** interface segregation principle (ISP)
 -   **D** Dependency injection principle (DIP)
+
+In this lecture we are going to focus on the first 3 and finally we are also going to look at Orde 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwMzg5MTAsNjE0OTk5Nzc3LDEwND
-gwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMzUyNjk4NzM1LDYxNDk5OTc3NywxMDQ4MD
+A2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
 -->
