@@ -270,10 +270,36 @@ public  class  JuniorDevSalaryCalculator : BaseSalaryCalculator
 There are is a new OOP concept here called ``base``. The ``base`` keyword is used to access members of the base class from within a derived class. It is a way to call a method on the base class that has been overridden by another method.
 You can find more information on it's application here: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
 {: .callout .callout--info}
+
+We can now perform the calculation with a simple loop and each instance has the definition of its child but also it’s parent without having to create an exception for each. So basically, our SalaryCalculator class is now closed for modification and opened for an extension, which is exactly what OCP states.
+
+```c#
+public  class  SalaryCalculator
+{
+	private  readonly  IEnumerable<BaseSalaryCalculator> _developerCalculation;
+	public  SalaryCalculator(IEnumerable<BaseSalaryCalculator> developerCalculation)
+	{
+		_developerCalculation = developerCalculation;
+	}
+	public  double  CalculateTotalSalaries()
+	{
+		double totalSalaries = 0D;
+		foreach (var  devCalc  in  _developerCalculation0
+		{
+			totalSalaries += devCalc.CalculateSalary();}
+
+  
+
+return  totalSalaries;
+
+}
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0Njg0NjE0LDEyNTc1NzQ4OCwtMTU0Nj
-Q2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIz
-LC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTE1MTQwNDQ2OTAsMTI1NzU3NDg4LC0xNT
+Q2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgz
+MjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLT
+E1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkw
+ODI3LC0xNDMyMzM1NDI4XX0=
 -->
