@@ -63,9 +63,14 @@ In this lecture we are going to focus on the first 3 and finally we are also goi
 3.  **Liskov’s Substitution Principle** - if poodle is a subtype of dog, then objects of type dog in a program may be replaced with objects of type poodle without altering any of the desirable properties of that program
 4.  **Order of Execution /** **Game Loop -** The flow between processes in software and hardware.
 
-You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes
+You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes and objects.
+
+## Implementing Solid
+
+### Single Reponsibility Principle
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3NjM4ODYsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbLTMzMTA3MTY4MywtMTU3NTk2NTk0OCw2MT
+Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
+MjhdfQ==
 -->
