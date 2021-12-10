@@ -107,6 +107,8 @@ Lets explore this further in an example which is adapted from this medium articl
 Avove you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
 and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``Update`` to track the ``Input.GetKeyDown`` to see if somebody presses the key in order to change the color, and then we use a random generator there using a random range to generate the colour. of the icon.
 
+**Example 1 - without Single Responsibility**
+
 ```c#
 public  class  ChangeColorPropagateColor : MonoBehaviour
 {
@@ -131,6 +133,8 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 }
 ```
 But there is a **better way** to do this.
+
+**Example 2 - with Single Responsibility**
 
 We break this up into different classes and seperate *.cs* files, the first class is the ``ColorHandler`` and this is going to generate a random color. So we're essentially just separating this out. 
 
@@ -185,7 +189,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
-c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
-ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTA4MDE0MDEsLTE3NDY3NjgwLC0xMzMwMj
+U0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3
+LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
