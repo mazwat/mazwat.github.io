@@ -70,9 +70,7 @@ In this lecture we are going to focus on the first 3 and finally we are also goi
 
 You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes and objects.
 
-## Implementing SOLID
-
-### Single Reponsibility Principle
+##  Single Reponsibility Principle
 
 **“…it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others.”**
 
@@ -105,7 +103,7 @@ public  static  class  Logger
 	}
 }
 ```
-#### Unity Example
+### Unity Example
 Lets explore this further in an example which is adapted from this medium article:
 [https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73](https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73)
 
@@ -190,7 +188,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMT
-U3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4
-MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbLTM2MjQwMTAwNSwtMTMzMDI1NDk1NywxNT
+U3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2
+NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
 -->
