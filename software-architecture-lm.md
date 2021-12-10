@@ -131,42 +131,8 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 	}
 }
 ```
-Here you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example
-here is a public class called
-
-
-
--
-
-change color, propagate color,
-and already this feels a bit
-
-
-
-dffcaa
-
-weird. It's like it's trying to
-do too many things at once, so
-
-
-
-faedcd
-
-we've got. We define the
-renderer and then we start and
-
-
-
-afa
-
-then we assign the renderer to
-the object and then we use the
-
-
-
-dbf
-
-update to track the input
+Here you can see there's a picture of an icon, which is a pixel art sort coin, and we're going to create a script which is going to change the color of this icon. So the basic example here is a public class called ``ChangeColorPropagateColor``,
+and already this feels a bit weird. It's like it's trying to do too many things at once. We define the renderer and then we assign the renderer to the object and then we use the ``update`` to track the input
 keydown to see if somebody.
 
 
@@ -480,7 +446,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5ODI4MjQ5LDE1NTc0NTgzODUsLTE1Nz
+eyJoaXN0b3J5IjpbNzE5MTc0MTcwLDE1NTc0NTgzODUsLTE1Nz
 U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
 LC0xNDMyMzM1NDI4XX0=
 -->
