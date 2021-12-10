@@ -537,15 +537,19 @@ abstract  class  Animal
 	// Abstract method (does not have a body)
 	public  abstract  void  animalSound();
 	// Regular method
-
-public  void  sleep()
-
-{
-
-Console.WriteLine("Zzz");
-
+	public  void  sleep()
+	{
+		Console.WriteLine("Zzz");
+	}
 }
-
+// Derived class (inherit from Animal)
+class  Pig : Animal
+{
+	public  override  void  animalSound()
+	{
+		// The body of animalSound() is provided here
+		Console.WriteLine("The pig says: oink!”);
+	}
 }
 ```
 From the example above, it is not possible to create an object of the Animal class. To access the abstract class, it must be inherited from another class.
@@ -565,5 +569,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODQyMDIwLDIwMTQxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTkwMzQ5MjkxOSwyMDE0MTUyODYxXX0=
 -->
