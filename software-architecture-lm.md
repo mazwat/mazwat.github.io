@@ -302,8 +302,10 @@ The **Liskov Substitution Principle (LSP)** is a Substitutability principle in o
 In other words, we can say that objects in an application should be replaceable with the instances of their subtypes without modifying the correctness of that application.
 
 For example, the father is a teacher whereas his daughter is a doctor. So, in this case, the daughter can’t simply replace her father even though both belong to the same family.
+
+### Example 1 -  without Liskov Substitution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc0MTA2Niw1NjU2ODg5NDAsMTI1Nz
+eyJoaXN0b3J5IjpbLTM4NjkwMjAwOCw1NjU2ODg5NDAsMTI1Nz
 U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
 MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
 c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
