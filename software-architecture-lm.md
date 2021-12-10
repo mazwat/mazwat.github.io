@@ -42,7 +42,11 @@ Johnson also cryptically said this:
 *“Architecture is about the important stuff. Whatever that is”*
 {: .callout .callout--info}
 
+As we write code and our projects scale the interconnecting parts can become confusing. We sometimes generate dead ends or unnecessary code that causes our applications to slow down or to become needlessly complex, this waste is known in programmer circles as - **cruft**! 
+
+So having some basic principles to help to design the link between objects, classes and functions is incredibly useful. We want to limit the proliferation of cruft.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MT
-kwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbNzY4MzQ5MTAsNjE0OTk5Nzc3LDEwNDgwMD
+Y0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
