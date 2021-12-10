@@ -308,12 +308,47 @@ For example, the father is a teacher whereas his daughter is a doctor. So, in th
 Let's first understand one example without using the Liskov Substitution Principle in C#. In the following example, first, we create the ``Apple`` class with the method ``GetColor``. Then we create the ``Banan``a class which inherits the ``Apple`` class as well as overrides the ``GetColor`` method of the ``Apple`` class. The point is that a ``Banana`` cannot be replaced by an ``Apple``, which results in printing the colour of ``Apple`` as ``Banana`` as shown here.
 
 ```c#
+class  Program
+{
+	static  void  Main(string[] args)
+	{
+		Apple apple = new Orange();
+		Console.WriteLine(apple.GetColor());
+	}
+}
 
-``
+public  class  Apple
+{
+	public  virtual  string  GetColor()
+	{return “Green";
+
+}
+
+}
+
+public  class  Banana : Apple
+
+{
+
+public  override  string  GetColor()
+
+{
+
+return “Yellow”;
+
+}
+
+}
+```
+
+
+```c#
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjYwOTc1LDU2NTY4ODk0MCwxMjU3NT
-c0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTcz
-OCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1Nz
-Q1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4
-NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbLTEyODg4NjIyODAsNTY1Njg4OTQwLDEyNT
+c1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1
+NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNT
+U3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2
+NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
 -->
