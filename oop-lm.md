@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 1
+title: COMP140 - Lecture Materials 2
 
 # Author box
 author:
@@ -542,11 +542,11 @@ In this lecture we have now covered all the principles of OOP programming that w
 
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTkwNDk4Niw5NTUwMjA3NywtNjAxMT
-I4MTQ3LDE3NDI2ODU5MTEsLTE1MjU3NDkwMTksLTE4Mzc1NTYx
-MDksLTExMzEwODUsLTY0NzY3MDk1LDI4MDc0NDUyMywtMTgzOD
-QwNzkzMCwtMjEwMjg2ODk5MSw3ODI5MjMyOTMsODQ5MDUyMTUs
-MTIxODI1ODE1Myw2OTc5MzU1MTksLTIxODU3ODQ0LDEwMTQ3Mj
-YwNiwtMTQ1MDc1ODczMSwzNzcyMzE5MDEsLTUxNjU2Njk3Nl19
+eyJoaXN0b3J5IjpbNDExODU5MDAxLDk1NTAyMDc3LC02MDExMj
+gxNDcsMTc0MjY4NTkxMSwtMTUyNTc0OTAxOSwtMTgzNzU1NjEw
+OSwtMTEzMTA4NSwtNjQ3NjcwOTUsMjgwNzQ0NTIzLC0xODM4ND
+A3OTMwLC0yMTAyODY4OTkxLDc4MjkyMzI5Myw4NDkwNTIxNSwx
+MjE4MjU4MTUzLDY5NzkzNTUxOSwtMjE4NTc4NDQsMTAxNDcyNj
+A2LC0xNDUwNzU4NzMxLDM3NzIzMTkwMSwtNTE2NTY2OTc2XX0=
 
 -->
