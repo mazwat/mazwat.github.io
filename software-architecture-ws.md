@@ -18,10 +18,10 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Previous page
+        content: OOP
         url: '../oop-ws'
     next:
-        content: Next page
+        content: UML
         url: '../uml-ws'
 ---
 
@@ -74,3 +74,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTUyOTg5Njc4XX0=
+-->
