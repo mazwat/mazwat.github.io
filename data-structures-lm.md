@@ -25,7 +25,7 @@ page_nav:
         url: '../design-patterns-lm'
 ---
 
-# Unified Markup Language
+# Data Structures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTI0NjI4NjIwNiw1ODkwMzcyOThdfQ==
 -->
