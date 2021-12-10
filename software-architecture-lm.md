@@ -179,34 +179,11 @@ public  class  ColorChanger : MonoBehaviour
 }
 ```
 
-
-If the icon image in the
-as a game object in the game,
+If the icon image is a game object in a scene, then we attach the two scripts to the object, the check input which will check what is being pressed and then the color changes to changes to the color you have defined.
 
 
 
 
-
-then we attach the two scripts,
-the check input which will check
-
-
-
-
-
-the which what is being pressed
-and then the color changes to
-
-
-
-ffadad
-
-change it and you can define
-what color you want to define it
-
-
-
-bddca
 
 too, and so then it's attached
 
@@ -267,7 +244,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1Mzk0MzYxLDE1NTc0NTgzODUsLTE1Nz
-U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
-LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTEzNDY3MzAxMSwxNTU3NDU4Mzg1LC0xNT
+c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
+NywtMTQzMjMzNTQyOF19
 -->
