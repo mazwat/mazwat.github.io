@@ -84,13 +84,13 @@ public  class  Employee {
 We can apply this same principle to a game example:
 ```c#
 public  class  Game {
-	public  Money  calculateHealth();
+	public  Health  calculateHealth();
 	public  void  updateUI();
 	public  String  reportDamage();
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTIwOTEzMiwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbNzc1NTYxNDM2LC0xNTc1OTY1OTQ4LDYxND
+k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
+OF19
 -->
