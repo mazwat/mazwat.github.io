@@ -163,7 +163,29 @@ public  class  CheckInput : MonoBehaviour
 And then finally, there's ``ColorChanger`` and this is basically calling the random colour from the previous example, and then it's going to apply that color to Whichever objects its attached to.
 So if we look here, we've got
 
+```c#
+using  UnityEngine;
 
+public  class  ColorChanger : MonoBehaviour
+{
+	public Color color;
+	public  void  ChangeColor() {
+		color = ColorHandler.GenRandColor();
+		ApplyColor(color);
+}
+
+  
+
+private  void  ApplyColor(Color  clr)
+
+{
+
+gameObject.GetComponent<SpriteRenderer>().color = clr;
+
+}
+
+}
+```
 
 
 
@@ -260,7 +282,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc0NDU5OCwxNTU3NDU4Mzg1LC0xNT
-c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
-NywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTIxODc4NzE4LDE1NTc0NTgzODUsLTE1Nz
+U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
+LC0xNDMyMzM1NDI4XX0=
 -->
