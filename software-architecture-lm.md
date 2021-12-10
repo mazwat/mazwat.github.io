@@ -187,10 +187,11 @@ If the icon image is a game object in a scene, then we attach the two scripts to
 
 The great thing about this is that it is totally reusable. At any point you can change what key is being pressed or what colour the obect will be. You can also duplicate it and use a range of different objects triggered in different ways with different colours. Everything becomes modular and although the differeny elements interact, each class is only performing one specfici defined task - it has a single responsibility.
 
+## Open Closed Principle
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUzMDI4MywtMTc0Njc2ODAsLTEzMz
-AyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3
-NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0MjhdfQ
-==
+eyJoaXN0b3J5IjpbNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMj
+U0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3
+LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
 -->
