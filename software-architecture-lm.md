@@ -36,8 +36,12 @@ Ralph Johnson a famous programmer and professor at the University of Illinois, w
 > ‘shared understanding that the expert developers have of the system design’*.
 > 'The decisions you wish you could get right early in a project'
 
+Johnson also cryptically said this:
+  
+> “Architecture is about the important stuff. Whatever that is”*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc3ODc4OSwyMTkxOTA4MjcsLTE0Mz
+eyJoaXN0b3J5IjpbMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0Mz
 IzMzU0MjhdfQ==
 -->
