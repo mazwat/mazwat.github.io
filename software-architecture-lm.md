@@ -100,7 +100,7 @@ public  static  class  Logger
 	}
 }
 ```
-#### Change Colour Script for an Icon
+#### Unity Example
 Lets explore this further in an example which is adapted from this medium article:
 [https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73](https://medium.com/unity-hub/unity-solid-s-single-responsibility-6707d9569e73)
 
@@ -185,7 +185,7 @@ The great thing about this is that it is totally reusable. At any point you can 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA5NTk3NTQsMTU1NzQ1ODM4NSwtMT
-U3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4
-MjcsLTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbMTczNDI5MDIyOSwxNTU3NDU4Mzg1LC0xNT
+c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
+NywtMTQzMjMzNTQyOF19
 -->
