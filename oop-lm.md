@@ -531,7 +531,24 @@ This Kiwi is green
 ```
 ## Abstraction
 
+```c#
+abstract  class  Animal
+{
+	// Abstract method (does not have a body)
+	public  abstract  void  animalSound();
+	// Regular method
 
+public  void  sleep()
+
+{
+
+Console.WriteLine("Zzz");
+
+}
+
+}
+```
+From the example above, it is not possible to create an object of the Animal class. To access the abstract class, it must be inherited from another class.
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -548,5 +565,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIwOTEzMTMsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbLTQwODQyMDIwLDIwMTQxNTI4NjFdfQ==
 -->
