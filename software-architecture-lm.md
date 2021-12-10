@@ -160,19 +160,7 @@ public  class  CheckInput : MonoBehaviour
 	}
 }
 ```
-And then finally, there's colourcChanger. and this is a. This is basically calling the random colour from the previous example, and then it's going to apply that color to whatever property it's linked to, so
-
-
-
-
-
-whichever property, it's.
-
-
-
-fcdfae
-
-Whichever objects attached to.
+And then finally, there's ``ColorChanger`` and this is basically calling the random colour from the previous example, and then it's going to apply that color to Whichever objects its attached to.
 So if we look here, we've got
 
 
@@ -272,7 +260,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNzI4MDksMTU1NzQ1ODM4NSwtMTU3NT
-k2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4Mjcs
-LTE0MzIzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbLTczNjc0NDU5OCwxNTU3NDU4Mzg1LC0xNT
+c1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgy
+NywtMTQzMjMzNTQyOF19
 -->
