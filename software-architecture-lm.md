@@ -116,21 +116,20 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 		_spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
 
 	}
-void Update()
-{
-	if (Input.GetKeyDown(KeyCode.F))
+	void Update()
 	{
-		_spriteRenderer.color = new  Color(Random.Range(0,1.0f), Random.Range(0, 1.0f),Random.Range(0, 1.0f),1);
-		color = _spriteRenderer1.color;
-		Debug.Log(color);
+		if (Input.GetKeyDown(KeyCode.F))
+		{
+			_spriteRenderer.color = new  Color(Random.Range(0,1.0f), Random.Range(0, 1.0f),Random.Range(0, 1.0f),1);
+			color = _spriteRenderer1.color;
+			Debug.Log(color);
+		}
 	}
 }
-
-}
 ```
-
+This is the princople 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTg1MDA0LC0xNTc1OTY1OTQ4LDYxND
-k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
-OF19
+eyJoaXN0b3J5IjpbMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MT
+Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
+MjhdfQ==
 -->
