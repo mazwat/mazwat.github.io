@@ -533,7 +533,7 @@ This Kiwi is green
 
 Indicates that a class is intended only to be a base class of other classes, not instantiated on its own. Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
 
-abstract classes are very often, if not always, used to describe something abstract, something that is more of a concept than a real thing. They are often used to describe a co
+Abstract classes are very often, if not always, used to describe something abstract, something that is more of a concept than a real thing. They are often used to describe a complete software framework and are not used frequently.
 ```c#
 abstract  class  Animal
 {
@@ -567,7 +567,7 @@ class  Program
 	}
 }
 ```
-The abstract parent class can only be accessed by it's child. The animal sound method is only accessible because it being called from Pig not animal.
+The abstract parent class can only be accessed by it's child. The animal sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -584,5 +584,5 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU4MTU0NTksMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbMTc5NTUwOTc1MSwyMDE0MTUyODYxXX0=
 -->
