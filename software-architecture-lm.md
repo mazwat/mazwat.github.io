@@ -69,8 +69,7 @@ You can see how features of OOP from the previous lecture form a major part of S
 
 ### Single Reponsibility Principle
 
-*“…it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others.”*
-
+**“…it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others.”**
 _David R Parnas -_ [_On the Criteria To Be Used in Decomposing Systems into Modules_](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)_. 1972
 
 We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In above piece of code the class employee is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer id responsible, as money is mis-spent.
@@ -90,7 +89,7 @@ public  class  Game {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE2ODEzMzAsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbODY0OTY4ODg4LC0xNTc1OTY1OTQ4LDYxND
+k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
+OF19
 -->
