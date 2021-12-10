@@ -89,7 +89,7 @@ public  class  Game {
 	public  String  reportDamage();
 }
 ```
-If we use Unity, this example shows a class that logs and prints to the console. It is perfect because it has one simple task, it is not trying to do anything beyond the scope of its name.
+If we use **Unity**, this example shows a class that logs and prints to the console. It is perfect because it has one simple task, it is not trying to do anything beyond the scope of its name.
 ```c#
 using  UnityEngine;
 public  static  class  Logger
@@ -100,9 +100,11 @@ public  static  class  Logger
 	}
 }
 ```
+#### Change Colour Script for an Icon
 
+Lets explore this further in an example which is adapted from this medium article
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDg5ODM3NiwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTExNTkzMzA0MDIsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
