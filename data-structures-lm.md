@@ -18,8 +18,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: OOP
-        url: '../oop-lm'
+        content: UML
+        url: '../uml-lm'
     next:
         content: Design Patterns
         url: '../design-patterns-lm'
@@ -27,5 +27,5 @@ page_nav:
 
 # Data Structures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjI4NjIwNiw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
