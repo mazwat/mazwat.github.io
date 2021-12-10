@@ -134,7 +134,7 @@ public  class  ChangeColorPropagateColor : MonoBehaviour
 ```
 But there is a **better way** to do this.
 
-We break this up into different classes, the first class is the ``ColorHandler`` and this is going to generate a random color. So we're essentially just separating this out. 
+We break this up into different classes and seperate *.cs* files, the first class is the ``ColorHandler`` and this is going to generate a random color. So we're essentially just separating this out. 
 
 ```c#
 public  static  class  ColorHandler
@@ -145,7 +145,7 @@ public  static  class  ColorHandler
 	}
 }
 ```
-Then we've got the ``CheckInput``. This is going to use ``KeyCode InvokeKey`` and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being pressed. We will look at that more in a second.
+Then we've got the ``CheckInput``. This is going to use ``KeyCode InvokeKey`` and this is going to be defined by an object which is connected to the actual icon itself, and so then it will detect the keypress based on a chosen property of whichever key is being pressed.
 ```c#
 public  class  CheckInput : MonoBehaviour
 {
@@ -160,7 +160,7 @@ public  class  CheckInput : MonoBehaviour
 	}
 }
 ```
-And then finally, there's colour changes. CSS and this is a. This is basically calling the random colour from the previous example, and then it's going to apply that color to whatever property it's linked to, so
+And then finally, there's colourcChanger. and this is a. This is basically calling the random colour from the previous example, and then it's going to apply that color to whatever property it's linked to, so
 
 
 
@@ -272,7 +272,7 @@ and it becomes very reusable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMjk5ODgzLDE1NTc0NTgzODUsLTE1Nz
-U5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3
-LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbNTkxNzI4MDksMTU1NzQ1ODM4NSwtMTU3NT
+k2NTk0OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4Mjcs
+LTE0MzIzMzU0MjhdfQ==
 -->
