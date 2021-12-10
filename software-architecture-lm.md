@@ -89,8 +89,20 @@ public  class  Game {
 	public  String  reportDamage();
 }
 ```
+If we use Unity, this example shows a class that logs and prints to the console. It is perfect because it has one simple task, it is not trying to do anything beyond the scope of its name.
+```c#
+using  UnityEngine;
+public  static  class  Logger
+{
+	public  static  void  PrintToConsole(object  content)
+	{
+	Debug.Log(content);
+	}
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NTYxNDM2LC0xNTc1OTY1OTQ4LDYxND
-k5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQy
-OF19
+eyJoaXN0b3J5IjpbMTA5MDM3NzE5OSwtMTU3NTk2NTk0OCw2MT
+Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
+MjhdfQ==
 -->
