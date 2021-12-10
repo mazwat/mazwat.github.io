@@ -247,16 +247,23 @@ public  abstract  class  BaseSalaryCalculator
 ```
 
 ```c#
-
+public  class  SeniorDevSalaryCalculator : BaseSalaryCalculator
+{
+	public  SeniorDevSalaryCalculator(DeveloperReport  report)
+		:base(report)
+	{
+	}
+	public  override  double  CalculateSalary() => DeveloperReport.HourlyRate * DeveloperReport.WorkingHours * 1.2;
+}
 ```
 
 ```c#
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDc5MzU1NywtMTU0NjQ2MTcyNywxMj
-gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
-MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LD
-YxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMz
-NTQyOF19
+eyJoaXN0b3J5IjpbNzA2MzU1Njg0LC0xNTQ2NDYxNzI3LDEyOD
+I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
+LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
