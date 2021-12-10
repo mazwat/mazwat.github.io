@@ -18,7 +18,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Object Oriented Programming
+        content: OOP
         url: '../oop-lm'
     next:
         content: Unified Markup Language
@@ -27,5 +27,5 @@ page_nav:
 
 # Software Architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODUxNzU0MiwtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTY4NDAyNTAxMiwtMTQzMjMzNTQyOF19
 -->
