@@ -383,7 +383,7 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in.
 
-Order elf execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or synchronously. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous. We will return to this shortly. Let’s now look at Unity and the game Loop.
+Order elf execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the game Loop.
 
 Types of code execution:
 
@@ -392,11 +392,11 @@ Types of code execution:
 
 Programming languages execute code in **sequential** order . However **branching** and **iterators** can change the order
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ3NTY3MCwtMTUzOTY5NTA1NCwtMT
-kxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYx
-OCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
-I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
-LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
-E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
-NDI4XX0=
+eyJoaXN0b3J5IjpbLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLT
+E5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2
+MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMj
+gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
+MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LD
+YxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMz
+NTQyOF19
 -->
