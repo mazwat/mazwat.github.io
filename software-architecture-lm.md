@@ -377,12 +377,12 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 -   Interface segregation principle (ISP)
 -   Dependency injection principle (DIP)
 
-**I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with an invaluable tools to becoming a better programmer.
+**I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with invaluable tools for becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0Mj
-U5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwt
-MTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mj
-c4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1
-LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOT
-E5MDgyNywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OT
+U5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQw
+LDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNj
+UzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1
+NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMD
+Q4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
 -->
