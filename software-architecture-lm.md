@@ -354,31 +354,23 @@ public  abstract  class  Fruit
 public  class  Apple : Fruit
 {
 	public  override  string  GetColor()
-{
-return “Green";
-
+	{
+		return "Green";
+	}
 }
-
-}
-
 public  class  Banana : Fruit
-
 {
-
-public  override  string  GetColor()
-
-{
-
-return “Yellow";
-
-}
-
+	public  override  string  GetColor()
+	{
+		return "Yellow";
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Nj
-g4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4
-LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMD
-I1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3
-NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbLTE5MjgwMjIzMTksMTU0MjU5NjgzLC0yMT
+U4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcy
+NywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNz
+Q2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1
+OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMT
+QzMjMzNTQyOF19
 -->
