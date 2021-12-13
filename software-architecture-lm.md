@@ -378,12 +378,16 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 -   Dependency injection principle (DIP)
 
 **I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with invaluable tools for becoming a better programmer.
+
+## Order of Execution & Game Loops
+
+We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NDM3NjM0LC0xNTM5Njk1MDU0LC0xOT
-E3ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4
-LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3MjcsMTI4Mj
-QwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAs
-LTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MT
-Q5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0MzIzMzU0
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTUwODkxOTEzMSwtMTUzOTY5NTA1NCwtMT
+kxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYx
+OCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
+I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
+LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
