@@ -312,7 +312,7 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Apple apple = new Orange();
+		Apple apple = new Banana();
 		Console.WriteLine(apple.GetColor());
 	}
 }
@@ -342,7 +342,7 @@ class Program
 {
 	static  void  Main(string[] args)
 	{
-		Fruit fruit = new Orange();
+		Fruit fruit = new Banana();
 		Console.WriteLine(fruit.GetColor());
 		fruit = new Apple();
 		Console.WriteLine(fruit.GetColor());
@@ -373,10 +373,10 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 **I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with an invaluable tools to becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNT
-g0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3
-LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3ND
-Y3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5
-NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xND
-MyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTEwMDI0OTc4LDE1OTU5Nzg2NjAsMTU0Mj
+U5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwt
+MTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mj
+c4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1
+LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOT
+E5MDgyNywtMTQzMjMzNTQyOF19
 -->
