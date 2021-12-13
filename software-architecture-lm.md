@@ -334,7 +334,9 @@ public class Banana : Apple
 }
 ```
 
+### Example 1 -  with Liskov Substitution
 
+Let’s change the previous example to follow the Liskov Substitution Principle. First, we need a generic base class such as ``Fruit`` for both ``Apple`` and ``Banana``. Now you can replace the ``Fruit`` class object with its subtypes either ``Apple`` and ``Banana`` and it will behave correctly.
 ```c#
 class Program
 {
@@ -366,11 +368,16 @@ public  class  Banana : Fruit
 	}
 }
 ```
+
+
+The purpose of these principles of SOLID is to give us a set of basic rules to inform the construction of code. To provide a guide as the features and the requirements of our software mushroom. It is often difficult to know when to refactor as we scale but these principles give us a framework on which to make these decisions.
+
+I have only covered the first 3 in this lecture but please use the reading list to explore the other 2, the will provide you with an invaluable insight into becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgwMjIzMTksMTU0MjU5NjgzLC0yMT
-U4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcy
-NywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNz
-Q2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1
-OTQ4LDYxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMT
-QzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbNTg0MzY4NzkzLDE1NDI1OTY4MywtMjE1OD
+Q2NjE4LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3Mjcs
+MTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Nj
+c2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0
+OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0Mz
+IzMzU0MjhdfQ==
 -->
