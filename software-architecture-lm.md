@@ -368,7 +368,6 @@ public  class  Banana : Fruit
 	}
 }
 ```
-
 The purpose of these principles of SOLID is to give us a set of basic rules to inform the construction of code. To provide a guide as the features and the requirements of our software mushroom. It is often difficult to know when to refactor as we scale but these principles give us a framework on which to make these decisions.
 
 -   **Single responsibility principle (SRP)**
@@ -379,10 +378,11 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 **I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with invaluable tools for becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OT
-U5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQw
-LDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNj
-UzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1
-NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMD
-Q4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
+eyJoaXN0b3J5IjpbMTc0MzY4MjI0NCwtMTUzOTY5NTA1NCwtMT
+kxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYx
+OCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
+I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
+LC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNj
+E0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xNDMyMzM1
+NDI4XX0=
 -->
