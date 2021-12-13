@@ -305,7 +305,7 @@ For example, the father is a teacher whereas his daughter is a doctor. So, in th
 
 ### Example 1 -  without Liskov Substitution
 
-Let's first understand one example without using the Liskov Substitution Principle in C#. In the following example, first, we create the ``Apple`` class with the method ``GetColor``. Then we create the ``Banana`` class which inherits the ``Apple`` class as well as overrides the ``GetColor`` method of the ``Apple`` class. The point is that a ``Banana`` cannot be replaced by an ``Apple``, which results in printing the colour of ``Apple`` as ``Banana`` as shown here.
+Let's first understand one example without using the LSP in C#. In the following example, first, we create the ``Apple`` class with the method ``GetColor``. Then we create the ``Banana`` class which inherits the ``Apple`` class as well as overrides the ``GetColor`` method of the ``Apple`` class. The point is that a ``Banana`` cannot be replaced by an ``Apple``, which results in printing the colour of ``Apple`` as ``Banana`` as shown here.
 
 ```c#
 class Program
@@ -336,7 +336,7 @@ public class Banana : Apple
 
 ### Example 1 -  with Liskov Substitution
 
-Let’s change the previous example to follow the Liskov Substitution Principle. First, we need a generic base class such as ``Fruit`` for both ``Apple`` and ``Banana``. Now you can replace the ``Fruit`` class object with its subtypes either ``Apple`` and ``Banana`` and it will behave correctly.
+Let’s change the previous example to follow LSP. First, we need a generic base class such as ``Fruit`` for both ``Apple`` and ``Banana``. Now you can replace the ``Fruit`` class object with its subtypes either ``Apple`` and ``Banana`` and it will behave correctly.
 ```c#
 class Program
 {
@@ -368,6 +368,8 @@ public  class  Banana : Fruit
 	}
 }
 ```
+
+
 The purpose of these principles of SOLID is to give us a set of basic rules to inform the construction of code. To provide a guide as the features and the requirements of our software mushroom. It is often difficult to know when to refactor as we scale but these principles give us a framework on which to make these decisions.
 
 -   **Single responsibility principle (SRP)**
@@ -378,7 +380,7 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 **I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with invaluable tools for becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzY4MjI0NCwtMTUzOTY5NTA1NCwtMT
+eyJoaXN0b3J5IjpbMTQxMTE4OTI2MywtMTUzOTY5NTA1NCwtMT
 kxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYx
 OCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
 I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
