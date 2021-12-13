@@ -371,9 +371,15 @@ public  class  Banana : Fruit
 
 The purpose of these principles of SOLID is to give us a set of basic rules to inform the construction of code. To provide a guide as the features and the requirements of our software mushroom. It is often difficult to know when to refactor as we scale but these principles give us a framework on which to make these decisions.
 
+-   **Single responsibility principle (SRP)**
+-   **Open closed principle (OCP)**
+-   **Liskov substitution principle (LSP)**
+-   Interface segregation principle (ISP)
+-   Dependency injection principle (DIP)
+
 **I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with an invaluable tools to becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDI0OTc4LDE1OTU5Nzg2NjAsMTU0Mj
+eyJoaXN0b3J5IjpbLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0Mj
 U5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwt
 MTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mj
 c4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1
