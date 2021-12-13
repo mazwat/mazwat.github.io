@@ -369,15 +369,14 @@ public  class  Banana : Fruit
 }
 ```
 
-
 The purpose of these principles of SOLID is to give us a set of basic rules to inform the construction of code. To provide a guide as the features and the requirements of our software mushroom. It is often difficult to know when to refactor as we scale but these principles give us a framework on which to make these decisions.
 
-I have only covered the first 3 in this lecture but please use the reading list to explore the other 2, the will provide you with an invaluable insight into becoming a better programmer.
+**I have only covered the first 3 in this lecture** but please use the reading list to explore the other two. They will provide you with an invaluable tools to becoming a better programmer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MzY4NzkzLDE1NDI1OTY4MywtMjE1OD
-Q2NjE4LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3Mjcs
-MTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Nj
-c2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0
-OCw2MTQ5OTk3NzcsMTA0ODAwNjQ4NywyMTkxOTA4MjcsLTE0Mz
-IzMzU0MjhdfQ==
+eyJoaXN0b3J5IjpbMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNT
+g0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3
+LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3ND
+Y3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5
+NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkwODI3LC0xND
+MyMzM1NDI4XX0=
 -->
