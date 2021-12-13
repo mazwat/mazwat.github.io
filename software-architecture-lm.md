@@ -321,7 +321,7 @@ public class Apple
 {
 	public virtual string  GetColor()
 	{
-		return “Green";
+		return "Green";
 	}
 }
 
@@ -329,7 +329,7 @@ public class Banana : Apple
 {
 	public override string GetColor()
 	{
-		return “Yellow”;
+		return "Yellow";
 	}
 }
 ```
@@ -353,11 +353,8 @@ public  abstract  class  Fruit
 }
 public  class  Apple : Fruit
 {
-
-public  override  string  GetColor()
-
+	public  override  string  GetColor()
 {
-
 return “Green";
 
 }
@@ -379,9 +376,9 @@ return “Yellow";
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1Nz
-U3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3
-MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NT
-c0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0
-ODcsMjE5MTkwODI3LC0xNDMyMzM1NDI4XX0=
+eyJoaXN0b3J5IjpbMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Nj
+g4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4
+LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMD
+I1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3
+NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMzNTQyOF19
 -->
