@@ -382,8 +382,17 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 ## Order of Execution & Game Loops
 
 We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in.
+
+Order elf execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or synchronously. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous. We will return to this shortly. Let’s now look at Unity and the game Loop.
+
+Types of code execution:
+
+-   **Synchronous** – current line of code is executed before moving on to the next line
+-   **Asynchronous** – parallel processing
+
+Programming languages execute code in **sequential** order . However **branching** and **iterators** can change the order
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODkxOTEzMSwtMTUzOTY5NTA1NCwtMT
+eyJoaXN0b3J5IjpbLTEwOTQ3NTY3MCwtMTUzOTY5NTA1NCwtMT
 kxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYx
 OCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyOD
 I0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3Njgw
