@@ -390,13 +390,15 @@ Types of code execution:
 -   **Synchronous** – current line of code is executed before moving on to the next line
 -   **Asynchronous** – parallel processing
 
-Programming languages execute code in **sequential** order . However **branching** and **iterators** can change the order
+Programming languages execute code in **sequential** order . However **branching** and **iterators** can change the order.
+
+![Order of Execution](images/flow_sequential.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLT
-E5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2
-MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMj
-gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
-MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1OTQ4LD
-YxNDk5OTc3NywxMDQ4MDA2NDg3LDIxOTE5MDgyNywtMTQzMjMz
-NTQyOF19
+eyJoaXN0b3J5IjpbMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMT
+UzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2
+ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNT
+Q2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgz
+MjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLT
+E1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkw
+ODI3XX0=
 -->
