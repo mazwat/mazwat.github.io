@@ -500,13 +500,13 @@ As we have seen in this lecture Software Architecture is about the structure and
 -   **I** interface segregation principle (ISP)
 -   **D** Dependency injection principle (DIP)
 
-But alongside this it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time so it is important to factor in this loop when designing your projects and to used work arounds like coroutines to insure aspects of your projects
+But alongside this it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time so it is important to factor in this loop when designing your projects and to used work arounds like coroutines to insure effects and processes are visible to your users and players.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTIzNTYyLDE0OTA2MzI2NzYsLTE5Mj
-kzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4
-MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMT
-Q5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4
-NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNT
-Y1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAy
-OTQ4XX0=
+eyJoaXN0b3J5IjpbLTk1NjkzMDM4NCwxNDkwNjMyNjc2LC0xOT
+I5MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4NTc4NSwtOTgyODA4
+ODM2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLTUyNzI2MTEzOSwxMj
+E0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3
+ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LD
+U2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQw
+Mjk0OF19
 -->
