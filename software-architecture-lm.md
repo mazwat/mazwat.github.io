@@ -454,18 +454,18 @@ This is where the current state of the game is drawn:
 
 If you want a more detailed view of the order of exection and the architecture of Unity there is a useful diagram [here](https://docs.unity3d.com/Manual/ExecutionOrder.html) which is part of Unity's online manual. 
 
-In summary the key functions and their order in Monobehaviour are these:
+In summary the key functions and their order in **Monobehaviour** are these:
 
 On loading of a scene, the following methods gets called in Monobehaviour  
 ``– Awake()`` : Called before any Start  
 ``– OnEnable()`` : Called before any Game Object is enabled
 ``– OnLevelWasLoaded()`` : Called when the level is loaded
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjIwMTM1MywtMjEzMDIxNDk2MCw1MT
-c5ODU3ODUsLTk4MjgwODgzNiw5NzMyNTAxNjUsNTQ5NDU2MTc4
-LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMT
-UzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2
-ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNT
-Q2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgz
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNT
+E3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3
+OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLT
+E1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5
+NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMT
+U0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4
+MzIzXX0=
 -->
