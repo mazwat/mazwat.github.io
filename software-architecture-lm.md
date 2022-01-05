@@ -492,9 +492,15 @@ A coroutine is like a function that has the ability to **pause execution** and r
 
 ## Conclusion
 
-As we have seen in this lecture Software Architecture is about the structure and frameowork of your software as highlighted in 
+As we have seen in this lecture Software Architecture is about the structure and framework of your software as demonstrated by the 5 principles of , which will help to create a good software architecture. You can see that all design patterns are based on these principles. SOLID is basically an acronym of the following:
+
+-   **S** is single responsibility principle (SRP)
+-   **O** stands for open closed principle (OCP)
+-   **L** Liskov substitution principle (LSP)
+-   **I** interface segregation principle (ISP)
+-   **D** Dependency injection principle (DIP)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODcxNDY4LDE0OTA2MzI2NzYsLTE5Mj
+eyJoaXN0b3J5IjpbNDQxOTA5MDM0LDE0OTA2MzI2NzYsLTE5Mj
 kzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4
 MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMT
 Q5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4
