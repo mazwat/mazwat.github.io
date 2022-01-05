@@ -384,8 +384,9 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in. 
 
 Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly.
- Let’s now look at Unity and the **game loop***
-other applications, engines and frameworks may have a slightly different 
+Let’s now look at Unity and the **game loop***
+Note - Other applications, engines and frameworks may have a slightly different orders of execution and you should be aware of the specfics of each. However the following is consistent with many realtime software environments.
+{: .callout .callout--info}
 
 Types of code execution:
 
@@ -443,11 +444,11 @@ In Unity the update is split in two:
 -   physics update (**FixedUpdate**)
 -   game update (**Update**)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTQ3NzMxOCw1NDk0NTYxNzgsLTUyNz
-I2MTEzOSwxMjE0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1
-MDU0LC0xOTE3ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMj
-E1ODQ2NjE4LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3
-MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMT
-c0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2
-NTk0OF19
+eyJoaXN0b3J5IjpbMzcxODY5MDM2LDU0OTQ1NjE3OCwtNTI3Mj
+YxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUw
+NTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMT
+U4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcy
+NywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNz
+Q2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1
+OTQ4XX0=
 -->
