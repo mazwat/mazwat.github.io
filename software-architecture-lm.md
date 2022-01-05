@@ -423,9 +423,9 @@ We can see that key functions are handled in a specific order
 ### 1.  - Handling Input
 
 At this stage of the update you should grab the input from the user:
-``– Input.GetButtonDown(“Fire1”)`` 
-``– Input.GetKeyDown(KeyCode.Space)``
-``– Input.mousePosition``
+``– Input.GetButtonDown(“Fire1”) 
+– Input.GetKeyDown(KeyCode.Space)
+– Input.mousePosition``
 
 If you are using ``Input.GetButton`` or ``Input.GetAxis``, these have to be configured in the **Input Manager**.  
   
@@ -442,11 +442,11 @@ In Unity the update is split in two:
 -   physics update (**FixedUpdate**)
 -   game update (**Update**)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3Mj
-YxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUw
-NTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMT
-U4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcy
-NywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNz
-Q2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1
-OTQ4XX0=
+eyJoaXN0b3J5IjpbLTg2MDgxMTc4Nyw5NzMyNTAxNjUsNTQ5ND
+U2MTc4LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3
+OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNT
+QyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4
+LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNj
+gyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgz
+ODVdfQ==
 -->
