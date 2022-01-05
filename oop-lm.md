@@ -296,7 +296,7 @@ public  class  Player
 ```
 You can see that the property ``Health`` with a capital imposes modifiers on the private field ``health``. The external method can get a return of the value of the experience field so this is what is read which is get, and the experience field can be written to using the contextual keyword ``value`` which will set the value to whatever is defined in the method that is writing to it. This control of private and public through get and set is an extension to the concept of **encapsulation**.
 
-THere is another type of access modifier that is not covered here. A **protected** field can be accessed only by code in the same `class`, or in a `class` that is derived from that `class`. You can see how this type is used in the section on **Inheritance** below.
+As well as **public** and **private** there is another type of access modifier that is not covered here. A **protected** field can be accessed only by code in the same `class`, or in a `class` that is derived from that `class`. You can see how this type is used in the section on **inheritance** below. For more infornation types see the offic
 
 ### Accessing Properties
 
@@ -589,6 +589,6 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTU1MTg3NCwtNTIyNTUxMzI0LDIwMT
-QxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbMjg0OTA4MTIsLTUyMjU1MTMyNCwyMDE0MT
+UyODYxXX0=
 -->
