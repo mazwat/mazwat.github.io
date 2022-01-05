@@ -443,16 +443,16 @@ In Unity the update is split in two:
 
 ### 3. - Rendering
 
-This is where the current state of the game is drawn
-- Anything visual will be rendered to the backbuffer (click)
-- When drawing is complete, the backbuffer and the frontbuffer is swapped (click)
--  This will display the current state of the game to the player
+This is where the current state of the game is drawn:
+- Anything visual will be rendered to the **backbuffer**
+- When drawing is complete, the backbuffer and the **frontbuffer** is swapped
+- This will display the current state of the game to the player
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDExNjA3MTAsOTczMjUwMTY1LDU0OT
-Q1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEw
-NzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMT
-U0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4
-OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LD
-Y4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4
-Mzg1XX0=
+eyJoaXN0b3J5IjpbLTk4MjgwODgzNiw5NzMyNTAxNjUsNTQ5ND
+U2MTc4LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3
+OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNT
+QyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4
+LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNj
+gyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgz
+ODVdfQ==
 -->
