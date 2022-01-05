@@ -393,12 +393,24 @@ Types of code execution:
 Programming languages execute code in **sequential** order . However **branching** and **iterators** can change the order.
 
 ![Order of Execution](images/flow_sequential.gif)
+
+### Game Loops
+
+The most basic game loop does three things:
+
+-   **Handle Input**
+-   **Update the state of the game**
+-   **Render the game to the screen**
+
+It does these actions once per frame (30 or 60 times per second)
+
+We can consider a gameloop as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMT
-UzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2
-ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNT
-Q2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgz
-MjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLT
-E1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgwMDY0ODcsMjE5MTkw
-ODI3XX0=
+eyJoaXN0b3J5IjpbMzMwNTY4MzQ0LDEyMTQ5NTE4MTYsLTE0OT
+AzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2
+NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNT
+c1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1
+NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNT
+U3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2
+NDg3XX0=
 -->
