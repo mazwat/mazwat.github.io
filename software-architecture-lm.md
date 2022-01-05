@@ -489,12 +489,16 @@ IEnumerator Fade()
 }
 ```
 A coroutine is like a function that has the ability to **pause execution** and return control to Unity but then to continue where it left off on the following frame. The ``IEnumerator`` defines it as co-routine and and ``yield return null``, tells it where to stop until the next frame. Coroutines are ways of optimising and controlling the order of execution in the game loop.
+
+## Conclusion
+
+As we have seen in th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTU3MDUyNSwxNDkwNjMyNjc2LC0xOT
-I5MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4NTc4NSwtOTgyODA4
-ODM2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLTUyNzI2MTEzOSwxMj
-E0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3
-ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LD
-U2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQw
-Mjk0OF19
+eyJoaXN0b3J5IjpbLTE1MzgzODg5MzAsMTQ5MDYzMjY3NiwtMT
+kyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5ODU3ODUsLTk4Mjgw
+ODgzNiw5NzMyNTAxNjUsNTQ5NDU2MTc4LC01MjcyNjExMzksMT
+IxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkx
+Nzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOC
+w1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0
+MDI5NDhdfQ==
 -->
