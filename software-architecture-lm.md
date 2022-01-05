@@ -457,15 +457,15 @@ If you want a more detailed view of the order of exection and the architecture o
 In summary the key functions and their order in **Monobehaviour** are these:
 
 On loading of a scene, the following methods gets called in Monobehaviour  
-``– Awake()`` : Called before any Start  
-``– OnEnable()`` : Called before any Game Object is enabled
-``– OnLevelWasLoaded()`` : Called when the level is loaded
+- ``– Awake()`` : Called before any Start  
+- ``– OnEnable()`` : Called before any Game Object is enabled
+- ``– OnLevelWasLoaded()`` : Called when the level is loaded
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNT
-E3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3
-OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLT
-E1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5
-NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMT
-U0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4
-MzIzXX0=
+eyJoaXN0b3J5IjpbMTQ5MDYzMjY3NiwtMTkyOTM0MjQ3MywtMj
+EzMDIxNDk2MCw1MTc5ODU3ODUsLTk4MjgwODgzNiw5NzMyNTAx
+NjUsNTQ5NDU2MTc4LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMT
+Q5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3
+ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMT
+I1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1
+NjU3MzhdfQ==
 -->
