@@ -418,9 +418,8 @@ while (running) {
 
 ### Handling Input
 
-At this stage of the update you should grab the input from the user  
-c#  
-– Input.GetButtonDown(“Fire1”)  
+At this stage of the update you should grab the input from the user  c#  
+``– Input.GetButtonDown(“Fire1”)  
 – Input.GetKeyDown(KeyCode.Space)  
 – Input.mousePosition  
 
@@ -428,11 +427,11 @@ If you are using Input.GetButton or Input.GetAxis, these have to be configured i
   
 You can use the values from the input to update the state of the game
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYxNjQ2ODQsLTUyNzI2MTEzOSwxMj
-E0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3
-ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LD
-U2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQw
-Mjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLT
-EzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5
-OTk3NzddfQ==
+eyJoaXN0b3J5IjpbOTg4ODE3MTg2LC01MjcyNjExMzksMTIxND
+k1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkxNzg1
+MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOCw1Nj
+U2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5
+NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMz
+MwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5
+Nzc3XX0=
 -->
