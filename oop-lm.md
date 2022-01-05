@@ -299,6 +299,7 @@ You can see that the property ``Health`` with a capital imposes modifiers on the
 As well as **public** and **private** there is another type of access modifier that is not covered here. A **protected** field can be accessed only by code in the same `class`, or in a `class` that is derived from that `class`. You can see how this type is used in the section on **inheritance** below. 
 
 For more information on access modifer types see the official [Microsoft C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers).
+{: .callout .callout--info}
 
 ### Accessing Properties
 
@@ -591,6 +592,6 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDk2MjE2MywtNTIyNTUxMzI0LDIwMT
-QxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMj
+U1MTMyNCwyMDE0MTUyODYxXX0=
 -->
