@@ -452,13 +452,13 @@ This is where the current state of the game is drawn:
 
 ### Order of Execution of Game Functions
 
-If you want a more detailed view of the 
+If you want a more detailed view of the order of exection and the architecture of Unity there is a useful diagram [here](https://docs.unity3d.com/Manual/ExecutionOrder.html) which is part of Unity's online manual. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05OD
-I4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5
-LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLT
-E5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2
-MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMj
-gyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4
-MF19
+eyJoaXN0b3J5IjpbLTE2NTMzMjE0MzcsLTIxMzAyMTQ5NjAsNT
+E3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3
+OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLT
+E1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5
+NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMT
+U0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4
+MzIzXX0=
 -->
