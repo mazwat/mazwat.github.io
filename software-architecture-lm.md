@@ -492,13 +492,13 @@ A coroutine is like a function that has the ability to **pause execution** and r
 
 ## Conclusion
 
-As we have seen in this lecture Software Architecture is about the structure and framework of your software as demonstrated by the 5 principles of **SOLID** which will help you to create a good software architecture.  But alongside these principles it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time. Remember to factor in this loop when designing your projects and to use work arounds like coroutines to insure effects and processes are visible to your users and players and not lost in .
+As we have seen in this lecture Software Architecture is about the structure and framework of your software as demonstrated by the 5 principles of **SOLID** which will help you to create a good software architecture.  But alongside these principles it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time. Remember to factor in this loop when designing your projects and to use work arounds like coroutines to insure effects and processes are visible to your users and players and not lost to the computer through events occuring in fractions of a second.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYyNDIzMzEsLTk1NjkzMDM4NCwxND
-kwNjMyNjc2LC0xOTI5MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4
-NTc4NSwtOTgyODA4ODM2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLT
-UyNzI2MTEzOSwxMjE0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5
-Njk1MDU0LC0xOTE3ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4My
-wtMjE1ODQ2NjE4LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0
-NjE3MjddfQ==
+eyJoaXN0b3J5IjpbMTA4ODgyOTkzNSwtOTU2OTMwMzg0LDE0OT
+A2MzI2NzYsLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1
+Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNT
+I3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2
+OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC
+0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2
+MTcyN119
 -->
