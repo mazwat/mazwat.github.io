@@ -407,9 +407,7 @@ It does these actions once per frame (30 or 60 times per second)
 We can consider a gameloop as pseudo code like this:
 
 ```c#
-bool  running = true;
-
-  
+bool  running = true;  
 
 while (running) {
 
@@ -420,13 +418,13 @@ update();
 render();
 
 }
-'''
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NTk4MjU2LDEyMTQ5NTE4MTYsLTE0OT
-AzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2
-NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNT
-c1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1
-NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNT
-U3NDU4Mzg1LC0xNTc1OTY1OTQ4LDYxNDk5OTc3NywxMDQ4MDA2
-NDg3XX0=
+eyJoaXN0b3J5IjpbLTI3MzExNjk3MywxMjE0OTUxODE2LC0xND
+kwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3ODUxMywxNTk1OTc4
+NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LDU2NTY4ODk0MCwxMj
+U3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2
+NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMT
+U1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAw
+NjQ4N119
 -->
