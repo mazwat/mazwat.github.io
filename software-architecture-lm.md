@@ -476,12 +476,24 @@ void Fade()
 }
 ```
 We would expect this to fade some colour in a material in unity, However, the function will execute in its entirety within a single frame update. The intermediate values will never be seen and the object will disappear instantly. This is where a coroutine comes in.
+```c#
+IEnumerator Fade()
+{
+	for (float ft = 1f; ft >= 0; ft -= 0.1f)
+	{
+		Color  c = renderer.material.color;
+		c.a = ft;
+		renderer.material.color = c;
+		yield return null;
+	}
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA4OTQxNTYsMTQ5MDYzMjY3NiwtMT
-kyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5ODU3ODUsLTk4Mjgw
-ODgzNiw5NzMyNTAxNjUsNTQ5NDU2MTc4LC01MjcyNjExMzksMT
-IxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkx
-Nzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOC
-w1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0
-MDI5NDhdfQ==
+eyJoaXN0b3J5IjpbNTkwNjA3ODY0LDE0OTA2MzI2NzYsLTE5Mj
+kzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4
+MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMT
+Q5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4
+NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNT
+Y1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAy
+OTQ4XX0=
 -->
