@@ -415,9 +415,9 @@ while (running) {
 	render();
 }
 ```
-We can see that t
+We can see that key functions are handled in a specific order
 
-### Handling Input
+### 1.  - Handling Input
 
 At this stage of the update you should grab the input from the user:
 ``– Input.GetButtonDown(“Fire1”)`` 
@@ -427,12 +427,25 @@ At this stage of the update you should grab the input from the user:
 If you are using ``Input.GetButton`` or ``Input.GetAxis``, these have to be configured in the **Input Manager**.  
   
 You can use the values from the input to update the state of the game
+
+### 2. - Update Game State
+
+This is where your game logic is implemented
+
+-   Physics
+-   AI
+-   Game play  
+      
+In Unity the update is split in two:
+
+-   physics update (FixedUpdate)
+-   game update (Update)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDkwODgxOCw1NDk0NTYxNzgsLTUyNz
-I2MTEzOSwxMjE0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1
-MDU0LC0xOTE3ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMj
-E1ODQ2NjE4LDU2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3
-MjcsMTI4MjQwMjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMT
-c0Njc2ODAsLTEzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2
-NTk0OF19
+eyJoaXN0b3J5IjpbLTExOTk5OTA1ODQsNTQ5NDU2MTc4LC01Mj
+cyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5
+NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLT
+IxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYx
+NzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLT
+E3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5
+NjU5NDhdfQ==
 -->
