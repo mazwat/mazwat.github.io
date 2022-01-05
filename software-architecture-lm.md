@@ -381,9 +381,9 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 ## Order of Execution & Game Loops
 
-We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in.
+We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in. 
 
-Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the game Loop.
+Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the **game loop***, other Applications and Frameworks deploy 
 
 Types of code execution:
 
@@ -435,17 +435,17 @@ This is where your game logic is implemented
 -   Physics
 -   AI
 -   Game play  
-      
+-       
 In Unity the update is split in two:
 
--   physics update (FixedUpdate)
--   game update (Update)
+-   physics update (**FixedUpdate**)
+-   game update (**Update**)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk5OTA1ODQsNTQ5NDU2MTc4LC01Mj
-cyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5
-NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLT
-IxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYx
-NzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNjgyNzgzMjMsLT
-E3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgzODUsLTE1NzU5
-NjU5NDhdfQ==
+eyJoaXN0b3J5IjpbOTg5NDUxODg3LDU0OTQ1NjE3OCwtNTI3Mj
+YxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUw
+NTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMT
+U4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcy
+NywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mjc4MzIzLC0xNz
+Q2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1LC0xNTc1OTY1
+OTQ4XX0=
 -->
