@@ -463,31 +463,25 @@ On loading of a scene, the following methods gets called in Monobehaviour
 
 ### Asychronous - Coroutines
 
-You have may have heard mention of a Co-routine in the previous slides, Let’s find out more. We would expect this to fade some colour in a material in unity, However, the function will execute in its entirety within a single frame update. The intermediate values will never be seen and the object will disappear instantly. This is where a coroutine comes in.
+You have may have heard mention of a **coroutine** in the previous slides or in your last study block.
 ```c#
 void Fade()
 {
 	for (float ft = 1f; ft >= 0; ft -= 0.1f)
-
-{
-
-Color  c = renderer.material.color;
-
-c.a = ft;
-
-renderer.material.color = c;
-
-}
-
+	{
+		Color  c = renderer.material.color;
+		c.a = ft;
+		renderer.material.color = c;
+	}
 }
 ```
-
+We would expect this to fade some colour in a material in unity, However, the function will execute in its entirety within a single frame update. The intermediate values will never be seen and the object will disappear instantly. This is where a coroutine comes in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNjAwNzM5LDE0OTA2MzI2NzYsLTE5Mj
-kzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4
-MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMT
-Q5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4
-NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNT
-Y1Njg4OTQwLDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAy
-OTQ4XX0=
+eyJoaXN0b3J5IjpbLTEzOTA4OTQxNTYsMTQ5MDYzMjY3NiwtMT
+kyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5ODU3ODUsLTk4Mjgw
+ODgzNiw5NzMyNTAxNjUsNTQ5NDU2MTc4LC01MjcyNjExMzksMT
+IxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkx
+Nzg1MTMsMTU5NTk3ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOC
+w1NjU2ODg5NDAsMTI1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0
+MDI5NDhdfQ==
 -->
