@@ -385,7 +385,7 @@ We can design our code in perfect discrete modules but we also have to contend w
 
 Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the **game loop**.
 
-Note - Other applications, engines and frameworks may have a slightly different **order of execution** and you should make yourself aware of the specifics of each. However the following is common with many realtime graphic software environments.
+Note - Other applications, engines and frameworks may have a slightly different **order of execution** and you should make yourself aware of the specifics of each. However the following is common to many realtime graphic software environments.
 {: .callout .callout--info}
 
 Types of code execution:
@@ -423,13 +423,12 @@ We can see that key functions are handled in a specific order
 ### 1.  - Handling Input
 
 At this stage of the update you should grab the input from the user:
-``– Input.GetButtonDown(“Fire1”) 
+```
+– Input.GetButtonDown(“Fire1”) 
 – Input.GetKeyDown(KeyCode.Space)
-– Input.mousePosition``
-
-If you are using ``Input.GetButton`` or ``Input.GetAxis``, these have to be configured in the **Input Manager**.  
-  
-You can use the values from the input to update the state of the game
+– Input.mousePosition
+```
+If you are using ``Input.GetButton`` or ``Input.GetAxis``, these have to be configured in the **Input Manager**.  You can use the values from the input to update the state of the game
 
 ### 2. - Update Game State
 
@@ -442,11 +441,11 @@ In Unity the update is split in two:
 -   physics update (**FixedUpdate**)
 -   game update (**Update**)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMjE3OTgsOTczMjUwMTY1LDU0OTQ1Nj
-E3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgs
-LTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0Mj
-U5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNTc1NzQ4OCwt
-MTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1NzM4LDY4Mj
-c4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1NywxNTU3NDU4Mzg1
-XX0=
+eyJoaXN0b3J5IjpbLTMwMTc0NjE3NSw5NzMyNTAxNjUsNTQ5ND
+U2MTc4LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3
+OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNT
+QyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4
+LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNj
+gyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgz
+ODVdfQ==
 -->
