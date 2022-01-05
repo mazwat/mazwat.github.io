@@ -296,6 +296,8 @@ public  class  Player
 ```
 You can see that the property ``Health`` with a capital imposes modifiers on the private field ``health``. The external method can get a return of the value of the experience field so this is what is read which is get, and the experience field can be written to using the contextual keyword ``value`` which will set the value to whatever is defined in the method that is writing to it. This control of private and public through get and set is an extension to the concept of **encapsulation**.
 
+THere is another type f 
+
 ### Accessing Properties
 
 In a new class called ``game`` We create an instance or an object called ``newPlayer`` from the class ``Player`` and now we can now adjust the field ``health`` through the property ``Health`` in much the same way as we did changing public member variables except in this instance the variable remains private but it has a read write access modifier applied to it.
@@ -587,5 +589,6 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbLTE5Njk1NTcyMjUsLTUyMjU1MTMyNCwyMD
+E0MTUyODYxXX0=
 -->
