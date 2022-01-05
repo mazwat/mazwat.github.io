@@ -371,7 +371,7 @@ name- apple
 
 ![Unity MonoBehaviour](images/monobehaviour.jpg)
 
-Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a base class from which every Unity script derives. It is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` and ``Update()`` as well as many more. FOr more information about MonoBehaviour look at the reference to it here in the Unity API:
+Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a base class from which every Unity script derives. It is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` , ``Update()`` ,`Awake()`, `FixedUpdate` and `onas well as many more. For more information about MonoBehaviour look at the reference to it here in the Unity API:
 [https://docs.unity3d.com/ScriptReference/MonoBehaviour.html](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
 
 ## Polymorphism
@@ -592,6 +592,6 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMj
-U1MTMyNCwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbNzQwMDM5MzcxLC0yMjMwMDkzNywxNjI0OT
+YyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
 -->
