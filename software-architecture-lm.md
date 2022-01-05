@@ -385,7 +385,7 @@ We can design our code in perfect discrete modules but we also have to contend w
 
 Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the **game loop**.
 
-Note - Other applications, engines and frameworks may have a slightly different **order of execution** and you should make yourself aware of the specifics of each. However the following is common to many realtime graphic software environments.
+Note - Other applications, engines and frameworks may have a slightly different *order of execution* and you should make yourself aware of the specifics of each. However the following is common to many realtime graphic software environments.
 {: .callout .callout--info}
 
 Types of code execution:
@@ -450,7 +450,7 @@ This is where the current state of the game is drawn:
 
 ![Rendering](images/rendering.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjE0MTY3LC05ODI4MDg4MzYsOTczMj
+eyJoaXN0b3J5IjpbNTE3OTg1Nzg1LC05ODI4MDg4MzYsOTczMj
 UwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYs
 LTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OT
 U5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQw
