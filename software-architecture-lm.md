@@ -56,12 +56,12 @@ So having some basic principles to help to design the link between objects, clas
 -   **I** interface segregation principle (ISP)
 -   **D** Dependency injection principle (DIP)
 
-In this lecture we are going to focus on the first 3 and finally we are also going to look at Order of Execution as it links to how the SOLID principles work.
+In this lecture we are going to focus on the **first 3** and finally we are also going to look at **Order of Execution** as it links to how the SOLID principles work.
 
 1.  **Single Responsibility Principle -** every class in a computer program should have responsibility over a single part of that program's functionality, which it should encapsulate.
 2.  **Open Closed Principle -** software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 3.  **Liskov’s Substitution Principle** - if poodle is a subtype of dog, then objects of type dog in a program may be replaced with objects of type poodle without altering any of the desirable properties of that program
-4.  **Order of Execution /** **Game Loop -** The flow between processes in software and hardware.
+4.  **Order of Execution / Game Loop -** The flow between processes in software and hardware.
 
 You can see how features of OOP from the previous lecture form a major part of SOLID principles. Specifically objects encapsulation, classes and objects.
 
@@ -494,11 +494,11 @@ A coroutine is like a function that has the ability to **pause execution** and r
 
 As we have seen in this lecture Software Architecture is about the structure and framework of your software as demonstrated by the 5 principles of **SOLID** which will help you to create a good software architecture.  But alongside these principles it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time. Remember to factor in this loop when designing your projects and to use work arounds like coroutines to ensure effects and features are visible to your users and players and not lost or stalled  because events are occuring in fractions of a second.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MjI0NTI3LDEwODg4Mjk5MzUsLTk1Nj
-kzMDM4NCwxNDkwNjMyNjc2LC0xOTI5MzQyNDczLC0yMTMwMjE0
-OTYwLDUxNzk4NTc4NSwtOTgyODA4ODM2LDk3MzI1MDE2NSw1ND
-k0NTYxNzgsLTUyNzI2MTEzOSwxMjE0OTUxODE2LC0xNDkwMzAx
-MDc4LC0xNTM5Njk1MDU0LC0xOTE3ODUxMywxNTk1OTc4NjYwLD
-E1NDI1OTY4MywtMjE1ODQ2NjE4LDU2NTY4ODk0MCwxMjU3NTc0
-ODhdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTY4NTY0NywzMTQyMjQ1MjcsMTA4OD
+gyOTkzNSwtOTU2OTMwMzg0LDE0OTA2MzI2NzYsLTE5MjkzNDI0
+NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4MzYsOT
+czMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4
+MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLD
+E1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4
+OTQwXX0=
 -->
