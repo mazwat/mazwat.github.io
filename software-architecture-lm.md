@@ -415,12 +415,24 @@ while (running) {
 	render();
 }
 ```
+
+### Handling Input
+
+At this stage of the update you should grab the input from the user  
+c#  
+– Input.GetButtonDown(“Fire1”)  
+– Input.GetKeyDown(KeyCode.Space)  
+– Input.mousePosition  
+
+If you are using Input.GetButton or Input.GetAxis, these have to be configured in the Input Manager.  
+  
+You can use the values from the input to update the state of the game
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzI2MTEzOSwxMjE0OTUxODE2LC0xND
-kwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3ODUxMywxNTk1OTc4
-NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LDU2NTY4ODk0MCwxMj
-U3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2
-NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMT
-U1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAw
-NjQ4N119
+eyJoaXN0b3J5IjpbLTE2MzYxNjQ2ODQsLTUyNzI2MTEzOSwxMj
+E0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3
+ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LD
+U2NTY4ODk0MCwxMjU3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQw
+Mjk0OCwtMTY1MzU2NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLT
+EzMzAyNTQ5NTcsMTU1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5
+OTk3NzddfQ==
 -->
