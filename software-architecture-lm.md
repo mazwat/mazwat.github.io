@@ -404,9 +404,25 @@ The most basic game loop does three things:
 
 It does these actions once per frame (30 or 60 times per second)
 
-We can consider a gameloop as 
+We can consider a gameloop as pseudo code like this:
+
+```c#
+bool  running = true;
+
+  
+
+while (running) {
+
+handleInput();
+
+update();
+
+render();
+
+}
+'''
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTY4MzQ0LDEyMTQ5NTE4MTYsLTE0OT
+eyJoaXN0b3J5IjpbODg2NTk4MjU2LDEyMTQ5NTE4MTYsLTE0OT
 AzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2
 NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQwLDEyNT
 c1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNjUzNTY1
