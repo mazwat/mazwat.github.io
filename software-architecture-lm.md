@@ -383,7 +383,7 @@ The purpose of these principles of SOLID is to give us a set of basic rules to i
 
 We can design our code in perfect discrete modules but we also have to contend with the flow of events at runtime. Is our code in right place and is it using the hardware efficiently. This is where (read) comes in.
 
-Order elf execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the game Loop.
+Order of execution refers to the way that the machine processes through the code that you have written. Conventionally this occurs on the same order you have written in it, sequentially or **synchronously**. But certain elements occur in closed loops, such as iterators like, for loops and also some code branches to accommodate multiple parallel processes. This is known as **asynchronous**. We will return to this shortly. Let’s now look at Unity and the game Loop.
 
 Types of code execution:
 
@@ -410,8 +410,7 @@ We can consider a gameloop as pseudo code like this:
 bool  running = true;  
 
 while (running) {
-
-handleInput();
+	handleInput();
 
 update();
 
@@ -420,11 +419,11 @@ render();
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzExNjk3MywxMjE0OTUxODE2LC0xND
-kwMzAxMDc4LC0xNTM5Njk1MDU0LC0xOTE3ODUxMywxNTk1OTc4
-NjYwLDE1NDI1OTY4MywtMjE1ODQ2NjE4LDU2NTY4ODk0MCwxMj
-U3NTc0ODgsLTE1NDY0NjE3MjcsMTI4MjQwMjk0OCwtMTY1MzU2
-NTczOCw2ODI3ODMyMywtMTc0Njc2ODAsLTEzMzAyNTQ5NTcsMT
-U1NzQ1ODM4NSwtMTU3NTk2NTk0OCw2MTQ5OTk3NzcsMTA0ODAw
-NjQ4N119
+eyJoaXN0b3J5IjpbLTE4OTM4NTgxNDksMTIxNDk1MTgxNiwtMT
+Q5MDMwMTA3OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3
+ODY2MCwxNTQyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMT
+I1NzU3NDg4LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1
+NjU3MzgsNjgyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LD
+E1NTc0NTgzODUsLTE1NzU5NjU5NDgsNjE0OTk5Nzc3LDEwNDgw
+MDY0ODddfQ==
 -->
