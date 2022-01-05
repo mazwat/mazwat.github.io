@@ -447,12 +447,14 @@ This is where the current state of the game is drawn:
 - Anything visual will be rendered to the **backbuffer**
 - When drawing is complete, the backbuffer and the **frontbuffer** is swapped
 - This will display the current state of the game to the player
+
+![Rendering](images/rendering.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjgwODgzNiw5NzMyNTAxNjUsNTQ5ND
-U2MTc4LC01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3
-OCwtMTUzOTY5NTA1NCwtMTkxNzg1MTMsMTU5NTk3ODY2MCwxNT
-QyNTk2ODMsLTIxNTg0NjYxOCw1NjU2ODg5NDAsMTI1NzU3NDg4
-LC0xNTQ2NDYxNzI3LDEyODI0MDI5NDgsLTE2NTM1NjU3MzgsNj
-gyNzgzMjMsLTE3NDY3NjgwLC0xMzMwMjU0OTU3LDE1NTc0NTgz
-ODVdfQ==
+eyJoaXN0b3J5IjpbODgyNjE0MTY3LC05ODI4MDg4MzYsOTczMj
+UwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYs
+LTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OT
+U5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4OTQw
+LDEyNTc1NzQ4OCwtMTU0NjQ2MTcyNywxMjgyNDAyOTQ4LC0xNj
+UzNTY1NzM4LDY4Mjc4MzIzLC0xNzQ2NzY4MCwtMTMzMDI1NDk1
+N119
 -->
