@@ -27,6 +27,8 @@ page_nav:
 
 # Object Oriented Programming
 
+This document is 
+
 ## Introduction to OOP
 
 Object-oriented programming (OOP) is a computer programming model that organizes software design around **data, or objects**, rather than **functions and logic**.
@@ -592,6 +594,7 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OT
-YyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMz
+AwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYx
+XX0=
 -->
