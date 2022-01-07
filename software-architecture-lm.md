@@ -493,12 +493,17 @@ A coroutine is like a function that has the ability to **pause execution** and r
 ## Conclusion
 
 As we have seen in this lecture Software Architecture is about the structure and framework of your software as demonstrated by the 5 principles of **SOLID** which will help you to create a good software architecture.  But alongside these principles it is important to take into account the **Order of Execution** as this has an effect on how and when features of your application are deployed at run-time. Remember to factor in this loop when designing your projects and to use work arounds like coroutines to ensure effects and features are visible to your users and players and not lost or stalled  because events are occuring in fractions of a second.
+
+## Video Lecture
+
+### Lecture - Software Architecture
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTY4NTY0NywzMTQyMjQ1MjcsMTA4OD
-gyOTkzNSwtOTU2OTMwMzg0LDE0OTA2MzI2NzYsLTE5MjkzNDI0
-NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4MzYsOT
-czMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4
-MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLD
-E1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4NDY2MTgsNTY1Njg4
-OTQwXX0=
+eyJoaXN0b3J5IjpbLTE5NjI2MDg5MzIsMTQ1NTY4NTY0NywzMT
+QyMjQ1MjcsMTA4ODgyOTkzNSwtOTU2OTMwMzg0LDE0OTA2MzI2
+NzYsLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC
+05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYx
+MTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNT
+QsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4
+NDY2MThdfQ==
 -->
