@@ -27,7 +27,7 @@ page_nav:
 
 # Object Oriented Programming
 
-The following materials are derived from the Object Oriented Programming lecture. The video lecture is included at the bottom of the document.
+The following materials are derived from the Object Oriented Programming lecture. The video lecture is included at the bottom of the [document](#video-lecture).
 
 ## Introduction to OOP
 
@@ -604,7 +604,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDA0OTY4MCwtMTU1NTk1MjA4LDQyNT
+eyJoaXN0b3J5IjpbMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNT
 I4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0
 LDIwMTQxNTI4NjFdfQ==
 -->
