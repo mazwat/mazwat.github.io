@@ -27,7 +27,7 @@ page_nav:
 
 # Object Oriented Programming
 
-This document are a set of materials derived from the Object Oriented Programming. The video lecture is included at the bottom of this 
+The following materials are derived from the Object Oriented Programming lecture. The video lecture is included at the bottom of the document.
 
 ## Introduction to OOP
 
@@ -593,8 +593,18 @@ In this lecture we have now covered all the principles of OOP programming that w
 It's important that you now start to implement some or all of these principles into your code for this module but also your game development modules. You will only truly see it's relevance if you apply it to your own practice.
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
+
+## VIDEO LECTURE
+
+### Lecture - OOP Part 1
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+### Lecture - OOP Part 2
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/133b71d2-d972-44eb-b841-0d77473af393?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU0NjkzMTgsLTE1NTU5NTIwOCw0Mj
-UyODkwNjMsLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMy
-NCwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbMTc5NDA0OTY4MCwtMTU1NTk1MjA4LDQyNT
+I4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0
+LDIwMTQxNTI4NjFdfQ==
 -->
