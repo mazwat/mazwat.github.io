@@ -64,16 +64,11 @@ You are not designing Mario, but you are using it as a template.
 5. Your game should employ the class structure and hierarchy from your document.
 6. Please use the following assets in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
 
-## VIDEO LECTURE
 
-It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch it during the week.
-{: .callout .callout--warning}
 
-### Lecture - Software Architecture
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyOTg5Njc4XX0=
+eyJoaXN0b3J5IjpbMTkwMzkyNjg0NSw5NTI5ODk2NzhdfQ==
 -->
