@@ -27,6 +27,9 @@ page_nav:
 
 # Software Architecture
 
+The following materials are derived from the *Software Architecture lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
+{: .callout .callout--warning}
+
 ## So what is Software Architecture
 
 A way of establishing **patterns** for the development of software.  These architectural patterns are a description of the **relationship** types and **elements** as well as the **constraints** or **limitations** in the system being built. Patterns are usually **reusable solutions** to common problems.
@@ -499,11 +502,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 ### Lecture - Software Architecture
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI2MDg5MzIsMTQ1NTY4NTY0NywzMT
-QyMjQ1MjcsMTA4ODgyOTkzNSwtOTU2OTMwMzg0LDE0OTA2MzI2
-NzYsLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC
-05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3MjYx
-MTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLTE1Mzk2OTUwNT
-QsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5NjgzLC0yMTU4
-NDY2MThdfQ==
+eyJoaXN0b3J5IjpbNjA0MTEzMDIyLDE0NTU2ODU2NDcsMzE0Mj
+I0NTI3LDEwODg4Mjk5MzUsLTk1NjkzMDM4NCwxNDkwNjMyNjc2
+LC0xOTI5MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4NTc4NSwtOT
+gyODA4ODM2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLTUyNzI2MTEz
+OSwxMjE0OTUxODE2LC0xNDkwMzAxMDc4LC0xNTM5Njk1MDU0LC
+0xOTE3ODUxMywxNTk1OTc4NjYwLDE1NDI1OTY4MywtMjE1ODQ2
+NjE4XX0=
 -->
