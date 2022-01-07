@@ -23,6 +23,9 @@ page_nav:
 ---
 
 # Arduino
+
+In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ
+==
 -->
