@@ -29,7 +29,9 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 ## Introduction to the Arduino UNO  
  The arduino is a single board microcontroller designed to be used a controller for robotics and electronics projects.
  It is comprised of a 
+
+![Arduino Layout](images/arduino-layout.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NDkwODI1LC0xMDgzNTgxNTc5LC0xMj
+eyJoaXN0b3J5IjpbMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMj
 A1NDY4NzM3XX0=
 -->
