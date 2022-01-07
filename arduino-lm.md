@@ -24,6 +24,9 @@ page_nav:
 
 # Arduino
 
+The following materials are derived from the *Arduino lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
+{: .callout .callout--warning}
+
 In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
 ## Introduction to the Arduino UNO  
@@ -50,6 +53,6 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDkwNjE3LDQ3OTIzOTgyOCwxNzA5OT
-k4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOT
+k5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
 -->
