@@ -30,7 +30,11 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
  The arduino is a single board microcontroller designed to be used a controller for robotics and electronics projects.
  It is comprised of a 
 
+### The Board
+
 ![Arduino Layout](images/arduino-layout.png)
+
+### The Micro Controller
 
 A micro controller is different from a microprocessor that consists of only a Central Processing Unit, whereas a Micro Controller has a range of other components and peripherals.
 
@@ -46,6 +50,6 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxMjgxMDcsNDc5MjM5ODI4LDE3MD
-k5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbODI1NDkwNjE3LDQ3OTIzOTgyOCwxNzA5OT
+k4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
 -->
