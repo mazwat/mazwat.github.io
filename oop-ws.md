@@ -121,7 +121,8 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 6. The scene should be initiated by the ``Village class``. 
 7. Your prototype game system should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
 
-
+It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. Please 
+{: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk4MDQ0NTQsLTIxMTQyMTg3MF19
+eyJoaXN0b3J5IjpbNzQ3NDI2NzkxLC0yMTE0MjE4NzBdfQ==
 -->
