@@ -502,13 +502,12 @@ As we have seen in this lecture Software Architecture is about the structure and
 ### Lecture - Software Architecture
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
-(github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTY4ODcxOSw2MDQxMTMwMjIsMTQ1NT
-Y4NTY0NywzMTQyMjQ1MjcsMTA4ODgyOTkzNSwtOTU2OTMwMzg0
-LDE0OTA2MzI2NzYsLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNT
-E3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3
-OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAzMDEwNzgsLT
-E1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5Nzg2NjAsMTU0MjU5
-NjgzXX0=
+eyJoaXN0b3J5IjpbLTE1MjkzNTI0MDQsMTA5NTY4ODcxOSw2MD
+QxMTMwMjIsMTQ1NTY4NTY0NywzMTQyMjQ1MjcsMTA4ODgyOTkz
+NSwtOTU2OTMwMzg0LDE0OTA2MzI2NzYsLTE5MjkzNDI0NzMsLT
+IxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUw
+MTY1LDU0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLT
+E0OTAzMDEwNzgsLTE1Mzk2OTUwNTQsLTE5MTc4NTEzLDE1OTU5
+Nzg2NjBdfQ==
 -->
