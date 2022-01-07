@@ -27,7 +27,7 @@ page_nav:
 
 # Object Oriented Programming
 
-This document is 
+This document are a set of materials derived from the Object Oriented Programming. The video lecture is included at the bottom of this 
 
 ## Introduction to OOP
 
@@ -594,7 +594,7 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMz
-AwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYx
-XX0=
+eyJoaXN0b3J5IjpbLTE2ODU0NjkzMTgsLTE1NTU5NTIwOCw0Mj
+UyODkwNjMsLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMy
+NCwyMDE0MTUyODYxXX0=
 -->
