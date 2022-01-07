@@ -27,7 +27,7 @@ page_nav:
 
 # Software Architecture
 
-The following materials are derived from the Object Oriented Programming lecture. The video lecture is included at the bottom of the [document](#video-lecture).
+The following materials are derived from the **Software Architecture lecture**. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
@@ -73,5 +73,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzM1ODg5Nyw5NTI5ODk2NzhdfQ==
+eyJoaXN0b3J5IjpbNTMyODg4MTU5LDEwMjMzNTg4OTcsOTUyOT
+g5Njc4XX0=
 -->
