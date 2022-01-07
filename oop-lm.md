@@ -595,7 +595,7 @@ It's important that you now start to implement some or all of these principles i
 
 OOP is like a skeleton or framework for the code that performs useful operations in your applications. Initially it can feel like extra work or adding additional complexity but actually the reverse is true, with practice it makes your code more lightweight, modular and secure.
 
-## VIDEO LECTURE
+## Video Lecture
 
 ### Lecture - OOP Part 1
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
@@ -605,7 +605,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NzQ0ODk0LDE0OTMyNDQ4NzYsLTE1NT
+eyJoaXN0b3J5IjpbMTQ3NjcwMjA2LDE0OTMyNDQ4NzYsLTE1NT
 U5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2MjQ5NjIxNjMs
 LTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
 -->
