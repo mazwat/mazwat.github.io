@@ -26,10 +26,10 @@ page_nav:
 
 In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
-## Arduino UNO  
+## Introduction to the Arduino UNO  
  The arduino is a single board microcontroller designed to be used a controller for robotics and electronics projects.
  It is comprised of a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjQ3Mjk4NywtMTA4MzU4MTU3OSwtMT
-IwNTQ2ODczN119
+eyJoaXN0b3J5IjpbNTc1NDkwODI1LC0xMDgzNTgxNTc5LC0xMj
+A1NDY4NzM3XX0=
 -->
