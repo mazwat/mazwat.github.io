@@ -34,7 +34,7 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 
 A micro controller is different from a microprocessor that consists of only a Central Processing Unit, whereas a Micro Controller has a range of other components and peripherals.
 
-![Micro Layout](images/arduino-layout.png)
+![Micro Controller Layout](images/micro-layout.png)
 
 - **CPU** - The main function of the CPU Core is to ensure the correct program execution. The CPU must therefore be able to access memories, perform calculations, control peripherals, and handle interrupts.
 - **Flash Memory** - Program Space. This is where the program you will write known as a ‘sketch’ is stored. There is 32kb of Flash Memory
@@ -46,6 +46,6 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODE5NzkwOSw0NzkyMzk4MjgsMTcwOT
-k5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbLTE3NTgxMjgxMDcsNDc5MjM5ODI4LDE3MD
+k5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
