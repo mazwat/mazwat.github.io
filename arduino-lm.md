@@ -64,15 +64,14 @@ The controller is the essential bit you could make your own board up by adding t
 ![Home made board](images/home-made-board.png)
 *fig3. - Home Made Arduino Board*
 
-## So what is an Arduino Board?
+## What is the purpose of an Arduino Board?
 
 It's a rapid prototyping board. It gives you the ability to quickly plug pins from the Arduino to devices and components on a bread board to rapidly prototype creative electronic projects.
 
 ![Arduino and Breadboard](images/board-bread.png)
 *fig4. - Arduino, breadboard with LED and resistor*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODg3MDY3MSwzMDU5NDMzMzMsLTE3NT
-E5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgy
-OCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ
-==
+eyJoaXN0b3J5IjpbMTUxNzQ2MDcsMzA1OTQzMzMzLC0xNzUxOT
+EyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4Mjgs
+MTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
 -->
