@@ -102,10 +102,14 @@ This is something to think about with your projects. how can we create a project
 
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
+## Control Systems
+
+So to create any system where we can control something we need to define sensors controller
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE0ODE0NjMsMzQ5NzY4MzAxLC0xMz
-AwNDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMz
-MywtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksND
-c5MjM5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2
-ODczN119
+eyJoaXN0b3J5IjpbMTgxMzc4NTI3NywzNDk3NjgzMDEsLTEzMD
+A0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMz
+LC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0Nz
+kyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4
+NzM3XX0=
 -->
