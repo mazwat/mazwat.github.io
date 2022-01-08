@@ -38,12 +38,14 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 The Arduino is essentially a microcontroller with a range of peripherals attached to a **PCB** (printed circuit board) that allow for differnet externals to interface with the microcontroller these include things like: power, usb serial port for uploading firmware programs from a computer, a clock and most importantly it uses **pin** inputs so sensors and actuators can communicate with the controller.
 
 ![Arduino Layout](images/arduino-layout.png)
+fig1. - Arduino Board Layout
 
 ### The Micro Controller
 
 A micro controller is different from a microprocessor that consists of only a Central Processing Unit, whereas a Micro Controller has a range of other components and peripherals.
 
 ![Micro Controller Layout](images/micro-layout.png)
+fig2. - Microcontroller Features
 
 - **CPU** - The main function of the CPU Core is to ensure the correct program execution. The CPU must therefore be able to access memories, perform calculations, control peripherals, and handle interrupts.
 - **Flash Memory** - Program Space. This is where the program you will write known as a ‘sketch’ is stored. There is 32kb of Flash Memory
@@ -57,8 +59,11 @@ A micro controller is different from a microprocessor that consists of only a Ce
 
 
 The controller is the essential bit you could make your own board up by adding the other peripherals manually, as in the above example. But the Arduino board is a cheap effective and less time consuming alternative to building your own.
+
+![Micro Controller Layout](images/home-made.png)
+fig2. - Microcontroller Features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxOD
-AyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1
-NzksLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbMTU1NzM2MTk0OCwtMTc1MTkxMjA5NywyMT
+A0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2
+MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
