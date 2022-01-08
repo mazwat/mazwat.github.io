@@ -73,10 +73,14 @@ It's a rapid prototyping board. It gives you the ability to quickly plug pins fr
 
 Arduino is often thought of as the preserve of hobbyists and creative makers, but it has other more serious applications.
 
-ArduSat 
-The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.
+| ArduSat  | OceanBot |
+|--|--|
+|--|--|
+| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM0NzY0NTQsMzA1OTQzMzMzLC0xNz
+eyJoaXN0b3J5IjpbLTE5NzAyMTUzNTQsMzA1OTQzMzMzLC0xNz
 UxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4
 MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX
 0=
