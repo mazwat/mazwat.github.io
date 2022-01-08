@@ -95,19 +95,19 @@ The above video showcases a robot designed by Simon Penny. The goal of Petit Mal
 
 Simon Penny its creator describes the robot as being: 
 
-> *..nimble and charming; sensing and exploring architectural space and
+> *"..nimble and charming; sensing and exploring architectural space and
 > pursuing and reacting to people; giving the impression of intelligence
 > but displaying a behavior which is neither anthropomorphic nor
-> zoomorphic, but which is unique to its physical and electronic nature.*
+> zoomorphic, but which is unique to its physical and electronic nature."*
 
 This is something to think about with your projects. how can we create a project that defies the usual expectations of interaction. How can we challenge our assumptions about human or animal, cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDE1MjksMzQ5NzY4MzAxLC0xMzAwND
-k5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywt
-MTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5Mj
-M5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODcz
-N119
+eyJoaXN0b3J5IjpbLTQ2MzM3Nzg4MywzNDk3NjgzMDEsLTEzMD
+A0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMz
+LC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0Nz
+kyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4
+NzM3XX0=
 -->
