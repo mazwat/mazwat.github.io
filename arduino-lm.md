@@ -35,7 +35,7 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 
 ### The Board
 
-The Arduino is essentially a microcontroller with a range of peripherals attached that allow for differnet externals to be ported to the microcontroller these include things like: power, usb serial interface with a computer, a clock and most importantly it uses **pin** inputs so sensors and actuators can communicate with the controller.
+The Arduino is essentially a microcontroller with a range of peripherals attached to a **PCB** (printed circuit board) that allow for differnet externals to interface with the microcontroller these include things like: power, usb serial port for uploia with a computer, a clock and most importantly it uses **pin** inputs so sensors and actuators can communicate with the controller.
 
 ![Arduino Layout](images/arduino-layout.png)
 
@@ -58,7 +58,7 @@ A micro controller is different from a microprocessor that consists of only a Ce
 
 The controller is the essential bit you could make your own board up by adding the other peripherals manually, as in the above example. But the Arduino board is a cheap effective and less time consuming alternative to building your own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTAyODIyOSwyMTA0MTIzNjA4LDE4MD
-I0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3
-OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbLTExMzYxMTU3NjQsMjEwNDEyMzYwOCwxOD
+AyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1
+NzksLTEyMDU0Njg3MzddfQ==
 -->
