@@ -73,10 +73,9 @@ It's a rapid prototyping board. It gives you the ability to quickly plug pins fr
 
 Arduino is often thought of as the preserve of hobbyists and creative makers, but it has other more serious applications.
 
-| ArduSat  | OceanBot |
+| ArduSat - The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.  | OceanBot - This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 |--|--|
 |![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.jpg)|
-| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.                                           | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
 To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
@@ -104,12 +103,12 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 ## Control Systems
 
-So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many mor
+So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTE5NTU4LDM0OTc2ODMwMSwtMTMwMD
-Q5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMs
-LTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OT
-IzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3
-MzddfQ==
+eyJoaXN0b3J5IjpbLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMD
+A0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMz
+LC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0Nz
+kyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4
+NzM3XX0=
 -->
