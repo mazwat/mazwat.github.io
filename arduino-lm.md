@@ -91,7 +91,7 @@ To understand how you can start to apply Arduino in your practice it is useful t
 
 *fig 5. - Petit Mal by Simon Penny*
 
-The above video showcases a robot designed by Simon Penny. The goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  This example is particularly relevant to the principles. The robot is sensing using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its motors are being driven in different directions by the controller which in turn is adapting to the input from the sensors. This is a constant feedback loop.
+The above video showcases a robot designed by Simon Penny. The goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  This example is particularly relevant to the principles. The robot is **sensing** using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its **actuators** -the motors are being driven in different directions by the **controller** which in turn is adapting to the input from the sensors. This is a constant feedback loop.
 
 Simon Penny its creator describes the robot as being: 
 
@@ -105,8 +105,9 @@ This is something to think about with your projects. how can we create a project
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4Nj
-AyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5
-NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MD
-k5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbMTEzNDE1MjksMzQ5NzY4MzAxLC0xMzAwND
+k5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywt
+MTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5Mj
+M5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODcz
+N119
 -->
