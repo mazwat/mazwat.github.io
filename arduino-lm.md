@@ -35,6 +35,8 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 
 ### The Board
 
+The Arduino is essentially a microcontroller with a range of peripherals that allow for differnet external
+
 ![Arduino Layout](images/arduino-layout.png)
 
 ### The Micro Controller
@@ -53,6 +55,7 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOT
-k5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbLTU4Njk5OTcxNSwxODAyNDU1MzU5LDQ3OT
+IzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3
+MzddfQ==
 -->
