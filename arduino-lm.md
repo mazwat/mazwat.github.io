@@ -76,7 +76,9 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 | ArduSat  | OceanBot |
 |--|--|
 |![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.jpg)|
-| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
+| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.
+
+ | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
 To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
@@ -103,8 +105,8 @@ This is something to think about with your projects. how can we create a project
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNj
-c4ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2
-MDgsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMD
-gzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4Nj
+AyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5
+NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MD
+k5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
