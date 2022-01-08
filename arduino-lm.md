@@ -57,13 +57,14 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 
+### Form Factor
 
-The controller is the essential bit you could make your own board up by adding the other peripherals manually, as in the above example. But the Arduino board is a cheap effective and less time consuming alternative to building your own.
+The controller is the essential bit you could make your own board up by adding the other peripherals manually, as in the example below, but the Arduino board is a cheap effective and less time consuming alternative to building your own.
 
 ![Home made board](images/home-made-board.png)
 *fig3. - Home Made Arduino Board*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMD
-QxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYy
-LC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbNzYwNzA0NjkxLDMwNTk0MzMzMywtMTc1MT
+kxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4
+LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
