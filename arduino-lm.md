@@ -75,13 +75,13 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 
 | ArduSat  | OceanBot |
 |--|--|
-|![Arduino and Breadboard](images/board-bread.png)|![Arduino and Breadboard](images/board-bread.png)|
+|![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.png)|
 | The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NT
-E5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgy
-OCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTM1NzQwOTAsMTA2Nzg4ODMxOCwzMD
+U5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1
+MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLT
+EyMDU0Njg3MzddfQ==
 -->
