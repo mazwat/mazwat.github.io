@@ -76,7 +76,7 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 | ArduSat  | OceanBot |
 |--|--|
 |![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.jpg)|
-| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.                                           | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
+| The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
 To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
@@ -106,10 +106,11 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTYwODcwOSwtODk0MDM1MDQ3LDM0OT
-c2ODMwMSwtMTMwMDQ5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMx
-OCwzMDU5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxOD
-AyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1
-NzksLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5Nz
+Y4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4
+LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MD
+I0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3
+OSwtMTIwNTQ2ODczN119
 -->
