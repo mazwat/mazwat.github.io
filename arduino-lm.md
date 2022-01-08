@@ -84,18 +84,20 @@ To understand how you can start to apply Arduino in your practice it is useful t
 - Controlling
 - Actuating
 
-The goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The above video is a robot designed by Simon Penny goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  
 This example is particularly relevant as the robot is sensing using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its motors are being driven in different directions by the controller which in turn is adapting to the input from the sensors. This is a constant feedback loop.
 
-Simon Petty it’s creator describes the robot as being nimble and charming; sensing and exploring architectural space and pursuing and reacting to people; giving the impression of intelligence but displaying a behavior which is neither anthropomorphic nor zoomorphic, but which is unique to its physical and electronic nature.
+Simon Penny it’s creator describes the robot as being nimble and charming; sensing and exploring architectural space and pursuing and reacting to people; giving the impression of intelligence but displaying a behavior which is neither anthropomorphic nor zoomorphic, but which is unique to its physical and electronic nature.
 
 This is something to think about with robots. how can we create a project that defies the usual expectations of human or animal - like cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
 In another lecture where I will introduce **cybernetics** we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OT
-QzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1
-OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMj
-A1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbMTY0NTgyMDk5NiwzODYwMjI2MjIsMTA2Nz
+g4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYw
+OCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwOD
+M1ODE1NzksLTEyMDU0Njg3MzddfQ==
 -->
