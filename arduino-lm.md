@@ -35,7 +35,7 @@ In this lecture we will look at Arduino in subsequent lectures we will explore t
 
 ### The Board
 
-The Arduino is essentially a microcontroller with a range of peripherals that allow for differnet externals to be ported to the microcontroller these include things like: power, usb serial communication with a computer, a clock and most importantl
+The Arduino is essentially a microcontroller with a range of peripherals that allow for differnet externals to be ported to the microcontroller these include things like: power, usb serial interface with a computer, a clock and most importantly it uses **pin** inputs so sensors and actuators can communicate with the controller.
 
 ![Arduino Layout](images/arduino-layout.png)
 
@@ -55,7 +55,7 @@ A micro controller is different from a microprocessor that consists of only a Ce
 - **USART** - Universal synchronous and asynchronous receiver transmitter - Used for communication between the microcontroller and computers on other devices
 - **SPI** - Serial Peripheral Interface allows high speed synchronous data transfer between the device and peripheral units, or between several AVR devices, the CPU on the ATmega is AVR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MTg5NDIzLDE4MDI0NTUzNTksNDc5Mj
-M5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODcz
-N119
+eyJoaXN0b3J5IjpbMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OT
+IzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3
+MzddfQ==
 -->
