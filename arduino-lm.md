@@ -91,11 +91,11 @@ Simon Petty it’s creator describes the robot as being nimble and charming; sen
 
 This is something to think about with robots. how can we create a project that defies the usual expectations of human or animal - like cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
-In another lecture on 
+In another lecture where I will introduce **cybernetics** we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDk0MjEwNCwxMDY3ODg4MzE4LDMwNT
-k0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUz
-NTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMT
-IwNTQ2ODczN119
+eyJoaXN0b3J5IjpbMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OT
+QzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1
+OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMj
+A1NDY4NzM3XX0=
 -->
