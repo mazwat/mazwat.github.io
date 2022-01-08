@@ -100,7 +100,7 @@ Simon Penny its creator describes the robot as being:
 
 This is something to think about with your projects. how can we create a project that defies the usual expectations of interaction. How can we challenge our assumptions about human or animal, cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
-In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
+In another ==lecture== I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 ## Control Systems
 
@@ -108,10 +108,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MD
-ExNDM5ODcsLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0OTkz
-ODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMzLC0xNz
-UxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4
-MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX
-0=
+eyJoaXN0b3J5IjpbMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xOD
+c3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMw
+MSwtMTMwMDQ5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMD
+U5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1
+MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLT
+EyMDU0Njg3MzddfQ==
 -->
