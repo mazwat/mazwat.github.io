@@ -104,12 +104,12 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 ## Control Systems
 
-So to create any system where we can control something we need to define sensors controller
+So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many mor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzc4NTI3NywzNDk3NjgzMDEsLTEzMD
-A0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMz
-LC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0Nz
-kyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4
-NzM3XX0=
+eyJoaXN0b3J5IjpbMzUwOTE5NTU4LDM0OTc2ODMwMSwtMTMwMD
+Q5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMs
+LTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OT
+IzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3
+MzddfQ==
 -->
