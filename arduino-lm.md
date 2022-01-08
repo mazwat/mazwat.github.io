@@ -97,13 +97,13 @@ Simon Penny it’s creator describes the robot as being:
 > but displaying a behavior which is neither anthropomorphic nor
 > zoomorphic, but which is unique to its physical and electronic nature.*
 
-This is something to think about with your p. how can we create a project that defies the usual expectations of human or animal - like cuteness or aggression. Robots are different beings with a very different situated intelligence.
+This is something to think about with your projects. how can we create a project that defies the usual expectations of interaction. How can we challenge our assumptions about human or animal, cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODAzNzYwMSwzODYwMjI2MjIsMTA2Nz
-g4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYw
-OCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwOD
-M1ODE1NzksLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbNjI5MDYwMjE5LDM4NjAyMjYyMiwxMDY3OD
+g4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNjA4
+LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4Mz
+U4MTU3OSwtMTIwNTQ2ODczN119
 -->
