@@ -70,8 +70,14 @@ It's a rapid prototyping board. It gives you the ability to quickly plug pins fr
 
 ![Arduino and Breadboard](images/board-bread.png)
 *fig4. - Arduino, breadboard with LED and resistor*
+
+Arduino is often thought of as the preserve of hobbyists and creative makers, but it has other more serious applications.
+
+ArduSat 
+The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzQ2MDcsMzA1OTQzMzMzLC0xNzUxOT
-EyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4Mjgs
-MTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbLTE5MzM0NzY0NTQsMzA1OTQzMzMzLC0xNz
+UxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0NzkyMzk4
+MjgsMTcwOTk5ODYyLC0xMDgzNTgxNTc5LC0xMjA1NDY4NzM3XX
+0=
 -->
