@@ -84,7 +84,7 @@ To understand how you can start to apply Arduino in your practice it is useful t
 - **Controlling**
 - **Actuating**
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *fig 5. - Petit Mal by Simon Penny*
 
@@ -98,8 +98,8 @@ This is something to think about with robots. how can we create a project that d
 In another lecture I will introduce **cybernetics** and we will look at the concept of *situated intelligence* in more detail.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMzM4ODUwLDM4NjAyMjYyMiwxMDY3OD
-g4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNjA4
-LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4Mz
-U4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbMjM5MDI5ODQsMzg2MDIyNjIyLDEwNjc4OD
+gzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgs
+MTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMDgzNT
+gxNTc5LC0xMjA1NDY4NzM3XX0=
 -->
