@@ -67,8 +67,11 @@ The controller is the essential bit you could make your own board up by adding t
 ## So what is an Arduino Board?
 
 It's a rapid prototyping board. It gives you the ability to quickly plug pins from the Arduino to devices and components on a bread board to rapidly prototype creative electronic projects.
+
+![Arduino and Breadboard](images/board.png)
+*fig3. - Home Made Arduino Board*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTEzNzQ0NSwzMDU5NDMzMzMsLTE3NT
+eyJoaXN0b3J5IjpbLTE1MTg0NjUxMiwzMDU5NDMzMzMsLTE3NT
 E5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgy
 OCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ
 ==
