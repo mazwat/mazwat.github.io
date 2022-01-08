@@ -78,9 +78,22 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 |![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.png)|
 | The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
+To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
+
+- Sensing
+- C
+
+The goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  
+This example is particularly relevant as the robot is sensing using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its motors are being driven in different directions by the controller which in turn is adapting to the input from the sensors. This is a constant feedback loop.
+
+  
+
+Simon Petty it’s creator describes the robot as being nimble and charming; that sensing and exploring architectural space and pursuing and reacting to people; giving the impression of intelligence but displaying a behavior which is neither anthropomorphic nor zoomorphic, but which is unique to its physical and electronic nature.
+
+This is something to think about with robots. how can we create a project that defies the usual expectations of human or animal - like cuteness or aggression. Robots are different beings with a very different situated intelligence.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM1NzQwOTAsMTA2Nzg4ODMxOCwzMD
+eyJoaXN0b3J5IjpbLTE0MTk0Mjg5NDksMTA2Nzg4ODMxOCwzMD
 U5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1
 MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLTEwODM1ODE1NzksLT
 EyMDU0Njg3MzddfQ==
