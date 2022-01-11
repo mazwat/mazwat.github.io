@@ -111,12 +111,12 @@ Here are couple of examples of custom control systems for games.
 
 ![Inputs and Outputs- Example 1](ball-controller.png)
 
-IN the first example a large exercise ball is being used as a control system for a game about world domination. This has the interesting effect of literally giving you the feeling of havign he whole world in your hands. 
+IN the first example a large exercise ball is being used as a control system for a game about world domination. This has the interesting effect of literally giving you the feeling of havign he whole world in your hands. The use of rotary encoders to map relative rotation of the ball in both a vertical and horizontal direction to a virtual globe in the game is very effective. 
 
 ![Inputs and Outputs - Example 2](samba.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4MDg1MjQsMTAxNzcxODY3MSwxMT
+eyJoaXN0b3J5IjpbLTEwMTM4MTAxOTUsMTAxNzcxODY3MSwxMT
 Y5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4
 MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MD
 QwLDcwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMw
