@@ -103,14 +103,15 @@ In another ==lecture== I will introduce **cybernetics** and we will look at the 
 
 ## Control Systems
 
-So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be 
+So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA3MzU2MywtMTMzNDgwMjM5NywxNT
-QwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQz
-OTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLD
-M4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkx
-MjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LD
-E3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMT
+U0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0
+Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4My
+wzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5
+MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOC
+wxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
+
 -->
