@@ -81,9 +81,9 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 ## Principles of Robotics
 To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
 
-- **Sensing** - measures an input, like a button press or change in light levels.
-- **Controlling**- ad
-- **Actuating**
+- **Sensing** - measuring an input, like a button press or change in light levels.
+- **Controlling**- adjusting an *actuator* based in response to the measurement from the *sensor*
+- **Actuating**- manipulates a dev
 1.  Actuator that manipulates and causes an action
 2.  Sensor that measures the response
 3.  Controller that adjusts the actuator in response to the measurement
@@ -111,10 +111,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NjQwMzM1LDE1NDA4NzE3NzIsLTIyMD
-Y5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0
-NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNj
-c4ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2
-MDgsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMD
-gzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
+eyJoaXN0b3J5IjpbLTc2NDkwODkxNywxNTQwODcxNzcyLC0yMj
+A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
+NDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMD
+Y3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIz
+NjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMT
+A4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
