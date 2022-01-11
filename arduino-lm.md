@@ -171,9 +171,12 @@ You may want to control heavy duty electrical items like industrial motors or AC
 ## Communicating with Arduino
 
 ### Serial Comms
+Serial is used for communication between the Arduino board and a computer or other devices.
 
+Serial communication on pins TX/RX uses TTL logic levels (5V or 3.3V depending on the board).
+It communicates on digital pins 0 (RX) and 1 (TX) as well as with the computer via USB. Thus, if you use these functions,  you cannot also use pins 0 and 1 for digital input or output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDI4MjIyOCw1NzIwNjY0MDAsMTE3Mz
+eyJoaXN0b3J5IjpbMTE0NTAwOTU2OCw1NzIwNjY0MDAsMTE3Mz
 c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
 ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
 M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
