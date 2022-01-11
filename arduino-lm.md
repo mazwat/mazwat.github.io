@@ -153,9 +153,10 @@ If you are using a PWM device with Arduino you connect them to the pins marked w
 
 ## Power
 
-Arduino is an autonomous sys
+Arduino is an autonomous systen that you can use independently of your computer, however once disconnected from your computers USB serial port it requires power. This can be provided through either:
+- You can power the board using a USB port or DC power supply such as a 9v battery or a DC mains adaptor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjkwNjIxOSw3OTU0MjgyNjIsOTE4OT
+eyJoaXN0b3J5IjpbLTM0NjIzOTM2MSw3OTU0MjgyNjIsOTE4OT
 kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
 Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
 QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
