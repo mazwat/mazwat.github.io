@@ -82,8 +82,8 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics and engineering this is also referred to as **Process Control**:
 
 - **Sensing** - measuring an input, like a button press or change in light levels.
-- **Controlling**- adjusting an *actuator* based in response to the measurement from the *sensor*
-- **Actuating**- manipulates something to cause an action
+- **Controlling**- adjusting an *actuator* in response to the measurement from the *sensor*
+- **Actuating**- manipulation in order to cause an action
 
 A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it responds to a measurement, in this case the height of the water and responds accordingly. The controller is a small screw that allows the user to adjust the height that the sensor reaches before opening the valve.
 
@@ -107,10 +107,11 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTE3MTAzMywtMTMzNDgwMjM5NywxNT
-QwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQz
-OTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLD
-M4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkx
-MjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LD
-E3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbLTE4MDcxODE2MTUsLTEzMzQ4MDIzOTcsMT
+U0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0
+Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4My
+wzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5
+MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOC
+wxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
+
 -->
