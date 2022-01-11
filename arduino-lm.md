@@ -153,14 +153,24 @@ If you are using a PWM device with Arduino you connect them to the pins marked w
 
 ## Power
 
-Arduino is an autonomous systen that you can use independently of your computer, however once disconnected from your computers USB serial port it requires power. This can be provided through either:
-- You can power the board using a USB port or DC power supply such as a 9v battery or a DC mains adaptor
+Arduino is an autonomous system that you can use independently of your computer, however once disconnected from your computers USB serial port it requires power. This can be provided through either:
+
+- DC power supply such as a 9v battery
+- DC mains adaptor
+
+### Driving Large Loads
+
+You may want to control heavy duty electrical items like industrial motors or AC powered lights. You will need to use a transistor (CLICK)which is a semiconductor device or more commonly known as a transistor used to amplify or switch electronic signals and electrical power. You will need to be careful here as this is where there is a danger of frying your Arduino or yourself.
+
+  
+
+We will also look at how transistors are the basis of a computer as the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjIzOTM2MSw3OTU0MjgyNjIsOTE4OT
-kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
-Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
-QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
-LTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
-IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
-MDQ3XX0=
+eyJoaXN0b3J5IjpbNjc4NzYxNzA1LDc5NTQyODI2Miw5MTg5OT
+A3NzMsMTc2MzQ5MDAsNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2
+Nzk0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUwNDksMTA3NjE0ND
+IwOCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMTcyNDEwNjkyMSwt
+MTYzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMj
+A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
+NDddfQ==
 -->
