@@ -113,11 +113,11 @@ As **Unity** is part of this project we can consider it as either a sensor becau
 
 Here are a couple of examples of custom control systems for games. 
 
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/102cf50c-8b78-46f8-8f6b-6d8667799120?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/102cf50c-8b78-46f8-8f6b-6d8667799120?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
 
 IN the first example a large exercise ball is being used as a control system for a game about world domination. This has the interesting effect of literally giving you the feeling of having the whole world in your hands. The use of rotary encoders to map relative rotation of the ball in both a vertical and horizontal direction to a virtual globe in the game is very effective. 
 
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/edfc0c55-7464-45f4-a503-87a6176ab470?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/edfc0c55-7464-45f4-a503-87a6176ab470?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
 
 In the second example here are some of my friends playing *Samba de Amigo* designed for the **Wii controller** in 1999. The Wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space. The Wii controllers had this maracca wrap around to enhance the immersion in this frenetic rhythm game.
 
@@ -129,7 +129,7 @@ The Arduino can only process electronic signals. This means that stimuli from th
 -   6 Analogue in pins(0-5)
 -   6 Analogue out pins(3,5,6,9,10, and 11) ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MjA4Nzk3LDYwNzE4NjUzMiwtNDc2Nz
+eyJoaXN0b3J5IjpbNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nz
 k0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUwNDksMTA3NjE0NDIw
 OCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMTcyNDEwNjkyMSwtMT
 YzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2
