@@ -91,7 +91,7 @@ A common example of this is the humble toilet. The sensor is the ball cock or fl
 
 *fig 5. - Petit Mal by Simon Penny*
 
-The above video showcases a robot designed by Simon Penny. The goal of Petit Mal is to produce a robotic artwork which is truly autonomous.  This example is particularly relevant to the principles. The robot is **sensing** using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its **actuators** -the motors are being driven in different directions by the **controller** which in turn is adapting to the input from the sensors. This is a constant feedback loop.
+The above video showcases a robot designed by Simon Penny in 1996. The goal of 'Petit Mal' is to produce a robotic artwork which is truly autonomous.  This example is particularly relevant to the above principles. The robot is **sensing** using an array of ultrasound sensors to detect the presence of a human and responding by getting close and then backing away. Its **actuators** -the motors are being driven in different directions by the **controller** which in turn is adapting to the input from the sensors. This is a constant feedback loop.
 
 Simon Penny its creator describes the robot as being: 
 
@@ -110,10 +110,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDMzOTM3NSwxNTQwODcxNzcyLC0yMj
-A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
-NDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMD
-Y3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIz
-NjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMT
-A4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbNzQzNzAyMjc2LDE1NDA4NzE3NzIsLTIyMD
+Y5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0
+NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNj
+c4ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2
+MDgsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMD
+gzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
 -->
