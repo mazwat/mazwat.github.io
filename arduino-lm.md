@@ -117,12 +117,20 @@ IN the first example a large exercise ball is being used as a control system for
 ![Inputs and Outputs - Example 2](samba.png)
 
 In the second example here are some of my friends playing *Samba de Amigo* designed for the **Wii controller** in 1999. The Wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space. The Wii controllers had this maracca wrap around to enhance the immersion in this frenetic rhythm game.
+
+## How the Arduino Processes the World
+
+The Arduino can only process electronic signals. This means  that stimuli from the physical world need to be transduced  to electrical signals before they can be processed from  within your code.  
+
+-   14 Digital IO pins (0-14)
+-   6 Analogue in pins(0-5)
+-   6 Analogue out pins(3,5,6,9,10, and 11) ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNj
-k3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgw
-MjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwND
-AsNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAw
-NDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMy
-wtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5
-MjM5ODI4XX0=
+eyJoaXN0b3J5IjpbMTY0OTYzOTUwMSwxMDc2MTQ0MjA4LDEwMT
+c3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5
+Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNC
+wtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3
+NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMT
+gsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgw
+MjQ1NTM1OV19
 -->
