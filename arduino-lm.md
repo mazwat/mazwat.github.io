@@ -146,6 +146,7 @@ Analogue waves are smooth and continuous, digital waves are stepping, square, an
 Pulse width modulation (PWM) is a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. ... PWM is widely used in ROV (remotely operated vehicle) applications to control the speed of a DC motor and/or the brightness of a lightbulb in a dimmer switch for example, or control the rotated position of a servo motor.
 
 ![Servo Motor](images/servo.gif)
+
 *fig 9. - Servo motor being controlled with PWM*
 
 Pulse width modulation is a great method of controlling the amount of power delivered to a load without dissipating any wasted power. PWM is ideal control the speed of a fan or to dim the brightness of DC lamps or LED's. If you need to control it, then use Pulse Width Modulation to do it.
@@ -184,11 +185,11 @@ The Arduino language is merely a set of **C/C++** functions that can be called f
 
 The Arduino IDE provides a software interface with your Arduino where you can program and upload your code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2ODIzOTMsNTcyMDY2NDAwLDExNzM3Nz
-IxODEsNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzNDkwMCw1Mzg5
-NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNC
-wtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2
-OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0OD
-AyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0
-MF19
+eyJoaXN0b3J5IjpbMTI5Njg1MDc1OSw1NzIwNjY0MDAsMTE3Mz
+c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
+ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
+M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
+MTY5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMz
+Q4MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0
+MDQwXX0=
 -->
