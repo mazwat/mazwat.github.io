@@ -145,14 +145,14 @@ Analogue waves are smooth and continuous, digital waves are stepping, square, an
 
 Pulse width modulation (PWM) is a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. ... PWM is widely used in ROV (remotely operated vehicle) applications to control the speed of a DC motor and/or the brightness of a lightbulb in a dimmer switch for example, or control the rotated position of a servo motor.
 
-![Servo Motor](images/servo.png)
+![Servo Motor](images/servo.gif)
 *fig 9. - Servo motor being controlled with PWM*
 
 Pulse width modulation is a great method of controlling the amount of power delivered to a load without dissipating any wasted power. PWM is ideal control the speed of a fan or to dim the brightness of DC lamps or LED's. If you need to control it, then use Pulse Width Modulation to do it.
 
 Essentially, it's using electrical pulses like morse code to transmit a specific message through the electrical power itself.
 
-If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5,69,10,11.
+If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5,6,9,10 and 11.
 
 ## Power
 
@@ -168,11 +168,11 @@ You may want to control heavy duty electrical items like industrial motors or AC
 ![Using Large Loads with Arduino using a Transistor](images/large-loads.png)
 *fig 10. - Using Large Loads with Arduino using a Transistor*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY4MDg0NDgsNTcyMDY2NDAwLDExNz
-M3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzNDkwMCw1
-Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzOD
-IzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEs
-MTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMz
-M0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5
-NDA0MF19
+eyJoaXN0b3J5IjpbMTM5Mzk3MjE4NCw1NzIwNjY0MDAsMTE3Mz
+c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
+ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
+M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
+MTY5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMz
+Q4MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0
+MDQwXX0=
 -->
