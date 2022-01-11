@@ -204,9 +204,14 @@ For those of you, particularly robotics students that want to explore their use.
 
 ## Conclusion
 
-IN this lecture I have outlined some of the key features of the Arduino and how it relates to use in robotics and in custom game controller design. 
+In this lecture I have outlined some of the key features of the Arduino and how it relates to use in robotics and in custom game controller design. In future lectures we will look at how to create programs for Arduino to control sensors and actuators.
+
+## Video Lecture
+
+### Lecture - Software Architecture
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTk0MTM0MSwxNDU0MjY1OTUsLTE0MT
+eyJoaXN0b3J5IjpbMTg1MzkwMDA4OCwxNDU0MjY1OTUsLTE0MT
 M4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMTczNzcyMTgx
 LDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4OTY0Nj
 kxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIw
