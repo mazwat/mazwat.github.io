@@ -178,13 +178,17 @@ It communicates on digital pins **0** (RX) and **1** (TX) as well as with the co
 
 ### Programming for Arduino
 
-The Arduino language is merely a set of **C/C++** functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function  prototypes) and then is passed directly to a C/C++  compiler (avr-g++).
+The Arduino language is merely a set of **C/C++** functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function prototypes) and then is passed directly to a C/C++  compiler (avr-g++).
+
+
+
+The Arduino IDE provides a software interface with your Arduino where you can program and upload your code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NjU2NDY2LDU3MjA2NjQwMCwxMTczNz
-cyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4
-OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMz
-QsLTIwNzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDEx
-Njk3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzND
-gwMjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQw
-NDBdfQ==
+eyJoaXN0b3J5IjpbODE2ODIzOTMsNTcyMDY2NDAwLDExNzM3Nz
+IxODEsNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzNDkwMCw1Mzg5
+NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNC
+wtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2
+OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0OD
+AyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0
+MF19
 -->
