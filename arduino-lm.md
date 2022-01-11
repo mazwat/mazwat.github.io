@@ -79,13 +79,13 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 | The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. The company has "the goal to democratize access to space". | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
-To further understand how to apply Arduino in your practice it is useful to think of the 3 key principles of robotics and engineering this is also referred to as **Process Control**:
+To further understand how to apply Arduino in your own practice it is useful to think of the 3 key principles of robotics and engineering this is also referred to as **Process Control**:
 
 - **Sensing** - measuring an input, like a button press or change in light levels.
 - **Controlling**- adjusting an *actuator* in response to the measurement from the *sensor*
 - **Actuating**- manipulation in order to cause an action
 
-A common example of this is the humble **toilet**. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it manipulates the flow of water to cause an action - to allow or to prevent the flow of water. The controller is a small screw that allows the user to adjust the height that the float reaches before opening the valve.
+A common example of this is the humble **toilet**. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it manipulates a mechanism to cause an action - to allow or to prevent the flow of water. The controller is a small screw that allows the user to adjust the height that the float reaches before opening the valve.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -109,11 +109,11 @@ So to create a system relevant to this module we need to define what sensors, co
 ![Inputs and Outputs](samba.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc3NTc1OTQsMTcyNDEwNjkyMSwtMT
-YzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2
-OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUwND
-csMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3
-ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNj
-A4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4
-MzU4MTU3OV19
+eyJoaXN0b3J5IjpbMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNj
+M3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5
+NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0Ny
+wzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNjc4
+ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MD
+gsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMDgz
+NTgxNTc5XX0=
 -->
