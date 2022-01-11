@@ -69,7 +69,7 @@ The controller is the essential bit you could make your own board up by adding t
 It's a rapid prototyping board. It gives you the ability to quickly plug pins from the Arduino to devices and components on a bread board to rapidly prototype creative electronic projects.
 
 ![Arduino and Breadboard](images/board-bread.png)
-*fig4. - Arduino, breadboard with LED and resistor*
+*fig4. - Arduino, breadboard, LED and resistor*
 
 Arduino is often thought of as the preserve of hobbyists and creative makers, but it has other more serious applications.
 
@@ -109,11 +109,11 @@ So to create a system relevant to this module we need to define what sensors, co
 ![Inputs and Outputs](samba.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNj
-M3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5
-NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0Ny
-wzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNjc4
-ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2MD
-gsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMDgz
-NTgxNTc5XX0=
+eyJoaXN0b3J5IjpbMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3Mj
+QxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3
+MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4Ny
+wtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4MywzODYw
+MjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOT
+csMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5
+OTk4NjJdfQ==
 -->
