@@ -79,7 +79,7 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 | The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. The company has "the goal to democratize access to space". | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
-To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics and engineering this also referred to as **Process Control**:
+To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics and engineering this is also referred to as **Process Control**:
 
 - **Sensing** - measuring an input, like a button press or change in light levels.
 - **Controlling**- adjusting an *actuator* based in response to the measurement from the *sensor*
@@ -107,10 +107,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
-IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
-MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4MywzODYwMjI2MjIsMT
-A2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEy
-MzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLT
-EwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
+eyJoaXN0b3J5IjpbLTQ5NTE3MTAzMywtMTMzNDgwMjM5NywxNT
+QwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQz
+OTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLD
+M4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkx
+MjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LD
+E3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
