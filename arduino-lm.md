@@ -143,7 +143,10 @@ Analogue waves are smooth and continuous, digital waves are stepping, square, an
 
 ### Pulse Width Modulation (PWM)
 
-Pulse width modulation (PWM) is a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. ... PWM is widely used in ROV (remotely operated vehicle) applications to control the speed of a DC motor and/or the brightness of a lightbulb in a dimmer switch for example, or control the rotated position of a servo motor
+Pulse width modulation (PWM) is a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. ... PWM is widely used in ROV (remotely operated vehicle) applications to control the speed of a DC motor and/or the brightness of a lightbulb in a dimmer switch for example, or control the rotated position of a servo motor.
+
+![Servo Motor](images/servo.png)
+*fig 9. - Servo motor being controlled with PWM*
 
 Pulse width modulation is a great method of controlling the amount of power delivered to a load without dissipating any wasted power. PWM is ideal control the speed of a fan or to dim the brightness of DC lamps or LED's. If you need to control it, then use Pulse Width Modulation to do it.
 
@@ -163,13 +166,13 @@ Arduino is an autonomous system that you can use independently of your computer,
 You may want to control heavy duty electrical items like industrial motors or AC powered lights. You will need to use a transistor which is a semiconductor device or more commonly known as a transistor used to amplify or switch electronic signals and electrical power. You will need to be careful here as this is where there is a danger of frying your Arduino or yourself. We will examine the role of transistors in a later lecture.
 
 ![Using Large Loads with Arduino using a Transistor](images/large-loads.png)
-*fig 9. - Using Large Loads with Arduino using a Transistor*
+*fig 10. - Using Large Loads with Arduino using a Transistor*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMDY2NDAwLDExNzM3NzIxODEsNzk1ND
-I4MjYyLDkxODk5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3
-MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNT
-A0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywx
-NzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1ND
-A4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5
-ODddfQ==
+eyJoaXN0b3J5IjpbLTIwOTY4MDg0NDgsNTcyMDY2NDAwLDExNz
+M3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzNDkwMCw1
+Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzOD
+IzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEs
+MTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMz
+M0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5
+NDA0MF19
 -->
