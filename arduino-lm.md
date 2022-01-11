@@ -85,7 +85,7 @@ To understand how you can start to apply Arduino in your practice it is useful t
 - **Controlling**- adjusting an *actuator* in response to the measurement from the *sensor*
 - **Actuating**- manipulation in order to cause an action
 
-A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it manipulates the flow of water to cause an action - to allow or to prevent the flow of water. The controller is a small screw that allows the user to adjust the height that the sensor reaches before opening the valve.
+A common example of this is the humble **toilet**. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it manipulates the flow of water to cause an action - to allow or to prevent the flow of water. The controller is a small screw that allows the user to adjust the height that the float reaches before opening the valve.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,15 +103,14 @@ In another ==lecture== I will introduce **cybernetics** and we will look at the 
 
 ## Control Systems
 
-So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use.
+So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg0Mjc5NzQsLTEzMzQ4MDIzOTcsMT
-U0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0
-Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4My
-wzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5
-MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOC
-wxNzA5OTk4NjIsLTEwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
-
+eyJoaXN0b3J5IjpbLTE3NTA3MzU2MywtMTMzNDgwMjM5NywxNT
+QwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQz
+OTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLD
+M4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkx
+MjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LD
+E3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIwNTQ2ODczN119
 -->
