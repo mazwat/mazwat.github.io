@@ -149,9 +149,13 @@ Pulse width modulation is a great method of controlling the amount of power deli
 
 Essentially, it's using electrical pulses like morse code to transmit a specific message through the electrical power itself.
 
-If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5,69,10,11 
+If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5,69,10,11.
+
+## Power
+
+Arduino is an autonomous sys
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjIwNDg0MCw3OTU0MjgyNjIsOTE4OT
+eyJoaXN0b3J5IjpbMTUzNjkwNjIxOSw3OTU0MjgyNjIsOTE4OT
 kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
 Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
 QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
