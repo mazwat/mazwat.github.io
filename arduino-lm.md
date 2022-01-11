@@ -111,14 +111,16 @@ Here are couple of examples of custom control systems for games.
 
 ![Inputs and Outputs- Example 1](ball-controller.png)
 
+IN the first example a large exercise ball is being used as a control system for a game about world domination. This has the interesting effect of literally giving you the feeling of havign he whole world in your hands. 
+
 ![Inputs and Outputs - Example 2](samba.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjU3MTQ0MiwxMDE3NzE4NjcxLDExNj
-k3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgw
-MjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwND
-AsNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAw
-NDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMy
-wtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5
-MjM5ODI4XX0=
+eyJoaXN0b3J5IjpbLTEzMjE4MDg1MjQsMTAxNzcxODY3MSwxMT
+Y5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4
+MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MD
+QwLDcwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMw
+MDQ5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMz
+MsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3
+OTIzOTgyOF19
 -->
