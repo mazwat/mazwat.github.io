@@ -174,13 +174,17 @@ You may want to control heavy duty electrical items like industrial motors or AC
 Serial is used for communication between the Arduino board and a computer or other devices.
 
 Serial communication on pins TX/RX uses TTL logic levels (5V or 3.3V depending on the board).
-It communicates on digital pins 0 (RX) and 1 (TX) as well as with the computer via USB. Thus, if you use these functions,  you cannot also use pins 0 and 1 for digital input or output.
+It communicates on digital pins **0** (RX) and **1** (TX) as well as with the computer **via USB**. If you use these functions,  you cannot also use pins 0 and 1 for digital input or output.
+
+### Programming for Arduino
+
+The Arduino language is merely a set of **C/C++** functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function  prototypes) and then is passed directly to a C/C++  compiler (avr-g++).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTAwOTU2OCw1NzIwNjY0MDAsMTE3Mz
-c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
-ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
-M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
-MTY5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMz
-Q4MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0
-MDQwXX0=
+eyJoaXN0b3J5IjpbMjQ1NjU2NDY2LDU3MjA2NjQwMCwxMTczNz
+cyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4
+OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMz
+QsLTIwNzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDEx
+Njk3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzND
+gwMjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQw
+NDBdfQ==
 -->
