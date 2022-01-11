@@ -103,7 +103,8 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 ## Control Systems
 
-To create a system relevant to this module you need to define what sensors, controllers and actuators are needed to realise you. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
+To create a system relevant to this module you need to define what sensors, controllers and actuators are needed to realise your particular experience. I have provide some examples here that can form the building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
+As Unity is p
 
 ![Sensors Controllers and Actuators](images/sensors-actuators.png)
 *fig6. - Different types of sensor and actuator*
@@ -126,7 +127,7 @@ The Arduino can only process electronic signals. This means that stimuli from th
 -   6 Analogue in pins(0-5)
 -   6 Analogue out pins(3,5,6,9,10, and 11) ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NjYyNTgyLC0yMDczNTA1MDQ5LDEwNz
+eyJoaXN0b3J5IjpbLTYxOTE5NzkwLC0yMDczNTA1MDQ5LDEwNz
 YxNDQyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5
 MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3Mi
 wtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0
