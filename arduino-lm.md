@@ -85,7 +85,7 @@ To understand how you can start to apply Arduino in your practice it is useful t
 - **Controlling**- adjusting an *actuator* based in response to the measurement from the *sensor*
 - **Actuating**- manipulates something to cause an action
 
-A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it responds to a measurement, in this case the height of the water and responds accordingly. The controller is a small screw that allows the user to adjust the height that the  sensor reaches before opening the valve.
+A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it responds to a measurement, in this case the height of the water and responds accordingly. The controller is a small screw that allows the user to adjust the height that the sensor reaches before opening the valve.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -107,10 +107,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM0NTcwOSwxNTQwODcxNzcyLC0yMj
-A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
-NDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMD
-Y3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIz
-NjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMT
-A4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
+IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
+MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4MywzODYwMjI2MjIsMT
+A2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOTcsMjEwNDEy
+MzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5OTk4NjIsLT
+EwODM1ODE1NzksLTEyMDU0Njg3MzddfQ==
 -->
