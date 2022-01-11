@@ -195,11 +195,14 @@ You can extend the function of your Arduino with the use of **shields**. Shields
 
 ## Other Microcontrollers
 
-As you become more familiar with using Arduino you may find you want to diversify and use other microcontrollers. (CLICK) The Microbit is another microcontroller board similar to Arduino and is developed by the BBC. It is smaller in size and has a built  in led display and can perform many functions that the Arduino can and is programmed using Python rather than C++. It is probably not as supported with peripherals as Arduino but it is still a major competitor and the differences in performance are negligible. If you are looking to create more miniature, compact or portable systems the ATTiny (CLICK) is another option it has a limited memory and only 3 analogue and 2 PWM pins but at 1.5 cm in size it can be very useful in certain projects.
+As you become more familiar with using Arduino you may find you want to diversify and use other microcontrollers.  The **Microbit** is another microcontroller board similar to Arduino and is developed by the BBC. It is smaller in size and has a built  in led display and can perform many functions that the Arduino can and is programmed using Python rather than C++. It is probably not as supported with peripherals as Arduino but it is still a major competitor and the differences in performance are negligible. If you are looking to create more miniature, compact or portable systems the **ATTiny** is another option it has a limited memory and only 3 analogue and 2 PWM pins but at 1.5 cm in size it can be very useful in certain projects.
+
+![Other Microcontrollers](images/other-controllers.png)
+*fig 12. - Other Microcontrollers*
 
 For those of you, particularly robotics students that want to explore their use. Please contact me to discuss how they might be relevant to your work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODg1MjgyMyw2OTY0MzA1NTcsNTcyMD
+eyJoaXN0b3J5IjpbLTM5NjM5NDg1OSw2OTY0MzA1NTcsNTcyMD
 Y2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3Mywx
 NzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2Mj
 AsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEw
