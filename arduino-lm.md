@@ -30,8 +30,7 @@ The following materials are derived from the *Arduino lecture*. The video lectur
 In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
 ## Introduction to the Arduino UNO  
- The arduino is a single board microcontroller designed to be used a controller for robotics and electronics projects.
- It is comprised of a 
+The Arduino UNO is a single board microcontroller designed to be used a controller for robotics and electronics projects.
 
 ### The Board
 
@@ -144,11 +143,11 @@ A light switch is on or off of we can say that the electrical signal is LOW or H
 A humidity sensor can have a range of resistances from none to some maximum value. Depending on the amount of moisture in contact with the sensor. That is an analog device, and gets connected to an analog pin.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4OTkwNzczLDE3NjM0OTAwLDUzODk2ND
-Y5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0y
-MDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwxMTY5Nz
-cwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIz
-OTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLD
-cwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5
-OTM4M119
+eyJoaXN0b3J5IjpbNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzND
+kwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAy
+MDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MT
+g2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4
+LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMT
+g3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3Njgz
+MDFdfQ==
 -->
