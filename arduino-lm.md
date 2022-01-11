@@ -208,14 +208,14 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 
 ## Video Lecture
 
-### Lecture - Software Architecture
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+### Lecture - Arduino 
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzkwMDA4OCwxNDU0MjY1OTUsLTE0MT
-M4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMTczNzcyMTgx
-LDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4OTY0Nj
-kxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIw
-NzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNjk3Nz
-A1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgwMjM5
-N119
+eyJoaXN0b3J5IjpbLTIxMDQ1NDY0NDYsMTQ1NDI2NTk1LC0xND
+EzODI5MzMzLDY5NjQzMDU1Nyw1NzIwNjY0MDAsMTE3Mzc3MjE4
+MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUzODk2ND
+Y5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0y
+MDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwxMTY5Nz
+cwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIz
+OTddfQ==
 -->
