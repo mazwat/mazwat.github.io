@@ -117,7 +117,7 @@ Here are a couple of examples of custom control systems for games.
 
 IN the first example a large exercise ball is being used as a control system for a game about world domination. This has the interesting effect of literally giving you the feeling of having the whole world in your hands. The use of rotary encoders to map relative rotation of the ball in both a vertical and horizontal direction to a virtual globe in the game is very effective. 
 
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/edfc0c55-7464-45f4-a503-87a6176ab470?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
+<iframe width="853" height="360" src="https://web.microsoftstream.com/embed/video/edfc0c55-7464-45f4-a503-87a6176ab470?autoplay=true&showinfo=false" allowfullscreen style="border:none;"></iframe>
 
 In the second example here are some of my friends playing *Samba de Amigo* designed for the **Wii controller** in 1999. The Wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space. The Wii controllers had this maracca wrap around to enhance the immersion in this frenetic rhythm game.
 
@@ -129,11 +129,11 @@ The Arduino can only process electronic signals. This means that stimuli from th
 -   6 Analogue in pins(0-5)
 -   6 Analogue out pins(3,5,6,9,10, and 11) ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMD
-AzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2
-NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC
-0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3
-NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3NjgzMD
-EsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1
-OTQzMzMzXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ5MjMyMDYsNjA3MTg2NTMyLC00Nz
+Y3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0
+MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC
+0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIy
+MDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNT
+A0NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEw
+Njc4ODgzMThdfQ==
 -->
