@@ -105,13 +105,13 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 So to create a system relevant to this module we need to define what sensors, controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
 
-
+![Sensors Co(images/ardusat.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMT
-MzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0
-OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC
-0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0
-MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNT
-ksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4MzU4MTU3OSwtMTIw
-NTQ2ODczN119
+eyJoaXN0b3J5IjpbLTE3ODA4NjUyNDUsMTcyNDEwNjkyMSwtMT
+YzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2
+OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUwND
+csMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3
+ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIzNj
+A4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMTA4
+MzU4MTU3OV19
 -->
