@@ -189,7 +189,7 @@ The Arduino IDE provides a software interface with your Arduino where you can pr
 ## Extending Arduino
 
 ![Differnt types of shield](images/shields.jpg)
-*fig 12. - Some different types of Shield*
+*fig 12. - Some Different Types of Shield*
 
 You can extend the function of your Arduino with the use of **shields**. Shields are boards that can be plugged on top of the Arduino PCB extending its capabilities. The different shields follow the same philosophy as the original toolkit: they are easy to mount, and cheap to produce. For instance their is a shield that turns your Arduino into an Open Source Game Boy Clone. But there are also shields to allow your Arduino to connect to a **wi-fi router** or to use a **full colour OLED display**.
 
@@ -202,11 +202,11 @@ As you become more familiar with using Arduino you may find you want to diversif
 
 For those of you, particularly robotics students that want to explore their use. Please contact me to discuss how they might be relevant to your work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTU1Njg5MywtMTQxMzgyOTMzMyw2OT
-Y0MzA1NTcsNTcyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYy
-LDkxODk5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NT
-MyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwx
-MDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MT
-A2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDI2NTk1LC0xNDEzODI5MzMzLDY5Nj
+QzMDU1Nyw1NzIwNjY0MDAsMTE3Mzc3MjE4MSw3OTU0MjgyNjIs
+OTE4OTkwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1Mz
+IsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEw
+NzYxNDQyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMD
+Y5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3
+Ml19
 -->
