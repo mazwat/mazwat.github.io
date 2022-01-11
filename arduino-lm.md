@@ -181,15 +181,16 @@ It communicates on digital pins **0** (RX) and **1** (TX) as well as with the co
 
 The Arduino language is merely a set of **C/C++** functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function prototypes) and then is passed directly to a C/C++  compiler (avr-g++).
 
+![Using Large Loads with Arduino using a Transistor](images/ide.png)
+*fig 11. - Arduino IDE*
 
-
-The Arduino IDE provides a software interface with your Arduino where you can program and upload your code.
+The Arduino IDE provides a software interface with your Arduino where you can program and upload your code. There also other applications that can interface with the Arduino.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Njg1MDc1OSw1NzIwNjY0MDAsMTE3Mz
-c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
-ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
-M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
-MTY5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMz
-Q4MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0
-MDQwXX0=
+eyJoaXN0b3J5IjpbNjk2NDMwNTU3LDU3MjA2NjQwMCwxMTczNz
+cyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4
+OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMz
+QsLTIwNzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDEx
+Njk3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzND
+gwMjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQw
+NDBdfQ==
 -->
