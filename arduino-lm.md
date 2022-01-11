@@ -131,8 +131,7 @@ The Arduino can only process electronic signals. This means that stimuli from th
 ![Pins on an Arduino Board](images/pins.jpg)
 *fig 7. - Pins on an Arduino*
 
-### Analogue vs Digital - What's the difference?
-
+### Analogue vs Digital
 Analogue waves are smooth and continuous, digital waves are stepping, square, and discrete. When you are were processing audio waves in COMP120 you probably encountered this issue.
 
 ![The Difference between Analogue and Digital signals](images/analogue-vs-digital.png)
@@ -150,11 +149,11 @@ Pulse width modulation is a great method of controlling the amount of power deli
 
 Essentially, like using the electrical pulses like morse code to transmit a specific message through the electrical power itself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYxNDMzOTEsNzk1NDI4MjYyLDkxOD
-k5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00
-NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MT
-Q0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIx
-LC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLT
-IyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAz
-NTA0N119
+eyJoaXN0b3J5IjpbMTI1ODU3MzU3OSw3OTU0MjgyNjIsOTE4OT
+kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
+Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
+QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
+LTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
+IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
+MDQ3XX0=
 -->
