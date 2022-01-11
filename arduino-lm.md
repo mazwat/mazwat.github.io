@@ -85,7 +85,7 @@ To understand how you can start to apply Arduino in your practice it is useful t
 - **Controlling**- adjusting an *actuator* in response to the measurement from the *sensor*
 - **Actuating**- manipulation in order to cause an action
 
-A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it responds to a measurement, in this case the height of the water and responds accordingly. The controller is a small screw that allows the user to adjust the height that the sensor reaches before opening the valve.
+A common example of this is the humble toilet. The sensor is the ballcock or float in the cistern that measures the level of the water. If the water is too low it will open the valve to allow more water into the cistern. The valve is the actuator as it manipulates the flow of water to cause an action - to allow or to prevent the flow of water. The controller is a small screw that allows the user to adjust the height that the sensor reaches before opening the valve.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -107,7 +107,7 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxODE2MTUsLTEzMzQ4MDIzOTcsMT
+eyJoaXN0b3J5IjpbLTEyMzg0Mjc5NzQsLTEzMzQ4MDIzOTcsMT
 U0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0
 Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4My
 wzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5
