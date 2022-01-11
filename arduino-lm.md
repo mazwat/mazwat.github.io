@@ -132,14 +132,20 @@ The Arduino can only process electronic signals. This means that stimuli from th
 ![Pins on an Arduino Board](images/pins.jpg)
 *fig 7. - Pins on an Arduino*
 
-### Analogue vs Digia
+### Analogue vs Digital
+
+The big difference between analog and digital waves. Analog waves are smooth and continuous, digital waves are stepping, square, and discrete. When you are were processing audio waves in COMP120 you probably encountered this issue.
+
+A light switch is on or off of we can say that the electrical signal is LOW or HIGH That is a digital device, and gets connected to a digital pin.
+
+A humidity sensor can have a range of resistances from none to some maximum value. Depending on the amount of moisture in contact with the sensor. That is an analog device, and gets connected to an analog pin.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjczOTE1OTQsNTM4OTY0NjkxLDYwNz
-E4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUw
-NDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMT
-cyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQw
-ODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOT
-g3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4
-NjAyMjYyMl19
+eyJoaXN0b3J5IjpbMTc2MzQ5MDAsNTM4OTY0NjkxLDYwNzE4Nj
+UzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUwNDks
+MTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMTcyND
+EwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcx
+NzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC
+04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAy
+MjYyMl19
 -->
