@@ -144,13 +144,17 @@ Analogue waves are smooth and continuous, digital waves are stepping, square, an
 
 ### Pulse Width Modulation (PWM)
 
-The Differecne between Analogue and Digital signals
+Pulse width modulation (PWM) is a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. ... PWM is widely used in ROV (remotely operated vehicle) applications to control the speed of a DC motor and/or the brightness of a lightbulb in a dimmer switch for example, or control the rotated position of a servo motor
+
+Pulse width modulation is a great method of controlling the amount of power delivered to a load without dissipating any wasted power. PWM is ideal control the speed of a fan or to dim the brightness of DC lamps or LED's. If you need to control it, then use Pulse Width Modulation to do it.
+
+Essentially, like using the electrical pulses like morse code to transmit a specific message through the electrical power itself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTUxNTk0NSw3OTU0MjgyNjIsOTE4OT
-kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
-Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
-QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
-LTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
-IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTE2MTYxNDMzOTEsNzk1NDI4MjYyLDkxOD
+k5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00
+NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MT
+Q0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIx
+LC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLT
+IyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAz
+NTA0N119
 -->
