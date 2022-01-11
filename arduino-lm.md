@@ -201,12 +201,16 @@ As you become more familiar with using Arduino you may find you want to diversif
 *fig 12. - Other Microcontrollers*
 
 For those of you, particularly robotics students that want to explore their use. Please contact me to discuss how they might be relevant to your work.
+
+## Conclusion
+
+IN this lecture I have outlined some of the key features of the Arduino and how it relates to use in robotics and in custom game controller design. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDI2NTk1LC0xNDEzODI5MzMzLDY5Nj
-QzMDU1Nyw1NzIwNjY0MDAsMTE3Mzc3MjE4MSw3OTU0MjgyNjIs
-OTE4OTkwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1Mz
-IsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEw
-NzYxNDQyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMD
-Y5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3
-Ml19
+eyJoaXN0b3J5IjpbMTA0MTk0MTM0MSwxNDU0MjY1OTUsLTE0MT
+M4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMTczNzcyMTgx
+LDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAsNTM4OTY0Nj
+kxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIw
+NzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNjk3Nz
+A1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgwMjM5
+N119
 -->
