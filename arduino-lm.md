@@ -136,16 +136,19 @@ The Arduino can only process electronic signals. This means that stimuli from th
 
 Analogue waves are smooth and continuous, digital waves are stepping, square, and discrete. When you are were processing audio waves in COMP120 you probably encountered this issue.
 
+![The Difference between Analogue and Digital signals](images/analogue-vs-digital.png)
+*fig 8. - The Difference between Analogue and Digital Signals*
+
 A light switch is on or off of we can say that the electrical signal is LOW or HIGH That is a digital device, and gets connected to a digital pin.
 
 A humidity sensor can have a range of resistances from none to some maximum value. Depending on the amount of moisture in contact with the sensor. That is an analog device, and gets connected to an analog pin.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjAyMzk0NywxNzYzNDkwMCw1Mzg5Nj
-Q2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwt
-MjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OT
-c3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAy
-Mzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MC
-w3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0
-OTkzODNdfQ==
+eyJoaXN0b3J5IjpbOTE4OTkwNzczLDE3NjM0OTAwLDUzODk2ND
+Y5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0y
+MDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwxMTY5Nz
+cwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIz
+OTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLD
+cwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5
+OTM4M119
 -->
