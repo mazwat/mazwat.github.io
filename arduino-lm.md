@@ -122,7 +122,7 @@ In the second example here are some of my friends playing *Samba de Amigo* desig
 
 ## How the Arduino Processes the World
 
-The Arduino can only process electronic signals. This means that stimuli from the physical world needs to be transduced  to electrical signals before they can be processed from within your code.  
+The Arduino can only process electronic signals. This means that stimuli from the physical world needs to be transduced  to electrical signals before they can be processed from within your code. Any actuators or sensors need to be plugged into the specific pins on the board so it can function as a controller for your system.
 
 -   14 **Digital** IO pins (0-14)
 -   6 **Analogue in** pins(0-5)
@@ -202,11 +202,11 @@ As you become more familiar with using Arduino you may find you want to diversif
 
 For those of you, particularly robotics students that want to explore their use. Please contact me to discuss how they might be relevant to your work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjM5NDg1OSw2OTY0MzA1NTcsNTcyMD
-Y2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3Mywx
-NzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2Mj
-AsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEw
-MTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3Nz
-Y5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIw
-NF19
+eyJoaXN0b3J5IjpbOTcyMDMxMjUzLDY5NjQzMDU1Nyw1NzIwNj
+Y0MDAsMTE3Mzc3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3
+NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMC
+wxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAx
+NzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Nj
+k3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0
+XX0=
 -->
