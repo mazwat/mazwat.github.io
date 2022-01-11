@@ -138,16 +138,16 @@ Analogue waves are smooth and continuous, digital waves are stepping, square, an
 ![The Difference between Analogue and Digital signals](images/analogue-vs-digital.png)
 *fig 8. - The Difference between Analogue and Digital Signals*
 
-A light switch is on or off of we can say that the electrical signal is LOW or HIGH That is a digital device, and gets connected to a digital pin.
+A **light switch is on or off of we can say that the electrical signal is LOW or HIGH That is a **digital device**, and gets connected to a digital pin.
 
 A humidity sensor can have a range of resistances from none to some maximum value. Depending on the amount of moisture in contact with the sensor. That is an analog device, and gets connected to an analog pin.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NDI4MjYyLDkxODk5MDc3MywxNzYzND
-kwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2MjAsMTAy
-MDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEwMTc3MT
-g2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4
-LC0xMzM0ODAyMzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMT
-g3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3Njgz
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTE5NjgzODkzOCw3OTU0MjgyNjIsOTE4OT
+kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
+Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
+QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
+LTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
+IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
+MDQ3XX0=
 -->
