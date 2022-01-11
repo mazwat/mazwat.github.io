@@ -106,6 +106,7 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 So to create a system relevant to this module we need to define what sensors, controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
 
 ![Sensors Controllers and Actuators](images/sensors-actuators.png)
+*fig6. - Different types of sensor and actuator*
 
 Here are a couple of examples of custom control systems for games. 
 
@@ -115,9 +116,10 @@ IN the first example a large exercise ball is being used as a control system for
 
 ![Inputs and Outputs - Example 2](samba.png)
 
-In the second example here are some of my friends playing Samba de Amigo deisgned for the Wii controller in XXXX. The wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space.
+
+In the second example here are some of my friends playing *Samba de Amigo* designed for the Wii controller in 1999. The wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjgwNTYxLDEwMTc3MTg2NzEsMTE2OT
+eyJoaXN0b3J5IjpbMTM5MzkyNzAzLDEwMTc3MTg2NzEsMTE2OT
 c3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAy
 Mzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MC
 w3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0
