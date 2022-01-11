@@ -103,11 +103,11 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 
 ## Control Systems
 
-So to create any system where we can control something we need to define sensors controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
+So to create a system relevant to this module we need to define what sensors, controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODIwNzA0NCwtMTYzNzc2OTc4OCwtMT
+eyJoaXN0b3J5IjpbMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMT
 MzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0
 OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC
 0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0
