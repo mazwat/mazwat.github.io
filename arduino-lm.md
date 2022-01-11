@@ -188,9 +188,18 @@ The Arduino IDE provides a software interface with your Arduino where you can pr
 
 ## Extending Arduino
 
+![Differnt types of shield](images/shields.png)
+*fig 12. - Some different types of Shield*
+
 You can extend the function of your Arduino with the use of **shields**. Shields are boards that can be plugged on top of the Arduino PCB extending its capabilities. The different shields follow the same philosophy as the original toolkit: they are easy to mount, and cheap to produce. For instance their is a shield that turns your Arduino into an Open Source Game Boy Clone. But there are also shields to allow your Arduino to connect to a **wi-fi router** or to use a **full colour OLED display**.
+
+## Other Microcontrollers
+
+As you become more familiar with using Arduino you may find you want to diversify and use other microcontrollers. (CLICK) The Microbit is another microcontroller board similar to Arduino and is developed by the BBC. It is smaller in size and has a built  in led display and can perform many functions that the Arduino can and is programmed using Python rather than C++. It is probably not as supported with peripherals as Arduino but it is still a major competitor and the differences in performance are negligible. If you are looking to create more miniature, compact or portable systems the ATTiny (CLICK) is another option it has a limited memory and only 3 analogue and 2 PWM pins but at 1.5 cm in size it can be very useful in certain projects.
+
+For those of you, particularly robotics students that want to explore their use. Please contact me to discuss how they might be relevant to your work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDAzNzgzOSw2OTY0MzA1NTcsNTcyMD
+eyJoaXN0b3J5IjpbLTI0ODg1MjgyMyw2OTY0MzA1NTcsNTcyMD
 Y2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3Mywx
 NzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2Mj
 AsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEw
