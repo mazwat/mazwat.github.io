@@ -147,15 +147,15 @@ Pulse width modulation (PWM) is a modulation technique that generates variable-w
 
 Pulse width modulation is a great method of controlling the amount of power delivered to a load without dissipating any wasted power. PWM is ideal control the speed of a fan or to dim the brightness of DC lamps or LED's. If you need to control it, then use Pulse Width Modulation to do it.
 
-Essentially, like using the electrical pulses like morse code to transmit a specific message through the electrical power itself.
+Essentially, it's using electrical pulses like morse code to transmit a specific message through the electrical power itself.
 
-If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5 
+If you are using a PWM device with Arduino you connect them to the pins marked with **~**. In figure 8 you can see them as pins - 3,5,69,10,11 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM1MjA1LDc5NTQyODI2Miw5MTg5OT
-A3NzMsMTc2MzQ5MDAsNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2
-Nzk0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUwNDksMTA3NjE0ND
-IwOCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMTcyNDEwNjkyMSwt
-MTYzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMj
-A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
-NDddfQ==
+eyJoaXN0b3J5IjpbLTMwMjIwNDg0MCw3OTU0MjgyNjIsOTE4OT
+kwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzIsLTQ3
+Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5LDEwNzYxND
+QyMDgsMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3MjQxMDY5MjEs
+LTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3MTc3MiwtMj
+IwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4NywtODk0MDM1
+MDQ3XX0=
 -->
