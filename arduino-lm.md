@@ -106,14 +106,19 @@ In another lecture I will introduce **cybernetics** and we will look at the conc
 So to create a system relevant to this module we need to define what sensors, controllers and actuators. In your project you can use any of these as building blocks for your system. I have listed some examples but there are many more that you could use. These come in the form of components that are easily bought very cheaply, some can also be found in common consumer devices.
 
 ![Sensors Controllers and Actuators](images/sensors-actuators.png)
-![Inputs and Outputs](samba.png)
+
+Here are couple of examples of custom control systems for games. 
+
+![Inputs and Outputs- Example 1](ball-controller.png)
+
+![Inputs and Outputs - Example 2](samba.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzcxODY3MSwxMTY5NzcwNTE3LDE3Mj
-QxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4MDIzOTcsMTU0MDg3
-MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MDQwLDcwMTE0Mzk4Ny
-wtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMwMDQ5OTM4MywzODYw
-MjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMzMsLTE3NTE5MTIwOT
-csMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3OTIzOTgyOCwxNzA5
-OTk4NjJdfQ==
+eyJoaXN0b3J5IjpbLTg4MjU3MTQ0MiwxMDE3NzE4NjcxLDExNj
+k3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgw
+MjM5NywxNTQwODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwND
+AsNzAxMTQzOTg3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAw
+NDk5MzgzLDM4NjAyMjYyMiwxMDY3ODg4MzE4LDMwNTk0MzMzMy
+wtMTc1MTkxMjA5NywyMTA0MTIzNjA4LDE4MDI0NTUzNTksNDc5
+MjM5ODI4XX0=
 -->
