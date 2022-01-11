@@ -115,13 +115,13 @@ IN the first example a large exercise ball is being used as a control system for
 
 ![Inputs and Outputs - Example 2](samba.png)
 
-In the second example here are some of my friends playing Samba deisgned for the Wii controller in XXXX. The wii controller makes use og
+In the second example here are some of my friends playing Samba de Amigo deisgned for the Wii controller in XXXX. The wii controller makes use of an infrared bar that detects the position of the controller in vertical and horizontal space and accelerometers in the hand controller which detect the nature and speed of the movement in 3d space.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc0NDQwNjUsMTAxNzcxODY3MSwxMT
-Y5NzcwNTE3LDE3MjQxMDY5MjEsLTE2Mzc3Njk3ODgsLTEzMzQ4
-MDIzOTcsMTU0MDg3MTc3MiwtMjIwNjk1MjA0LC0xODc3NDk0MD
-QwLDcwMTE0Mzk4NywtODk0MDM1MDQ3LDM0OTc2ODMwMSwtMTMw
-MDQ5OTM4MywzODYwMjI2MjIsMTA2Nzg4ODMxOCwzMDU5NDMzMz
-MsLTE3NTE5MTIwOTcsMjEwNDEyMzYwOCwxODAyNDU1MzU5LDQ3
-OTIzOTgyOF19
+eyJoaXN0b3J5IjpbLTI4NjgwNTYxLDEwMTc3MTg2NzEsMTE2OT
+c3MDUxNywxNzI0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAy
+Mzk3LDE1NDA4NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MC
+w3MDExNDM5ODcsLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0
+OTkzODMsMzg2MDIyNjIyLDEwNjc4ODgzMTgsMzA1OTQzMzMzLC
+0xNzUxOTEyMDk3LDIxMDQxMjM2MDgsMTgwMjQ1NTM1OSw0Nzky
+Mzk4MjhdfQ==
 -->
