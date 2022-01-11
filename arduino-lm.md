@@ -185,8 +185,10 @@ The Arduino language is merely a set of **C/C++** functions that can be called f
 *fig 11. - Arduino IDE*
 
 The Arduino IDE provides a software interface with your Arduino where you can program and upload your code. There also other applications that can interface with the Arduino.
+
+## Extendin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjI0Nzg0NSw2OTY0MzA1NTcsNTcyMD
+eyJoaXN0b3J5IjpbMTU1ODkyODI0NCw2OTY0MzA1NTcsNTcyMD
 Y2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3Mywx
 NzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OTQ2Mj
 AsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4LDEw
