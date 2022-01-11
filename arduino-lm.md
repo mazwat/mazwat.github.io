@@ -128,12 +128,14 @@ The Arduino can only process electronic signals. This means that stimuli from th
 -   14 Digital IO pins (0-14)
 -   6 Analogue in pins(0-5)
 -   6 Analogue out pins(3,5,6,9,10, and 11) ~
+
+![Pins on an Arduino Board](images/sensors-actuators.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nz
-k0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUwNDksMTA3NjE0NDIw
-OCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMTcyNDEwNjkyMSwtMT
-YzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQwODcxNzcyLC0yMjA2
-OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUwND
-csMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMDY3
-ODg4MzE4XX0=
+eyJoaXN0b3J5IjpbMTE3MDQ1OTk3Myw1Mzg5NjQ2OTEsNjA3MT
+g2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0
+OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNz
+I0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4
+NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5OD
+csLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2
+MDIyNjIyXX0=
 -->
