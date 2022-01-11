@@ -167,8 +167,13 @@ You may want to control heavy duty electrical items like industrial motors or AC
 
 ![Using Large Loads with Arduino using a Transistor](images/large-loads.png)
 *fig 10. - Using Large Loads with Arduino using a Transistor*
+
+## Communicating with Arduino
+
+### Serial Comms
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mzk3MjE4NCw1NzIwNjY0MDAsMTE3Mz
+eyJoaXN0b3J5IjpbMjA2MDI4MjIyOCw1NzIwNjY0MDAsMTE3Mz
 c3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAwLDUz
 ODk2NDY5MSw2MDcxODY1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4Mj
 M0LC0yMDczNTA1MDQ5LDEwNzYxNDQyMDgsMTAxNzcxODY3MSwx
