@@ -79,14 +79,13 @@ Arduino is often thought of as the preserve of hobbyists and creative makers, bu
 | The **ArduSat** satellites are powered by the Arduino Uno. It  follows cube satellite (CubeSat) standards to build  compact 10 cm cubes that can easily be sent to orbit. The company has "the goal to democratize access to space". | This robot prototype swims underwater and is propelled by fins, it was developed at the Control Systems and Robotics  Laboratory of the **Technological Educational Institute of  Crete**, in Heraklion (Greece) and it’s controlled by an  Arduino Mega. |
 
 ## Principles of Robotics
-To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics.
+To understand how you can start to apply Arduino in your practice it is useful to think of the 3 key principles of robotics and engineering this also referred to as **Process Control**:
 
 - **Sensing** - measuring an input, like a button press or change in light levels.
 - **Controlling**- adjusting an *actuator* based in response to the measurement from the *sensor*
-- **Actuating**- manipulates a dev
-1.  Actuator that manipulates and causes an action
-2.  Sensor that measures the response
-3.  Controller that adjusts the actuator in response to the measurement
+- **Actuating**- manipulates something to cause an action
+
+A common example of this is the humble toilet. 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v_kMOMYq0MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -111,10 +110,10 @@ So to create any system where we can control something we need to define sensors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDkwODkxNywxNTQwODcxNzcyLC0yMj
-A2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOTg3LC04OTQwMzUw
-NDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4NjAyMjYyMiwxMD
-Y3ODg4MzE4LDMwNTk0MzMzMywtMTc1MTkxMjA5NywyMTA0MTIz
-NjA4LDE4MDI0NTUzNTksNDc5MjM5ODI4LDE3MDk5OTg2MiwtMT
-A4MzU4MTU3OSwtMTIwNTQ2ODczN119
+eyJoaXN0b3J5IjpbMTQwOTAwOTY5LDE1NDA4NzE3NzIsLTIyMD
+Y5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5ODcsLTg5NDAzNTA0
+NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2MDIyNjIyLDEwNj
+c4ODgzMTgsMzA1OTQzMzMzLC0xNzUxOTEyMDk3LDIxMDQxMjM2
+MDgsMTgwMjQ1NTM1OSw0NzkyMzk4MjgsMTcwOTk5ODYyLC0xMD
+gzNTgxNTc5LC0xMjA1NDY4NzM3XX0=
 -->
