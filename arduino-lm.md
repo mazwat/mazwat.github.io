@@ -125,19 +125,19 @@ In the second example here are some of my friends playing *Samba de Amigo* desig
 
 The Arduino can only process electronic signals. This means that stimuli from the physical world need to be transduced  to electrical signals before they can be processed from within your code.  
 
--   14 Digital IO pins (0-14)
--   6 Analogue in pins(0-5)
--   6 Analogue out pins(3,5,6,9,10, and 11) ~
+-   14 **Digital** IO pins (0-14)
+-   6 **Analogue in** pins(0-5)
+-   6 **Analogue out** pins(3,5,6,9,10, and 11)
 
 ![Pins on an Arduino Board](images/pins.jpg)
 *fig 7. - Pins on an Arduino*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTg2MDU3MSw1Mzg5NjQ2OTEsNjA3MT
-g2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0
-OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNz
-I0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4
-NzE3NzIsLTIyMDY5NTIwNCwtMTg3NzQ5NDA0MCw3MDExNDM5OD
-csLTg5NDAzNTA0NywzNDk3NjgzMDEsLTEzMDA0OTkzODMsMzg2
-MDIyNjIyXX0=
+eyJoaXN0b3J5IjpbLTIwMjk3ODEzMDUsNTM4OTY0NjkxLDYwNz
+E4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMzgyMzQsLTIwNzM1MDUw
+NDksMTA3NjE0NDIwOCwxMDE3NzE4NjcxLDExNjk3NzA1MTcsMT
+cyNDEwNjkyMSwtMTYzNzc2OTc4OCwtMTMzNDgwMjM5NywxNTQw
+ODcxNzcyLC0yMjA2OTUyMDQsLTE4Nzc0OTQwNDAsNzAxMTQzOT
+g3LC04OTQwMzUwNDcsMzQ5NzY4MzAxLC0xMzAwNDk5MzgzLDM4
+NjAyMjYyMl19
 -->
