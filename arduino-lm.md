@@ -130,10 +130,10 @@ The Arduino can only process electronic signals. This means that stimuli from th
 -   6 Analogue out pins(3,5,6,9,10, and 11) ~
 
 ![Pins on an Arduino Board](images/pins.jpg)
-*fig 7. - Different types of sensor and actuator*
+*fig 7. - Pins on an Arduino*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODQ3ODM3MCw1Mzg5NjQ2OTEsNjA3MT
+eyJoaXN0b3J5IjpbLTQ3OTg2MDU3MSw1Mzg5NjQ2OTEsNjA3MT
 g2NTMyLC00NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0
 OSwxMDc2MTQ0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNz
 I0MTA2OTIxLC0xNjM3NzY5Nzg4LC0xMzM0ODAyMzk3LDE1NDA4
