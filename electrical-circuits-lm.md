@@ -88,12 +88,16 @@ As you start to develop your own custom circuits you will become familiar with t
 ![Componets](images/components.png)
 *Fig. 7 - Some Commonly used components*
 
+Resistors - 
+
+Diodes - Conduct electricity easily in one direction, among more specific behaviors.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNT
-I5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5
-LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2OD
-A2MzAsLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbLTE2Nzc4NTM1OTQsMTYxNTM4NTExMiwyMD
+Y3NTU4NjkxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1
+MDgxLDk3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1Nz
+UzMzExOSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
 -->
