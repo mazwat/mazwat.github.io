@@ -40,7 +40,8 @@ Consider a copper wire: matter filled with countless copper atoms. A free electr
 
 In a circuit we have a flow of electrons through a closed circuit for instance a wire or another components, that is induced by an electric field (battery).
 
-
+![Water Analogy](images/flow.gif)
+*Fig 2. - Direction of flow*
 
 It is often assumed that electrons flow from the positive end of an electrical field but in fact they flow from the negative end (click). In the second example (click) we can see how a simple switch can be used to control the flow of electrons in a circuit.
 
@@ -62,7 +63,7 @@ Like water electricity needs something to drive it and it’s energy is subject 
 
 source:https://learn.sparkfun.com/tutorials/what-is-electricity/allrmar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1ND
-k5NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
-
+eyJoaXN0b3J5IjpbMTI0MzYwNDk3Myw5NzE1MjMyOSwyMjk5Mz
+c5OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0x
+MjI4OTMwOTM5XX0=
 -->
