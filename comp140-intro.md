@@ -37,6 +37,7 @@ page_nav: false
 
 # Lecture Materials
 
+#### 1 - [Electrical Circuits](../arduino-lm "Electrical Circuits Lecture Materials")
 #### 1 - [Arduino](../arduino-lm "Arduino Lecture Materials")
 #### 2 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
 #### 3 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
@@ -45,5 +46,5 @@ page_nav: false
 #### 6 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzQ5NzcyMV19
+eyJoaXN0b3J5IjpbMjAwNzA1OTYxLC04ODM0OTc3MjFdfQ==
 -->
