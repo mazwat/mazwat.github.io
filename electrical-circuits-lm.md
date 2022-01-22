@@ -62,16 +62,26 @@ Like water electricity needs something to drive it and it’s energy is subject 
 
 
 ![Water Analogy](images/water-volts.png)
-*Fig 3. - Water Analogy - Voltage, Current and Resistance*
+*Fig 4. - Water Analogy - Voltage, Current and Resistance*
 
 In this second analogy we can imagine voltage as the head of water in the system creating the pressure. meanwhile the Amps (click) are the amount of energy passing a particular point. The wider the pipe the more energy can flow at one time, but it will also lose power quicker. Resistance (click) is another method to increase the pressure but slow down the flow, this is why resistors are used to control the amount of electrons reaching a component or load. Specifically to stop that component burning out.
+
+## Learning to Read Schematics
+
+![Water Analogy](images/water-volts.png)
+*Fig 4. - Circuit *
+
+Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In future example I am replacing the light bulb with an (click) LED as this is what we will be using in our Arduino circuits.
+
+![Water Analogy](images/water-volts.png)
+*Fig 4. - Water Analogy - Voltage, Current and Resistance*
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDAxNzkxNywtMTk4NTkzNTA4MSw5Nz
-E1MjMyOSwyMjk5Mzc5OTYsLTI5MzU0OTk0LC02NTc1MzMxMTks
-ODgyNjgwNjMwLC0xMjI4OTMwOTM5XX0=
+eyJoaXN0b3J5IjpbLTUxODQ0NTkzNSwxNTU0MDE3OTE3LC0xOT
+g1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQs
+LTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
 -->
