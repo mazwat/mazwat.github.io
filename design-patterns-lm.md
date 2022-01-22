@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 6
+title: COMP140 - Lecture Materials 7
 
 # Author box
 author:
@@ -24,6 +24,6 @@ page_nav:
 
 # Design Patterns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MjU3MDU5NjksLTIwMjgxODI5NjIsLT
+IxMzA2NTk5NTVdfQ==
 -->
