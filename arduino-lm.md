@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 2 Test
+title: COMP140 - Lecture Materials 2
 
 # Author box
 author:
@@ -17,7 +17,7 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-	prev:
+    prev:
         content: Electrical Circuits
         url: '../electrical-circuits-lm'
     next:
