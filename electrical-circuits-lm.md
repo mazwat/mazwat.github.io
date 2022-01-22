@@ -71,12 +71,12 @@ In this second analogy we can imagine voltage as the head of water in the system
 ![Circuit Drawing](images/basic-circuit.png)
 *Fig. 5 - Circuit Drawing*
 
-Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In future example I am replacing the light bulb with an (click) LED as this is what we will be using in our Arduino circuits.
+Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In this example I am replacing the light bulb (as seen in the drawing) with an LED as this is what we will be using in our Arduino circuits.
 
 ![Schematic](images/schematic-1.png)
 *Fig. 6 - Schematic*
 
-Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic (click) or diagram is vital to keep track and to adapt as you develop your project.
+Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic or diagram is vital to keep track of you set-up as you develop your project.
 
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
@@ -85,19 +85,23 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 
 As you start to develop your own custom circuits you will become familiar with these common components and how to use them.
 
-![Componets](images/components.png)
+![Components](images/components.png)
 *Fig. 7 - Some Commonly used components*
 
-**Resistors** - Are used to reduce current flow, adjust signal levels, and to divide voltages
-**LED** - is a semiconductor that emits light when current flows through it.
-**Diodes** - Conduct electricity easily in one direction, among more specific behaviors.
+- **Resistors** - are used to reduce current flow, adjust signal levels, and to divide voltages
+- **LED's** - are a semiconductor that emits light when current flows through it.
+- **Diodes** - conduct electricity easily in one direction, and stops flow in the other direction.
+- **Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
+- **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
+- **Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODM5NjkxNCwxNjE1Mzg1MTEyLDIwNj
-c1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5ODU5MzUw
-ODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwtNjU3NT
-MzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxND
+E5NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4
+NjkxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLD
+k3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzEx
+OSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
 -->
