@@ -85,8 +85,11 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5OD
-U5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwt
-NjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1ND
+AxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYs
+LTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMjI4OT
+MwOTM5XX0=
 -->
