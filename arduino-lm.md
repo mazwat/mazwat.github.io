@@ -17,7 +17,7 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-prev:
+	prev:
         content: Electrical Circuits
         url: '../electrical-circuits-lm'
     next:
@@ -214,11 +214,11 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDk0MDU4NiwtMjEwNDU0NjQ0NiwxND
-U0MjY1OTUsLTE0MTM4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQw
-MCwxMTczNzcyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2Mz
-Q5MDAsNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEw
-MjAwMzgyMzQsLTIwNzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3Nz
-E4NjcxLDExNjk3NzA1MTcsMTcyNDEwNjkyMSwtMTYzNzc2OTc4
-OF19
+eyJoaXN0b3J5IjpbLTYzNTM5MzI2MiwxOTgwOTQwNTg2LC0yMT
+A0NTQ2NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1
+NTcsNTcyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxOD
+k5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00
+NzY3OTQ2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MT
+Q0MjA4LDEwMTc3MTg2NzEsMTE2OTc3MDUxNywxNzI0MTA2OTIx
+XX0=
 -->
