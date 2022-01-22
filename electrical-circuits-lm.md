@@ -68,20 +68,20 @@ In this second analogy we can imagine voltage as the head of water in the system
 
 ## Learning to Read Schematics
 
-![Water Analogy](images/water-volts.png)
-*Fig 4. - Circuit *
+![Water Analogy](images/basic-circuit.png)
+*Fig 4. - Circuit Drawing*
 
 Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In future example I am replacing the light bulb with an (click) LED as this is what we will be using in our Arduino circuits.
 
-![Water Analogy](images/water-volts.png)
-*Fig 4. - Water Analogy - Voltage, Current and Resistance*
+![Water Analogy](images/schematic-1.png)
+*Fig 4. - Schematic*
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODQ0NTkzNSwxNTU0MDE3OTE3LC0xOT
-g1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQs
-LTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbMjc3OTI3NzczLDE1NTQwMTc5MTcsLTE5OD
+U5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwt
+NjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
 -->
