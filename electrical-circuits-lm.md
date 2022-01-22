@@ -91,7 +91,7 @@ As you start to develop your own custom circuits you will become familiar with t
 - **Diodes** - conduct electricity easily in one direction, and stops flow in the other direction.
 - **Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
 - **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
-- **Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
+- **Jumper Leads** -  are easy pluggable cables that act as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
 ###  The rules of Schematics
 
@@ -103,13 +103,16 @@ As you start to develop your own custom circuits you will become familiar with t
 -   Nets: Inferred connection based on symbol or name
 
 
+voltage(v) = current(I) * resistance(R)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI1NTAzMjEsLTU3MjI0NTkxMywtNz
-U5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5
-NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LD
-E1NTQwMTc5MTcsLTE5ODU5MzUwODEsOTcxNTIzMjksMjI5OTM3
-OTk2LC0yOTM1NDk5NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMT
-IyODkzMDkzOV19
+eyJoaXN0b3J5IjpbNTU2MzU3Njk5LC01NzIyNDU5MTMsLTc1OT
+Y4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5
+MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNT
+U0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5
+NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMj
+g5MzA5MzldfQ==
 -->
