@@ -25,12 +25,12 @@ page_nav:
         url: '../oop-lm'
 ---
 
-# Arduino TEST
+# Arduino
 
 The following materials are derived from the *Arduino lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
-In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow. TEST
+In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
 ## Introduction to the Arduino UNO  
 The Arduino UNO is a single board microcontroller designed to be used as a controller for robotics and electronics projects.
@@ -214,11 +214,11 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI1NTM3MCwxNTIyMjI0MTA2LDE4MT
-M2MzA1MTQsMTk4MDk0MDU4NiwtMjEwNDU0NjQ0NiwxNDU0MjY1
-OTUsLTE0MTM4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMT
-czNzcyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDAs
-NTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEwMjAwMz
-gyMzQsLTIwNzM1MDUwNDksMTA3NjE0NDIwOCwxMDE3NzE4Njcx
+eyJoaXN0b3J5IjpbLTU0MzczNDc1OCwyMTIzMjU1MzcwLDE1Mj
+IyMjQxMDYsMTgxMzYzMDUxNCwxOTgwOTQwNTg2LC0yMTA0NTQ2
+NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1NTcsNT
+cyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3
+MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OT
+Q2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4
 XX0=
 -->
