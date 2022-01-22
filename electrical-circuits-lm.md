@@ -33,7 +33,8 @@ In this lecture we will look at Electrical Circuits and the basics of making  in
 
 Consider a copper wire: matter filled with countless copper atoms. A free electron is floating in a space between atoms, it's pulled and prodded by surrounding charges in that space. In this chaos the free electron eventually finds a new atom to latch on to; in doing so, the negative charge of that electron ejects another electron from the atom. Now a new electron is drifting through free space looking to do the same thing. This chain effect can continue on and on to create a flow of electrons called electric current.
 
-![Animation of eletrons flowing](images/current-animation .jpg)
+![Animation of electrons flowing](images/current-animation,gif)
+*Fig 1. - Animation showing the flow of electrons*
 
 In a circuit we have a flow of electrons through a closed circuit for instance a wire or another components, that is induced by an electric field (battery).
 
@@ -47,6 +48,6 @@ It is often assumed that electrons flow from the positive end of an electrical f
 -   **Current (I)** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
 -   **Resistance (R)** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms(Ω).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODk0MzMwLDg4MjY4MDYzMCwtMTIyOD
-kzMDkzOV19
+eyJoaXN0b3J5IjpbLTExODA1MTkyOTYsODgyNjgwNjMwLC0xMj
+I4OTMwOTM5XX0=
 -->
