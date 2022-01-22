@@ -93,15 +93,15 @@ As you start to develop your own custom circuits you will become familiar with t
 **Diodes** - Conduct electricity easily in one direction, among more specific behaviors.
 **Swtiches** - 
 **Transistors** -
-**Jumper Leads** - 
+**Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzNjk2MywxNDE5NzY3MzcyLC0yMz
-gzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0
-NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOT
-kzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAs
-LTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbLTEwNjYxNzc0MTAsMTQxOTc2NzM3MiwtMj
+M4Mzk2OTE0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4
+NDcsMTU1NDAxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMj
+k5Mzc5OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMw
+LC0xMjI4OTMwOTM5XX0=
 -->
