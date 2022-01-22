@@ -17,6 +17,9 @@ micro_nav: true
 
 # Page navigation
 page_nav:
+prev:
+        content: Electrical Circuits
+        url: '../electrical-circuits-lm'
     next:
         content: OOP
         url: '../oop-lm'
@@ -211,7 +214,7 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTk0NzUwNywtMjEwNDU0NjQ0NiwxND
+eyJoaXN0b3J5IjpbMTk4MDk0MDU4NiwtMjEwNDU0NjQ0NiwxND
 U0MjY1OTUsLTE0MTM4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQw
 MCwxMTczNzcyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2Mz
 Q5MDAsNTM4OTY0NjkxLDYwNzE4NjUzMiwtNDc2Nzk0NjIwLDEw
