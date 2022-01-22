@@ -62,7 +62,7 @@ Like water electricity needs something to drive it and it’s energy is subject 
 
 
 ![Water Analogy](images/elec-flow.png)
-*Fig 3. - Water Analogy*
+*Fig 3. - Water Analogy - Current and Resistance*
 
 In this second analogy we can imagine voltage as the head of water in the system creating the pressure. meanwhile the Amps (click) are the amount of energy passing a particular point. The wider the pipe the more energy can flow at one time, but it will also lose power quicker. Resistance (click) is another method to increase the pressure but slow down the flow, this is why resistors are used to control the amount of electrons reaching a component or load. Specifically to stop that component burning out.
 
@@ -71,7 +71,7 @@ In this second analogy we can imagine voltage as the head of water in the system
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg5NTU4ODksOTcxNTIzMjksMjI5OT
-M3OTk2LC0yOTM1NDk5NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwt
-MTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbMTY5NjE2MzA4Nyw5NzE1MjMyOSwyMjk5Mz
+c5OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0x
+MjI4OTMwOTM5XX0=
 -->
