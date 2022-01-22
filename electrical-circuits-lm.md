@@ -90,18 +90,18 @@ As you start to develop your own custom circuits you will become familiar with t
 
 - **Resistors** - are used to reduce current flow, adjust signal levels, and to divide voltages
 - **LED's** - are a semiconductor that emits light when current flows through it.
-**Diodes** - conduct electricity easily in one direction, and stops flow in the other direction.
-**Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
-**Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
-**Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
+- **Diodes** - conduct electricity easily in one direction, and stops flow in the other direction.
+- **Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
+- **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
+- **Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU3MTA2MiwxNDE5NzY3MzcyLC0yMz
-gzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0
-NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOT
-kzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAs
-LTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMj
+M4Mzk2OTE0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4
+NDcsMTU1NDAxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMj
+k5Mzc5OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMw
+LC0xMjI4OTMwOTM5XX0=
 -->
