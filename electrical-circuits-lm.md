@@ -76,6 +76,10 @@ Here you can see the simple diagram from earlier being interpreted into a schema
 ![Schematic](images/schematic-1.png)
 *Fig. 6 - Schematic*
 
+|   | Fig. 5 - Circuit Drawing |
+|--|--|
+|![ArduSat](images/ardusat.png)|![OceanBot](images/oceanbot.jpg)|
+
 Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic or diagram is vital to keep track of you set-up as you develop your project.
 
 ![Messy Bread Board](images/messy-board.png)
@@ -99,9 +103,9 @@ As you start to develop your own custom circuits you will become familiar with t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxND
-E5NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4
-NjkxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLD
-k3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzEx
-OSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbNTE2OTAyNjY0LC03NTk2ODc4OTksLTExND
+k4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2MTUzODUx
+MTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1NDAxNzkxNywtMT
+k4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYsLTI5MzU0OTk0
+LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMjI4OTMwOTM5XX0=
 -->
