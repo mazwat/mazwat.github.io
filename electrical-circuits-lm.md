@@ -24,10 +24,10 @@ page_nav:
 
 # Electrical Circuits
 
-The following materials are derived from the *Arduino lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
+The following materials are derived from the *Electrical Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
-In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
+In this lecture we will look at Electrical Circuits and the ba in subsequent lectures we will explore the other elements of the workflow.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbMjA3MTUwMDcyLC0xMjI4OTMwOTM5XX0=
 -->
