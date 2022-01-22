@@ -68,13 +68,7 @@ In this second analogy we can imagine voltage as the head of water in the system
 
 ## Learning to Read Schematics
 
-![Circuit Drawing](images/basic-circuit.png)
-*Fig. 5 - Circuit Drawing*
-
 Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In this example I am replacing the light bulb (as seen in the drawing) with an LED as this is what we will be using in our Arduino circuits.
-
-![Schematic](images/schematic-1.png)
-*Fig. 6 - Schematic*
 
 | Fig. 5 - Circuit Drawing  | Fig. 6 - Schematic |
 |--|--|
@@ -103,9 +97,10 @@ As you start to develop your own custom circuits you will become familiar with t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjI0NTkxMywtNzU5Njg3ODk5LC0xMT
-Q5ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5NjkxNCwxNjE1Mzg1
-MTEyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLT
-E5ODU5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5
-NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbNTgyMDk3NjI3LC01NzIyNDU5MTMsLTc1OT
+Y4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5
+MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNT
+U0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5
+NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMj
+g5MzA5MzldfQ==
 -->
