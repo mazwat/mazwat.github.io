@@ -91,14 +91,17 @@ As you start to develop your own custom circuits you will become familiar with t
 **Resistors** - Are used to reduce current flow, adjust signal levels, and to divide voltages
 **LED** - is a semiconductor that emits light when current flows through it.
 **Diodes** - Conduct electricity easily in one direction, among more specific behaviors.
+**Swtiches** - 
+**Transistors** -
+**Jumper Leads** - 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2MT
-UzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1NDAxNzkx
-NywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYsLTI5Mz
-U0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMjI4OTMwOTM5
-XX0=
+eyJoaXN0b3J5IjpbLTE5MjkzNjk2MywxNDE5NzY3MzcyLC0yMz
+gzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0
+NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOT
+kzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAs
+LTEyMjg5MzA5MzldfQ==
 -->
