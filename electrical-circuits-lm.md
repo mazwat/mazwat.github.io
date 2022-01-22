@@ -81,7 +81,7 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 
 ## Common Components
 
-As you start to develop your own custom circuits you will become familiar with these common components and how to use them. Each component has a corresponding s
+As you start to develop your own custom circuits you will become familiar with these common components and how to use them. Each component has a corresponding symbol on a schematic.
 
 ![Components](images/components.png)
 *Fig. 7 - Some Commonly used components*
@@ -92,6 +92,8 @@ As you start to develop your own custom circuits you will become familiar with t
 - **Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
 - **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
 - **Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
+
+###  The rules of Schematics
 
 -   Positive voltages are uppermost
 -   Things happen left to right
@@ -104,10 +106,10 @@ As you start to develop your own custom circuits you will become familiar with t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDc2MjQ1NSwtNTcyMjQ1OTEzLC03NT
-k2ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2
-OTE0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMT
-U1NDAxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5
-OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMj
-I4OTMwOTM5XX0=
+eyJoaXN0b3J5IjpbLTIwMDI1NTAzMjEsLTU3MjI0NTkxMywtNz
+U5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5
+NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LD
+E1NTQwMTc5MTcsLTE5ODU5MzUwODEsOTcxNTIzMjksMjI5OTM3
+OTk2LC0yOTM1NDk5NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMT
+IyODkzMDkzOV19
 -->
