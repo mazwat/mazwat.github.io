@@ -33,7 +33,7 @@ The following materials are derived from the *Arduino lecture*. The video lectur
 In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
 ## Introduction to the Arduino UNO  
-The Arduino UNO is a single board microcontroller designed to be used a controller for robotics and electronics projects.
+The Arduino UNO is a single board microcontroller designed to be used as a controller for robotics and electronics projects.
 
 ### The Board
 
@@ -214,7 +214,7 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTM5MzI2MiwxOTgwOTQwNTg2LC0yMT
+eyJoaXN0b3J5IjpbMTgxMzYzMDUxNCwxOTgwOTQwNTg2LC0yMT
 A0NTQ2NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1
 NTcsNTcyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxOD
 k5MDc3MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00
