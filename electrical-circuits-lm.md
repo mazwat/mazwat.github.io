@@ -27,7 +27,7 @@ page_nav:
 The following materials are derived from the *Electrical Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
-In this lecture we will look at Electrical Circuits and the ba in subsequent lectures we will explore the other elements of the workflow.
+In this lecture we will look at Electrical Circuits and the basics of making  in subsequent lectures we will explore the other elements of the workflow.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTUwMDcyLC0xMjI4OTMwOTM5XX0=
+eyJoaXN0b3J5IjpbLTI3NDgyODMxMiwtMTIyODkzMDkzOV19
 -->
