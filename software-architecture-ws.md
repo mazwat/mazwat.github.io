@@ -18,10 +18,10 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Previous page
+        content: OOP
         url: '../oop-ws'
     next:
-        content: Next page
+        content: UML
         url: '../uml-ws'
 ---
 
@@ -29,8 +29,8 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-## PART 1 - Research
-### Exercise 1 - SOLID Principles
+## Exercise 1 - Research
+### SOLID Principles
 
 ![Poster Example](images/poster.png)
 
@@ -47,8 +47,8 @@ In your designated space on a **Mural board** (Get the link in the Workshop) cre
  Be creative, articulate your understanding of the concept and be prepared to share your understanding with the group in a review mid session.
 
 
-## PART 2 - Applying Solid Principles
-### Exercise 1 - Design A Basic Mario Platformer
+## EXERCISE 2 - Applying Solid Principles
+### Design A Basic Mario Platformer
 
 Based on your insight into SOLID with specific reference to: **Single Responsibility Principle, Open Closed Principle** and **Liskov Substitution principle** work in teams of 4-5 to design and develop a platformer based on the following image
 
@@ -64,13 +64,12 @@ You are not designing Mario, but you are using it as a template.
 5. Your game should employ the class structure and hierarchy from your document.
 6. Please use the following assets in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
 
-## VIDEO LECTURE
-
-It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch it during the week.
-{: .callout .callout--warning}
-
-### Lecture - Software Architecture
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkwMzkyNjg0NSwxMDIzMzU4ODk3LDk1Mj
+k4OTY3OF19
+-->

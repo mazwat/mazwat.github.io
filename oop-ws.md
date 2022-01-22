@@ -18,7 +18,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: Next page
+        content: Software Architecture
         url: '../software-architecture-ws'
 ---
 
@@ -26,8 +26,8 @@ page_nav:
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
-## PART 1 - OOP in **Visual Studio**
-### Exercise 1 - Dogs Out
+## EXERCISE 1 - OOP in **Visual Studio**
+### 1. Who Let the Dogs Out?
 
 ![Add Console App](images/create-console.png)
 
@@ -62,7 +62,7 @@ The Wolf bares its teeth!
 ```
 and so on…
 
-### Exercise 2 - Smoothies
+### 2. Making Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
 
@@ -102,8 +102,8 @@ The price list:
 
 The **output** should be 3 sample smoothie combinations and their price.
 
-## PART 2 - OOP in **Unity**
-### Exercise 3 - Animal Kingdom
+## EXERCISE 3 - OOP in **Unity**
+### Animal Kingdom
 
 Based on the Tavern example given create your own auto generated game scene. This time you are going to be making ‘Animal Kingdom’ a generic rip off of ‘Animal Crossing’. You are going to create a village populated by 10 random animals with their own behaviours.
 
@@ -121,14 +121,8 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 6. The scene should be initiated by the ``Village class``. 
 7. Your prototype game system should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
 
-## VIDEO LECTURE
-
-It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
+It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The videos and workshop materials are available [here](oop-lm)
 {: .callout .callout--warning}
-
-### Lecture - OOP Part 1
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
-### Lecture - OOP Part 2
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/133b71d2-d972-44eb-b841-0d77473af393?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNjA3Nzg0MTYsLTIxMTQyMTg3MF19
+-->

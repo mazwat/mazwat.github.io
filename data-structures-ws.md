@@ -18,14 +18,44 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Previous page
+        content: UML
         url: '../uml-ws'
     next:
-        content: Next page
+        content: Design Patterns
         url: '../design-patterns-ws'
 ---
 
 # Data Structures
+
+## EXERCISE 1
+### Collections
+1. Fork the following **[repo](https://gamesgit.falmouth.ac.uk/projects/COMP140-WORKSHOPS/repos/data-structures)**
+2. Open CollectionsExercise in Unity
+3. Add at least 20 additional items to the collection
+4. Display these to the screen
+
+![Start point for Exercise 2](images/net.jpg)
+*Screenshot of Collections Exercise - Start Point*
+
+## EXERCISE 2
+### Sorting
+1. Write a default sort, so that the items are sorted by **name**
+2. Sort the collection when the s key is pressed
+3. Write another sort, to sort by **score**, trigger this with a key press
+4. Write another sort, to sort by **age**, trigger this with a different key press
+
+## Tasks for the rest of the week
+Consider your individual project and implement a data structure class in your code that processes
+a feature of your game/experience. 
+
+For example, you could use them to process:
+- enemies
+- score
+- bullets
+- resource management
+
+Please use at least one of these: **Lists, LinkedList, Stack, Queue** or **Dictionary**
+Please bring your code to discuss with your programming tutor in your seminar group.
 
 ## VIDEO LECTURE
 
@@ -38,3 +68,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 ### Lecture - Data Structures Part 2
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3MzU5NTE1M119
+-->

@@ -30,10 +30,22 @@ page_nav: false
 #### 4 - [Data Structures](../data-ws "Data Structures") 
 #### 5 - [Design Patterns](../patterns-ws "Design Patterns")  
 
-
-
 # Research Challenges
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal](../project-research "Project Proposal")
+
+# Lecture Materials
+
+#### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
+#### 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
+#### 3 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
+#### 4 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
+#### 5 - [Unified Markup Language](../uml-lm "UML Lecture Materials")
+#### 6 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
+#### 7 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkxMjI3NDA0NiwtNjk1NzE4ODM5LC04OD
+M0OTc3MjFdfQ==
+-->
