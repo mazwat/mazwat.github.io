@@ -33,7 +33,10 @@ In this lecture we will look at Electrical Circuits and the basics of making  in
 
 Consider a copper wire: matter filled with countless copper atoms. A free electron is floating in a space between atoms, it's pulled and prodded by surrounding charges in that space. In this chaos the free electron eventually finds a new atom to latch on to; in doing so, the negative charge of that electron ejects another electron from the atom. Now a new electron is drifting through free space looking to do the same thing. This chain effect can continue on and on to create a flow of electrons called electric current.
 
+![Animation of eletrons flowing](images/current-animation .jpg)
+
 In a circuit we have a flow of electrons through a closed circuit for instance a wire or another components, that is induced by an electric field (battery).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjgwNjMwLC0xMjI4OTMwOTM5XX0=
+eyJoaXN0b3J5IjpbLTY1MTExMjM1Myw4ODI2ODA2MzAsLTEyMj
+g5MzA5MzldfQ==
 -->
