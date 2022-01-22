@@ -81,12 +81,23 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
 
+## Common Components
+
+As you start to develop your own custom circuits you will become familiar with these common components and how to use them.
+
+![Componets](images/components.png)
+*Fig. 7 - Some Commonly used components*
+
+**Resistors** - Are used to reduce current flow, adjust signal levels, and to divide voltages
+**LED** - is a semiconductor that emits light when current flows through it.
+**Diodes** - Conduct electricity easily in one direction, among more specific behaviors.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5OD
-U5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwt
-NjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbLTIzODM5NjkxNCwxNjE1Mzg1MTEyLDIwNj
+c1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5ODU5MzUw
+ODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwtNjU3NT
+MzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
 -->
