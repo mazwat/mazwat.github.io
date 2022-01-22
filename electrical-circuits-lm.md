@@ -89,15 +89,15 @@ As you start to develop your own custom circuits you will become familiar with t
 *Fig. 7 - Some Commonly used components*
 
 Resistors - 
-
+LED - is a semiconductor that emits light when current flows through it.
 Diodes - Conduct electricity easily in one direction, among more specific behaviors.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc4NTM1OTQsMTYxNTM4NTExMiwyMD
-Y3NTU4NjkxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1
-MDgxLDk3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1Nz
-UzMzExOSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbMTc4NzgwMjEzNSwxNjE1Mzg1MTEyLDIwNj
+c1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5ODU5MzUw
+ODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwtNjU3NT
+MzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
 -->
