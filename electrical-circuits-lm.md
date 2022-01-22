@@ -81,15 +81,19 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
 
+## Common Components
 
+As you start to develop your own custom circuits you will become familiar with these common components and how to use them.
 
+![Componets](images/components.png)
+*Fig. 7 - Some Commonly used components*
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1ND
-AxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYs
-LTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMjI4OT
-MwOTM5XX0=
+eyJoaXN0b3J5IjpbMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNT
+I5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5
+LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2OD
+A2MzAsLTEyMjg5MzA5MzldfQ==
 -->
