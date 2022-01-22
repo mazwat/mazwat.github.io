@@ -105,16 +105,16 @@ As you start to develop your own custom circuits you will become familiar with t
 
 voltage(v) = current(I) * resistance(R)
 
-$voltage(v) = current(I)*\quad\forall n\in\mathbb N$ is via the Euler integral
+$voltage(v) = current(I)*resistance(R)$ 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjE0MTczMCwtNTcyMjQ1OTEzLC03NT
-k2ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2
-OTE0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMT
-U1NDAxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5
-OTYsLTI5MzU0OTk0LC02NTc1MzMxMTksODgyNjgwNjMwLC0xMj
-I4OTMwOTM5XX0=
+eyJoaXN0b3J5IjpbLTEzNTcwMjY5ODYsLTU3MjI0NTkxMywtNz
+U5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5
+NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LD
+E1NTQwMTc5MTcsLTE5ODU5MzUwODEsOTcxNTIzMjksMjI5OTM3
+OTk2LC0yOTM1NDk5NCwtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMT
+IyODkzMDkzOV19
 -->
