@@ -68,12 +68,17 @@ In this second analogy we can imagine voltage as the head of water in the system
 
 ## Learning to Read Schematics
 
-![Water Analogy](images/basic-circuit.png)
+![Circuit Drawing](images/basic-circuit.png)
 *Fig 4. - Circuit Drawing*
 
 Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In future example I am replacing the light bulb with an (click) LED as this is what we will be using in our Arduino circuits.
 
-![Water Analogy](images/schematic-1.png)
+![Schematic](images/schematic-1.png)
+*Fig 4. - Schematic*
+
+Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic (click) or diagram is vital to keep track and to adapt as you develop your project.
+
+![Messy ](images/schematic-1.png)
 *Fig 4. - Schematic*
 
 
@@ -81,7 +86,7 @@ Here you can see the simple diagram from earlier being interpreted into a schema
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3OTI3NzczLDE1NTQwMTc5MTcsLTE5OD
+eyJoaXN0b3J5IjpbNDA0MTQxOTcwLDE1NTQwMTc5MTcsLTE5OD
 U5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NCwt
 NjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
 -->
