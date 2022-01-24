@@ -177,8 +177,8 @@ It is possible to wire components in either series , which is where each compone
 
 In this example of series, when calculating the collective resistance of multiple resistors we simply add all the resistors together to get the resistance total. 10+10+6+100 equals 4.8 kilo ohms
 
-$$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$
-$$Resistance Total = 10 + 10 + 6 + 100$$
+$$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$\
+$$Resistance Total = 10 + 10 + 6 + 100$$\
 $$ANSWER = 126\Omega(Ohms)$$
 
 ### Example 1 - Parallel
@@ -193,18 +193,18 @@ $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac 
 
 In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
 
-$$R1 = 10\Omega$$
-$$R2 = 10\Omega$$
-$$R3 = 6\Omega$$
+$$R1 = 10\Omega$$\
+$$R2 = 10\Omega$$\
+$$R3 = 6\Omega$$\
 $$R4 = 100\Omega$$
 
-$$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$
-$$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$
-$$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$
-$$R = 2.65
+$$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$\
+$$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$\
+$$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$\
+$$R = 2.65\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTk3NzgwMCwtNTkzNzE5NjU0LDE2OD
+eyJoaXN0b3J5IjpbMTA1ODc3MTY3MSwtNTkzNzE5NjU0LDE2OD
 ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
 OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
 AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
