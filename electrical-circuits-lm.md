@@ -218,9 +218,9 @@ $$I = \frac{V}{{{R}}}$$\
 $$P = I*V$$ or more simply
 $$P = IV$$ 
 
-$$I = 12/3 = 4$$
+$$I = \frac{12}{3}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDk1MDIyMywxMTU1NjU3OTk3LDE0OD
+eyJoaXN0b3J5IjpbLTkyMTkxMzAwMSwxMTU1NjU3OTk3LDE0OD
 Q2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2
 NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC
 0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0y
