@@ -133,12 +133,9 @@ The wonderful thing about Ohms law is if you have **2 values in the circuit you 
 
 In this case  we have the current, **0.24 amps** (**I**) and the resistance, **150 ohms** (**Ω**) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer **36 volts**.
 
-$$V = IR$$
-
-$$? = 0.24*150 $$
-
-$$V = 0.24 * 150$$
-
+$$V = IR$$\
+$$? = 0.24*150 $$\
+$$V = 0.24 * 150$$\
 $$ANSWER = 36 V (Volts)$$
 
 ### Ohms Law - Example 2
@@ -147,12 +144,9 @@ $$ANSWER = 36 V (Volts)$$
 
 In this case we have the current, 0.3 amps and the voltage, 3 volts even though we don’t know the resistance. To work out the resistance we divide the amps by the volts and we get the answer 10 ohms.
 
-$$V = IR$$
-
-$$0.3 = 3 * ? $$
-
-$$R =\frac {3} {0.3}$$
-
+$$V = IR$$\
+$$0.3 = 3 * ? $$\
+$$R =\frac {3} {0.3}$$\
 $$ANSWER = 10\Omega (Ohms)$$
 
 ### Ohms Triangle
@@ -187,19 +181,38 @@ $$ANSWER = 126\Omega(Ohms)$$
 
 *Fig. 10 - Example 1 - Resistors in parallel*
 
-Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor value as a fraction. The numerator is always one and the denominator is the value of the resistors.
+Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor values as a fraction. The numerator is always one and the denominator is the value of the resistors.
 
 $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
 
-In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
+In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The total is the then 1 divided by 0.376 (the sum of the fractions) which means the total resistance is 2.65 ohms.
 
+$$R1 = 10\Omega$$\
+$$R2 = 10\Omega$$\
+$$R3 = 6\Omega$$\
+$$R4 = 100\Omega$$
 
+$$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$\
+$$\frac {1} {R}=\frac {1}{0.376}$$\
+$$R_{T} = 2.65\Omega$$
+
+## Power Dissipation (Watts)
+
+Similar to current, Power is a measure of change over time. Instead of charge, power is the amount of energy converted into heat over time.
+
+$$P= I*R$$\
+$$P= V^2/R$$
+
+-   When the flow of current is resisted, heat is generated
+-   Calculated by measuring the voltage across a load times the current flowing through it
+
+### Example 1 - Power Dissipation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMj
-AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
-MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
-QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
-NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MD
-cwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1
-MjQ3MjM2NV19
+eyJoaXN0b3J5IjpbMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OT
+M3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0
+NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MC
+wtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3
+Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MT
+Y4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIy
+MzMxOTgxOF19
 -->
