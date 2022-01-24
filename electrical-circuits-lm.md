@@ -137,9 +137,9 @@ $$V = IR$$
 
 $$? = 0.24*150 $$
 
-$$ V = 0.24 * 150$$
+$$V = 0.24 * 150$$
 
-$$ ANSWER = 36 V (Volts)$$
+$$ANSWER = 36 V (Volts)$$
 
 ### Ohms Law - Example 2
 
@@ -151,9 +151,9 @@ $$V = IR$$
 
 $$0.3 = 3 * ? $$
 
-$$ R =\frac {3} {0.3}$$
+$$R =\frac {3} {0.3}$$
 
-$$ ANSWER = 10\Omega (Ohms)$$
+$$ANSWER = 10\Omega (Ohms)$$
 
 ### Ohms Triangle
 
@@ -169,11 +169,11 @@ The simplest way to apply Ohms low is to look at it as a triangle. We can use a 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MzQ2NDU3LDIwMjkzOTUyMTgsLTE3MD
-QzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEy
-MzAzNjYsNzM3OTIzOTk1LDI3NDQ1MjQ1OSwtMTc1OTM4NDgwLD
-MxMzA0OTE2OCwxOTgxMzM4NDg2LDIwODM5NTgwNzAsNjYxNTk4
-NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LD
-gzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgwODg3NiwtMTM1
-NzAyNjk4Nl19
+eyJoaXN0b3J5IjpbLTg4NDAxNTQzMSwyMDI5Mzk1MjE4LC0xNz
+A0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0yMDAx
+MjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3NTkzODQ4MC
+wzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2MTU5
+ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NS
+w4Mzc2MDUwNDksLTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLTEz
+NTcwMjY5ODZdfQ==
 -->
