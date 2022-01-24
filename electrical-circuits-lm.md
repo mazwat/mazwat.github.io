@@ -131,9 +131,8 @@ katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
 
 ### Ohms Law - Example 1
 
-The wonderful thing about Ohms law is if you have 2 values in the circuit you can work out the missing one.
-In this case  we have the current, .24 amps ($I$) and the resistance, 150 ohms ($\Omega$) even though we don’t know the voltage.
-Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
+The wonderful thing about Ohms law is if you have **2 values in the circuit you can work out the missing one**.
+In this case  we have the current, .24 amps ($I$) and the resistance, 150 ohms ($\Omega$) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
 
 
 
@@ -141,7 +140,7 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDgwMDIyLDE5ODEzMzg0ODYsMjA4Mz
+eyJoaXN0b3J5IjpbMjkxODA2NzcwLDE5ODEzMzg0ODYsMjA4Mz
 k1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDks
 LTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOT
 MyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4
