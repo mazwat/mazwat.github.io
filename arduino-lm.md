@@ -30,6 +30,8 @@ page_nav:
 The following materials are derived from the *Arduino lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
+test
+
 In this lecture we will look at Arduino in subsequent lectures we will explore the other elements of the workflow.
 
 ## Introduction to the Arduino UNO  
@@ -214,7 +216,7 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="100%" height="100%" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDU5Mjc3OSwyMTIzMjU1MzcwLDE1Mj
+eyJoaXN0b3J5IjpbLTQ1NjYzNTk2NywyMTIzMjU1MzcwLDE1Mj
 IyMjQxMDYsMTgxMzYzMDUxNCwxOTgwOTQwNTg2LC0yMTA0NTQ2
 NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1NTcsNT
 cyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3
