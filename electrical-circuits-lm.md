@@ -240,8 +240,8 @@ $$Vout = \frac{V_S * R_2}{R_1 + R_2}$$
 
 $$Vout = \frac{9 * 3000}{1000 + 3000}$$
 
-9v x 3000 ohms = 27000
-1000 + 3000 = 4000
+9v x 3000 ohms = 27000\
+1000 + 3000 = 4000\
 27000 ÷ 4000 = **6.75 volts**
 
 It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law.  
@@ -261,7 +261,7 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzU3OTgxMiwtMjA5MzE4MDI2OSwtMj
+eyJoaXN0b3J5IjpbLTc2ODM3MTAzNiwtMjA5MzE4MDI2OSwtMj
 A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
 NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
 c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
