@@ -133,12 +133,9 @@ The wonderful thing about Ohms law is if you have **2 values in the circuit you 
 
 In this case  we have the current, **0.24 amps** (**I**) and the resistance, **150 ohms** (**Ω**) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer **36 volts**.
 
-$$V = IR$$
-
-$$? = 0.24*150 $$
-
-$$V = 0.24 * 150$$
-
+$$V = IR$$\
+$$? = 0.24*150 $$\
+$$V = 0.24 * 150$$\
 $$ANSWER = 36 V (Volts)$$
 
 ### Ohms Law - Example 2
@@ -147,12 +144,9 @@ $$ANSWER = 36 V (Volts)$$
 
 In this case we have the current, 0.3 amps and the voltage, 3 volts even though we don’t know the resistance. To work out the resistance we divide the amps by the volts and we get the answer 10 ohms.
 
-$$V = IR$$
-
-$$0.3 = 3 * ? $$
-
-$$R =\frac {3} {0.3}$$
-
+$$V = IR$$\
+$$0.3 = 3 * ? $$\
+$$R =\frac {3} {0.3}$$\
 $$ANSWER = 10\Omega (Ohms)$$
 
 ### Ohms Triangle
@@ -204,7 +198,7 @@ $$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$
 $$R = 2.65\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzA5NjkxOSwtNTkzNzE5NjU0LDE2OD
+eyJoaXN0b3J5IjpbMTE0OTM3NzA0NywtNTkzNzE5NjU0LDE2OD
 ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
 OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
 AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
