@@ -253,10 +253,14 @@ It involves a pair of resistors The formula for calculating the output voltage i
 
 In the example, the source voltage 9v is multiplied by the second resistor value 3 kilo ohms. Then resistor value 1 is added to resistor value 2 and finally the top value 27000 is divided by the bottom value 4000 to get 6.75 volts.
 
+## Conclusion
+
+In this lecture I have introduced the principle of 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzMxMjUyNSwtMjA5MzE4MDI2OSwtMj
+eyJoaXN0b3J5IjpbLTk3OTAzMTM5OSwtMjA5MzE4MDI2OSwtMj
 A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
 NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
 c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
