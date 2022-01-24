@@ -197,12 +197,21 @@ $$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$
 $$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$
 $$R = 2.65\Omega$$
 
+## Power Dissipation (Watts)
+
+Similar to current, Power is a measure of change over time. Instead of charge, power is the amount of energy converted into heat over time.
+
+-   When the flow of current is resisted, heat is generated
+-   Calculated by measuring the voltage across a load times the current flowing through it
+
+$P= 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTM3NzA0NywtNTkzNzE5NjU0LDE2OD
-ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
-OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
-AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
-NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4ND
-g2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQy
-NTE4NzQ5XX0=
+eyJoaXN0b3J5IjpbNTA2MzA5NDc2LC01OTM3MTk2NTQsMTY4MT
+E1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5
+NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMC
+wtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0
+NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0OD
+YsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1
+MTg3NDldfQ==
 -->
