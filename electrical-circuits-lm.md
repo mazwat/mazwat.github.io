@@ -119,7 +119,7 @@ If you want to experiment with putting schematics together you can make a start 
 
 <span class="katex">voltage(v) = current(I)*resistance(R)</span>
 
-Ohm's law  states that the current through a conductor between two points is directly proportional to the voltage across the two points. 
+**Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.”
 
 
 More stuff
@@ -128,7 +128,7 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2ODkwNjgzLDY2MTU5ODU1OCwtMjIzMz
+eyJoaXN0b3J5IjpbNzM4Mzc3NDU5LDY2MTU5ODU1OCwtMjIzMz
 E5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDks
 LTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLT
 U3MjI0NTkxMywtNzU5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3
