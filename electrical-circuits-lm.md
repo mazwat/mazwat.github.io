@@ -49,9 +49,9 @@ It is often assumed that electrons flow from the positive end of an electrical f
 
 ## The Basic Characteristics of Electricity
 
--   **Voltage (V)** - The relative level of electrical energy between any two points in a circuit. Voltage is measured in Volts(V).
--   **Current (I)** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
--   **Resistance (R)** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms(Ω).
+-   **Voltage ( V )** - The relative level of electrical energy between any two points in a circuit. Voltage is measured in Volts(V).
+-   **Current ( I )** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
+-   **Resistance ( R )** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms($\Omega$).
 
 
 ![Water Analogy](images/elec-flow.png)
@@ -132,7 +132,7 @@ katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
 ### Ohms Law - Example 1
 
 The wonderful thing about Ohms law is if you have 2 values in the circuit you can work out the missing one.
-In this case  we have the current, .24 amps ($\undergroup{AB}$) and the resistance, 150 ohms even though we don’t know the voltage.
+In this case  we have the current, .24 amps ($I$) and the resistance, 150 ohms ($\Omega$) even though we don’t know the voltage.
 Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
 
 
@@ -141,11 +141,11 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjUxNjk2OSwxOTgxMzM4NDg2LDIwOD
-M5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5
-LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMT
-kzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2
-ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OT
-E0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1
-NDAxNzkxN119
+eyJoaXN0b3J5IjpbMTQ3NDgwMDIyLDE5ODEzMzg0ODYsMjA4Mz
+k1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDks
+LTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOT
+MyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4
+Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MT
+QsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNTU0
+MDE3OTE3XX0=
 -->
