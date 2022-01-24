@@ -214,13 +214,13 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ## Video Lecture
 
 ### Lecture - Arduino 
-<iframe width="100%" height="100%" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjYzNTk2NywyMTIzMjU1MzcwLDE1Mj
-IyMjQxMDYsMTgxMzYzMDUxNCwxOTgwOTQwNTg2LC0yMTA0NTQ2
-NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1NTcsNT
-cyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3
-MywxNzYzNDkwMCw1Mzg5NjQ2OTEsNjA3MTg2NTMyLC00NzY3OT
-Q2MjAsMTAyMDAzODIzNCwtMjA3MzUwNTA0OSwxMDc2MTQ0MjA4
+eyJoaXN0b3J5IjpbLTQ3NTk4ODk2MSwtNDU2NjM1OTY3LDIxMj
+MyNTUzNzAsMTUyMjIyNDEwNiwxODEzNjMwNTE0LDE5ODA5NDA1
+ODYsLTIxMDQ1NDY0NDYsMTQ1NDI2NTk1LC0xNDEzODI5MzMzLD
+Y5NjQzMDU1Nyw1NzIwNjY0MDAsMTE3Mzc3MjE4MSw3OTU0Mjgy
+NjIsOTE4OTkwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxOD
+Y1MzIsLTQ3Njc5NDYyMCwxMDIwMDM4MjM0LC0yMDczNTA1MDQ5
 XX0=
 -->
