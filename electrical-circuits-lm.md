@@ -185,7 +185,7 @@ Working out the overall resistance in a parallel configuration is slightly more 
 
 $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
 
-In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 126 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.38 ohms
+In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 1/.0376 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.38 ohms
 
 $$R1 = 10\Omega$$\
 $$R2 = 10\Omega$$\
@@ -208,11 +208,11 @@ $$P= V^2/R$$
 
 ### Example 1 - Power Dissipation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5ODE3MjYyLDE0ODQ2ODIwOTAsLTU5Mz
-cxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0
-MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC
-0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDcz
-NzkyMzk5NSwyNzQ0NTI0NTksLTE3NTkzODQ4MCwzMTMwNDkxNj
-gsMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIz
-MzE5ODE4XX0=
+eyJoaXN0b3J5IjpbLTI1MjY3MzI5NiwxNDg0NjgyMDkwLC01OT
+M3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0
+NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MC
+wtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3
+Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MT
+Y4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIy
+MzMxOTgxOF19
 -->
