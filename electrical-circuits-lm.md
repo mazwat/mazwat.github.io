@@ -130,7 +130,7 @@ $$V = IR$$
 The wonderful thing about Ohms law is if you have **2 values in the circuit you can work out the missing one**.
 In this case  we have the current, **0.24 amps** (**I**) and the resistance, **150 ohms** (**Ω**) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer **36 volts**.
 
-$$V = IR$$
+$V = IR$
 
 **?** = 0.24 amps x 150 ohms
 V = 0.24 x 150
@@ -145,11 +145,11 @@ ANSWER = **36 V (Volts)**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3ND
-Q1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2
-LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNT
-E4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4
-MSwtMTkzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC
-03NTk2ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4
-Mzk2OTE0XX0=
+eyJoaXN0b3J5IjpbMTU3Mzc0NjM4MiwtMjAwMTIzMDM2Niw3Mz
+c5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4
+LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMz
+MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
+LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
+01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
+NzY3MzcyXX0=
 -->
