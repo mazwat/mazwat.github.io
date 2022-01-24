@@ -215,9 +215,12 @@ $$P= V^2/R$$
 In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage( V ) by the Resistance( I ) therefore the power dissipation or Watts ( P ) is **48** .
 
 $$I = \frac{V}{{{R}}}$$\
-$$P = I*R$$
+$$P = I*V$$ or more simply
+$$P = IV$$ 
+
+$$I = 12/3 = 4$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjEzNTEwNywxMTU1NjU3OTk3LDE0OD
+eyJoaXN0b3J5IjpbLTgwMDk1MDIyMywxMTU1NjU3OTk3LDE0OD
 Q2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2
 NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC
 0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0y
