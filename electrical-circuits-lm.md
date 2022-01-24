@@ -119,12 +119,12 @@ If you want to experiment with putting schematics together you can make a start 
 
 **Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.” Ohm expressed his discovery in the form of a simple equation, describing how voltage, current, and resistance interrelate:
 
-<span class="katex">voltage(v) = current(I)*resistance(R)\\ohm  
-$$\text{\AA}$$</span>
+$voltage(v) = current(I)*resistance(R)$
+$$\text{\AA}$$
 
 or
 
-<span class="katex">V = IR</span>
+$V = IR$
 
 katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
 
@@ -141,11 +141,11 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2MT
-U5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2
-NSw4Mzc2MDUwNDksLTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLT
-EzNTcwMjY5ODYsLTU3MjI0NTkxMywtNzU5Njg3ODk5LC0xMTQ5
-ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5NjkxNCwxNjE1Mzg1MT
-EyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5
-ODU5MzUwODFdfQ==
+eyJoaXN0b3J5IjpbMTI1MTk1ODAyNCwxOTgxMzM4NDg2LDIwOD
+M5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5
+LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMT
+kzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2
+ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OT
+E0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1
+NDAxNzkxN119
 -->
