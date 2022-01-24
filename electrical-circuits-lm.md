@@ -193,9 +193,8 @@ $$R3 = 6\Omega$$\
 $$R4 = 100\Omega$$
 
 $$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$\
-$$\frac {1} {R}=\frac {126}{300} = Conductance (G)$$\
-$$\frac {1} {R}=\frac {300}{126} = Resistance (R)$$\
-$$R = 2.37\Omega$$
+$$\frac {1} {R}=\frac {1}{0.376}$$\
+$$R_{T} = 2.65\Omega$$
 
 ## Power Dissipation (Watts)
 
@@ -209,11 +208,11 @@ $$P= V^2/R$$
 
 ### Example 1 - Power Dissipation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDY4MjA5MCwtNTkzNzE5NjU0LDE2OD
-ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
-OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
-AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
-NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4ND
-g2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQy
-NTE4NzQ5XX0=
+eyJoaXN0b3J5IjpbNTA5ODE3MjYyLDE0ODQ2ODIwOTAsLTU5Mz
+cxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0
+MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC
+0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDcz
+NzkyMzk5NSwyNzQ0NTI0NTksLTE3NTkzODQ4MCwzMTMwNDkxNj
+gsMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIz
+MzE5ODE4XX0=
 -->
