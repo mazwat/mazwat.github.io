@@ -21,25 +21,68 @@ page_nav: false
     
 ---
 
-# Develop your Project Proposal
+# Research Exemplar Projects
 
-Welcome to Week 2 of COMP140. This week we want you to consolidate the research from the previous week and develop your own response to the brief in Assignment 1.  What do you want to create as a custom control system? What game or experience do you want to control?  
+![Marshmallow Laser Feast](images/marshmallow.png)
+*Attribution: Marshmallow Laser Feast  - In the Eyes of the Animal*
+
+Welcome to Week 1 of COMP140. As a bookend to the weeks activities I would like you to research custom game controllers or alt controllers as they are also known, experimental games and playful interactive experiences that have been developed using physical computing and electronics. 
+
+I have provided a series of links to get you started with your research. Consider these stepping stones and from these examples you should be able to link out to even more interesting touch points to get you inspired for making your own creative electronics projects:
 
 ## Task
 
-Write a **1 page proposal** for a novel game/experience and control system:  
+Review any 3 experiences you find from these links or from your own independent research and note down the following information in a Google Doc or similar: 
 
--   Describe the game design that will form the basis for your interface
--   illustrate basic research into electronic component and physical form factors for controllers
--   analyse the design of the controller in detail
--   list the key electronic components of your controller
--   and list the key user stories*.
+- Name
+- URL
+- Screenshot
+- brief description
+- What you find interesting about it?
+- Do this before the seminar session in Week 2
 
-**By user stories we mean the features or key tasks that you can envisage taking place in your project build.*
+Keep this document, it will form the seed for your project proposal.
+{: .callout .callout--info}  
 
-  
+## Inspiration
 
-Please have a draft idea ready to share with your tutor in your seminar session.
+Here are some links to projects that might provide inspiration for your research. 
+
+### Notable Alt-Controller Games 
+
+[Deep VR](https://www.polygon.com/2015/3/2/8133675/deep-vr-meditation)  
+[Space Box](https://www.gamasutra.com/view/news/290700/ALTCTRLGDC_Showcase_Spacebox.php)  
+[Line Wobbler](http://wobblylabs.com/projects/wobble)  
+[Tie Your Laces](https://twitter.com/wethrowswitches/status/1181557419199094784)  
+[GDC Alt-Ctrl 2018 Roundup](https://www.gamasutra.com/altctrlgdc2018)  
+[Nintendo Labo](https://www.nintendo.co.uk/Nintendo-Labo/NintendoLabo-1328637.html)   
+[Xbox Adaptive Controller](https://www.microsoft.com/en-gb/p/xbox-adaptive-controller/8nsdbhz1n3d8)  
+
+### Experimental Games
+
+![Now Play This](images/nowplaythis2.jpg)
+*Attribution: Now Play This Festival 2019*
+
+[Copenhagen Games Collective](http://www.copenhagengamecollective.org/)  
+[Pain Station](https://www.fursr.com/projects/painstation-2-5)  
+[Now Play This](https://nowplaythis.net/history/)  
+[Kaho Abe](https://kahoabe.net/portfolio/)  
+
+### Previous Work from Falmouth Students
+
+[Pancake](https://youtu.be/36qeLNNPf7M)  
+[Games in a Controller](https://youtu.be/Oqrn3l64mBM)  
+[Surgery](https://youtu.be/LiTpkKHJizA)  
+[Safe](https://youtu.be/X4wB3AakSvA)  
+[Tank](https://youtu.be/AL3LrcRskig)  
+[Skateboard](https://youtu.be/Wj4EbOyUejE)  
+[Snooker](https://youtu.be/4XFZ4PMoPTE)   
+
+### Other Inspiration
+
+[Instructables](https://www.instructables.com/howto/games/)  
+[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODgyMDc5OV19
+eyJoaXN0b3J5IjpbMTAyNTgwOTA2OV19
 -->
