@@ -226,17 +226,19 @@ $$Power Dissipation = 48 Watts$$
 
 ## Voltage Dividers
 
-A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
-
 ![Voltage Divider](images/divider.png)
 *Fig. 14 - Voltage Divider Circuit n a Bread board*
 
-### Example - Voltage Divider
-
-
-
+A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
 
 $$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
+
+### Example - Voltage Divider
+
+![Voltage Divider](images/volt-divider.svg)
+*Fig. 15 - Voltage Divider Example Schematic*
+
+$$Vout = \frac{9 * R_2}{{{R_1 + R_2}}}$$
 
 9v x 3000 ohms = 27000
 1000 + 3000 = 4000
@@ -254,11 +256,11 @@ In the example, the source voltage 9v is multiplied by the second resistor value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMxODAyNjksLTIwNDc0NzY0MDIsLT
-E1NjYyODkyMjcsLTE3MDI0NDI2NjQsMTE1NTY1Nzk5NywxNDg0
-NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNj
-YsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwt
-MTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMj
-AwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0
-ODAsMzEzMDQ5MTY4XX0=
+eyJoaXN0b3J5IjpbLTEyODg1MjcwNjAsLTIwOTMxODAyNjksLT
+IwNDc0NzY0MDIsLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMTE1
+NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1Nj
+Q3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQs
+MjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMT
+EwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUy
+NDU5LC0xNzU5Mzg0ODBdfQ==
 -->
