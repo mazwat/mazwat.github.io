@@ -226,16 +226,20 @@ $$Power Dissipation = 48 Watts$$
 
 ### Voltage Dividers
 
+![Resistors in Parellel ](images/divide.png)
+
+*Fig. 12 - Example 1 - Resistors in parallel*
+
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMT
-E1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1
-NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5Nj
-QsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwt
-MTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0ND
-UyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYs
-MjA4Mzk1ODA3MF19
+eyJoaXN0b3J5IjpbLTIwNDc0NzY0MDIsLTE1NjYyODkyMjcsLT
+E3MDI0NDI2NjQsMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3
+MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0ND
+IsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwt
+MTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mz
+c5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4
+LDE5ODEzMzg0ODZdfQ==
 -->
