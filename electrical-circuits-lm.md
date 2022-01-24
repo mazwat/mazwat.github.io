@@ -185,7 +185,7 @@ Working out the overall resistance in a parallel configuration is slightly more 
 
 $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
 
-In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The total is the then 1/0.376 (the sum of the fractions) which equals 2.65 ohms.
+In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The total is the then 1 divided by 0.376 (the sum of the fractions) which means the total resistance is 2.65 ohms.
 
 $$R1 = 10\Omega$$\
 $$R2 = 10\Omega$$\
@@ -208,7 +208,7 @@ $$P= V^2/R$$
 
 ### Example 1 - Power Dissipation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njk4MzIyNywxNDg0NjgyMDkwLC01OT
+eyJoaXN0b3J5IjpbMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OT
 M3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0
 NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MC
 wtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3
