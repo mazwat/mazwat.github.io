@@ -255,12 +255,11 @@ In the example, the source voltage 9v is multiplied by the second resistor value
 
 ## Conclusion
 
-In this lecture I have introduced the principle of 
-
+In this lecture I have introduced the principle of electricity and how to create simple circuits using some basic components and using a series of formulae and equations we have demonstrated how the characteristcis of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTAzMTM5OSwtMjA5MzE4MDI2OSwtMj
+eyJoaXN0b3J5IjpbMTg3OTM5MDc1NywtMjA5MzE4MDI2OSwtMj
 A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
 NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
 c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
