@@ -66,7 +66,7 @@ Like water electricity needs something to drive it and it’s energy is subject 
 
 In this second analogy we can imagine voltage as the head of water in the system creating the pressure. meanwhile the Amps (click) are the amount of energy passing a particular point. The wider the pipe the more energy can flow at one time, but it will also lose power quicker. Resistance (click) is another method to increase the pressure but slow down the flow, this is why resistors are used to control the amount of electrons reaching a component or load. Specifically to stop that component burning out.
 
-## Learning to Read Schematics
+## Schematics
 
 Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In this example I am replacing the light bulb (as seen in the drawing) with an LED as this is what we will be using in our Arduino circuits.
 
@@ -79,7 +79,7 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
 
-## Components & Schematics
+## Components
 
 ### Component Types
 
@@ -95,7 +95,7 @@ As you start to develop your own custom circuits you will become familiar with t
 - **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
 - **Jumper Leads** -  are easy pluggable cables that act as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
-###  Schematics
+###  Using Schematics with Components
 
 Here are some rule when putting together a schematic. We will look at some basic examples in the following section.
 
@@ -129,7 +129,7 @@ or
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDg4ODYyMyw2NjE1OTg1NTgsLTIyMz
+eyJoaXN0b3J5IjpbLTY2NDk2NDI4MCw2NjE1OTg1NTgsLTIyMz
 MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
 LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
 01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
