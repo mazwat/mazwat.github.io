@@ -151,7 +151,7 @@ $$V = IR$$
 
 $$0.3 = 3 * ? $$
 
-$$ R = 0.03 * 150$$
+$$ l\frac{\sqrt x}{y^3}\right)$$
 
 $$ ANSWER = 36 V (Volts)$$
 
@@ -162,7 +162,7 @@ $$ ANSWER = 36 V (Volts)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk0MjU0MDcsLTE3NTk2MTg5MjAsLT
+eyJoaXN0b3J5IjpbLTE0NDQ3ODg2MTgsLTE3NTk2MTg5MjAsLT
 ExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1
 MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LD
 IwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4
