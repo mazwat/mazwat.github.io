@@ -51,7 +51,7 @@ It is often assumed that electrons flow from the positive end of an electrical f
 
 -   **Voltage ( V )** - The relative level of electrical energy between any two points in a circuit. Voltage is measured in Volts(V).
 -   **Current ( I )** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
--   **Resistance ( R )** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms($\Omega$).
+-   **Resistance ( R )** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms(Ω).
 
 
 ![Water Analogy](images/elec-flow.png)
@@ -262,11 +262,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzAxMjk4OCwtNzY4MzcxMDM2LC0yMD
-kzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAy
-NDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5Nj
-U0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0x
-MTc4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NT
-k2MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIz
-OTk1LDI3NDQ1MjQ1OV19
+eyJoaXN0b3J5IjpbLTE5NTIzNjQ5MzAsMTE2NzAxMjk4OCwtNz
+Y4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2
+Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4Mj
+A5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0x
+MTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MD
+QzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEy
+MzAzNjYsNzM3OTIzOTk1XX0=
 -->
