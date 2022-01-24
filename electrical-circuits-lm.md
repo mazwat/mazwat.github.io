@@ -117,22 +117,23 @@ If you want to experiment with putting schematics together you can make a start 
 
 ## Ohms Law
 
+**Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.” Ohm expressed his discovery in the form of a simple equation, describing how voltage, current, and resistance interrelate:
+
 <span class="katex">voltage(v) = current(I)*resistance(R)</span>
 
-**Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.”
+or
 
-
-More stuff
+<span class="katex">V = IR</span>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4Mzc3NDU5LDY2MTU5ODU1OCwtMjIzMz
-E5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDks
-LTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLT
-U3MjI0NTkxMywtNzU5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3
-NjczNzIsLTIzODM5NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OT
-EsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5ODU5MzUwODEsOTcx
-NTIzMjldfQ==
+eyJoaXN0b3J5IjpbLTU1MDg4ODYyMyw2NjE1OTg1NTgsLTIyMz
+MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
+LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
+01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
+NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4Nj
+kxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3
+MTUyMzI5XX0=
 -->
