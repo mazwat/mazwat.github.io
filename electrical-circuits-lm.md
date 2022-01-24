@@ -125,9 +125,6 @@ or
 
 $$V = IR$$
 
-
-
-
 ### Ohms Law - Example 1
 
 The wonderful thing about Ohms law is if you have **2 values in the circuit you can work out the missing one**.
@@ -135,9 +132,12 @@ In this case  we have the current, **0.24 amps** (**I**) and the resistance, **1
 
 $$V = IR$$
 
-V = 0.24 amps * 150 ohms
+**?** = 0.24 amps * 150 ohms
+V
 
 ANSWER = **36 V (Volts)**
+
+![Example 1](images/example1.svg)
 
 
 
@@ -145,11 +145,11 @@ ANSWER = **36 V (Volts)**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3OTIzOTk1LDI3NDQ1MjQ1OSwtMTc1OT
-M4NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LDIwODM5NTgwNzAs
-NjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5LC0xMDUyND
-cyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgwODg3
-NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2ODc4OTksLT
-ExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2MTUz
-ODUxMTJdfQ==
+eyJoaXN0b3J5IjpbLTY1MDU4MjU5OSw3Mzc5MjM5OTUsMjc0ND
+UyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYs
+MjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MT
+g3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgx
+LC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLT
+c1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgz
+OTY5MTRdfQ==
 -->
