@@ -232,30 +232,21 @@ $$Power Dissipation = 48 Watts$$
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
 
-It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law. (click)
+$$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
 
-  
+It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law.  
 
-VS is the source voltage, measured in volts (V),
+- VS is the source voltage, measured in volts (V),
+- R1 is the resistance of the 1st resistor, measured in Ohms (Ω).
+- R2 is the resistance of the 2nd resistor
+- Vout is the output voltage, measured in volts (V),
 
-R1 is the resistance of the 1st resistor, measured in Ohms (Ω).
-
-R2 is the resistance of the 2nd resistor
-
-Vout is the output voltage, measured in volts (V),
-
-  
-
-(click) In the example, the source voltage 9v is multiplied by the second resistor value 3 kilo ohms
-
-(click) Then resistor value 1 is added to resistor value 2
-
-(click) and finally the top value 27000 is divided by the bottom value 4000 to get 6.75 volts.
+In the example, the source voltage 9v is multiplied by the second resistor value 3 kilo ohms. Then resistor value 1 is added to resistor value 2 and finally the top value 27000 is divided by the bottom value 4000 to get 6.75 volts.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTA5ODUxOCwtMjA0NzQ3NjQwMiwtMT
+eyJoaXN0b3J5IjpbMTYxNzQ0NDA4MiwtMjA0NzQ3NjQwMiwtMT
 U2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1NjU3OTk3LDE0ODQ2
 ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2Ni
 wtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC0x
