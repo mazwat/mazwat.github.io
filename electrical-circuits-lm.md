@@ -224,15 +224,21 @@ $$P = 4*3$$\
 $$P = 48$$\
 $$Power Dissipation = 48 Watts$$
 
-### Voltage Dividers
-
-![Resistors in Parellel ](images/dividers.png)
-
-*Fig. 12 - Example 1 - Resistors in parallel*
+## Voltage Dividers
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
 
+### Example - Voltage Divider
+
+![Resistors in Parellel ](images/dividers.png)
+
+*Fig. 12 - Example 1 - Voltage Divider Circuit*
+
 $$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
+
+9v x 3000 ohms = 27000
+1000 + 3000 = 4000
+27000÷ 4000 = **6.75 volts**
 
 It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law.  
 
@@ -246,7 +252,7 @@ In the example, the source voltage 9v is multiplied by the second resistor value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzQ0NDA4MiwtMjA0NzQ3NjQwMiwtMT
+eyJoaXN0b3J5IjpbLTY5NjM3NDM0OCwtMjA0NzQ3NjQwMiwtMT
 U2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1NjU3OTk3LDE0ODQ2
 ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2Ni
 wtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC0x
