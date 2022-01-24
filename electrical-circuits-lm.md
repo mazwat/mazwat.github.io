@@ -238,7 +238,7 @@ $$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
 ![Voltage Divider](images/volt-divider.svg)
 *Fig. 15 - Voltage Divider Example Schematic*
 
-$$Vout = \frac{9 * 3000}{{{1000 + 3000}}}$$
+$$Vout = \frac{9 * 3000}{1000 + 3000}$$
 
 9v x 3000 ohms = 27000
 1000 + 3000 = 4000
@@ -257,15 +257,15 @@ In the example, the source voltage 9v is multiplied by the second resistor value
 
 In this lecture I have introduced the principle of electricity and how to create simple circuits using some basic components and using a series of formulae and equations we have demonstrated how the characteristics and properties of electricity can be measured in these circuits.
 
-Future lectures will address how to make these circuits but also how to use them in concert with a microcont
+Future lectures will address how to make these circuits but also how to use them in concert with a microcontroller like the Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjMxNzUxLC0yMDkzMTgwMjY5LC0yMD
-Q3NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2
-NTc5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5NjU0LDE2ODExNTY0Nz
-ksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIw
-MjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLTExMD
-A0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1MjQ1
-OSwtMTc1OTM4NDgwXX0=
+eyJoaXN0b3J5IjpbLTU3OTU0MjM2OSwtMjA5MzE4MDI2OSwtMj
+A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
+NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
+c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
+MDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMT
+AwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0
+NTksLTE3NTkzODQ4MF19
 -->
