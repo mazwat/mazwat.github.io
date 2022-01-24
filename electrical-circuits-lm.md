@@ -162,18 +162,19 @@ The simplest way to apply Ohms low is to consider it as a triangle. We can use a
 ![Ohms Triangle](images/ohms-tri.png)
 *Fig. 9 - Ohms Triangle*
 
+## Resistance in Series & Parallel
 
-
+It is possible to wire components in either series , which is where each component is wired end to end or parallel where the components are wired in parallel tracks. This has an effect on the resistance in a circuit. Wiring solar panels in ether configuration has an effect on the voltage or current when you try to harvest the combined electricity they produce.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMT
-cwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAw
-MTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0OD
-AsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1
-OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNj
-UsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0x
-MzU3MDI2OTg2XX0=
+eyJoaXN0b3J5IjpbLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMj
+AyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEw
+MDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyND
+U5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4
+Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3ND
+ksLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0x
+OTMyODA4ODc2XX0=
 -->
