@@ -112,7 +112,7 @@ voltage(v) = current(I) * resistance(R)
 
 stuff
 
-$$voltage(v) = current(I)*resistance(R)$$
+<span class="katex-version rule">voltage(v) = current(I)*resistance(R)</span>
 
 <style> .katex-version {display: none;} .katex-version::after {content:"0.10.2 or earlier";} </style>  <span class="katex">  <span class="katex-mathml">The KaTeX stylesheet is not loaded!</span>  <span class="katex-version rule">KaTeX stylesheet version: </span>  </span>
 
@@ -122,7 +122,7 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTg3OTU4MCw5NDI1MTg3NDksLTEwNT
+eyJoaXN0b3J5IjpbLTMxNjM4NDY1OCw5NDI1MTg3NDksLTEwNT
 I0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4
 ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4Nzg5OS
 wtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MTQsMTYx
