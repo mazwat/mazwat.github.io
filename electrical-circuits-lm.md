@@ -135,9 +135,9 @@ In this case  we have the current, **0.24 amps** (**I**) and the resistance, **1
 
 $$V = IR$$
 
-**?** = 0.24 amps x 150 ohms
+$$? = 0.24 * 150 $$
 
-V = 0.24 x 150
+$$V = 0.24 x 150
 
 ANSWER = **36 V (Volts)**
 
@@ -154,7 +154,7 @@ In this case we have the current, 0.3 amps and the voltage, 3 volts even though 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjI1Njc2NCwtMTc1OTYxODkyMCwtMT
+eyJoaXN0b3J5IjpbMTYzMjIxNzE1MCwtMTc1OTYxODkyMCwtMT
 EwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUy
 NDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMj
 A4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3
