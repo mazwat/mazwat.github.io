@@ -74,7 +74,7 @@ Here you can see the simple diagram from earlier being interpreted into a schema
 |--|--|
 |![Circuit Drawing](images/basic-circuit.png)|![Schematic](images/schematic-1.png)|
 
-Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic or diagram is vital to keep track of you set-up as you develop your project.
+Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic or diagram is vital to keep track of your set-up as you develop your project.
 
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
@@ -262,7 +262,7 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTk3MzA4OCwtNzY4MzcxMDM2LC0yMD
+eyJoaXN0b3J5IjpbMTE2NzAxMjk4OCwtNzY4MzcxMDM2LC0yMD
 kzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAy
 NDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5Nj
 U0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0x
