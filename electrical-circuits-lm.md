@@ -179,7 +179,7 @@ In this example of series, when calculating the collective resistance of multipl
 
 $$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$\
 $$Resistance Total = 10 + 10 + 6 + 100$$\
-$$ANSWER = 126\Omega(Ohms)$$\
+$$ANSWER = 126\Omega(Ohms)$$
 
 ### Example 1 - Parallel
 
@@ -191,7 +191,7 @@ Working out the overall resistance in a parallel configuration is slightly more 
 
 $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTY1MzcyMiwxNjgxMTU2NDc5LDkxMj
+eyJoaXN0b3J5IjpbLTgwMjE4MDMyNiwxNjgxMTU2NDc5LDkxMj
 AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
 MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
 QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
