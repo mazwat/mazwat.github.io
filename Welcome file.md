@@ -139,8 +139,8 @@ graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
-C --> D{Triangle}
+C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTAyMTc1MV19
+eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
 -->
