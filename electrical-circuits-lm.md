@@ -169,17 +169,16 @@ The simplest way to apply Ohms low is to consider it as a triangle. We can use a
 
 It is possible to wire components in either series , which is where each component is wired end to end or parallel where the components are wired in parallel tracks. This has an effect on the resistance in a circuit. Wiring solar panels in ether configuration has an effect on the voltage or current when you try to harvest the combined electricity they produce.
 
+### Example 1
 
 ![Resistors in Series ](images/series.svg)
-*Fig. 10 - ExamplResistors in series*
-
-
+*Fig. 10 - Example 1 - Resistors in series*
 
 $$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$
 $$Resistance Total = 10 + 10 + 6 + 100$$ 
 $$ANSWER = 126\Omega(Ohms)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjQ2OTA4OCwxNjgxMTU2NDc5LDkxMj
+eyJoaXN0b3J5IjpbMTg0MDM2NDAyMSwxNjgxMTU2NDc5LDkxMj
 AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
 MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
 QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
