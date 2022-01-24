@@ -181,7 +181,7 @@ $$ANSWER = 126\Omega(Ohms)$$
 
 *Fig. 10 - Example 1 - Resistors in parallel*
 
-Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor value as a fraction. The numerator is always one and the denominator is the value of the resistors.
+Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor values as a fraction. The numerator is always one and the denominator is the value of the resistors.
 
 $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
 
@@ -193,15 +193,15 @@ $$R3 = 6\Omega$$\
 $$R4 = 100\Omega$$
 
 $$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$\
-$$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$\
-$$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$\
+$$\frac {1} {R}=\frac {126}{300} = Conductance (G)$$\
+$$\frac {1} {R}=\frac {300}{126} = Resistance (R)$$\
 $$R = 2.65\Omega$$
 
 ## Power Dissipation (Watts)
 
 Similar to current, Power is a measure of change over time. Instead of charge, power is the amount of energy converted into heat over time.
 
-$$P= I*R$$
+$$P= I*R$$\
 $$P= V^2/R$$
 
 -   When the flow of current is resisted, heat is generated
@@ -209,7 +209,7 @@ $$P= V^2/R$$
 
 ### Example 1 - Power Dissipation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzE5ODgyNCwtNTkzNzE5NjU0LDE2OD
+eyJoaXN0b3J5IjpbLTQwOTEwOTM4NSwtNTkzNzE5NjU0LDE2OD
 ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
 OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
 AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
