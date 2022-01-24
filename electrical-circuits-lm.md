@@ -132,7 +132,7 @@ katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
 ### Ohms Law - Example 1
 
 The wonderful thing about Ohms law is if you have 2 values in the circuit you can work out the missing one.
-In this case  we have the current, .24 amps (<span class="katex">\infty</span>) and the resistance, 150 ohms even though we don’t know the voltage.
+In this case  we have the current, .24 amps ($\ohms$) and the resistance, 150 ohms even though we don’t know the voltage.
 Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
 
 
@@ -141,11 +141,11 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTk1ODAyNCwxOTgxMzM4NDg2LDIwOD
-M5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5
-LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMT
-kzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2
-ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OT
-E0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1
-NDAxNzkxN119
+eyJoaXN0b3J5IjpbLTE5MjA1OTEyMTgsMTk4MTMzODQ4NiwyMD
+gzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0
+OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDksLTIwNTMyMTA2ODEsLT
+E5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLTU3MjI0NTkxMywtNzU5
+Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5Nj
+kxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LDE1
+NTQwMTc5MTddfQ==
 -->
