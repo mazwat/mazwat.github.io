@@ -112,7 +112,7 @@ voltage(v) = current(I) * resistance(R)
 
 stuff
 
-$voltage(v) = current(I)*resistance(R)$ 
+$$voltage(v) = current(I)*resistance(R)$$
 
 <style> .katex-version {display: none;} .katex-version::after {content:"0.10.2 or earlier";} </style>  <span class="katex">  <span class="katex-mathml">The KaTeX stylesheet is not loaded!</span>  <span class="katex-version rule">KaTeX stylesheet version: </span>  </span>
 
@@ -122,11 +122,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyMjM1MzIsOTQyNTE4NzQ5LC0xMD
-UyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgw
-ODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2ODc4OT
-ksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2
-MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1NDAxNz
-kxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYsLTI5
-MzU0OTk0XX0=
+eyJoaXN0b3J5IjpbMTc4NTg3OTU4MCw5NDI1MTg3NDksLTEwNT
+I0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4
+ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4Nzg5OS
+wtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MTQsMTYx
+NTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNTU0MDE3OT
+E3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5NiwtMjkz
+NTQ5OTRdfQ==
 -->
