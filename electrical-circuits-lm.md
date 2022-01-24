@@ -238,11 +238,11 @@ $$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
 ![Voltage Divider](images/volt-divider.svg)
 *Fig. 15 - Voltage Divider Example Schematic*
 
-$$Vout = \frac{9 * R_2}{{{R_1 + R_2}}}$$
+$$Vout = \frac{9 * 3000}{{{1000 + 3000}}}$$
 
 9v x 3000 ohms = 27000
 1000 + 3000 = 4000
-27000÷ 4000 = **6.75 volts**
+27000 ÷ 4000 = **6.75 volts**
 
 It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law.  
 
@@ -256,11 +256,11 @@ In the example, the source voltage 9v is multiplied by the second resistor value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg1MjcwNjAsLTIwOTMxODAyNjksLT
-IwNDc0NzY0MDIsLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMTE1
-NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1Nj
-Q3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQs
-MjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMT
-EwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUy
-NDU5LC0xNzU5Mzg0ODBdfQ==
+eyJoaXN0b3J5IjpbMTkyNzMxMjUyNSwtMjA5MzE4MDI2OSwtMj
+A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
+NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
+c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
+MDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMT
+AwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0
+NTksLTE3NTkzODQ4MF19
 -->
