@@ -105,6 +105,9 @@ As you start to develop your own custom circuits you will become familiar with t
 All components have their corresponding symbol in a circuit diagram. 
 https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14
 
+![Component Schematic](images/schematic.svg)
+*Fig. 8 - Components as schematic symbols*
+
 You will become more familiar with using them as the module progresses.
 
 
@@ -119,7 +122,7 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjI1NDE3OCw5NDI1MTg3NDksLTEwNT
+eyJoaXN0b3J5IjpbMTg2NzE2MzcxOSw5NDI1MTg3NDksLTEwNT
 I0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4
 ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4Nzg5OS
 wtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MTQsMTYx
