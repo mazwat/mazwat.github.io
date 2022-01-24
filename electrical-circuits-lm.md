@@ -198,13 +198,13 @@ $$R2 = 10\Omega$$\
 $$R3 = 6\Omega$$\
 $$R4 = 100\Omega$$
 
-$$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$\
-$$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$\
-$$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$\
+$$\frac {1} {R}=\frac {1} {10}+\frac {1} {10}+\frac {1} {6}+\frac {1} {100}$$
+$$\frac {1} {R}=\frac {113}{300} = Conductance (G)$$
+$$\frac {1} {R}=\frac {300}{113} = Resistance (R)$$
 $$R = 2.65\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODc3MTY3MSwtNTkzNzE5NjU0LDE2OD
+eyJoaXN0b3J5IjpbMjAyMzA5NjkxOSwtNTkzNzE5NjU0LDE2OD
 ExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5
 OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5Mj
 AsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3
