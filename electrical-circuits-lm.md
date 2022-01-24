@@ -169,13 +169,15 @@ It is possible to wire components in either series , which is where each compone
 ![Resitance and Parallel](images/resist-parallel.svg)
 
 
-$$Resistance Total = 10 + 10 + 6 + 100$$  $$ANSWER = 126\Omega(Ohms)$$
+$$Resistance Total = 10 + 10 + 6 + 100$$ 
+$$ x^i$$
+ANSWER = 126\Omega(Ohms)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMT
-c4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2
-MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOT
-k1LDI3NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgx
-MzM4NDg2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MT
-gsOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1
-MzIxMDY4MV19
+eyJoaXN0b3J5IjpbMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMj
+M2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMz
+NzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMD
+M2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEz
+MDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NT
+gsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3
+NjA1MDQ5XX0=
 -->
