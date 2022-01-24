@@ -49,9 +49,9 @@ It is often assumed that electrons flow from the positive end of an electrical f
 
 ## The Basic Characteristics of Electricity
 
--   **Voltage (V)** - The relative level of electrical energy between any two points in a circuit. Voltage is measured in Volts(V).
--   **Current (I)** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
--   **Resistance (R)** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms(Ω).
+-   **Voltage ( V )** - The relative level of electrical energy between any two points in a circuit. Voltage is measured in Volts(V).
+-   **Current ( I )** - The amount of electrical energy passing through any point in a circuit. Current is measured in Amps(A).
+-   **Resistance ( R )** - The amount that any component in the circuit resists the flow of current. Resistance is measured in Ohms($\Omega$).
 
 
 ![Water Analogy](images/elec-flow.png)
@@ -66,24 +66,24 @@ Like water electricity needs something to drive it and it’s energy is subject 
 
 In this second analogy we can imagine voltage as the head of water in the system creating the pressure. meanwhile the Amps (click) are the amount of energy passing a particular point. The wider the pipe the more energy can flow at one time, but it will also lose power quicker. Resistance (click) is another method to increase the pressure but slow down the flow, this is why resistors are used to control the amount of electrons reaching a component or load. Specifically to stop that component burning out.
 
-## Learning to Read Schematics
-
-![Circuit Drawing](images/basic-circuit.png)
-*Fig. 5 - Circuit Drawing*
+## Schematics
 
 Here you can see the simple diagram from earlier being interpreted into a schematic. Each elements has a specific symbol in the circuit and it has text notation to define type and value. In this example I am replacing the light bulb (as seen in the drawing) with an LED as this is what we will be using in our Arduino circuits.
 
-![Schematic](images/schematic-1.png)
-*Fig. 6 - Schematic*
+| Fig. 5 - Circuit Drawing  | Fig. 6 - Schematic |
+|--|--|
+|![Circuit Drawing](images/basic-circuit.png)|![Schematic](images/schematic-1.png)|
 
 Wiring quickly becomes chaotic and complex and unlike a purely digital project if you make a mistake you can’t control Z or restore a previous version so having a good schematic or diagram is vital to keep track of you set-up as you develop your project.
 
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
 
-## Common Components
+## Components
 
-As you start to develop your own custom circuits you will become familiar with these common components and how to use them.
+### Component Types
+
+As you start to develop your own custom circuits you will become familiar with these common components and how to use them. Each component has a corresponding symbol on a schematic.
 
 ![Components](images/components.png)
 *Fig. 7 - Some Commonly used components*
@@ -93,15 +93,89 @@ As you start to develop your own custom circuits you will become familiar with t
 - **Diodes** - conduct electricity easily in one direction, and stops flow in the other direction.
 - **Switches** - are an electrical component that can disconnect or connect the conducting path in an Electrical circuit, interrupting the current or diverting it from one conductor to another.
 - **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
-- **Jumper Leads** - These cables that behave as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
+- **Jumper Leads** -  are easy pluggable cables that act as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
+
+###  Using Schematics with Components
+
+Here are some rule when putting together a schematic. We will look at some basic examples in the following section.
+
+-   Positive voltages are uppermost
+-   Things happen left to right
+-   All components have a name and values
+-   Remember symbols
+-   Dots show that the wires are connected
+-   Nets: Inferred connection based on symbol or name
+
+All components have their corresponding symbol in a circuit diagram. 
+
+![Component Schematic](images/schematic.svg)
 
 
+*Fig. 8 - Components as schematic symbols*
+
+If you want to experiment with putting schematics together you can make a start by looking at the diagram above and making your own account here: **[circuit-diagram.org](https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14)**. You will become more familiar with using them as the module progresses.
+
+## Ohms Law
+
+**Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.” Ohm expressed his discovery in the form of a simple equation, describing how voltage, current, and resistance interrelate:
+
+$$voltage(v) = current(I)*resistance(R)$$
+
+or
+
+$$V = IR$$
+
+### Ohms Law - Example 1
+
+The wonderful thing about Ohms law is if you have **2 values in the circuit you can work out the missing one**.
+
+![Example 1](images/example1.svg)
+
+In this case  we have the current, **0.24 amps** (**I**) and the resistance, **150 ohms** (**Ω**) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer **36 volts**.
+
+$$V = IR$$
+
+$$? = 0.24*150 $$
+
+$$V = 0.24 * 150$$
+
+$$ANSWER = 36 V (Volts)$$
+
+### Ohms Law - Example 2
+
+![Example 1](images/example2.svg)
+
+In this case we have the current, 0.3 amps and the voltage, 3 volts even though we don’t know the resistance. To work out the resistance we divide the amps by the volts and we get the answer 10 ohms.
+
+$$V = IR$$
+
+$$0.3 = 3 * ? $$
+
+$$R =\frac {3} {0.3}$$
+
+$$ANSWER = 10\Omega (Ohms)$$
+
+### Ohms Triangle
+
+The simplest way to apply Ohms low is to consider it as a triangle. We can use a triangle to show the equal relationship between the values. So if we are looking to calculate V (volts) from the other 2 values we use V=IR  if we are looking to calculate I (Amps) we use V over R and if want to calculate R (Resistance) we use V over I.
+
+![Ohms Triangle](images/ohms-tri.png)
+*Fig. 9 - Ohms Triangle*
+
+## Resistance in Series & Parallel
+
+It is possible to wire components in either series , which is where each component is wired end to end or parallel where the components are wired in parallel tracks. This has an effect on the resistance in a circuit. Wiring solar panels in ether configuration has an effect on the voltage or current when you try to harvest the combined electricity they produce.
+
+![Resitance and Parallel](images/resist-parallel.svg)
 
 
+$$Resistance Total = 10 + 10 + 6 + 100$$  $$ANSWER = 126\Omega(Ohms)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxND
-E5NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4
-NjkxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLD
-k3MTUyMzI5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzEx
-OSw4ODI2ODA2MzAsLTEyMjg5MzA5MzldfQ==
+eyJoaXN0b3J5IjpbOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMT
+c4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2
+MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOT
+k1LDI3NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgx
+MzM4NDg2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MT
+gsOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1
+MzIxMDY4MV19
 -->
