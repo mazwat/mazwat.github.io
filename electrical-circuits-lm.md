@@ -166,15 +166,16 @@ The simplest way to apply Ohms low is to consider it as a triangle. We can use a
 
 It is possible to wire components in either series , which is where each component is wired end to end or parallel where the components are wired in parallel tracks. This has an effect on the resistance in a circuit. Wiring solar panels in ether configuration has an effect on the voltage or current when you try to harvest the combined electricity they produce.
 
+![Resitacne and Parallel](images/resist-parallel.svg)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMj
-AyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEw
-MDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyND
-U5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4
-Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3ND
-ksLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0x
-OTMyODA4ODc2XX0=
+eyJoaXN0b3J5IjpbLTQ1MjQxNjQwMywtMTEyMzY0MTQ0MiwtMT
+E3ODE0OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5
+NjE4OTIwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMz
+k5NSwyNzQ0NTI0NTksLTE3NTkzODQ4MCwzMTMwNDkxNjgsMTk4
+MTMzODQ4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5OD
+E4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDksLTIw
+NTMyMTA2ODFdfQ==
 -->
