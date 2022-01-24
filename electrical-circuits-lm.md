@@ -167,7 +167,7 @@ It is possible to wire components in either series , which is where each compone
 
 ![Resistors in Series ](images/series.svg)
 
-*Fig. 10 - Example 1 - Resistors in series*
+*Fig. 11 - Example 1 - Resistors in series*
 
 In this example of series, when calculating the collective resistance of multiple resistors we simply add all the resistors together to get the resistance total. 10+10+6+100 equals 4.8 kilo ohms
 
@@ -179,7 +179,7 @@ $$ANSWER = 126\Omega(Ohms)$$
 
 ![Resistors in Parellel ](images/parallel.svg)
 
-*Fig. 10 - Example 1 - Resistors in parallel*
+*Fig. 12 - Example 1 - Resistors in parallel*
 
 Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor values as a fraction. The numerator is always one and the denominator is the value of the resistors.
 
@@ -207,12 +207,35 @@ $$P= V^2/R$$
 -   Calculated by measuring the voltage across a load times the current flowing through it
 
 ### Example 1 - Power Dissipation
+
+![Power Dissipation ](images/watts.svg)
+
+*Fig. 13 - Example 1 - Resistors in parallel*
+
+In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage( V ) by the Resistance( I ) therefore the power dissipation or Watts ( P ) is **48** .
+
+$$I = \frac{V}{R}$$\
+$$P = I*V$$ or more simply
+$$P = IV$$ 
+
+$$I = \frac{12}{3}$$\
+$$I = 4$$\
+$$P = 4*3$$\
+$$P = 48$$\
+$$Power Dissipation = 48 Watts$$
+
+### Voltage Dividers
+
+A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OT
-M3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0
-NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MC
-wtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3
-Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MT
-Y4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIy
-MzMxOTgxOF19
+eyJoaXN0b3J5IjpbLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMT
+E1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1
+NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5Nj
+QsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwt
+MTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0ND
+UyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYs
+MjA4Mzk1ODA3MF19
 -->
