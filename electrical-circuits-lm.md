@@ -177,8 +177,8 @@ It is possible to wire components in either series , which is where each compone
 
 In this example of series, when calculating the collective resistance of multiple resistors we simply add all the resistors together to get the resistance total. 10+10+6+100 equals 4.8 kilo ohms
 
-$$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$\
-$$Resistance Total = 10 + 10 + 6 + 100$$\
+$$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$
+$$Resistance Total = 10 + 10 + 6 + 100$$
 $$ANSWER = 126\Omega(Ohms)$$
 
 ### Example 1 - Parallel
@@ -195,11 +195,11 @@ In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMj
-AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
-MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
-QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
-NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MD
-cwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1
-MjQ3MjM2NV19
+eyJoaXN0b3J5IjpbLTE2NjI4NjE3OTgsLTU5MzcxOTY1NCwxNj
+gxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0
+OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OT
+IwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwy
+NzQ0NTI0NTksLTE3NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzOD
+Q4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0
+MjUxODc0OV19
 -->
