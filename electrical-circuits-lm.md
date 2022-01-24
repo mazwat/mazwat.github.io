@@ -119,7 +119,7 @@ If you want to experiment with putting schematics together you can make a start 
 
 **Ohm's law**  states that the current through a conductor between two points is directly proportional to the voltage across the two points. To be able to make meaningful statements about these quantities in circuits, we need to be able to describe their quantities in the same way that we might quantify mass, temperature, volume, length, or any other kind of physical quantity. For mass, we might use the units of “kilogram” or “gram.” Ohm expressed his discovery in the form of a simple equation, describing how voltage, current, and resistance interrelate:
 
-<span class="katex">voltage(v) = current(I)*resistance(R)\  
+<span class="katex">voltage(v) = current(I)*resistance(R)\\ohm  
 \text{\AA}</span>
 
 or
@@ -139,7 +139,7 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTM5ODY0OCw2NjE1OTg1NTgsLTIyMz
+eyJoaXN0b3J5IjpbMTM2NzM3NTUzOCw2NjE1OTg1NTgsLTIyMz
 MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
 LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
 01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
