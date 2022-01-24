@@ -79,7 +79,9 @@ Wiring quickly becomes chaotic and complex and unlike a purely digital project i
 ![Messy Bread Board](images/messy-board.png)
 *Fig. 7 - A Complex Wiring Set-up*
 
-## Common Components
+## Components & Schematics
+
+### Component Types
 
 As you start to develop your own custom circuits you will become familiar with these common components and how to use them. Each component has a corresponding symbol on a schematic.
 
@@ -93,7 +95,9 @@ As you start to develop your own custom circuits you will become familiar with t
 - **Transistors** - is a semiconductor device used to amplify and switch electronic signals and electrical power.
 - **Jumper Leads** -  are easy pluggable cables that act as the wire between components in bread board setups. We will look at bread boards in more detail in a future lecture.
 
-###  The rules of Schematics
+###  Schematics
+
+Here are some rule when putting together a schematic.
 
 -   Positive voltages are uppermost
 -   Things happen left to right
@@ -125,11 +129,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDIxNDk0MCw2NjE1OTg1NTgsLTIyMz
-MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
-LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
-01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
-NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4Nj
-kxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3
-MTUyMzI5XX0=
+eyJoaXN0b3J5IjpbNjg2ODg5MzE2LDY2MTU5ODU1OCwtMjIzMz
+E5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDks
+LTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLT
+U3MjI0NTkxMywtNzU5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3
+NjczNzIsLTIzODM5NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OT
+EsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5ODU5MzUwODEsOTcx
+NTIzMjldfQ==
 -->
