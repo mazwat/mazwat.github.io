@@ -164,18 +164,42 @@ The simplest way to apply Ohms low is to consider it as a triangle. We can use a
 
 ## Resistance in Series & Parallel
 
+![Resistance in Series and Parallel](images/resist-parallel.svg)
+*Fig. 10 - Resistors wired in series and parallel*
+
 It is possible to wire components in either series , which is where each component is wired end to end or parallel where the components are wired in parallel tracks. This has an effect on the resistance in a circuit. Wiring solar panels in ether configuration has an effect on the voltage or current when you try to harvest the combined electricity they produce.
 
-![Resitance and Parallel](images/resist-parallel.svg)
+### Example 1 - Series
+
+![Resistors in Series ](images/series.svg)
+
+*Fig. 10 - Example 1 - Resistors in series*
+
+In this example of series, when calculating the collective resistance of multiple resistors we simply add all the resistors together to get the resistance total. 10+10+6+100 equals 4.8 kilo ohms
+
+$$ R_{T} = R_{1}+R_{2}+R_{3}+R_{4}$$\
+$$Resistance Total = 10 + 10 + 6 + 100$$\
+$$ANSWER = 126\Omega(Ohms)$$
+
+### Example 1 - Parallel
+
+![Resistors in Parellel ](images/parallel.svg)
+
+*Fig. 10 - Example 1 - Resistors in parallel*
+
+Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor value as a fraction. The numerator is always one and the denominator is the value of the resistors.
+
+$$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac {1} {R_{4}}$$
+
+In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
 
 
-$$Resistance Total = 10 + 10 + 6 + 100$$  $$ANSWER = 126\Omega(Ohms)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMT
-c4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2
-MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOT
-k1LDI3NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgx
-MzM4NDg2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MT
-gsOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1
-MzIxMDY4MV19
+eyJoaXN0b3J5IjpbLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMj
+AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
+MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
+QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
+NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MD
+cwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1
+MjQ3MjM2NV19
 -->
