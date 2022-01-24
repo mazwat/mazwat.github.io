@@ -136,7 +136,9 @@ In this case  we have the current, **0.24 amps** (**I**) and the resistance, **1
 $$V = IR$$
 
 **?** = 0.24 amps x 150 ohms
+
 V = 0.24 x 150
+
 ANSWER = **36 V (Volts)**
 
 ### Ohms Law - Example 2
@@ -152,11 +154,11 @@ In this case we have the current, 0.3 amps and the voltage, 3 volts even though 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLT
-IwMDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1MjQ1OSwtMTc1OTM4
-NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LDIwODM5NTgwNzAsNj
-YxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4NzQ5LC0xMDUyNDcy
-MzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgwODg3Ni
-wtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2ODc4OTksLTEx
-NDk4NDI0OTJdfQ==
+eyJoaXN0b3J5IjpbMTcwMjI1Njc2NCwtMTc1OTYxODkyMCwtMT
+EwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUy
+NDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMj
+A4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3
+NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC
+0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1
+OTY4Nzg5OV19
 -->
