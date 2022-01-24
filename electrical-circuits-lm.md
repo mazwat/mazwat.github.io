@@ -102,6 +102,8 @@ As you start to develop your own custom circuits you will become familiar with t
 -   Dots show that the wires are connected
 -   Nets: Inferred connection based on symbol or name
 
+All components have their corresponding symbol in a circuit diagram. You will become more familiar with using them as the module progresses.
+
 
 voltage(v) = current(I) * resistance(R)
 
@@ -117,11 +119,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOT
-MyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4
-Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MT
-QsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNTU0
-MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5Ni
-wtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMjg5
-MzA5MzldfQ==
+eyJoaXN0b3J5IjpbLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMD
+UzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIy
+NDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3Mz
+cyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEz
+NTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMz
+I5LDIyOTkzNzk5NiwtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2
+ODA2MzBdfQ==
 -->
