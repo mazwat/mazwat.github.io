@@ -233,17 +233,6 @@ A voltage divider circuit is a very common circuit that takes a higher voltage a
 
 $$Vout = \frac{V_S * R_2}{R_1 + R_2}$$
 
-### Example - Voltage Divider
-
-![Voltage Divider](images/volt-divider.svg)
-*Fig. 15 - Voltage Divider Example Schematic*
-
-$$Vout = \frac{9 * 3000}{1000 + 3000}$$
-
-9v x 3000 ohms = 27000\
-1000 + 3000 = 4000\
-27000 ÷ 4000 = **6.75 volts**
-
 It involves a pair of resistors The formula for calculating the output voltage is based on Ohms Law.  
 
 - **VS** is the source voltage, measured in volts (V),
@@ -251,7 +240,18 @@ It involves a pair of resistors The formula for calculating the output voltage i
 - **R2** is the resistance of the 2nd resistor
 - **Vout** is the output voltage, measured in volts (V),
 
+### Example - Voltage Divider
+
+![Voltage Divider](images/volt-divider.svg)
+*Fig. 15 - Voltage Divider Example Schematic*
+
 In the example, the source voltage 9v is multiplied by the second resistor value 3 kilo ohms. Then resistor value 1 is added to resistor value 2 and finally the top value 27000 is divided by the bottom value 4000 to get 6.75 volts.
+
+$$Vout = \frac{9 * 3000}{1000 + 3000}$$
+
+9v x 3000 ohms = 27000\
+1000 + 3000 = 4000\
+27000 ÷ 4000 = **6.75 volts**
 
 ## Conclusion
 
@@ -261,11 +261,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODM3MTAzNiwtMjA5MzE4MDI2OSwtMj
-A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
-NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
-c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
-MDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMT
-AwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0
-NTksLTE3NTkzODQ4MF19
+eyJoaXN0b3J5IjpbLTk0MDc4MDkxNCwtNzY4MzcxMDM2LC0yMD
+kzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAy
+NDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5Nj
+U0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0x
+MTc4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NT
+k2MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIz
+OTk1LDI3NDQ1MjQ1OV19
 -->
