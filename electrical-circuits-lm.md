@@ -157,7 +157,7 @@ $$ANSWER = 10\Omega (Ohms)$$
 
 ### Ohms Triangle
 
-The simplest way to apply Ohms low is to look at it as a triangle. We can use a triangle to show the equal relationship between the values. So if we are looking to calculate V (volts) from the other 2 values we use V=IR  if we are looking to calculate I (Amps) we use V over R and if want to calculate R (Resistance) we use V over I.
+The simplest way to apply Ohms low is to consider it as a triangle. We can use a triangle to show the equal relationship between the values. So if we are looking to calculate V (volts) from the other 2 values we use V=IR  if we are looking to calculate I (Amps) we use V over R and if want to calculate R (Resistance) we use V over I.
 
 ![Ohms Triangle](images/ohms-tri.png)
 *Fig. 9 - Ohms Triangle*
@@ -169,11 +169,11 @@ The simplest way to apply Ohms low is to look at it as a triangle. We can use a 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDAxNTQzMSwyMDI5Mzk1MjE4LC0xNz
-A0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0yMDAx
-MjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3NTkzODQ4MC
-wzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2MTU5
-ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1MjQ3MjM2NS
-w4Mzc2MDUwNDksLTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLTEz
-NTcwMjY5ODZdfQ==
+eyJoaXN0b3J5IjpbLTExNzgxNDk5NjQsMjAyOTM5NTIxOCwtMT
+cwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAw
+MTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0OD
+AsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1
+OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNj
+UsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0x
+MzU3MDI2OTg2XX0=
 -->
