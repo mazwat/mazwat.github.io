@@ -193,9 +193,15 @@ $$\frac {1} {R_{T}}=\frac {1} {R_{1}}+\frac {1} {R_{2}}+\frac {1} {R_{3}}+\frac 
 
 In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
 
+$$R1 = 10\Omega$$
+$$R2 = 10\Omega$$
+$$R3 = 6\Omega$$
+$$R4 = 100\Omega$$
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4NjE3OTgsLTU5MzcxOTY1NCwxNj
+eyJoaXN0b3J5IjpbLTE1OTEwODAyMzksLTU5MzcxOTY1NCwxNj
 gxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0
 OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OT
 IwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwy
