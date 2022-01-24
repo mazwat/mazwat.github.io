@@ -212,9 +212,11 @@ $$P= V^2/R$$
 
 *Fig. 13 - Example 1 - Resistors in parallel*
 
-In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage(V) by the Resistance(I) therefore the power dissipation or Watts is 48.(click)
+In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage(V) by the Resistance(I) therefore the power dissipation or Watts is 48 W.
+
+$$I = \frac{V}{{{R}}}$$\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTcxMzk1LDExNTU2NTc5OTcsMTQ4ND
+eyJoaXN0b3J5IjpbMzM2ODI1NzQzLDExNTU2NTc5OTcsMTQ4ND
 Y4MjA5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2
 LC0xMTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMjkzOTUyMTgsLT
 E3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLTIw
