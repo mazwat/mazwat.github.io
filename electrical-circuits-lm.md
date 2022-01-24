@@ -105,6 +105,8 @@ As you start to develop your own custom circuits you will become familiar with t
 
 voltage(v) = current(I) * resistance(R)
 
+stuff
+
 $voltage(v) = current(I)*resistance(R)$ 
 
 <style> .katex-version {display: none;} .katex-version::after {content:"0.10.2 or earlier";} </style>  <span class="katex">  <span class="katex-mathml">The KaTeX stylesheet is not loaded!</span>  <span class="katex-version rule">KaTeX stylesheet version: </span>  </span>
@@ -115,10 +117,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMyMTA2ODEsLTE5MzI4MDg4NzYsLT
-EzNTcwMjY5ODYsLTU3MjI0NTkxMywtNzU5Njg3ODk5LC0xMTQ5
-ODQyNDkyLDE0MTk3NjczNzIsLTIzODM5NjkxNCwxNjE1Mzg1MT
-EyLDIwNjc1NTg2OTEsMTM1MjkxODQ3LDE1NTQwMTc5MTcsLTE5
-ODU5MzUwODEsOTcxNTIzMjksMjI5OTM3OTk2LC0yOTM1NDk5NC
-wtNjU3NTMzMTE5LDg4MjY4MDYzMCwtMTIyODkzMDkzOV19
+eyJoaXN0b3J5IjpbODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOT
+MyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4
+Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MT
+QsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNTU0
+MDE3OTE3LC0xOTg1OTM1MDgxLDk3MTUyMzI5LDIyOTkzNzk5Ni
+wtMjkzNTQ5OTQsLTY1NzUzMzExOSw4ODI2ODA2MzAsLTEyMjg5
+MzA5MzldfQ==
 -->
