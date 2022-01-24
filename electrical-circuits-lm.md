@@ -212,15 +212,16 @@ $$P= V^2/R$$
 
 *Fig. 13 - Example 1 - Resistors in parallel*
 
-In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage(V) by the Resistance(I) therefore the power dissipation or Watts is 48 W.
+In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage( V ) by the Resistance( I ) therefore the power dissipation or Watts ( P ) is **48** .
 
 $$I = \frac{V}{{{R}}}$$\
+$$P = I*R$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODI1NzQzLDExNTU2NTc5OTcsMTQ4ND
-Y4MjA5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2
-LC0xMTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMjkzOTUyMTgsLT
-E3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLTIw
-MDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1MjQ1OSwtMTc1OTM4ND
-gwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LDIwODM5NTgwNzAsNjYx
-NTk4NTU4XX0=
+eyJoaXN0b3J5IjpbMTc0NjEzNTEwNywxMTU1NjU3OTk3LDE0OD
+Q2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxODE2
+NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4LC
+0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NTQyLC0y
+MDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3NTkzOD
+Q4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MDcwLDY2
+MTU5ODU1OF19
 -->
