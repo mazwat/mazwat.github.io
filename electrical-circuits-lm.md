@@ -214,7 +214,7 @@ $$P= V^2/R$$
 
 In this example we can use **ohms law** to calculate the current by dividing the voltage with the resistance which in this instance is 4. Using the equation for getting the Watts we times the Voltage( V ) by the Resistance( I ) therefore the power dissipation or Watts ( P ) is **48** .
 
-$$I = \frac{V}{{{R}}}$$\
+$$I = \frac{V}{R}$$\
 $$P = I*V$$ or more simply
 $$P = IV$$ 
 
@@ -224,12 +224,18 @@ $$P = 4*3$$\
 $$P = 48$$\
 $$Power Dissipation = 48 Watts$$
 
+### Voltage Dividers
+
+A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0NDI2NjQsMTE1NTY1Nzk5NywxND
-g0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMTgx
-NjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIxOC
-wtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0Miwt
-MjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mz
-g0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2
-NjE1OTg1NThdfQ==
+eyJoaXN0b3J5IjpbLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMT
+E1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1
+NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5Nj
+QsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwt
+MTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0ND
+UyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYs
+MjA4Mzk1ODA3MF19
 -->
