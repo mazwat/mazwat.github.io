@@ -103,7 +103,7 @@ As you start to develop your own custom circuits you will become familiar with t
 -   Nets: Inferred connection based on symbol or name
 
 All components have their corresponding symbol in a circuit diagram. 
-
+https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14
 
 You will become more familiar with using them as the module progresses.
 
@@ -122,11 +122,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LDgzNz
-YwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgwODg3NiwtMTM1NzAy
-Njk4NiwtNTcyMjQ1OTEzLC03NTk2ODc4OTksLTExNDk4NDI0OT
-IsMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2MTUzODUxMTIsMjA2
-NzU1ODY5MSwxMzUyOTE4NDcsMTU1NDAxNzkxNywtMTk4NTkzNT
-A4MSw5NzE1MjMyOSwyMjk5Mzc5OTYsLTI5MzU0OTk0LC02NTc1
-MzMxMTldfQ==
+eyJoaXN0b3J5IjpbLTEzMjkyMjM1MzIsOTQyNTE4NzQ5LC0xMD
+UyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MSwtMTkzMjgw
+ODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03NTk2ODc4OT
+ksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4Mzk2OTE0LDE2
+MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4NDcsMTU1NDAxNz
+kxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5Mzc5OTYsLTI5
+MzU0OTk0XX0=
 -->
