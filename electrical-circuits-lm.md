@@ -201,17 +201,20 @@ $$R = 2.65\Omega$$
 
 Similar to current, Power is a measure of change over time. Instead of charge, power is the amount of energy converted into heat over time.
 
+$$P= I*R$$/
+$$P= V^2/R$$
+
 -   When the flow of current is resisted, heat is generated
 -   Calculated by measuring the voltage across a load times the current flowing through it
 
-$P= 
 
+### Example 1 - Powee S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MzA5NDc2LC01OTM3MTk2NTQsMTY4MT
-E1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5
-NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMC
-wtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0
-NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0OD
-YsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1
-MTg3NDldfQ==
+eyJoaXN0b3J5IjpbLTE4NjkyNzY2NTYsLTU5MzcxOTY1NCwxNj
+gxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0
+OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OT
+IwLC0xMTAwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwy
+NzQ0NTI0NTksLTE3NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzOD
+Q4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0
+MjUxODc0OV19
 -->
