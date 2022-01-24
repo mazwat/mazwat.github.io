@@ -139,6 +139,12 @@ $V = IR$
 V = 0.24 x 150
 ANSWER = **36 V (Volts)**
 
+### Ohms Law - Example 2
+
+![Example 1](images/example2.svg)
+
+In this case we have the current, 0.3 amps and the voltage, 3 volts even though we don’t know the resistance. To work out the resistance we divide the amps by the volts and we get the answer 10 ohms.
+
 
 
 
@@ -146,11 +152,11 @@ ANSWER = **36 V (Volts)**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNz
-M3OTIzOTk1LDI3NDQ1MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2
-OCwxOTgxMzM4NDg2LDIwODM5NTgwNzAsNjYxNTk4NTU4LC0yMj
-MzMTk4MTgsOTQyNTE4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0
-OSwtMjA1MzIxMDY4MSwtMTkzMjgwODg3NiwtMTM1NzAyNjk4Ni
-wtNTcyMjQ1OTEzLC03NTk2ODc4OTksLTExNDk4NDI0OTIsMTQx
-OTc2NzM3Ml19
+eyJoaXN0b3J5IjpbMTg0NzYxOTQzNiwtMTEwMDQ2ODU0MiwtMj
+AwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0
+ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2Nj
+E1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIz
+NjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC
+0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0
+OTg0MjQ5Ml19
 -->
