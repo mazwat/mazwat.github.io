@@ -147,6 +147,14 @@ $$ ANSWER = 36 V (Volts)$$
 
 In this case we have the current, 0.3 amps and the voltage, 3 volts even though we don’t know the resistance. To work out the resistance we divide the amps by the volts and we get the answer 10 ohms.
 
+$$V = IR$$
+
+$$0.3 = 3 * ? $$
+
+$$ R = 0.03 * 150$$
+
+$$ ANSWER = 36 V (Volts)$$
+
 
 
 
@@ -154,11 +162,11 @@ In this case we have the current, 0.3 amps and the voltage, 3 volts even though 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MTI4NzcwLC0xNzU5NjE4OTIwLC0xMT
-AwNDY4NTQyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0
-NTksLTE3NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMD
-gzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0
-OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDksLTIwNTMyMTA2ODEsLT
-E5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLTU3MjI0NTkxMywtNzU5
-Njg3ODk5XX0=
+eyJoaXN0b3J5IjpbLTE1MTk0MjU0MDcsLTE3NTk2MTg5MjAsLT
+ExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1
+MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LD
+IwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4
+NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MS
+wtMTkzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03
+NTk2ODc4OTldfQ==
 -->
