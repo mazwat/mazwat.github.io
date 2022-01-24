@@ -155,6 +155,12 @@ $$ R =\frac {3} {0.3}$$
 
 $$ ANSWER = 10\Omega (Ohms)$$
 
+### Ohms Triangle
+
+The simplest way to apply Ohms low is to look at it as a triangle. We can use a triangle to show the equal relationship between the values. So if we are looking to calculate V (volts) from the other 2 values we use V=IR  if we are looking to calculate I (Amps) we use V over R and if want to calculate R (Resistance) we use V over I.
+
+![Ohms Triangle](images/ohms-tri.png)
+
 
 
 
@@ -162,11 +168,11 @@ $$ ANSWER = 10\Omega (Ohms)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLT
-ExMDA0Njg1NDIsLTIwMDEyMzAzNjYsNzM3OTIzOTk1LDI3NDQ1
-MjQ1OSwtMTc1OTM4NDgwLDMxMzA0OTE2OCwxOTgxMzM4NDg2LD
-IwODM5NTgwNzAsNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNTE4
-NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4MS
-wtMTkzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC03
-NTk2ODc4OTldfQ==
+eyJoaXN0b3J5IjpbMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMT
+c1OTYxODkyMCwtMTEwMDQ2ODU0MiwtMjAwMTIzMDM2Niw3Mzc5
+MjM5OTUsMjc0NDUyNDU5LC0xNzU5Mzg0ODAsMzEzMDQ5MTY4LD
+E5ODEzMzg0ODYsMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMzMx
+OTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5LC
+0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC01
+NzIyNDU5MTNdfQ==
 -->
