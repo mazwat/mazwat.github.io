@@ -134,17 +134,22 @@ $V = IR$
 The wonderful thing about Ohms law is if you have **2 values in the circuit you can work out the missing one**.
 In this case  we have the current, .24 amps ($I$) and the resistance, 150 ohms ($\Omega$) even though we don’t know the voltage. Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
 
+$$\begin{array}{cc}
+a & b \\  
+c & d 
+\end{array}$$
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mz
-k1ODA3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDks
-LTEwNTI0NzIzNjUsODM3NjA1MDQ5LC0yMDUzMjEwNjgxLC0xOT
-MyODA4ODc2LC0xMzU3MDI2OTg2LC01NzIyNDU5MTMsLTc1OTY4
-Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5NzY3MzcyLC0yMzgzOTY5MT
-QsMTYxNTM4NTExMiwyMDY3NTU4NjkxLDEzNTI5MTg0NywxNTU0
-MDE3OTE3XX0=
+eyJoaXN0b3J5IjpbLTE3NTkzODQ4MCwzMTMwNDkxNjgsMTk4MT
+MzODQ4NiwyMDgzOTU4MDcwLDY2MTU5ODU1OCwtMjIzMzE5ODE4
+LDk0MjUxODc0OSwtMTA1MjQ3MjM2NSw4Mzc2MDUwNDksLTIwNT
+MyMTA2ODEsLTE5MzI4MDg4NzYsLTEzNTcwMjY5ODYsLTU3MjI0
+NTkxMywtNzU5Njg3ODk5LC0xMTQ5ODQyNDkyLDE0MTk3NjczNz
+IsLTIzODM5NjkxNCwxNjE1Mzg1MTEyLDIwNjc1NTg2OTEsMTM1
+MjkxODQ3XX0=
 -->
