@@ -126,6 +126,8 @@ or
 
 <span class="katex">V = IR</span>
 
+katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
+
 
 ### Ohms Law - Example 1
 
@@ -139,7 +141,7 @@ Consequently to work out the voltage we  times the amps by the ohms and we get t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzM3NTUzOCw2NjE1OTg1NTgsLTIyMz
+eyJoaXN0b3J5IjpbMjA4Mzk1ODA3MCw2NjE1OTg1NTgsLTIyMz
 MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
 LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
 01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
