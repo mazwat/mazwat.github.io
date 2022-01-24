@@ -227,11 +227,11 @@ $$Power Dissipation = 48 Watts$$
 ## Voltage Dividers
 
 ![Voltage Divider](images/divider.png)
-*Fig. 14 - Voltage Divider Circuit n a Bread board*
+*Fig. 14 - Voltage Divider Circuit in a Bread board*
 
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. In practice this kind of circuit is used to step down a higher voltage to a lower one.
 
-$$Vout = \frac{V_S * R_2}{{{R_1 + R_2}}}$$
+$$Vout = \frac{V_S * R_2}{R_1 + R_2}$$
 
 ### Example - Voltage Divider
 
@@ -261,7 +261,7 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTU0MjM2OSwtMjA5MzE4MDI2OSwtMj
+eyJoaXN0b3J5IjpbMTgzNzU3OTgxMiwtMjA5MzE4MDI2OSwtMj
 A0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1
 NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2ND
 c5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwy
