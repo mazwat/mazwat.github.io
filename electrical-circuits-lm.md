@@ -172,7 +172,8 @@ It is possible to wire components in either series , which is where each compone
 ### Example 1 - Series
 
 ![Resistors in Series ](images/series.svg)
-\*Fig. 10 - Example 1 - Resistors in series*
+
+*Fig. 10 - Example 1 - Resistors in series*
 
 In this example of series, when calculating the collective resistance of multiple resistors we simply add all the resistors together to get the resistance total. 10+10+6+100 equals 4.8 kilo ohms
 
@@ -182,16 +183,17 @@ $$ANSWER = 126\Omega(Ohms)$$\
 
 ### Example 1 - Parallel
 
-![Resistors in Parell ](images/series.svg)
-\*Fig. 10 - Example 1 - Resistors in series*
+![Resistors in Parellel ](images/parallel.svg)
+
+*Fig. 10 - Example 1 - Resistors in parallel*
 
 Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor value as a fraction. The numerator is always one and the denominator is the value of the resistors. In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODg0MDA3MSwxNjgxMTU2NDc5LDkxMj
-AxODE2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1
-MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4OTIwLC0xMTAwNDY4NT
-QyLC0yMDAxMjMwMzY2LDczNzkyMzk5NSwyNzQ0NTI0NTksLTE3
-NTkzODQ4MCwzMTMwNDkxNjgsMTk4MTMzODQ4NiwyMDgzOTU4MD
-cwLDY2MTU5ODU1OCwtMjIzMzE5ODE4LDk0MjUxODc0OSwtMTA1
-MjQ3MjM2NV19
+eyJoaXN0b3J5IjpbLTEyMDkxNDk1OTYsMTY4MTE1NjQ3OSw5MT
+IwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5
+NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2OD
+U0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0x
+NzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1OD
+A3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEw
+NTI0NzIzNjVdfQ==
 -->
