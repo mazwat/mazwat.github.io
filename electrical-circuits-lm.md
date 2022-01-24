@@ -109,7 +109,7 @@ All components have their corresponding symbol in a circuit diagram.
 
 *Fig. 8 - Components as schematic symbols*
 
-If you want to experiment with putting schematics together you can make a start by looking at my diagram here and making your own account here: [https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14](https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14)
+If you want to experiment with putting schematics together you can make a start by looking at my diagram here and making your own account here: [circuit-diagram.org](https://crcit.net/c/82ffa9aa0f564eabaf0fea65de580e14)
 
 You will become more familiar with using them as the module progresses.
 
@@ -125,11 +125,11 @@ More stuff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNTk4NTU4LC0yMjMzMTk4MTgsOTQyNT
-E4NzQ5LC0xMDUyNDcyMzY1LDgzNzYwNTA0OSwtMjA1MzIxMDY4
-MSwtMTkzMjgwODg3NiwtMTM1NzAyNjk4NiwtNTcyMjQ1OTEzLC
-03NTk2ODc4OTksLTExNDk4NDI0OTIsMTQxOTc2NzM3MiwtMjM4
-Mzk2OTE0LDE2MTUzODUxMTIsMjA2NzU1ODY5MSwxMzUyOTE4ND
-csMTU1NDAxNzkxNywtMTk4NTkzNTA4MSw5NzE1MjMyOSwyMjk5
-Mzc5OTZdfQ==
+eyJoaXN0b3J5IjpbMTI0MDIxNDk0MCw2NjE1OTg1NTgsLTIyMz
+MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
+LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
+01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
+NzY3MzcyLC0yMzgzOTY5MTQsMTYxNTM4NTExMiwyMDY3NTU4Nj
+kxLDEzNTI5MTg0NywxNTU0MDE3OTE3LC0xOTg1OTM1MDgxLDk3
+MTUyMzI5XX0=
 -->
