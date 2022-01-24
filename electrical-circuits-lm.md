@@ -243,6 +243,7 @@ It involves a pair of resistors The formula for calculating the output voltage i
 ### Example - Voltage Divider
 
 ![Voltage Divider](images/volt-divider.svg)
+
 *Fig. 15 - Voltage Divider Example Schematic*
 
 In the example, the source voltage 9v is multiplied by the second resistor value 3 kilo ohms. Then resistor value 1 is added to resistor value 2 and finally the top value 27000 is divided by the bottom value 4000 to get 6.75 volts.
@@ -261,7 +262,7 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDc4MDkxNCwtNzY4MzcxMDM2LC0yMD
+eyJoaXN0b3J5IjpbMTA0OTk3MzA4OCwtNzY4MzcxMDM2LC0yMD
 kzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAy
 NDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5Nj
 U0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0x
