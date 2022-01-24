@@ -126,10 +126,19 @@ or
 <span class="katex">V = IR</span>
 
 
+### Ohms Law - Example 1
+
+The wonderful thing about Ohms law is if you have 2 values in the circuit you can work out the missing one.
+In this case  we have the current, .24 amps and the resistance, 150 ohms even though we don’t know the voltage.
+Consequently to work out the voltage we  times the amps by the ohms and we get the answer 36 volts.
+
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDk2NDI4MCw2NjE1OTg1NTgsLTIyMz
+eyJoaXN0b3J5IjpbMTQ2ODk2MzQwMSw2NjE1OTg1NTgsLTIyMz
 MxOTgxOCw5NDI1MTg3NDksLTEwNTI0NzIzNjUsODM3NjA1MDQ5
 LC0yMDUzMjEwNjgxLC0xOTMyODA4ODc2LC0xMzU3MDI2OTg2LC
 01NzIyNDU5MTMsLTc1OTY4Nzg5OSwtMTE0OTg0MjQ5MiwxNDE5
