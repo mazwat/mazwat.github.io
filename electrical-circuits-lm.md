@@ -188,12 +188,14 @@ $$ANSWER = 126\Omega(Ohms)$$\
 *Fig. 10 - Example 1 - Resistors in parallel*
 
 Working out the overall resistance in a parallel configuration is slightly more complicated. The total is the sum of all the resistor value as a fraction. The numerator is always one and the denominator is the value of the resistors. In this example, we have 4 resistors, 10, 10, 6 and 100. Therefore the equation is 1/10 + 1/10 + 1/6 + 1/100. Remember to do this as a sum of the fractions. The value is 113 over 300 which is the value of the conductance (g). To complete our calculation we use the reciprocal of G and the answer is a resistance of 2.65 ohms
+
+$$R =\frac {R} {R_{1}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkxNDk1OTYsMTY4MTE1NjQ3OSw5MT
-IwMTgxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5
-NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2OD
-U0MiwtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0x
-NzU5Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1OD
-A3MCw2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEw
-NTI0NzIzNjVdfQ==
+eyJoaXN0b3J5IjpbNTM3MDYxMTYsMTY4MTE1NjQ3OSw5MTIwMT
+gxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIx
+OCwtMTcwNDMzNzI2MCwtMTc1OTYxODkyMCwtMTEwMDQ2ODU0Mi
+wtMjAwMTIzMDM2Niw3Mzc5MjM5OTUsMjc0NDUyNDU5LC0xNzU5
+Mzg0ODAsMzEzMDQ5MTY4LDE5ODEzMzg0ODYsMjA4Mzk1ODA3MC
+w2NjE1OTg1NTgsLTIyMzMxOTgxOCw5NDI1MTg3NDksLTEwNTI0
+NzIzNjVdfQ==
 -->
