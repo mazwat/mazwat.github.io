@@ -25,8 +25,8 @@ page_nav: false
 
 Welcome to Week 2 of COMP140. This week we want you to consolidate the research from the previous week and develop your own response to the brief in Assignment 1.  What do you want to create as a custom control system? What game or experience do you want to control?  
 
-![Water Analogy](images/hitme.png)
-*Fig. 4 - Attribution: Hit Me! at Eyebeam Futures 2011  Photo by Shalin Scupham
+![Hit Me!](images/hitme.png)
+*Fig. 4 - Attribution: Hit Me! at Eyebeam Futures 2011  Photo by Shalin Scupham*
 
 ## Task
 
@@ -43,5 +43,5 @@ Write a **1 page proposal** for a novel game/experience and control system:
 
   **Please have a draft idea ready to share with your tutor in your seminar session.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNTg0NjU3XX0=
+eyJoaXN0b3J5IjpbMTAxMDMxNTA4N119
 -->
