@@ -78,14 +78,9 @@ We need to workout:
 
  - **Supply voltage** . We know that we are using a  Volt coin battery so our supply
 voltage is 3 volts.
--  **LED current** The standard load on an LED for an LED current is about  million.
-
-
-
-fcbff
-
-Milli amps is quite standard.
+-  **LED current** The standard load on an LED is about 20 milli amps
 The great thing with this this
+- Voltage drop - This is the voltage being used in the circuit 
 
 
 
@@ -1842,7 +1837,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMzE1NDA2LDM5MzcxNjkyOSwtNzkxNT
+eyJoaXN0b3J5IjpbOTgwMDcyMDkzLDM5MzcxNjkyOSwtNzkxNT
 c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
 LDIwMTA1MDI2MTBdfQ==
 -->
