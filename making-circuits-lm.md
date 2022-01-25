@@ -55,7 +55,7 @@ test the process before you implement it for real.
 
 Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly.
 
-Once we have the Led in ou
+Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appea
 
 
 
@@ -2066,7 +2066,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NTc5MDYxLC03OTE1NzgxMzUsLTY3MD
-MwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYx
-MF19
+eyJoaXN0b3J5IjpbLTU5NzE1NDcxNywtNzkxNTc4MTM1LC02Nz
+AzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2
+MTBdfQ==
 -->
