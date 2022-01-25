@@ -53,151 +53,14 @@ test the process before you implement it for real.
 *fig 2. - Simple Circuit*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. To wire something in TInkerCAD just pull away from the pinLED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly. The wires that you
+Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. To wire something in TInkerCAD just pull away from the pin or terminal of the battery or component and a line will appear. These line are equivalent to the jumper leads you use in a real circuit on a breadboard.
+
+LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly. 
 
 Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us tha the LED will burn out if we don't resist the flow of electricity.
 
 
 
-fdbeeccb
-
-the Ellie D and we know that. So
-you can see here in the Ellie D
-
-
-
--bcbe
-
-The in the positive on an alley
-on Eli D. The problem positive
-
-
-
-efbccb
-
-problem on Eli D is the longest
-one or as demonstrated here.
-
-
-
-dbdaa
-
-With this slightly kind of with
-a bit of a kink in it. This is
-
-
-
-cc
-
-the positive terminal for the
-Ellie D so.
-
-
-
--dbcc
-
-Because this is positive, just
-to make things clear, we're
-
-
-
-cdfa
-
-going to make this red. And then
-what we're going to do is draw
-
-
-
-effdd
-
-take another wire so these are
-the equivalent of jumper leads
-
-
-
-dfd
-
-or wires if you like between the
-different elements. OK, so there
-
-
-
-d
-
-we are. We've wired up our
-battery, so this is like a
-
-
-
-edc
-
-simple circuit that we saw
-earlier on where we've got our
-
-
-
--fca
-
-source of power. And then we've
-got the load that we want to
-
-
-
-dbaad
-
-drive, which is this lead.
-
-
-
-abebbfdef
-
-So if I start the simulation,
-you can see that it immediately
-
-
-
-fbc
-
-comes on and we've got lights
-coming out of RLED. However, you
-
-
-
-dbf
-
-can see that there is a question
-mark and that is becausw. We are
-
-
-
--ece
-
-putting too much power through
-the Ellie D and it needs to be
-
-
-
-cacab
-
-controlled. It needs to be. It
-needs to be managed and it's
-
-
-
-accaf
-
-being managed through the
-resistor. So we need to add a
-
-
-
-d-
-
-resistor to our circuit.
-
-
-
-ce
 
 Now in order to workout.
 
@@ -2066,7 +1929,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQwOTM1NiwtNzkxNTc4MTM1LC02Nz
-AzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2
-MTBdfQ==
+eyJoaXN0b3J5IjpbOTI3MTA4ODY3LC03OTE1NzgxMzUsLTY3MD
+MwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYx
+MF19
 -->
