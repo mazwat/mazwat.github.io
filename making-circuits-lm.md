@@ -28,41 +28,12 @@ The following materials are derived from the *Making Circuits lecture*. The vide
 
 In this lecture we will look at how to use TinkerCAD to make simple Electrical Circuits and the basics of your first program in Arduino.
 
-
-
-
-
+## Using TinkerCAD
 
 We have established some basics of electricity and circuits, so now we're going to put it into practice. Initially
-we're going to use a piece of software called
-Tinkercad. So if we just
+we're going to use a piece of software called Tinkercad. 
 
-
-
-fbff
-
-search for that.
-
-
-
--baaeae
-
-Tinkercad is a way to simulate
-circuits, electrical circuits,
-
-
-
-ddec
-
-but also to simulate its use
-with Arduino and other
-
-
-
-ac
-
-microcontrollers. So I'm just
-going to sign in.
+Tinkercad is a way to simulate electrical circuits, but also to simulate its use with Arduino and other microcontrollers. 
 
 
 
@@ -2209,5 +2180,5 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMyODQ2ODFdfQ==
+eyJoaXN0b3J5IjpbMTcxODgzMjcyMV19
 -->
