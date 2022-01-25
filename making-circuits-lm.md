@@ -96,7 +96,9 @@ If we start the simulation, we've now got the light coming on, but there's no ex
 
 ### Control Sytems - Adding a Switch
 
-We're going to put a switch in there, so we're going to.
+We're going to put a switch in there to allow a user to control the flow from the battery to the LED. To turn it on and off.
+
+https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
 
 
 
@@ -1608,8 +1610,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzND
-U3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5
-LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
-AzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbLTYwNTY1Njk0NCwxMDc0NTU1MDcsLTg2Nj
+Y5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3
+NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
+Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
