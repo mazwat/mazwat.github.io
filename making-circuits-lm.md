@@ -17,6 +17,9 @@ micro_nav: true
 
 # Page navigation
 page_nav:
+    prev:
+        content: Electrical Circuits
+        url: '../electrical-circuits-lm'
     next:
         content: Arduino
         url: '../arduino-lm'
@@ -2189,6 +2192,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjE3OTE5NiwxMjI2NDgwNTM0LDIxMD
+eyJoaXN0b3J5IjpbLTI0OTY1ODE5NSwxMjI2NDgwNTM0LDIxMD
 AzOTE1MDEsMjAxMDUwMjYxMF19
 -->
