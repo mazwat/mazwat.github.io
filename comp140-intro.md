@@ -42,11 +42,11 @@ page_nav: false
 #### 3 - [Arduino](../arduino-lm "Arduino Lecture Materials")
 #### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
 #### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
-#### 5 - [Unified Markup Language](../uml-lm "UML Lecture Materials")
-#### 6 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
-#### 7 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
+#### 6 - [Unified Markup Language](../uml-lm "UML Lecture Materials")
+#### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
+#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMxODMwNzEsLTIwNjk3MDE0MjksLT
-Y5NTcxODgzOSwtODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbLTM3Mzg0OTk4MiwtMjA2OTcwMTQyOSwtNj
+k1NzE4ODM5LC04ODM0OTc3MjFdfQ==
 -->
