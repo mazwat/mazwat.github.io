@@ -53,9 +53,9 @@ test the process before you implement it for real.
 *fig 2. - Simple Circuit*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly.
+Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. To wire something in TInkerCAD just pull away from the pinLED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly. The wires that you
 
-Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appea
+Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us tha the LED will burn out if we don't resist the flow of electricity.
 
 
 
@@ -2066,7 +2066,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzE1NDcxNywtNzkxNTc4MTM1LC02Nz
+eyJoaXN0b3J5IjpbLTM3NTQwOTM1NiwtNzkxNTc4MTM1LC02Nz
 AzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2
 MTBdfQ==
 -->
