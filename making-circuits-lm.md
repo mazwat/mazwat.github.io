@@ -37,7 +37,7 @@ In this lecture we will look at how to use TinkerCAD to make simple Electrical C
 We have established some basics of electricity and circuits, so now we're going to put it into practice. Initially
 we're going to use a piece of software called [Tinkercad](http://www.tinkercad.com/). 
 
-Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and components with Arduino and other microcontrollers. 
+Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and the components with Arduino and other microcontrollers. 
 
 
 
@@ -62,6 +62,7 @@ Once we have the Led in our circuit we have a put a 'load' on the circuit by int
 We need to add a resistor. In order to workout which resistor to use, we need to workout the resistance value and that is done by a resistance calculation which is:
   
 $$R = \frac{V_S - V_	L}{I_L}$$
+
 - **VS** is the source voltage, measured in volts (V),
 - **VL** is the voltage drop across the LED, in Volts (V),
 - **IL** is the current through the LED, in Amps (A)
@@ -75,7 +76,7 @@ This is a variation of **Ohms law**, but applied specifically to LED's. We can u
 
 
 We need to workout what our supply voltages is. We know that we are using a  Volt coin battery so our supply
-voltage is  3volts. Now the
+voltage is  3 volts. The
 
 
 
@@ -1846,7 +1847,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY1ODIyMjcsMzkzNzE2OTI5LC03OT
+eyJoaXN0b3J5IjpbLTE0ODEzMTMxOTYsMzkzNzE2OTI5LC03OT
 E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
 MDEsMjAxMDUwMjYxMF19
 -->
