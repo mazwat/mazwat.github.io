@@ -262,16 +262,16 @@ Future lectures will address how to make these circuits but also how to use them
 
 ## Video Lecture
 
-### Lecture - Arduino 
-<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+### Lecture - Understanf 
+<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/8ef62deb-499e-43d6-8036-0d307200f7f5?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAxMjEzOTIsLTE5NTIzNjQ5MzAsMT
-E2NzAxMjk4OCwtNzY4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3
-NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NT
-c5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5NjU0LDE2ODExNTY0Nzks
-OTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMj
-kzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0
-Njg1NDIsLTIwMDEyMzAzNjZdfQ==
+eyJoaXN0b3J5IjpbLTU3NDA0Njk2OSwtMTE2MDEyMTM5MiwtMT
+k1MjM2NDkzMCwxMTY3MDEyOTg4LC03NjgzNzEwMzYsLTIwOTMx
+ODAyNjksLTIwNDc0NzY0MDIsLTE1NjYyODkyMjcsLTE3MDI0ND
+I2NjQsMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQs
+MTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNz
+gxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYx
+ODkyMCwtMTEwMDQ2ODU0Ml19
 -->
