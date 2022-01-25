@@ -41,10 +41,8 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 
 ![Simple Circuit](images/tc-simple.png)
 *fig 1. - Other Microcontrollers*
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
-https://www.tinkercad.com/things/aefmW5mPE86-cool-hillar/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ
-
-https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
 
 
 
@@ -2192,6 +2190,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTY1ODE5NSwxMjI2NDgwNTM0LDIxMD
+eyJoaXN0b3J5IjpbLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
 AzOTE1MDEsMjAxMDUwMjYxMF19
 -->
