@@ -35,7 +35,7 @@ we're going to use a piece of software called Tinkercad.
 
 Tinkercad is a way to simulate electrical circuits, but also to simulate its use with Arduino and other microcontrollers. 
 
-
+https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
 
 ecced
 
@@ -2180,5 +2180,5 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbLTcwNDkxMDU5NiwyMDEwNTAyNjEwXX0=
 -->
