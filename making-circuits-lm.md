@@ -92,8 +92,7 @@ resistor in your pack when you actually physically wire in this together.
 *fig 4. - Simple Circuit with Resistor*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-So then if we start the
-simulation, we've now got the
+So then if we start thesimulation, we've now got the
 
 
 
@@ -1675,7 +1674,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0OD
-kyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwODg4
-MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbLTg4MjI1MTI5OCwtODM0NTc2MTgwLDgwNT
+c2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEz
+NSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMD
+EwNTAyNjEwXX0=
 -->
