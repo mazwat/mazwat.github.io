@@ -89,7 +89,7 @@ You won't necessarily have the exact resistor in your Arduino Kit, but you just 
 resistor in your pack when you actually physically wire this together. 
 
 ![Simple Circuit with resistor](images/rc-simple-resistor.png)
-*fig 4. - Simple Circuit with Resistor*\
+*fig 4. - Simple Circuit with Resistor*
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
 If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. It's something to be wary of becuause LED's can easily burn out.
@@ -98,7 +98,9 @@ If we start the simulation, we've now got the light coming on, but there's no ex
 
 We're going to put a switch in there to allow a user to control the flow from the battery to the LED. To turn it on and off.
 
-https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
+
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
+
 
 
 
@@ -1610,8 +1612,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTY1Njk0NCwxMDc0NTU1MDcsLTg2Nj
-Y5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3
-NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
-Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbOTAyNDU2NTQxLDEwNzQ1NTUwNywtODY2Nj
+kzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1
+LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNj
+Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
 -->
