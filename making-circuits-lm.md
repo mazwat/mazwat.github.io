@@ -83,11 +83,18 @@ The great thing with this this
 Once the numbers above are added to the calculator **3v, 20mA** and let's say it's a red LED so its **2v**. The output is this:
 
 ![Resistance Calculation](images/resist-calc.png)
-*fig 1. - Resistance Calculation*
+*fig 3. - Resistance Calculation*
 
 
 You won't necessarily have the exact resistor in your Arduino Kit, but you just want to round up to the closest
-resistor in your pack when you actually physically wire in this together. So then if we start the
+resistor in your pack when you actually physically wire in this together. 
+
+
+![Simple Circuit with resistor](images/tc-simple-resistor.png)
+*fig 4. - Simple Circuit with Resistor*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
+
+So then if we start the
 simulation, we've now got the
 
 
@@ -1670,7 +1677,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTk5Njc5MCwtMTQ4OTI5NDA3NSwzOT
-M3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1
-MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5Mz
+cxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUz
+NCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
 -->
