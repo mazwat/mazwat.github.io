@@ -37,6 +37,9 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate its use
 
 https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
 
+
+https://www.tinkercad.com/things/aefmW5mPE86-cool-hillar/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ
+
 ecced
 
 And you can see that what we
@@ -2180,5 +2183,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTE1NzkzMDI2NzEsMjEwMDM5MTUwMSwyMD
+EwNTAyNjEwXX0=
 -->
