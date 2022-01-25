@@ -59,6 +59,8 @@ LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and s
 
 Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us thar the LED will burn out if we don't resist the flow of electricity.
 
+### Resistance Calculation
+
 We need to add a resistor. In order to workout which resistor to use, we need to workout the resistance value and that is done by a resistance calculation which is:
   
 $$R = \frac{V_S - V_	L}{I_L}$$
@@ -67,8 +69,6 @@ $$R = \frac{V_S - V_	L}{I_L}$$
 - **VL** is the voltage drop across the LED, in Volts (V),
 - **IL** is the current through the LED, in Amps (A)
 - **R** is the resistance, measured in Ohms (Ω).
-
-
 
 This is a variation of **Ohms law**, but applied specifically to LED's. We can use an online calculator to make things easier:
 
@@ -80,7 +80,7 @@ We need to workout:
 voltage is 3 volts.
 -  **LED current** The standard load on an LED is about 20 milli amps
 The great thing with this this
-- Voltage drop - This is the voltage being used in the circuit 
+- **Voltage drop** - This is the voltage being used in the circuit by the LED
 
 
 
@@ -1837,7 +1837,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMDcyMDkzLDM5MzcxNjkyOSwtNzkxNT
-c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
-LDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbMTM4MzQwOTUxOSwzOTM3MTY5MjksLTc5MT
+U3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUw
+MSwyMDEwNTAyNjEwXX0=
 -->
