@@ -42,7 +42,7 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 ![Simple Circuit](images/tc-interface2.png)
 *fig 1. - TinkerCAD Interface*
 
-### TinkerCAD Inteface
+### TinkerCAD Interface
 
 What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it through a simulation (2 in fig. 1) of the Arduino environment. You can drag components on to the stage from the right hand inspector (3 in fig. 1). We can also write code in order to demonstrate it (1 in fig. 1). However, this is just a test environment it's important to actually use your own Arduino and the Arduino IDE in conjunction with the USB connection to your Arduino. This is just a way to
 test the process before you implement it for real.
@@ -1620,9 +1620,9 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMT
-A3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2
-MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLT
-Y3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUw
-MjYxMF19
+eyJoaXN0b3J5IjpbLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLT
+ExNDExNTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3
+NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC
+03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAz
+OTE1MDEsMjAxMDUwMjYxMF19
 -->
