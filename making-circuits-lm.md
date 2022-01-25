@@ -42,7 +42,7 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 
 
 ![Simple Circuit](images/tc-interface.png)
-*fig 1. - TinkerCAD Interface*\
+*fig 1. - TinkerCAD Interface*
 
 ### TinkerCAD Inteface
 
@@ -53,7 +53,9 @@ test the process before you implement it for real.
 *fig 2. - Simple Circuit*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-).
+Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly.
+
+Once we have the Led in ou
 
 
 
@@ -2064,6 +2066,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
-Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbODQ0NTc5MDYxLC03OTE1NzgxMzUsLTY3MD
+MwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYx
+MF19
 -->
