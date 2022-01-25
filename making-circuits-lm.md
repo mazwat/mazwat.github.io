@@ -82,9 +82,10 @@ voltage is 3 volts.
 The great thing with this this
 - **Voltage drop** - This is the voltage being used in the circuit by the LED. Typically, the forward voltage of an LED is between 1.8 and 3.3 volts. It varies by the color of the LED. A red LED typically drops around **1.7 to 2.0 volts**, but since both voltage drop and light frequency increase with band gap, a blue LED may drop around 3 to 3.3 volts.
 
-Once the numbers above are added to the calculator 3v, 20mA and let's say it's a red LED so its 2v
-And. We established that it was
-going to be .
+Once the numbers above are added to the calculator **3v, 20mA** and let's say it's a red LED so its **2v**. The output is this:
+
+![Resistance Calculation](images/resist-calc.png)
+*fig 1. - Resistance Calculation*
 
 
 
@@ -1714,7 +1715,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NzM5NjcwLDM5MzcxNjkyOSwtNzkxNT
-c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
-LDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbMTgyNDEyODI5NiwzOTM3MTY5MjksLTc5MT
+U3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUw
+MSwyMDEwNTAyNjEwXX0=
 -->
