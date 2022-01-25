@@ -96,46 +96,7 @@ If we start the simulation, we've now got the light coming on, but there's no ex
 
 ### Control Sytems - Adding a Switch
 
-
-eaabb
-
-circuit. It's working. We've got
-the power flowing through the
-
-
-
-dee
-
-from the battery through the
-resistor  already.
-
-
-
--cedfaff
-
-Which is providing the load
-and then the circuit is is
-
-
-
-b
-
-finished by sending to the
-negative terminal from the
-
-
-
-fcfcfd
-
-negative pin of the Ellie D.
-Just to finish this off,
-
-
-
-aceba
-
-we're going to put a switch
-in there, so we're going to.
+We're going to put a switch in there, so we're going to.
 
 
 
@@ -1647,8 +1608,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzQ0NTk5MSwtODY2NjkzODAwLC04Mz
-Q1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjky
-OSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMT
-AwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzND
+U3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5
+LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
+AzOTE1MDEsMjAxMDUwMjYxMF19
 -->
