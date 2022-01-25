@@ -262,16 +262,17 @@ Future lectures will address how to make these circuits but also how to use them
 
 ## Video Lecture
 
-### Lecture - Understanf 
+### Lecture - Understanding Electrical Circuits
+ 
 <iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/8ef62deb-499e-43d6-8036-0d307200f7f5?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDA0Njk2OSwtMTE2MDEyMTM5MiwtMT
-k1MjM2NDkzMCwxMTY3MDEyOTg4LC03NjgzNzEwMzYsLTIwOTMx
-ODAyNjksLTIwNDc0NzY0MDIsLTE1NjYyODkyMjcsLTE3MDI0ND
-I2NjQsMTE1NTY1Nzk5NywxNDg0NjgyMDkwLC01OTM3MTk2NTQs
-MTY4MTE1NjQ3OSw5MTIwMTgxNjYsLTExMjM2NDE0NDIsLTExNz
-gxNDk5NjQsMjAyOTM5NTIxOCwtMTcwNDMzNzI2MCwtMTc1OTYx
-ODkyMCwtMTEwMDQ2ODU0Ml19
+eyJoaXN0b3J5IjpbMjY1NDAxOTI5LC0xMTYwMTIxMzkyLC0xOT
+UyMzY0OTMwLDExNjcwMTI5ODgsLTc2ODM3MTAzNiwtMjA5MzE4
+MDI2OSwtMjA0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0Mj
+Y2NCwxMTU1NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwx
+NjgxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3OD
+E0OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4
+OTIwLC0xMTAwNDY4NTQyXX0=
 -->
