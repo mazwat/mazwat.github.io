@@ -260,13 +260,18 @@ In this lecture I have introduced the principle of electricity and how to create
 
 Future lectures will address how to make these circuits but also how to use them in concert with a microcontroller like the Arduino.
 
+## Video Lecture
+
+### Lecture - Arduino 
+<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIzNjQ5MzAsMTE2NzAxMjk4OCwtNz
-Y4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2
-Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4Mj
-A5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0x
-MTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MD
-QzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0Njg1NDIsLTIwMDEy
-MzAzNjYsNzM3OTIzOTk1XX0=
+eyJoaXN0b3J5IjpbLTExNjAxMjEzOTIsLTE5NTIzNjQ5MzAsMT
+E2NzAxMjk4OCwtNzY4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3
+NDc2NDAyLC0xNTY2Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NT
+c5OTcsMTQ4NDY4MjA5MCwtNTkzNzE5NjU0LDE2ODExNTY0Nzks
+OTEyMDE4MTY2LC0xMTIzNjQxNDQyLC0xMTc4MTQ5OTY0LDIwMj
+kzOTUyMTgsLTE3MDQzMzcyNjAsLTE3NTk2MTg5MjAsLTExMDA0
+Njg1NDIsLTIwMDEyMzAzNjZdfQ==
 -->
