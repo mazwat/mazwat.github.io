@@ -31,7 +31,7 @@ In this lecture we will look at how to use TinkerCAD to make simple Electrical C
 ## Using TinkerCAD
 
 We have established some basics of electricity and circuits, so now we're going to put it into practice. Initially
-we're going to use a piece of software called Tinkercad. 
+we're going to use a piece of software called [Tinkercad](http://www.tinkercad.com/). 
 
 Tinkercad is a way to simulate electrical circuits, but also to simulate its use with Arduino and other microcontrollers. 
 
@@ -2180,5 +2180,5 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDkxMDU5NiwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
