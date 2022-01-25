@@ -33,12 +33,17 @@ In this lecture we will look at how to use TinkerCAD to make simple Electrical C
 We have established some basics of electricity and circuits, so now we're going to put it into practice. Initially
 we're going to use a piece of software called [Tinkercad](http://www.tinkercad.com/). 
 
-Tinkercad is a way to simulate electrical circuits, but also to simulate its use with Arduino and other microcontrollers. 
+Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and components with Arduino and other microcontrollers. 
+
+![Simple Circuit](images/tc-simple.png)
+*fig 1. - Other Microcontrollers*
+
+https://www.tinkercad.com/things/aefmW5mPE86-cool-hillar/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ
 
 https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE
 
 
-https://www.tinkercad.com/things/aefmW5mPE86-cool-hillar/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ
+
 
 ecced
 
@@ -2183,6 +2188,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzMDI2NzEsMjEwMDM5MTUwMSwyMD
-EwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTkyNDYwMTUyOSwyMTAwMzkxNTAxLDIwMT
+A1MDI2MTBdfQ==
 -->
