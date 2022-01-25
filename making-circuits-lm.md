@@ -69,50 +69,7 @@ $$R = \frac{V_S - V_	L}{I_L}$$
 
 
 
-debdba
-
-I LED. This is where V is the
-source voltage measured in volts
-
-
-
--cadad
-
-where VLD is. The voltage drop
-across the LD measured in volts
-
-
-
-acc
-
-and ILD is the current through
-the energy measured in amps.
-
-
-
-cfa
-
-And finally, our is the
-resistance measured in ohms,
-
-
-
-fe
-
-so this is a variation of
-ohms law, but applied
-
-
-
-adfef
-
-specifically to Ellie D's.
-
-
-
-bda
-
-So we can use a Calculator.
+This is a variation of **Ohms law**, but applied specifically to LED's. We can use an online calculator to make things easier:
 
 
 
@@ -1918,7 +1875,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTA2NjU0NiwzOTM3MTY5MjksLTc5MT
-U3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUw
-MSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTE0NjU2MzE5NTksMzkzNzE2OTI5LC03OT
+E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
+MDEsMjAxMDUwMjYxMF19
 -->
