@@ -57,26 +57,10 @@ Here is a simple circuit. We need a source of power. So in this case we're going
 
 LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly. 
 
-Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us tha the LED will burn out if we don't resist the flow of electricity.
+Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us thar the LED will burn out if we don't resist the flow of electricity.
 
-
-
-
-Now in order to workout.
-
-
-
-ffc
-
-Our resistor we need to workout
-the resistance value and that is
-
-
-
-dffadc
-
-done by resistance calculation
-is R = V, S minus VLE D /
+We need to add a resistor. In order to workout which resistor to use, we need to workout
+the resistance value and that is done by a resistance calculation which is  R = V, S minus VLE D /
 
 
 
@@ -1929,7 +1913,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MTA4ODY3LC03OTE1NzgxMzUsLTY3MD
+eyJoaXN0b3J5IjpbMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MD
 MwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYx
 MF19
 -->
