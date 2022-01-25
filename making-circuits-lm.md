@@ -75,7 +75,7 @@ This is a variation of **Ohms law**, but applied specifically to LED's. We can u
 
 
 We need to workout what our supply voltages is. We know that we are using a  Volt coin battery so our supply
-voltage is  3volts. Now the
+voltage is  3 volts. The
 
 
 
@@ -1846,7 +1846,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY1ODIyMjcsMzkzNzE2OTI5LC03OT
-E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
-MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbNTgwMzczNjEsMzkzNzE2OTI5LC03OTE1Nz
+gxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEs
+MjAxMDUwMjYxMF19
 -->
