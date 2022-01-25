@@ -46,28 +46,8 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 
 ### TinkerCAD Inteface
 
-What tinkercad is very good at is simulating. The environment of Arduino so that we can build things wi we can test it
-through a simulation of the
-
-
-
-dcde
-
-Arduino environment. We can
-also write code in order to
-
-
-
-ec
-
-demonstrate it. However, is
-very important that you
-
-
-
-fc
-
-actually use your own Arduino
+What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it through a simulation (2 in fig. 2) of the Arduino environment. We can also write code in order to demonstrate it (1 in fig. 2). However,
+very importantactually use your own Arduino
 and you use the Arduino.
 
 
@@ -2147,6 +2127,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2ODA3NzU0LC02NzAzMDg4ODAsMTIyNj
+eyJoaXN0b3J5IjpbMTA5MjYxMTEwLC02NzAzMDg4ODAsMTIyNj
 Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
 -->
