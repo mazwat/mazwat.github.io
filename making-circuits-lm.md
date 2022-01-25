@@ -94,7 +94,7 @@ resistor in your pack when you actually physically wire this together.
 
 If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. It's something to be wary of becuause LED's can easily burn out.
 
-### Control Sytems - Adding a Switch
+### Control Systems - A Switch
 
 We're going to put a switch in there to allow a user to control the flow from the battery to the LED. To turn it on and off.
 
@@ -103,6 +103,7 @@ In this example we are going to change the configuration slightly by including a
 ![Breadboard](images/board-bread.png)
 *fig 5. - Rails on a Breadboard*
 
+Breadboards allow us to create complex layouts of components without having to solder. it's a
 
 ![Simple Circuit with resistor](images/tc-simple-switch.png)
 *fig 5. - Simple Circuit with Switch*
@@ -1619,7 +1620,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MDQzNzcxLDEwNzQ1NTUwNywtODY2Nj
+eyJoaXN0b3J5IjpbLTg1ODk3OTQ3LDEwNzQ1NTUwNywtODY2Nj
 kzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1
 LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNj
 Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
