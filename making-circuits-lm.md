@@ -71,40 +71,11 @@ $$R = \frac{V_S - V_	L}{I_L}$$
 
 This is a variation of **Ohms law**, but applied specifically to LED's. We can use an online calculator to make things easier:
 
+[https://www.hobby-hour.com/electronics/ledcalc.php](https://www.hobby-hour.com/electronics/ledcalc.php)
 
 
-dbbab
-
-This example here is a
-Calculator which will calculate
-
-
-
--feb
-
-the resistance that we need. The
-type of resistor that we need to
-
-
-
--dfbf
-
-use. So what we need to do is
-first of all we need to workout
-
-
-
--ffb
-
-what our supply voltages so we
-know that we are using a  Volt
-
-
-
-cbfcbf
-
-coin battery so our supply
-voltage is  volts. Now the
+We need to workout what our supply voltages is. We know that we are using a  Volt coin battery so our supply
+voltage is  3volts. Now the
 
 
 
@@ -1875,7 +1846,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU2MzE5NTksMzkzNzE2OTI5LC03OT
+eyJoaXN0b3J5IjpbLTEyODY1ODIyMjcsMzkzNzE2OTI5LC03OT
 E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
 MDEsMjAxMDUwMjYxMF19
 -->
