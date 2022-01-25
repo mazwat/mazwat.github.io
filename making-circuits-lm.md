@@ -70,7 +70,7 @@ $$R = \frac{V_S - V_	L}{I_L}$$
 
 This is a variation of **Ohms law**, but applied specifically to LED's. We can use an online calculator to make things easier:
 
-[https://www.hobby-hour.com/electronics/ledcalc.php](https://www.hobby-hour.com/electronics/ledcalc.php)
+**[https://www.hobby-hour.com/electronics/ledcalc.php](https://www.hobby-hour.com/electronics/ledcalc.php)**
 
 We need to workout:
 
@@ -1647,8 +1647,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMzE5MDE1LC04NjY2OTM4MDAsLTgzND
-U3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5
-LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
-AzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbMTM2MzQ0NTk5MSwtODY2NjkzODAwLC04Mz
+Q1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjky
+OSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMT
+AwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
 -->
