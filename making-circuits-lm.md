@@ -86,7 +86,7 @@ Once the numbers above are added to the calculator **3v, 20mA** and let's say it
 *fig 3. - Resistance Calculation*
 
 You won't necessarily have the exact resistor in your Arduino Kit, but you just want to round up to the closest
-resistor in your pack when you actually physically wire in this together. 
+resistor in your pack when you actually physically wire this together. 
 
 ![Simple Circuit with resistor](images/rc-simple-resistor.png)
 *fig 4. - Simple Circuit with Resistor*\
@@ -1647,8 +1647,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjY5MzgwMCwtODM0NTc2MTgwLDgwNT
-c2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEz
-NSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMD
-EwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbNzkyMzE5MDE1LC04NjY2OTM4MDAsLTgzND
+U3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5
+LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
+AzOTE1MDEsMjAxMDUwMjYxMF19
 -->
