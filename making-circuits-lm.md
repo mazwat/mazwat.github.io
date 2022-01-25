@@ -62,6 +62,19 @@ Once we have the Led in our circuit we have a put a 'load' on the circuit by int
 We need to add a resistor. In order to workout which resistor to use, we need to workout
 the resistance value and that is done by a resistance calculation which is  R = V, S minus VLE D /
 
+  
+$$R = \frac{V_S - V_	L_}{R_1 + R_2}$$
+  
+
+  
+
+  
+
+- **VS** is the source voltage, measured in volts (V),
+- **VLED** is the voltage drop across the LED, in Volts (V),
+- **ILED** is the current through the LED, in Amps (A)
+- **R** is the resistance, measured in Ohms (Ω).
+
 
 
 debdba
@@ -1913,7 +1926,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MD
-MwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYx
-MF19
+eyJoaXN0b3J5IjpbMTMzNTk1MDExNSwzOTM3MTY5MjksLTc5MT
+U3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUw
+MSwyMDEwNTAyNjEwXX0=
 -->
