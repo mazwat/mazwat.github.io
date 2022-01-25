@@ -18,8 +18,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: Arduino
-        url: '../arduino-lm'
+        content: Making Circuits
+        url: '../making-circuits-lm'
 ---
 
 # Electrical Circuits
@@ -268,11 +268,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NDAxOTI5LC0xMTYwMTIxMzkyLC0xOT
-UyMzY0OTMwLDExNjcwMTI5ODgsLTc2ODM3MTAzNiwtMjA5MzE4
-MDI2OSwtMjA0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0Mj
-Y2NCwxMTU1NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwx
-NjgxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0MiwtMTE3OD
-E0OTk2NCwyMDI5Mzk1MjE4LC0xNzA0MzM3MjYwLC0xNzU5NjE4
-OTIwLC0xMTAwNDY4NTQyXX0=
+eyJoaXN0b3J5IjpbMTAxNTkyOTQyMiwyNjU0MDE5MjksLTExNj
+AxMjEzOTIsLTE5NTIzNjQ5MzAsMTE2NzAxMjk4OCwtNzY4Mzcx
+MDM2LC0yMDkzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2Mjg5Mj
+I3LC0xNzAyNDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4MjA5MCwt
+NTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0xMTIzNj
+QxNDQyLC0xMTc4MTQ5OTY0LDIwMjkzOTUyMTgsLTE3MDQzMzcy
+NjAsLTE3NTk2MTg5MjBdfQ==
 -->
