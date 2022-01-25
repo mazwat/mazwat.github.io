@@ -92,35 +92,7 @@ resistor in your pack when you actually physically wire in this together.
 *fig 4. - Simple Circuit with Resistor*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-So then if we start thesimulation, we've now got the
-
-
-
-bf
-
-light coming on, but there's no.
-There's no sort of exclamation
-
-
-
-fff
-
-mark which is, so there's no
-warning. We're not. We're not
-
-
-
-dfcf
-
-over powering the LED 'cause you
-can burn leads out if you have
-
-
-
-ab
-
-don't have the correct resistor
-in the circuit is a nice simple
+If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. it's something to be wary of becuase LED's can easily burn out.
 
 
 
@@ -1674,8 +1646,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjI1MTI5OCwtODM0NTc2MTgwLDgwNT
-c2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEz
-NSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMD
-EwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTEzOTE4MDg1MjMsLTgzNDU3NjE4MCw4MD
+U3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1Nzgx
+MzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMj
+AxMDUwMjYxMF19
 -->
