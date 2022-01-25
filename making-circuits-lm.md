@@ -105,7 +105,7 @@ In this example we are going to change the configuration slightly by including a
 
 Breadboards allow us to create complex layouts of components without having to solder. It's an electronics sandbox environment.
 
-![Simple Circuit with resistor](images/tc-simple-switch.png)
+![Simple Circuit with resistor](images/tc-circuit-switch.png)
 *fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
@@ -1620,8 +1620,9 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDExNTY4NzMsMTA3NDU1NTA3LC04Nj
-Y2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQw
-NzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMj
-I2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMT
+A3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2
+MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLT
+Y3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUw
+MjYxMF19
 -->
