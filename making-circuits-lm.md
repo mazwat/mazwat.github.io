@@ -94,6 +94,7 @@ resistor in your pack when you actually physically wire in this together.
 
 If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. it's something to be wary of becuase LED's can easily burn out.
 
+### Control Sytems - Adding a switch
 
 
 eaabb
@@ -1646,8 +1647,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE4MDg1MjMsLTgzNDU3NjE4MCw4MD
-U3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1Nzgx
-MzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMj
-AxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbMTMwNjExNjgzNSwtODM0NTc2MTgwLDgwNT
+c2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEz
+NSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMD
+EwNTAyNjEwXX0=
 -->
