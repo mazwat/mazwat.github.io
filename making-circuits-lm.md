@@ -98,7 +98,10 @@ If we start the simulation, we've now got the light coming on, but there's no ex
 
 We're going to put a switch in there to allow a user to control the flow from the battery to the LED. To turn it on and off.
 
+In this example we are going to change the configuration slightly by including a breadboard. A breadboard is essentially a set of re
 
+![Simple Circuit with resistor](images/tc-simple-switch.png)
+*fig 5. - Simple Circuit with Switch*
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
 
@@ -1612,7 +1615,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNDU2NTQxLDEwNzQ1NTUwNywtODY2Nj
+eyJoaXN0b3J5IjpbNjE4NDA3Njc0LDEwNzQ1NTUwNywtODY2Nj
 kzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1
 LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNj
 Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
