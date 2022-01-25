@@ -42,7 +42,7 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 
 
 ![Simple Circuit](images/tc-interface.png)
-*fig 1. - TinkerCAD Interface*\
+*fig 1. - TinkerCAD Interface*
 
 ### TinkerCAD Inteface
 
@@ -53,247 +53,29 @@ test the process before you implement it for real.
 *fig 2. - Simple Circuit*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-).
+Here is a simple circuit. We need a source of power. So in this case we're going to use a simple coin battery, and we're going to have a light an LED, and basically all we need to do is wire the two together. To wire something in TInkerCAD just pull away from the pin or terminal of the battery or component and a line will appear. These line are equivalent to the jumper leads you use in a real circuit on a breadboard.
 
+LED's have a longer pin and a shorter pin. The  longer pin is positive (+) and shorter is negative (-). So we wire the LED accordingly. 
 
+Once we have the Led in our circuit we have a put a 'load' on the circuit by introducing the LED which is using power. If you start the simulation you can see that the load is too much for the LED, a questions mark appears warning us thar the LED will burn out if we don't resist the flow of electricity.
 
-fdbeeccb
+We need to add a resistor. In order to workout which resistor to use, we need to workout the resistance value and that is done by a resistance calculation which is:
+  
+$$R = \frac{V_S - V_	L}{I_L}$$
+- **VS** is the source voltage, measured in volts (V),
+- **VL** is the voltage drop across the LED, in Volts (V),
+- **IL** is the current through the LED, in Amps (A)
+- **R** is the resistance, measured in Ohms (Ω).
 
-the Ellie D and we know that. So
-you can see here in the Ellie D
 
 
+This is a variation of **Ohms law**, but applied specifically to LED's. We can use an online calculator to make things easier:
 
--bcbe
+[https://www.hobby-hour.com/electronics/ledcalc.php](https://www.hobby-hour.com/electronics/ledcalc.php)
 
-The in the positive on an alley
-on Eli D. The problem positive
 
-
-
-efbccb
-
-problem on Eli D is the longest
-one or as demonstrated here.
-
-
-
-dbdaa
-
-With this slightly kind of with
-a bit of a kink in it. This is
-
-
-
-cc
-
-the positive terminal for the
-Ellie D so.
-
-
-
--dbcc
-
-Because this is positive, just
-to make things clear, we're
-
-
-
-cdfa
-
-going to make this red. And then
-what we're going to do is draw
-
-
-
-effdd
-
-take another wire so these are
-the equivalent of jumper leads
-
-
-
-dfd
-
-or wires if you like between the
-different elements. OK, so there
-
-
-
-d
-
-we are. We've wired up our
-battery, so this is like a
-
-
-
-edc
-
-simple circuit that we saw
-earlier on where we've got our
-
-
-
--fca
-
-source of power. And then we've
-got the load that we want to
-
-
-
-dbaad
-
-drive, which is this lead.
-
-
-
-abebbfdef
-
-So if I start the simulation,
-you can see that it immediately
-
-
-
-fbc
-
-comes on and we've got lights
-coming out of RLED. However, you
-
-
-
-dbf
-
-can see that there is a question
-mark and that is becausw. We are
-
-
-
--ece
-
-putting too much power through
-the Ellie D and it needs to be
-
-
-
-cacab
-
-controlled. It needs to be. It
-needs to be managed and it's
-
-
-
-accaf
-
-being managed through the
-resistor. So we need to add a
-
-
-
-d-
-
-resistor to our circuit.
-
-
-
-ce
-
-Now in order to workout.
-
-
-
-ffc
-
-Our resistor we need to workout
-the resistance value and that is
-
-
-
-dffadc
-
-done by resistance calculation
-is R = V, S minus VLE D /
-
-
-
-debdba
-
-I LED. This is where V is the
-source voltage measured in volts
-
-
-
--cadad
-
-where VLD is. The voltage drop
-across the LD measured in volts
-
-
-
-acc
-
-and ILD is the current through
-the energy measured in amps.
-
-
-
-cfa
-
-And finally, our is the
-resistance measured in ohms,
-
-
-
-fe
-
-so this is a variation of
-ohms law, but applied
-
-
-
-adfef
-
-specifically to Ellie D's.
-
-
-
-bda
-
-So we can use a Calculator.
-
-
-
-dbbab
-
-This example here is a
-Calculator which will calculate
-
-
-
--feb
-
-the resistance that we need. The
-type of resistor that we need to
-
-
-
--dfbf
-
-use. So what we need to do is
-first of all we need to workout
-
-
-
--ffb
-
-what our supply voltages so we
-know that we are using a  Volt
-
-
-
-cbfcbf
-
-coin battery so our supply
-voltage is  volts. Now the
+We need to workout what our supply voltages is. We know that we are using a  Volt coin battery so our supply
+voltage is  3volts. Now the
 
 
 
@@ -2064,6 +1846,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
-Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTEyODY1ODIyMjcsMzkzNzE2OTI5LC03OT
+E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
+MDEsMjAxMDUwMjYxMF19
 -->
