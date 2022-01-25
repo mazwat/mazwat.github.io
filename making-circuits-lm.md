@@ -80,131 +80,10 @@ We need to workout:
 voltage is 3 volts.
 -  **LED current** The standard load on an LED is about 20 milli amps
 The great thing with this this
-- **Voltage drop** - This is the voltage being used in the circuit by the LED. Typically, the forward voltage of an LED is **between 1.8 and 3.3 volts**. It varies by the color of the LED. A red LED typically drops around 1.7 to 2.0 volts, but since both voltage drop and light frequency increase with band gap, a blue LED may drop around 3 to 3.3 volts.
+- **Voltage drop** - This is the voltage being used in the circuit by the LED. Typically, the forward voltage of an LED is **between 1.8 and 3.3 volts. It varies by the color of the LED. A red LED typically drops around **1.7 to 2.0 volts**, but since both voltage drop and light frequency increase with band gap, a blue LED may drop around 3 to 3.3 volts.
 
 
-
-bdb
-
-Calculator is it actually tells
-you the different colors and you
-
-
-
-fe
-
-get different value.
-
-
-
-eefbad
-
-And this is what's known as
-the voltage drop.
-
-
-
-adf
-
-Or the direct voltage. So this
-is what will be. This is the
-
-
-
-cb
-
-valves that's being drawn by the
-the validian so that this is
-
-
-
-bbdc
-
-being taken away in the equation
-that you saw earlier on, we've
-
-
-
--aeeecf
-
-got one LED and then we can
-calculate and you can put it to
-
-
-
--ade
-
-with the percentage of accuracy.
-So the type of resistor that we
-
-
-
--eded
-
-want is either the higher is a
- or , so that means we need
-
-
-
-cfae
-
-to. So let's go with the higher
-one and let's say it's .
-
-
-
--afccd
-
-At the symbol here.  homes.
-
-
-
-befdb
-
-Resistor, so if we now go back
-to here and we select a resistor
-
-
-
-aaafce
-
-from the top.
-
-
-
--adc
-
-And we're going to put the
-resistor between.
-
-
-
-d
-
-Let's turn that resist around.
-
-
-
-afdba
-
-The resistor between.
-
-
-
-dbe
-
-And we'll make this red as well,
-just so that we are showing the
-
-
-
--cdc
-
-positive side of our circuit.
-
-
-
-becce
+If you add the numersbecce
 
 And. We established that it was
 going to be .
@@ -1837,7 +1716,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTI0OTMwLDM5MzcxNjkyOSwtNzkxNT
+eyJoaXN0b3J5IjpbNzYwMTUwNTM1LDM5MzcxNjkyOSwtNzkxNT
 c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
 LDIwMTA1MDI2MTBdfQ==
 -->
