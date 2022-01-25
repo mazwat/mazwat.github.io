@@ -40,56 +40,13 @@ we're going to use a piece of software called [Tinkercad](http://www.tinkercad.c
 Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and components with Arduino and other microcontrollers. 
 
 ![Simple Circuit](images/tc-simple.png)
-*fig 1. - Other Microcontrollers*
+*fig 1. - Simple Circuit*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
 
+### TinkerCAD Inteface
 
-
-
-ecced
-
-And you can see that what we
-have here is a the interface of
-
-
-
-aad
-
-Tinker CAD and we're going to go
-to the circuit section and we're
-
-
-
-ddccc
-
-going to create a new circuit.
-
-
-
-dfa
-
-What tinkercad is very good at
-
-
-
-aafd
-
-is simulating. The
-environment of Arduino so
-
-
-
-
-
-that we can build some base
-we can put together basic
-
-
-
-ff
-
-components and we can test it
+What tinkercad is very good at is simulating. The environment of Arduino so that we can build things wi we can test it
 through a simulation of the
 
 
@@ -2190,6 +2147,6 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMD
-AzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbOTQ2ODA3NzU0LC02NzAzMDg4ODAsMTIyNj
+Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
 -->
