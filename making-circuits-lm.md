@@ -39,8 +39,6 @@ we're going to use a piece of software called [Tinkercad](http://www.tinkercad.c
 
 Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and their use with a range of components as well as Arduino and other microcontrollers. 
 
-
-
 ![Simple Circuit](images/tc-interface2.png)
 *fig 1. - TinkerCAD Interface*
 
@@ -88,51 +86,8 @@ Once the numbers above are added to the calculator **3v, 20mA** and let's say it
 *fig 1. - Resistance Calculation*
 
 
-
-cad
-
-I believe that was  ohms, so
-we don't want Killer owns. We
-
-
-
-db
-
-just want ohms. We say .
-
-
-
-ef
-
-Now you may have in your
-Arduino kit. You won't
-
-
-
-adcafa
-
-necessarily have the exact
-resistor, but you just want to
-
-
-
-adea
-
-round up to the closest
-resistor in your pack when you
-
-
-
-dbd
-
-actually physically wire in
-this together.
-
-
-
-ab
-
-So then if we start the
+You won't necessarily have the exact resistor in your Arduino Kit, but you just want to round up to the closest
+resistor in your pack when you actually physically wire in this together. So then if we start the
 simulation, we've now got the
 
 
@@ -1715,7 +1670,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OT
-E1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1
-MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbMTczMTk5Njc5MCwtMTQ4OTI5NDA3NSwzOT
+M3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1
+MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
