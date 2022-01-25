@@ -98,7 +98,11 @@ If we start the simulation, we've now got the light coming on, but there's no ex
 
 We're going to put a switch in there to allow a user to control the flow from the battery to the LED. To turn it on and off.
 
-In this example we are going to change the configuration slightly by including a breadboard. A breadboard is essentially a set of re
+In this example we are going to change the configuration slightly by including a breadboard. A breadboard is essentially a set of rails that conduct the power through channels either horizontally or vertically depending on the rail. See the image below to see how this occurs on the board:
+
+![Breadboard](images/tc-simple-switch.png)
+*fig 5. - Rails on a *
+
 
 ![Simple Circuit with resistor](images/tc-simple-switch.png)
 *fig 5. - Simple Circuit with Switch*
@@ -1615,8 +1619,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NDA3Njc0LDEwNzQ1NTUwNywtODY2Nj
-kzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1
-LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNj
-Q4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbMTYyMTE4Njg1NSwxMDc0NTU1MDcsLTg2Nj
+Y5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3
+NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
+Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
