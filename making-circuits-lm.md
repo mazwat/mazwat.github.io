@@ -39,14 +39,12 @@ we're going to use a piece of software called [Tinkercad](http://www.tinkercad.c
 
 Tinkercad is a way to simulate electrical circuits, but also to simulate circuits and their use with a range of components as well as Arduino and other microcontrollers. 
 
-
-
 ![Simple Circuit](images/tc-interface2.png)
 *fig 1. - TinkerCAD Interface*
 
 ### TinkerCAD Inteface
 
-What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it through a simulation (2 in fig. 1) of the Arduino environment. We can also write code in order to demonstrate it (1 in fig. 1). However, this is just a test environment it's important to actually use your own Arduino and the Arduino IDE in conjunction with the USB connection to your Arduino. This is just a way to
+What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it through a simulation (2 in fig. 1) of the Arduino environment. You can drag components on to the stage from the right hand inspector (3 in fig. 1). We can also write code in order to demonstrate it (1 in fig. 1). However, this is just a test environment it's important to actually use your own Arduino and the Arduino IDE in conjunction with the USB connection to your Arduino. This is just a way to
 test the process before you implement it for real.
 
 ![Simple Circuit](images/tc-simple.png)
@@ -82,86 +80,21 @@ voltage is 3 volts.
 The great thing with this this
 - **Voltage drop** - This is the voltage being used in the circuit by the LED. Typically, the forward voltage of an LED is between 1.8 and 3.3 volts. It varies by the color of the LED. A red LED typically drops around **1.7 to 2.0 volts**, but since both voltage drop and light frequency increase with band gap, a blue LED may drop around 3 to 3.3 volts.
 
-Once the numbers above are added to the calculator 3v, 20mA and let's say it's a red LED so its 2v
-And. We established that it was
-going to be .
+Once the numbers above are added to the calculator **3v, 20mA** and let's say it's a red LED so its **2v**. The output is this:
 
+![Resistance Calculation](images/resist-calc.png)
+*fig 3. - Resistance Calculation*
 
+You won't necessarily have the exact resistor in your Arduino Kit, but you just want to round up to the closest
+resistor in your pack when you actually physically wire in this together. 
 
-cad
+![Simple Circuit with resistor](images/tc-simple-resistor.png)
+*fig 4. - Simple Circuit with Resistor*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
-I believe that was  ohms, so
-we don't want Killer owns. We
+If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. It's something to be wary of becuause LED's can easily burn out.
 
-
-
-db
-
-just want ohms. We say .
-
-
-
-ef
-
-Now you may have in your
-Arduino kit. You won't
-
-
-
-adcafa
-
-necessarily have the exact
-resistor, but you just want to
-
-
-
-adea
-
-round up to the closest
-resistor in your pack when you
-
-
-
-dbd
-
-actually physically wire in
-this together.
-
-
-
-ab
-
-So then if we start the
-simulation, we've now got the
-
-
-
-bf
-
-light coming on, but there's no.
-There's no sort of exclamation
-
-
-
-fff
-
-mark which is, so there's no
-warning. We're not. We're not
-
-
-
-dfcf
-
-over powering the LED 'cause you
-can burn leads out if you have
-
-
-
-ab
-
-don't have the correct resistor
-in the circuit is a nice simple
-
+### Control Sytems - Adding a Switch
 
 
 eaabb
@@ -1714,7 +1647,8 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NzM5NjcwLDM5MzcxNjkyOSwtNzkxNT
-c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
-LDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbODY0MjQyNTgyLC04MzQ1NzYxODAsODA1Nz
+Y0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1
+LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMT
+A1MDI2MTBdfQ==
 -->
