@@ -74,9 +74,11 @@ This is a variation of **Ohms law**, but applied specifically to LED's. We can u
 
 [https://www.hobby-hour.com/electronics/ledcalc.php](https://www.hobby-hour.com/electronics/ledcalc.php)
 
-We need to workout what our supply voltages is. We know that we are using a  Volt coin battery so our supply
-voltage is 3 volts. The standard load on an LED for an
-LED current is about  million.
+We need to workout:
+
+ - **Supply voltage** . We know that we are using a  Volt coin battery so our supply
+voltage is 3 volts.
+-  **LED current** The standard load on an LED for an LED current is about  million.
 
 
 
@@ -1840,7 +1842,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDkxMzczNSwzOTM3MTY5MjksLTc5MT
-U3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUw
-MSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbNTkzMzE1NDA2LDM5MzcxNjkyOSwtNzkxNT
+c4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAx
+LDIwMTA1MDI2MTBdfQ==
 -->
