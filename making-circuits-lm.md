@@ -89,7 +89,7 @@ You won't necessarily have the exact resistor in your Arduino Kit, but you just 
 resistor in your pack when you actually physically wire this together. 
 
 ![Simple Circuit with resistor](images/rc-simple-resistor.png)
-*fig 4. - Simple Circuit with Resistor*
+*fig 4. - Simple Circuit with Resistor*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
 
 If we start the simulation, we've now got the light coming on, but there's no exclamation mark as we no longer over powering the LED. It's something to be wary of becuause LED's can easily burn out.
@@ -106,7 +106,7 @@ In this example we are going to change the configuration slightly by including a
 Breadboards allow us to create complex layouts of components without having to solder. It's an electronics sandbox environment.
 
 ![Simple Circuit with resistor](images/tc-simple-switch.png)
-*fig 5. - Simple Circuit with Switch*
+*fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
 
@@ -1620,7 +1620,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTEwNDIzOSwxMDc0NTU1MDcsLTg2Nj
+eyJoaXN0b3J5IjpbMTIxNzEwMzYwMCwxMDc0NTU1MDcsLTg2Nj
 Y5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3
 NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMj
 Y0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
