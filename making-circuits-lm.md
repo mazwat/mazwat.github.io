@@ -118,7 +118,7 @@ A switch is a means to interrupt the flow of electricity in a basic **single thr
 ![Switch](images/switch.jpg)
 *fig 7. - Double Throw Switch\
 
-When the switch is in one position, the common terminal is connected to the A terminal, so current flows from the common terminal to the A terminal but no current flows to the B terminal. When the switch is moved to its other position, the terminal connections are reversed: current flows from the common terminal to the B terminal, but no current flows though the A terminal. Essentially this means we can use the pins to choose whether the switch starts in the on position of the off position.
+When the switch is in one position, the common terminal is connected to the A terminal, so current flows from the common terminal to the A terminal but no current flows to the B terminal. When the switch is moved to its other position, the terminal connections are reversed: current flows from the common terminal to the B terminal, but no current flows though the A terminal. Essentially this means we can use the pins to choose whether the switch starts in the **on position** or the **off position**.
 
 e
 
@@ -1628,10 +1628,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNz
-UyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0
-NDc4MjIsLTExNDExNTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MD
-AsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkz
-NzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNT
-M0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbOTExMzE1MDA3LC0xNzczNjc5Mjg1LC01Mz
+AzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOTE2Njkx
+NjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1NTUwNy
+wtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5
+Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4OD
+AsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
+
 -->
