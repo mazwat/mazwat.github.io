@@ -147,18 +147,20 @@ void loop()
 ```
 The important thing to note here is that ``LED_BUILTIN`` refers to the LED that is built in to the Arduino board as well as pin 13. When you run this sketch not only does it light the LED on our breadboard it also lights the on on the board near pin 13. 
 
-``pinMode`` - Configures the specified pin to behave either as an input or an output. 
-``digitalWrite`` - Sets the pin to either **on** (HIGH) or **off** (LOW)
-``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
+ - ``pinMode`` - Configures the specified pin to behave either as an input or an output. 
+- ``digitalWrite`` - Sets the pin to either **on** (HIGH) or **off** (LOW)
+- ``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
+
+You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0Nj
-kyMDE2NDEsLTE1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAw
-Mzg1LC0yMDk1MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLD
-I3NjA4OTY5MiwtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMw
-MzY2NzE5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MT
-Y2OCwtMTQzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcs
-LTg2NjY5MzgwMF19
+eyJoaXN0b3J5IjpbLTYyNzg2NjcxMSwxNTk4NDgxNTAyLDEyND
+gxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2
+NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MC
+w0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzcz
+Njc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4Nz
+UxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODcz
+LDEwNzQ1NTUwN119
 -->
