@@ -589,21 +589,19 @@ Rather than program each new set up for every junction we create a class with in
 
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
 
-CLICK
+Let’s take a look at this in TinkerCAD
+
+### Creating Libraries and Extension in C++
 
 In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main program.cs file.
-
-CLICK
 
 In C++ if we want to start developing objects, classes and eventually full fledged libraries. We create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a CPP files which is a standard C++ file which will contain our extension or class and then we also need additionally a header file that has the extension (.h).
 
 In C++ the header file contains:
 
-Function definitions
-
-Data type definitions
-
-Macros
+ - Function definitions
+ - Data type definitions
+ - Macros
 
 The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file.
 
@@ -639,7 +637,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1NjE4OTUsODk4ODM0ODUsLTEyMj
+eyJoaXN0b3J5IjpbLTExMTE2NzYzNzAsODk4ODM0ODUsLTEyMj
 YzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1
 MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNT
 IyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
