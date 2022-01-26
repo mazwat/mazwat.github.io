@@ -71,7 +71,7 @@ OOP has a number of key concepts that we need to understand in order to make eff
 ### OOP in Unity
 
 ![Unity Class](images/unity-class.png)
-*fig. 1 - Game objects*
+*fig. 2 - Unity Class*
 
 Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
 
@@ -115,6 +115,7 @@ Character guide = new Character();
 ### Classes are Blueprints
 
 ![Unity Class](images/blueprint.jpg)
+*fig. 3 - A class is a blueprint*
 
 A class is a potential object, it is the instructions to create a real object in our code, like a blueprint. Like the relationship between a recipe to make a doughnut and the actual doughnuts that are produced. This is the best way to understand the concept.
 
@@ -170,8 +171,9 @@ public class Character
 ###  Public Variables in Unity
 
 ![Unity Public Variables](images/unity-variable.jpg)
+*fig. 2 - Unity Class*
 
-Unity is by its very nature object oriented, so the principles are applied every time you create a script file which automatically creates a class. In Unity when we create a public variable in code it is made available to the inspector and we can assign a value to that variable from the unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
+Unity is by its very nature object oriented, so the principles are applied every time you create a script file which automatically creates a class. In Unity when we create a public variable in code it is made available to the inspector and we can assign a value to that variable from the Unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
 
 ### Accessing Variables
 
@@ -645,7 +647,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDczODEzNSw4OTg4MzQ4NSwtMTIyNj
+eyJoaXN0b3J5IjpbMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNj
 MzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUy
 MDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01Mj
 I1NTEzMjQsMjAxNDE1Mjg2MV19
