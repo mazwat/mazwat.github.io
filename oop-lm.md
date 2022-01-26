@@ -171,7 +171,7 @@ public class Character
 ###  Public Variables in Unity
 
 ![Unity Public Variables](images/unity-variable.jpg)
-*fig. 2 - Unity Class*
+*fig. 4 - Public Variable*
 
 Unity is by its very nature object oriented, so the principles are applied every time you create a script file which automatically creates a class. In Unity when we create a public variable in code it is made available to the inspector and we can assign a value to that variable from the Unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
 
@@ -182,6 +182,7 @@ So if we stretch our slightly tenuous doughnut analogy. The doughnuts on the she
 ## Methods
 
 ![Methods Factory Analogy](images/methods.png)
+*fig. 5 - Methods*
 
 We can use another analogy to describe how methods works, which is that of the factory. A method like a factory is a process that takes an input or multiple inputs to make it work and then it has a return or an output which is the final result of the processes undertaken in the method.  
 The analogy slightly breaks down, as it is not always essential for a method to have an input or an output to function. For instance a ``getTime`` methods does not need an input to tell you the time.
@@ -244,10 +245,12 @@ int playerHealth = hero.updateHealthAndStrength(20, 15);
 It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
 
 ![Memory Allocation of new spaces](images/memory1.png)
+*fig. 6 - Memory Allocation*
 
 However if you create new instances of the class that are referencing an existing instance, there will be only one piece of allocated memory, so all the member variables will refer back to the original instance. If hero’s health is 20, then so will enemy’s, guide’s and boss’. It can be easy to make this mistake and end up resetting or changing everything with the same value when you wanted different values.
 
 ![Memory Allocation of one space](images/memory2.png)
+*fig. 6 - Memory Allocation*
 
 ## Properties
 
@@ -647,8 +650,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNj
-MzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUy
-MDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01Mj
-I1NTEzMjQsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbNTI1MDY4MDg0LDE0MjQwMDYzNTIsODk4OD
+M0ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3
+NiwtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyND
+k2MjE2MywtNTIyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
 -->
