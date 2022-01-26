@@ -623,7 +623,11 @@ In this way way create a neat and terse method of deploying where implementation
 
 ADD CODE FOR EACH FILE
 
+LINK TO REPO
+
 Let’s see the final embedded version on an actual breadboard.
+
+ANIMATED GIF
   
 
 
@@ -654,8 +658,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDE3MTk3NCwxNDI0MDA2MzUyLDg5OD
-gzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMyNDQ4
-NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2Mj
-Q5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbLTE5Njk1NzMxMDQsMTQyNDAwNjM1Miw4OT
+g4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0
+ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNj
+I0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
 -->
