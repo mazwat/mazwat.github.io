@@ -191,13 +191,13 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 - Select the port that is for your USB device (there's usually only one, but it's worth checking)
 - Click the **Upload button** (look like circular button with an arrow point right)
 
-You will get confirmation in the output iw
+You will get confirmation in the output window at the bottom of the IDE that your sketch has been uploaded correctly and it should start running immediately.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYyNzU0NTEsLTE0MTI4OTYwMywtND
-YzNTQzOTA5LDE1OTg0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAx
-NjQxLC0xNTI5ODIyNjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NS
-wtMjA5NTEyNjYyOCwxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYw
-ODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2NzkyODUsLTUzMDM2Nj
-cxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2OTE2Njgs
-LTE0MzY0NDc4MjJdfQ==
+eyJoaXN0b3J5IjpbMTY3MDUxODU4NywtMTQxMjg5NjAzLC00Nj
+M1NDM5MDksMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0NjkyMDE2
+NDEsLTE1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC
+0yMDk1MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4
+OTY5MiwtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2Nz
+E5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwt
+MTQzNjQ0NzgyMl19
 -->
