@@ -603,10 +603,15 @@ In C++ the header file contains:
  - Data type definitions
  - Macros
 
-The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file.
+The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file. For example`` #include “Class.h"``
 
 Let’s take the original tinkerCAD version updated to function as a proper C++ library.
 
+So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
+
+In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
+
+Let’s see the final embedded version on an actual breadboard.
   
 
 
@@ -637,7 +642,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE2NzYzNzAsODk4ODM0ODUsLTEyMj
+eyJoaXN0b3J5IjpbLTExMDQyNzY3ODgsODk4ODM0ODUsLTEyMj
 YzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1
 MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNT
 IyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
