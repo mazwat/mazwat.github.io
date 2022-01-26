@@ -83,7 +83,7 @@ The great thing with this this
 Once the numbers above are added to the calculator **3v, 20mA** and let's say it's a red LED so its **2v**. The output is this:
 
 ![Resistance Calculation](images/resist-calc.png)
-*fig 3. - Resistance Calculation*
+*fig 3. - Resistance Calculation from Hobby Hour website*
 
 You won't necessarily have the exact resistor in your Arduino Kit, but you just want to round up to the closest
 resistor in your pack when you actually physically wire this together. 
@@ -1043,11 +1043,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0ND
-QzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5
-Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC
-0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEw
-NzQ1NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0Nj
-IwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02
-NzAzMDg4ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMT
+QxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1
+MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MS
+wxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0x
+MTQxMTU2ODczLDEwNzQ1NTUwNywtODY2NjkzODAwLC04MzQ1Nz
+YxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwt
+NzkxNTc4MTM1XX0=
 -->
