@@ -605,7 +605,7 @@ Let’s take a look at this in TinkerCAD (ADD LINK)
 
 In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
 
-In C++ if we want to start developing objects, classes and eventually full fledged libraries,e create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a CPP files which is a standard C++ file which will contain our extension or class and then we also need additionally a header file that has the extension (.h).
+In C++ if we want to start developing objects, classes and eventually full fledged libraries, we create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a **CPP file** which is a standard C++ file (.ccp) which will contain our extension or class and then we also need additionally a **header file** that has the extension (.h).
 
 In C++ the header file contains:
 
@@ -620,6 +620,8 @@ Let’s take the original tinkerCAD version updated to function as a proper C++ 
 So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
 
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
+
+ADD CODE FOR EACH FILE
 
 Let’s see the final embedded version on an actual breadboard.
   
@@ -652,7 +654,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDI1MDExOSwxNDI0MDA2MzUyLDg5OD
+eyJoaXN0b3J5IjpbMjA1NDE3MTk3NCwxNDI0MDA2MzUyLDg5OD
 gzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMyNDQ4
 NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2Mj
 Q5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
