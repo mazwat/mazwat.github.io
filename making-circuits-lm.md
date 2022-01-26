@@ -109,7 +109,9 @@ Breadboards allow us to create complex layouts of components without having to s
 *fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
-In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with **red (+)** and **black (-)**. It is not essential to use them for the positive or negative terminals but using the red and black convention helps to avoid confusion. The reason for using the horizontal tracks means we can plug multiple components into this track across the length of the breadboard to draw power fromt he power source
+In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with **red (+)** and **black (-)**. It is not essential to use them for the positive or negative terminals but using the red and black convention helps to avoid confusion. The reason for using the horizontal tracks means we can plug multiple components into this track across the length of the breadboard and draw power from the power source.
+
+A cable from the battery is plugged into the red and black track on either side of the board anf then cables are connected to the LED and the resistor, bit
 
 e
 
@@ -1619,10 +1621,10 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDI2NDUzLDE3NTI3NzAzNDEsMTczMz
-Q4ODc1MSwtMTkxNjY5MTY2OCwtMTQzNjQ0NzgyMiwtMTE0MTE1
-Njg3MywxMDc0NTU1MDcsLTg2NjY5MzgwMCwtODM0NTc2MTgwLD
-gwNTc2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3
-ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMS
-wyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbMTEzMTQxMTc2NSwxNzUyNzcwMzQxLDE3Mz
+M0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDEx
+NTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MC
+w4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1
+NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MD
+EsMjAxMDUwMjYxMF19
 -->
