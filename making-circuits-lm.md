@@ -149,7 +149,7 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 
 ``pinMode`` - Configures the specified pin to behave either as an input or an output. 
 ``digitalWrite`` - Sets the pin to either **on** (HIGH) or **off** (LOW)
-``delay`` - Is the time elapses before the next command in the loop is called.
+``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
 
 aebcab
 
@@ -1040,11 +1040,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OT
-c3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgy
-MTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC
-0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMz
-NDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMT
-U2ODczLDEwNzQ1NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAs
-ODA1NzY0NjIwXX0=
+eyJoaXN0b3J5IjpbMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNT
+I5ODIyNjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEy
+NjYyOCwxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLT
+E3NjY3MTUyMjgsLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNzUy
+NzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0ND
+c4MjIsLTExNDExNTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAs
+LTgzNDU3NjE4MF19
 -->
