@@ -600,11 +600,8 @@ Rather than program each new set up for every junction we create a class with in
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
 
 ![Simple Circuit](images/tc-simple.png)
-*fig 11. - Simple Circuit*\
-**[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
-https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0
-
-Let’s take a look at this in TinkerCAD (ADD LINK)
+*fig 11. - Traffic Light Circuit on TinkerCAD*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0)**
 
 ### Creating Libraries and Extension in C++
 
@@ -663,8 +660,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU5MTMxMDgsMTQyNDAwNjM1Miw4OT
-g4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0
-ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNj
-I0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbLTk0NTYxMDg0MCwxNDI0MDA2MzUyLDg5OD
+gzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMyNDQ4
+NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2Mj
+Q5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
 -->
