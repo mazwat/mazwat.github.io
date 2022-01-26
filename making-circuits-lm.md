@@ -24,7 +24,7 @@ page_nav:
 
 # Making Circuits
 
-The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
+The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [**document**](#video-lecture).
 {: .callout .callout--warning}
 
 In this lecture we will look at how to use TinkerCAD to make simple Electrical Circuits and the basics of your first program in Arduino.
@@ -194,22 +194,22 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 
 You will get confirmation in the output window at the bottom of the IDE that your sketch has been uploaded correctly and it should start running immediately.
 
-![Blink on Arduino](images/arduino-blink.gif)
-*fig 10. - Blink on the Arduino and Breadboard*\
+![Blink on Arduino](images/arduino-blink.gif)\
+*fig 10. - Blink on the Arduino and Breadboard*
 
 ## Conclusion
 
-In this lecture I have explained how to user the simulation environment of TinkerCAD to create basic electrical circuits and to control them using a swtich. I have also showed how we can use an Arduino to implement digital control methods through code to control components on a breadboard.
+In this lecture I have explained how to user the simulation environment of TinkerCAD to create basic electrical circuits and to control them using a switch. I have also showed how we can use an Arduino to implement digital control methods through code to control components on a breadboard.
 
 
 ## Video Lecture
 
-### Lecture - Arduino 
-<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+### Lecture - Making Circuits
+<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/ec6162e0-790d-4c88-b05a-ae27a5760597?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODkwNTU4NCwxNzI5NDI0NzMzLDE2Nz
+eyJoaXN0b3J5IjpbLTgwMjEwNzc1OSwxNzI5NDI0NzMzLDE2Nz
 A1MTg1ODcsLTE0MTI4OTYwMywtNDYzNTQzOTA5LDE1OTg0ODE1
 MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIyNjI3LD
 U5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwxNDEw
