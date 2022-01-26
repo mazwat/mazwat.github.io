@@ -130,13 +130,7 @@ The previous example is fine if we are just turning something on and off, but if
 *fig 8. - Basic LED Blink setup for Arduino*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/2rT5zKePUsa-surprising-fyyran/editel?sharecode=1a0dUSIYQV2HCd1Bdp5-bPyWpYmqhpHqH4GqtnMoWvI)**
 
-
-
-
-
-In the 
-So I have pre cleared this
-but you normally get a bit
+Here you can see in this example we now have the Arduino in the mix with pin 13 of the arduino connected to the (+) positive pin of the 
 
 
 
@@ -1029,11 +1023,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MD
-g5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3
-MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC
-0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1NTUwNywtODY2
-NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MD
-c1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIy
-NjQ4MDUzNF19
+eyJoaXN0b3J5IjpbLTY5MjA0ODY2MCwxNDEwODIxMjUwLDQ0ND
+M4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2Nzky
+ODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLT
+E5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3
+NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2Mj
+AsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3
+MDMwODg4MF19
 -->
