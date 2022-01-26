@@ -109,7 +109,7 @@ Breadboards allow us to create complex layouts of components without having to s
 *fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
-In the above example we use the horizontal tracks on either side of the breadboard to 
+In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with red (+) and black (-). It is not essential to use them for the p 
 
 e
 
@@ -1619,9 +1619,10 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMT
-QzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5
-MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NS
-wzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0
-ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTgzMDAzMDYwMCwxNzMzNDg4NzUxLC0xOT
+E2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1
+NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC
+0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAz
+MDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIwMTA1MDI2MT
+BdfQ==
 -->
