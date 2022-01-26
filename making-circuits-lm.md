@@ -109,8 +109,7 @@ Breadboards allow us to create complex layouts of components without having to s
 *fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
-
-
+In the above example we use the horizontal tracks on either side of the breadboard to 
 
 e
 
@@ -1620,9 +1619,9 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLT
-ExNDExNTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3
-NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC
-03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNTM0LDIxMDAz
-OTE1MDEsMjAxMDUwMjYxMF19
+eyJoaXN0b3J5IjpbMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMT
+QzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5
+MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NS
+wzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0
+ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
