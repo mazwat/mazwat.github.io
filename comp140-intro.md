@@ -15,7 +15,7 @@ author:
     description: Lecturer in Computing - Falmouth University
 
 # Micro navigation
-micro_nav: true
+micro_nav: false
 
 # Page navigation
 page_nav: false
@@ -47,6 +47,6 @@ page_nav: false
 #### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLT
-Y5NTcxODgzOSwtODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbLTIyNDA3MDU1MSwtMTUwMDk1MzA3OCwtMj
+A2OTcwMTQyOSwtNjk1NzE4ODM5LC04ODM0OTc3MjFdfQ==
 -->
