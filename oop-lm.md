@@ -381,7 +381,7 @@ name- apple
 ### Unity & Inheritance from MonoBehaviour
 
 ![Unity MonoBehaviour](images/monobehaviour.jpg)
-*fig. 6 - Mono*
+*fig. 9 - Monobehaviour*
 
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a base class from which every Unity script derives. It is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` , ``Update()`` ,`Awake()`, `FixedUpdate` and `onEnable()` as well as many more. For more information about MonoBehaviour look at the reference to it here in the Unity API:
 [https://docs.unity3d.com/ScriptReference/MonoBehaviour.html](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
@@ -588,24 +588,24 @@ class  Program
 ```
 The abstract parent class can only be accessed by it's child. The ``Animal`` sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
-## OOP in Embedded Systems (Arduino & C++)
+## OOP in Embedded Systems
 
 Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
 
 Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
 
  ![Class Diagram](images/traffic-class.png) 
- fig
+ fig. 10 - Class Diagram for Traffic Light System
 
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
 
-Let’s take a look at this in TinkerCAD
+Let’s take a look at this in TinkerCAD (ADD LINK)
 
 ### Creating Libraries and Extension in C++
 
-In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main program.cs file.
+In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
 
-In C++ if we want to start developing objects, classes and eventually full fledged libraries. We create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a CPP files which is a standard C++ file which will contain our extension or class and then we also need additionally a header file that has the extension (.h).
+In C++ if we want to start developing objects, classes and eventually full fledged libraries,e create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a CPP files which is a standard C++ file which will contain our extension or class and then we also need additionally a header file that has the extension (.h).
 
 In C++ the header file contains:
 
@@ -652,8 +652,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MjM0ODA2LDE0MjQwMDYzNTIsODk4OD
-M0ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3
-NiwtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyND
-k2MjE2MywtNTIyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTMzNDI1MDExOSwxNDI0MDA2MzUyLDg5OD
+gzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMyNDQ4
+NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2Mj
+Q5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
 -->
