@@ -579,6 +579,8 @@ class  Program
 ```
 The abstract parent class can only be accessed by it's child. The ``Animal`` sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
+## OOP in Embedded Systm
+
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
 
@@ -605,8 +607,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODM0ODUsLTEyMjYzMzk4NDcsLTE5Mz
-kzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4OTA2
-MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0LDIwMT
-QxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbMTcwNjgwNTI0Niw4OTg4MzQ4NSwtMTIyNj
+MzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUy
+MDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01Mj
+I1NTEzMjQsMjAxNDE1Mjg2MV19
 -->
