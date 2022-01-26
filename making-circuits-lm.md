@@ -154,7 +154,7 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``. To make it easier to manage a range of components connected to a range of pins you can assign variables first for the number of the pin:
 ```c++
 int redLED =  10;
-int 
+int timeDelay = 1000;
 
 void setup()
 {
@@ -164,17 +164,16 @@ void setup()
 void loop()
 {
   digitalWrite(redLED, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(timeDelay); // Wait for 1000 millisecond(s)
   digitalWrite(redLED, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(timeDelay); // Wait for 1000 millisecond(s)
 }
 ```
-This way a complex set-up becomes easier to understand.
+This way a complex set-up becomes easier to understand and easier to modify from a set of initial variables.
 
-
-
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTIxNDQxMCwtNDYzNTQzOTA5LDE1OT
+eyJoaXN0b3J5IjpbMTEyNzk3MzM1NSwtNDYzNTQzOTA5LDE1OT
 g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
 NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
 wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
