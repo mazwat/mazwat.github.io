@@ -113,7 +113,7 @@ In the above example we use the horizontal tracks on either side of the breadboa
 
 A cable from the battery is plugged into the red and black track on either side of the board anf then cables are connected to the LED and the resistor. However we have one more component to add the mix.
 
-A switch is a means to interrupt the flow of electricity in a basic single throw switch it either on or off.  But the switch in the above example is a double-throw switch as it has 3 terminals
+A switch is a means to interrupt the flow of electricity in a basic **single throw** switch it either on or off.  But the switch in the above example is a **double-throw** switch as it has 3 terminals (see below)
 
 ![Switch](images/switch.jpg)
 *fig 7. - Double Throw Switch\
@@ -1628,10 +1628,10 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTY0NzQxNiwtNTMwMzY2NzE5LDE3NT
-I3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMTQzNjQ0
-NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5MzgwMC
-wtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3
-MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1Mz
-QsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNz
+UyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0
+NDc4MjIsLTExNDExNTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MD
+AsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkz
+NzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwODg4MCwxMjI2NDgwNT
+M0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
 -->
