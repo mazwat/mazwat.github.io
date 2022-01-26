@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 6
+title: COMP140 - Lecture Materials 7
 
 # Author box
 author:
@@ -27,6 +27,6 @@ page_nav:
 
 # Data Structures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NjkwOTE3LDE3NDcxNTIxMzQsNTg5MD
-M3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OT
+AzNzI5OF19
 -->
