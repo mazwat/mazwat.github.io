@@ -620,9 +620,56 @@ In C++ the header file contains:
 The header file allows the sketch (.ino) to access the class properties content in the .cpp. But you have to use hash include and the name of the header file. For example``#include “Class.h"``
 
 Let’s take the original TinkerCAD version and update it to function as a proper C++ library. Here's the orginal from TinkerCAD:
+```c++
+class Traffic_Light
+{
+	int Lightpin;  
 
+	public:
+		Traffic_Light(int pin)
+		{
+		  Lightpin = pin;
+		  pinMode(Lightpin, OUTPUT);     
+		}  
 
+	 void ON(int duration)
+ {
+  digitalWrite(Lightpin, HIGH);
+  delay(duration);
+  digitalWrite(Lightpin, LOW);  
+ } 
+  
+ void OFF(int duration)
+ {
+  digitalWrite(Lightpin, LOW);
+  delay(duration);  
+ }  
+ void BLINK(int rate, int times) {
+  for(int i=0; i < times; i++) {
+ 	digitalWrite(Lightpin, HIGH);
+   	delay(rate);
+   	digitalWrite(Lightpin, LOW);
+   	delay(rate);  
+  	}
+  }
+};
 
+Traffic_Light Red(13);
+Traffic_Light Amber(12);
+Traffic_Light Green(11);
+
+void setup()
+{ 	
+}
+
+void loop()
+{
+  Red.ON(3000);
+  Amber.ON(1000);
+  Green.ON(3000);
+  Amber.BLINK(200,20);
+}
+```
 So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
 
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
@@ -662,7 +709,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4NTQwODAsLTE1OTEzNTI0MTQsMT
+eyJoaXN0b3J5IjpbLTExNzI5NTgyODgsLTE1OTEzNTI0MTQsMT
 QyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0
 MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC
 0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1
