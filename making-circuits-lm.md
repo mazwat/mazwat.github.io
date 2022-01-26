@@ -176,7 +176,7 @@ This way a complex set-up becomes easier to understand and easier to modify from
 
 TinkerCAD is great for creating your initial wiring plan and testing Arduino in a simulated environment but it is essential that you start uploading your code to your real Arduino as soon as possible. Hardware sometimes behaves differently when physically wired. 
 
-[Download the Arduino IDE](https://docs.arduino.cc/software/ide-v1) 
+[**Download the Arduino IDE**](https://docs.arduino.cc/software/ide-v1) 
 
 Once you have the IDE installed open it and you can install your first test program by going to File > Examples > Basics and select Blink. It will open this file:
 
@@ -194,14 +194,26 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 
 You will get confirmation in the output window at the bottom of the IDE that your sketch has been uploaded correctly and it should start running immediately.
 
-![Blink on Arduino](images/arduino-blink.png)
-*fig 10. - Blink on the Arduino and Breadboard*\
+![Blink on Arduino](images/arduino-blink.gif)\
+*fig 10. - Blink on the Arduino and Breadboard*
+
+## Conclusion
+
+In this lecture I have explained how to user the simulation environment of TinkerCAD to create basic electrical circuits and to control them using a switch. I have also showed how we can use an Arduino to implement digital control methods through code to control components on a breadboard.
+
+
+## Video Lecture
+
+### Lecture - Making Circuits
+<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/ec6162e0-790d-4c88-b05a-ae27a5760597?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQyNDczMywxNjcwNTE4NTg3LC0xND
-EyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3
-NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLT
-E3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQz
-ODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mj
-g1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0x
-OTE2NjkxNjY4XX0=
+eyJoaXN0b3J5IjpbNTM0NDU5MjgxLC04MDIxMDc3NTksMTcyOT
+QyNDczMywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0Mzkw
+OSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMT
+UyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUx
+MjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC
+0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1
+Mjc3MDM0MV19
 -->

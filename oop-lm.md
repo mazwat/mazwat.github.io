@@ -53,6 +53,7 @@ When designing games we talk about *’enemies’* or *’weapons’* with their
 In OOP we define these categories as **objects** and the subcategory as a **property**. The **potion** object could have the property **colour** which could be set to **blue**.
 
 ![Pixel objects](images/pixel-objects.png)
+*fig. 1 - Game objects*
 
 ### Principle Terminology
 
@@ -70,6 +71,7 @@ OOP has a number of key concepts that we need to understand in order to make eff
 ### OOP in Unity
 
 ![Unity Class](images/unity-class.png)
+*fig. 2 - Unity Class*
 
 Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
 
@@ -113,6 +115,7 @@ Character guide = new Character();
 ### Classes are Blueprints
 
 ![Unity Class](images/blueprint.jpg)
+*fig. 3 - A class is a blueprint*
 
 A class is a potential object, it is the instructions to create a real object in our code, like a blueprint. Like the relationship between a recipe to make a doughnut and the actual doughnuts that are produced. This is the best way to understand the concept.
 
@@ -168,8 +171,9 @@ public class Character
 ###  Public Variables in Unity
 
 ![Unity Public Variables](images/unity-variable.jpg)
+*fig. 4 - Public Variable*
 
-Unity is by its very nature object oriented, so the principles are applied every time you create a script file which automatically creates a class. In Unity when we create a public variable in code it is made available to the inspector and we can assign a value to that variable from the unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
+Unity is by its very nature object oriented, so the principles are applied every time you create a script file which automatically creates a class. In Unity when we create a public variable in code it is made available to the inspector and we can assign a value to that variable from the Unity interface, either by writing a value in or by dragging a corresponding asset or object into the box. As you can see this example contains a variable score and the value zero is displayed in the inspector. The advantage of this is that variables and objects can be changed live in the UI view even while we are running a game, which is invaluable for debugging.
 
 ### Accessing Variables
 
@@ -178,6 +182,7 @@ So if we stretch our slightly tenuous doughnut analogy. The doughnuts on the she
 ## Methods
 
 ![Methods Factory Analogy](images/methods.png)
+*fig. 5 - Methods*
 
 We can use another analogy to describe how methods works, which is that of the factory. A method like a factory is a process that takes an input or multiple inputs to make it work and then it has a return or an output which is the final result of the processes undertaken in the method.  
 The analogy slightly breaks down, as it is not always essential for a method to have an input or an output to function. For instance a ``getTime`` methods does not need an input to tell you the time.
@@ -240,10 +245,12 @@ int playerHealth = hero.updateHealthAndStrength(20, 15);
 It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
 
 ![Memory Allocation of new spaces](images/memory1.png)
+*fig. 6 - Memory Allocation - existing instance*
 
 However if you create new instances of the class that are referencing an existing instance, there will be only one piece of allocated memory, so all the member variables will refer back to the original instance. If hero’s health is 20, then so will enemy’s, guide’s and boss’. It can be easy to make this mistake and end up resetting or changing everything with the same value when you wanted different values.
 
 ![Memory Allocation of one space](images/memory2.png)
+*fig. 7 - Memory Allocation - new instance*
 
 ## Properties
 
@@ -276,6 +283,7 @@ Now you may think this is a complicated way to access a private variable why not
 ### Access Modifiers
 
 ![Access Modifiers - House analogy](images/getset.png)
+*fig. 8 - Get and Set*
 
 We can use the analogy of a house. If we set our field to ``public`` anyone or any method call can access it. If we set it to ``private`` it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ``get`` something. in other instances we want it to be writeable, so we can ``set`` something but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure because we are not exposing all variables at all times.
 ```c#
@@ -373,6 +381,7 @@ name- apple
 ### Unity & Inheritance from MonoBehaviour
 
 ![Unity MonoBehaviour](images/monobehaviour.jpg)
+*fig. 9 - Monobehaviour*
 
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a base class from which every Unity script derives. It is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` , ``Update()`` ,`Awake()`, `FixedUpdate` and `onEnable()` as well as many more. For more information about MonoBehaviour look at the reference to it here in the Unity API:
 [https://docs.unity3d.com/ScriptReference/MonoBehaviour.html](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
@@ -579,6 +588,52 @@ class  Program
 ```
 The abstract parent class can only be accessed by it's child. The ``Animal`` sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
+## OOP in Embedded Systems
+
+Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
+
+Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
+
+ ![Class Diagram](images/traffic-class.png) 
+ fig. 10 - Class Diagram for Traffic Light System
+
+In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
+
+![Simple Circuit](images/tc-simple.png)
+*fig 11. - Traffic Light Circuit on TinkerCAD*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0)**
+
+### Creating Libraries and Extension in C++
+
+In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
+
+In C++ if we want to start developing objects, classes and eventually full fledged libraries, we create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a **CPP file** which is a standard C++ file (.ccp) which will contain our extension or class and then we also need additionally a **header file** that has the extension (.h).
+
+In C++ the header file contains:
+
+ - Function definitions
+ - Data type definitions
+ - Macros
+
+The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file. For example`` #include “Class.h"``
+
+Let’s take the original TinkerCAD version updated to function as a proper C++ library.
+
+So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
+
+In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
+
+ADD CODE FOR EACH FILE
+
+LINK TO REPO
+
+Let’s see the final embedded version on an actual breadboard.
+
+ANIMATED GIF
+  
+
+
+
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
 
@@ -605,8 +660,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODM0ODUsLTEyMjYzMzk4NDcsLTE5Mz
-kzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4OTA2
-MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0LDIwMT
-QxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTk0NTYxMDg0MCwxNDI0MDA2MzUyLDg5OD
+gzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMyNDQ4
+NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAwOTM3LDE2Mj
+Q5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX0=
 -->
