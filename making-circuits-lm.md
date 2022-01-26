@@ -18,11 +18,11 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Electrical Circuits
-        url: '../electrical-circuits-lm'
-    next:
         content: Arduino
         url: '../arduino-lm'
+    next:
+        content: OOP
+        url: '../oop-lm'
 ---
 
 # Making Circuits
@@ -1043,11 +1043,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMT
-QxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1
-MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MS
-wxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0x
-MTQxMTU2ODczLDEwNzQ1NTUwNywtODY2NjkzODAwLC04MzQ1Nz
-YxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwt
-NzkxNTc4MTM1XX0=
+eyJoaXN0b3J5IjpbNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC0yMD
+k1MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4OTY5
+MiwtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2NzE5LD
+E3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMTQz
+NjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5Mz
+gwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NSwz
+OTM3MTY5MjldfQ==
 -->
