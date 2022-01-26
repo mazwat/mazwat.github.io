@@ -148,7 +148,9 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-The important thing to note here is that ``LED_BUILTIN`` refers to the LED that is built in to the Arduino board as well as P. When you run this sketch not only does it light the LED on our breadboard it also lights the on on the board near pin 13. 
+The important thing to note here is that ``LED_BUILTIN`` refers to the LED that is built in to the Arduino board as well as pin 13. When you run this sketch not only does it light the LED on our breadboard it also lights the on on the board near pin 13. 
+
+PinMode - Sets up the 
 
 
 aebcab
@@ -1040,11 +1042,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIxOTQyMzAsMTQxMDgyMTI1MCw0ND
-QzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5
-Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC
-0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEw
-NzQ1NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0Nj
-IwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02
-NzAzMDg4ODBdfQ==
+eyJoaXN0b3J5IjpbNjg4Njc4NTc1LDE0MTA4MjEyNTAsNDQ0Mz
+gyNDgzLDI3NjA4OTY5MiwtMTc2NjcxNTIyOCwtMTc3MzY3OTI4
+NSwtNTMwMzY2NzE5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMT
+kxNjY5MTY2OCwtMTQzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0
+NTU1MDcsLTg2NjY5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMC
+wtMTQ4OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcw
+MzA4ODgwXX0=
 -->
