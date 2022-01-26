@@ -607,7 +607,7 @@ In the example above we have a ‘TrafficLight’ class and with each instance o
 
 ### Creating Libraries and Extension in C++
 
-In C# you have a class file or script (class.cs for example) as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
+In C# you have a class file (*class.cs* for example) then the properties of the class are instantiated through the main **program.cs** file.
 
 In C++ if we want to start developing objects, classes and eventually full fledged libraries, we create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a **CPP file** which is a standard C++ file (.ccp) which will contain our extension or class and then we also need additionally a **header file** that has the extension (.h).
 
@@ -660,7 +660,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzA5Mzg1NiwtMTU5MTM1MjQxNCwxND
+eyJoaXN0b3J5IjpbMTgyMTA1MzI0NSwtMTU5MTM1MjQxNCwxND
 I0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQy
 MzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLT
 IyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUy
