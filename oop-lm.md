@@ -592,6 +592,8 @@ The abstract parent class can only be accessed by it's child. The ``Animal`` sou
 
 Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
 
+### Traffic Lights
+
 Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
 
  ![Class Diagram](images/traffic-class.png) 
@@ -615,7 +617,7 @@ In C++ the header file contains:
  - Data type definitions
  - Macros
 
-The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file. For example`` #include “Class.h"``
+The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file. For example``#include “Class.h"``
 
 Let’s take the original TinkerCAD version updated to function as a proper C++ library.
 
@@ -630,8 +632,7 @@ LINK TO REPO
 Let’s see the final embedded version on an actual breadboard.
 
 ANIMATED GIF
-  
-
+ 
 
 
 ## Conclusion
@@ -659,9 +660,9 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTU0MTksLTE1OTEzNTI0MTQsMTQyND
-AwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMx
-MCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMj
-MwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2
-MV19
+eyJoaXN0b3J5IjpbLTE1ODM2MjM3NDgsLTE1OTEzNTI0MTQsMT
+QyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0
+MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC
+0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1
+Mjg2MV19
 -->
