@@ -130,7 +130,9 @@ The previous example is fine if we are just turning something on and off, but if
 *fig 8. - Basic LED Blink setup for Arduino*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/2rT5zKePUsa-surprising-fyyran/editel?sharecode=1a0dUSIYQV2HCd1Bdp5-bPyWpYmqhpHqH4GqtnMoWvI)**
 
-Here you can see in this example we now have the Arduino in the mix with pin 13 of the arduino connected to the (+) positive pin of the 
+Here you can see in this example we now have the Arduino in the mix with **pin 13** of the arduino connected to the (+) positive pin of the LED and the we use **GND pin** from the arduino to connect to the resistor and the (-) negative end of the LED.
+
+So in order to make the Arduino start turning on the light we can simply add this code 
 
 
 
@@ -1023,7 +1025,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjA0ODY2MCwxNDEwODIxMjUwLDQ0ND
+eyJoaXN0b3J5IjpbLTMzODgyMDQzNiwxNDEwODIxMjUwLDQ0ND
 M4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2Nzky
 ODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLT
 E5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3
