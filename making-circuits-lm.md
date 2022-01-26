@@ -151,16 +151,18 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 - ``digitalWrite`` - Sets the pin to either **on** (HIGH) or **off** (LOW)
 - ``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
 
-You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember
+You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzg2NjcxMSwxNTk4NDgxNTAyLDEyND
-gxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2
-NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MC
-w0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzcz
-Njc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4Nz
-UxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODcz
-LDEwNzQ1NTUwN119
+eyJoaXN0b3J5IjpbMTM4NDI3NjY0LDE1OTg0ODE1MDIsMTI0OD
+E5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIyNjI3LDU5Nzc0NTY0
+NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwxNDEwODIxMjUwLD
+Q0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2
+NzkyODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NT
+EsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMs
+MTA3NDU1NTA3XX0=
 -->
