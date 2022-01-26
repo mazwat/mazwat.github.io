@@ -194,14 +194,18 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 
 You will get confirmation in the output window at the bottom of the IDE that your sketch has been uploaded correctly and it should start running immediately.
 
-![Blink on Arduino](images/arduino-blink.png)
+![Blink on Arduino](images/arduino-blink.gif)
 *fig 10. - Blink on the Arduino and Breadboard*\
+
+## Conclusion
+
+In this lecture I have explained how to user the simulation environment of TinkerCAD to create absci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQyNDczMywxNjcwNTE4NTg3LC0xND
-EyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3
-NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLT
-E3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQz
-ODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mj
-g1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0x
-OTE2NjkxNjY4XX0=
+eyJoaXN0b3J5IjpbLTIwMzkyNTc3NTMsMTcyOTQyNDczMywxNj
+cwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgx
+NTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNy
+w1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQx
+MDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1Mj
+I4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwx
+NzMzNDg4NzUxXX0=
 -->
