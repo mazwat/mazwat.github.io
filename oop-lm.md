@@ -626,22 +626,21 @@ class Traffic_Light
 	int Lightpin;  
 
 	public:
-		Traffic_Light(int pin)
-		{
-		  Lightpin = pin;
-		  pinMode(Lightpin, OUTPUT);     
-		}  
+	Traffic_Light(int pin)
+	{
+		Lightpin = pin;
+		pinMode(Lightpin, OUTPUT);     
+	}  
 
-	 void ON(int duration)
- {
-  digitalWrite(Lightpin, HIGH);
-  delay(duration);
-  digitalWrite(Lightpin, LOW);  
- } 
-  
- void OFF(int duration)
- {
-  digitalWrite(Lightpin, LOW);
+	void ON(int duration)
+	{
+		digitalWrite(Lightpin, HIGH);
+		delay(duration);
+		digitalWrite(Lightpin, LOW);  
+	} 
+	void OFF(int duration)
+	{
+			digitalWrite(Lightpin, LOW);
   delay(duration);  
  }  
  void BLINK(int rate, int times) {
@@ -709,9 +708,9 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI5NTgyODgsLTE1OTEzNTI0MTQsMT
-QyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0
-MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC
-0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1
-Mjg2MV19
+eyJoaXN0b3J5IjpbMTc5OTIzMzc0OCwtMTU5MTM1MjQxNCwxND
+I0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQy
+MzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLT
+IyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUy
+ODYxXX0=
 -->
