@@ -109,7 +109,7 @@ Breadboards allow us to create complex layouts of components without having to s
 *fig 6. - Simple Circuit with Switch*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/j2mHkxwsdeL-basic-circuit/editel?sharecode=lUW-e_VPCYdwvUkmJTQy4I5D_la_LC-eEi7h7Q3y9gE)**
 
-In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with red (+) and black (-). It is not essential to use them for the p 
+In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with **red (+)** and **black (-)**. It is not essential to use them for the positive or negative terminals but using the red and black convention helps to avoid confusion. 
 
 e
 
@@ -1619,7 +1619,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAzMDYwMCwxNzMzNDg4NzUxLC0xOT
+eyJoaXN0b3J5IjpbLTE2NDI5MzI3NiwxNzMzNDg4NzUxLC0xOT
 E2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1
 NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC
 0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAz
