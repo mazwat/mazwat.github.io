@@ -126,7 +126,9 @@ In the diagram the switch is wired to the right hand pin (terminal B) and the sw
 
 The previous example is fine if we are just turning something on and off, but if we want to create more complex lighting states, like an array of lights or a traffic light system we need to be able to control the lights programmtically. This is where Arduino comes in.
 
-
+![Basic Blink](images/basic-blink.png)
+*fig 8. - Basic LED Blink setup for Arduino*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/2rT5zKePUsa-surprising-fyyran/editel?sharecode=1a0dUSIYQV2HCd1Bdp5-bPyWpYmqhpHqH4GqtnMoWvI)**
 
 
 
@@ -1027,11 +1029,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MzgyNDgzLDI3NjA4OTY5MiwtMTc2Nj
-cxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2NzE5LDE3NTI3NzAz
-NDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMTQzNjQ0NzgyMi
-wtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5MzgwMCwtODM0
-NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3MTY5Mj
-ksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1MzQsMjEw
-MDM5MTUwMV19
+eyJoaXN0b3J5IjpbMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MD
+g5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3
+MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC
+0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1NTUwNywtODY2
+NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MD
+c1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIy
+NjQ4MDUzNF19
 -->
