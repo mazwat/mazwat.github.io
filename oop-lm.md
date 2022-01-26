@@ -640,17 +640,17 @@ class Traffic_Light
 	} 
 	void OFF(int duration)
 	{
-			digitalWrite(Lightpin, LOW);
-  delay(duration);  
- }  
- void BLINK(int rate, int times) {
-  for(int i=0; i < times; i++) {
- 	digitalWrite(Lightpin, HIGH);
-   	delay(rate);
-   	digitalWrite(Lightpin, LOW);
-   	delay(rate);  
-  	}
-  }
+		digitalWrite(Lightpin, LOW)
+		delay(duration);  
+	}
+	void BLINK(int rate, int times) {
+		for(int i=0; i < times; i++) {
+		 	digitalWrite(Lightpin, HIGH);
+		   	delay(rate);
+		   	digitalWrite(Lightpin, LOW);
+		   	delay(rate);  
+	  	}
+	}
 };
 
 Traffic_Light Red(13);
@@ -663,10 +663,10 @@ void setup()
 
 void loop()
 {
-  Red.ON(3000);
-  Amber.ON(1000);
-  Green.ON(3000);
-  Amber.BLINK(200,20);
+	Red.ON(3000);
+	Amber.ON(1000);
+	Green.ON(3000);
+	Amber.BLINK(200,20);
 }
 ```
 So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
@@ -708,7 +708,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTIzMzc0OCwtMTU5MTM1MjQxNCwxND
+eyJoaXN0b3J5IjpbMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxND
 I0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQy
 MzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLT
 IyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUy
