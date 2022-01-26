@@ -599,6 +599,11 @@ Rather than program each new set up for every junction we create a class with in
 
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
 
+![Simple Circuit](images/tc-simple.png)
+*fig 11. - Simple Circuit*\
+**[View Circuit on TinkerCad](https://www.tinkercad.com/things/aefmW5mPE86-simple-electric-circuit/editel?sharecode=bjxDkcj1jYkU3qDBDux5XN-GflpCaIIjGHqfXsWVICQ)**
+https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0
+
 Let’s take a look at this in TinkerCAD (ADD LINK)
 
 ### Creating Libraries and Extension in C++
@@ -615,7 +620,7 @@ In C++ the header file contains:
 
 The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file. For example`` #include “Class.h"``
 
-Let’s take the original tinkerCAD version updated to function as a proper C++ library.
+Let’s take the original TinkerCAD version updated to function as a proper C++ library.
 
 So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
 
@@ -658,7 +663,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk1NzMxMDQsMTQyNDAwNjM1Miw4OT
+eyJoaXN0b3J5IjpbLTE2OTU5MTMxMDgsMTQyNDAwNjM1Miw4OT
 g4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0
 ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNj
 I0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
