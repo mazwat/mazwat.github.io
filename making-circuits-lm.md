@@ -15,12 +15,12 @@ author:
 # Micro navigation
 micro_nav: true
 
+
 # Page navigation
 page_nav:
     prev:
         content: Arduino
-        url: '../arduino-lm
-        
+        url: '../arduino-lm'
 ---
 
 # Making Circuits
@@ -1041,11 +1041,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzkyNTQxOCwtMTUyOTgyMjYyNyw1OT
-c3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgy
-MTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC
-0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMz
-NDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMT
-U2ODczLDEwNzQ1NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAs
-ODA1NzY0NjIwXX0=
+eyJoaXN0b3J5IjpbODkyODg4MDU5LC0xNTI5ODIyNjI3LDU5Nz
+c0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwxNDEwODIx
+MjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLT
+E3NzM2NzkyODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0
+ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNT
+Y4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4
+MDU3NjQ2MjBdfQ==
 -->
