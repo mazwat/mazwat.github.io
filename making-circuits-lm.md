@@ -132,7 +132,24 @@ The previous example is fine if we are just turning something on and off, but if
 
 Here you can see in this example we now have the Arduino in the mix with **pin 13** of the arduino connected to the (+) positive pin of the LED and the we use **GND pin** from the arduino to connect to the resistor and the (-) negative end of the LED.
 
-So in order to make the Arduino start turning on the light we can simply add this code 
+So in order to make the Arduino start turning on the light we can simply add this code to the code panel of TinkeCAD.
+
+```c++
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
 
 
 
@@ -1025,11 +1042,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODgyMDQzNiwxNDEwODIxMjUwLDQ0ND
-M4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2Nzky
-ODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLT
-E5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3
-NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2Mj
-AsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3
-MDMwODg4MF19
+eyJoaXN0b3J5IjpbMTIwMzUyMzksMTQxMDgyMTI1MCw0NDQzOD
+I0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1
+LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOT
+E2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1
+NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1NzY0NjIwLC
+0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MTM1LC02NzAz
+MDg4ODBdfQ==
 -->
