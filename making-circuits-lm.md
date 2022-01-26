@@ -179,9 +179,10 @@ TinkerCAD is great for creating your initial wiring plan and testing in a simula
 
 Once you have the IDE installed open it and you can install your first test program by going to File > Examples > Basics and select Blink. It will open this file:
 
-
+![Basic Blink on IDE](images/blink-sketch.png)
+*fig 8. - Blink Sketch on the Arduino IDE*\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTM5MzcyNCwtNDYzNTQzOTA5LDE1OT
+eyJoaXN0b3J5IjpbLTE0MTI4OTYwMywtNDYzNTQzOTA5LDE1OT
 g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
 NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
 wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
