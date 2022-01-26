@@ -199,13 +199,13 @@ You will get confirmation in the output window at the bottom of the IDE that you
 
 ## Conclusion
 
-In this lecture I have explained how to user the simulation environment of TinkerCAD to create absci
+In this lecture I have explained how to user the simulation environment of TinkerCAD to create basic electrical circuits and to control them using a swtich. I have also showed how we can use an Arduino to implement digital control methods through code to control th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkyNTc3NTMsMTcyOTQyNDczMywxNj
-cwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgx
-NTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNy
-w1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQx
-MDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1Mj
-I4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwx
-NzMzNDg4NzUxXX0=
+eyJoaXN0b3J5IjpbODI3MzEzOTg2LDE3Mjk0MjQ3MzMsMTY3MD
+UxODU4NywtMTQxMjg5NjAzLC00NjM1NDM5MDksMTU5ODQ4MTUw
+MiwxMjQ4MTkxNzczLDE0NjkyMDE2NDEsLTE1Mjk4MjI2MjcsNT
+k3NzQ1NjQ2LC0xNzg2NTAwMzg1LC0yMDk1MTI2NjI4LDE0MTA4
+MjEyNTAsNDQ0MzgyNDgzLDI3NjA4OTY5MiwtMTc2NjcxNTIyOC
+wtMTc3MzY3OTI4NSwtNTMwMzY2NzE5LDE3NTI3NzAzNDEsMTcz
+MzQ4ODc1MV19
 -->
