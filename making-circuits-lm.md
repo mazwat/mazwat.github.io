@@ -24,7 +24,7 @@ page_nav:
 
 # Making Circuits
 
-The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [**document**](#video-lecture).
+The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
 In this lecture we will look at how to use TinkerCAD to make simple Electrical Circuits and the basics of your first program in Arduino.
@@ -176,7 +176,7 @@ This way a complex set-up becomes easier to understand and easier to modify from
 
 TinkerCAD is great for creating your initial wiring plan and testing Arduino in a simulated environment but it is essential that you start uploading your code to your real Arduino as soon as possible. Hardware sometimes behaves differently when physically wired. 
 
-[Download the Arduino IDE](https://docs.arduino.cc/software/ide-v1) 
+[**Download the Arduino IDE**](https://docs.arduino.cc/software/ide-v1) 
 
 Once you have the IDE installed open it and you can install your first test program by going to File > Examples > Basics and select Blink. It will open this file:
 
@@ -209,11 +209,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjEwNzc1OSwxNzI5NDI0NzMzLDE2Nz
-A1MTg1ODcsLTE0MTI4OTYwMywtNDYzNTQzOTA5LDE1OTg0ODE1
-MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIyNjI3LD
-U5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwxNDEw
-ODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMj
-gsLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3
-MzM0ODg3NTFdfQ==
+eyJoaXN0b3J5IjpbNTM0NDU5MjgxLC04MDIxMDc3NTksMTcyOT
+QyNDczMywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0Mzkw
+OSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMT
+UyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUx
+MjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC
+0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1
+Mjc3MDM0MV19
 -->
