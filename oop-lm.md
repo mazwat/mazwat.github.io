@@ -53,6 +53,7 @@ When designing games we talk about *’enemies’* or *’weapons’* with their
 In OOP we define these categories as **objects** and the subcategory as a **property**. The **potion** object could have the property **colour** which could be set to **blue**.
 
 ![Pixel objects](images/pixel-objects.png)
+*fig. 1 - Game objects*
 
 ### Principle Terminology
 
@@ -70,6 +71,7 @@ OOP has a number of key concepts that we need to understand in order to make eff
 ### OOP in Unity
 
 ![Unity Class](images/unity-class.png)
+*fig. 1 - Game objects*
 
 Probably the easiest way to reference OOP in C# is to look at it’s application in Unity. You have probably seen classes being used in Unity before whenever you create a script file.
 
@@ -585,7 +587,8 @@ Let’s use a classic embedded system - a traffic light. You are designing a cit
 
 Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
 
-  
+ ![Class Diagram](images/traffic-class.png) 
+ fig
 
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
 
@@ -642,8 +645,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyNzY3ODgsODk4ODM0ODUsLTEyMj
-YzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1
-MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNT
-IyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
+eyJoaXN0b3J5IjpbMTYxMDczODEzNSw4OTg4MzQ4NSwtMTIyNj
+MzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUy
+MDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01Mj
+I1NTEzMjQsMjAxNDE1Mjg2MV19
 -->
