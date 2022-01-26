@@ -113,9 +113,10 @@ In the above example we use the horizontal tracks on either side of the breadboa
 
 A cable from the battery is plugged into the red and black track on either side of the board anf then cables are connected to the LED and the resistor. However we have one more component to add the mix.
 
-A switch is a means to interrupt the flow of electricity in a basic single thro
+A switch is a means to interrupt the flow of electricity in a basic single throw switch it either on or off.  But the switch in the above example is a double-throw switch as it has 3 terminals
 
-A  _double-throw_  switch connects an input terminal to one of two output terminals. Thus, a double-pole switch has three terminals. One of the terminals is called the  _common terminal__._  The other two terminals are often referred to as  _A_ and  _B._
+![Switch](images/switch.jpg)
+*fig 7. - Double Throw Switch\
 
 When the switch is in one position, the common terminal is connected to the A terminal, so current flows from the common terminal to the A terminal but no current flows to the B terminal. When the switch is moved to its other position, the terminal connections are reversed: current flows from the common terminal to the B terminal, but no current flows though the A terminal.
 
@@ -1627,10 +1628,10 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTYxMTQ1LC01MzAzNjY3MTksMTc1Mj
-c3MDM0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3
-ODIyLC0xMTQxMTU2ODczLDEwNzQ1NTUwNywtODY2NjkzODAwLC
-04MzQ1NzYxODAsODA1NzY0NjIwLC0xNDg5Mjk0MDc1LDM5Mzcx
-NjkyOSwtNzkxNTc4MTM1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNC
-wyMTAwMzkxNTAxLDIwMTA1MDI2MTBdfQ==
+eyJoaXN0b3J5IjpbLTQzNjAwMjA4MiwtNTMwMzY2NzE5LDE3NT
+I3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwtMTQzNjQ0
+NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MDcsLTg2NjY5MzgwMC
+wtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4OTI5NDA3NSwzOTM3
+MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4ODgwLDEyMjY0ODA1Mz
+QsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
 -->
