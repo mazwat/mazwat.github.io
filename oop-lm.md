@@ -18,8 +18,8 @@ micro_nav: true
 # Page navigation
 page_nav: 
     prev:
-        content: Arduino
-        url: '../arduino-lm'
+        content: Making Circuits
+        url: '../making-circuits-lm'
     next:
         content: Software Architecture
         url: '../software-architecture-lm'
@@ -605,8 +605,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzMzNzM4NCwtMTIyNjMzOTg0NywtMT
-kzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5
-MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMj
-AxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbODk4ODM0ODUsLTEyMjYzMzk4NDcsLTE5Mz
+kzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4OTA2
+MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0LDIwMT
+QxNTI4NjFdfQ==
 -->
