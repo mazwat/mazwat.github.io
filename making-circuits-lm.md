@@ -124,6 +124,8 @@ In the diagram the switch is wired to the right hand pin (terminal B) and the sw
 
 ## Digital Control Systems
 
+The previous example is fine if we are just turning something on and off, but we want to create more complex lighting states, like an array of lights or a traffic light system we need to be able to control the lights programmtically. This is where Arduino comes in.
+
 What we're going to do is
 introduce our Arduino.
 
@@ -1045,11 +1047,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzA1NjkyNSwtMTc3MzY3OTI4NSwtNT
-MwMzY2NzE5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5
-MTY2OCwtMTQzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MD
-csLTg2NjY5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4
-OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4OD
-gwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTE3NjY3MTUyMjgsLTE3NzM2NzkyODUsLT
+UzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2
+OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3NDU1NT
+A3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0
+ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwOD
+g4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
 
 -->
