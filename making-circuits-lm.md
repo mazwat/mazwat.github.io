@@ -135,8 +135,6 @@ Here you can see in this example we now have the Arduino in the mix with **pin 1
 So in order to make the Arduino start turning on the light we can simply add this code to the code panel of TinkeCAD.
 
 ```c++
-// C++ code
-//
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
@@ -150,7 +148,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-
+The important thing to note here is that ``LED_BUILTIN`` refers to the LED that is built in to the Arduino board. When you run
 
 
 aebcab
@@ -1042,7 +1040,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzUyMzksMTQxMDgyMTI1MCw0NDQzOD
+eyJoaXN0b3J5IjpbMTYyMjI3NjcsMTQxMDgyMTI1MCw0NDQzOD
 I0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1
 LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOT
 E2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODczLDEwNzQ1
