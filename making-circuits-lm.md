@@ -153,6 +153,8 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 
 You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``. To make it easier manage a range of components connected to a range of pins you can assign variables first:
 ```c++
+int red =  10;
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
@@ -171,11 +173,11 @@ void loop()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzU0MzkwOSwxNTk4NDgxNTAyLDEyND
-gxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2
-NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MC
-w0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzcz
-Njc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4Nz
-UxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2ODcz
-LDEwNzQ1NTUwN119
+eyJoaXN0b3J5IjpbLTEzOTQyOTkyMDgsLTQ2MzU0MzkwOSwxNT
+k4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgy
+MjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2Mj
+gsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2
+NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MD
+M0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIy
+LC0xMTQxMTU2ODczXX0=
 -->
