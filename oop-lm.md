@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 3
+title: COMP140 - Lecture Materials 4
 
 # Author box
 author:
@@ -605,8 +605,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMT
-Q5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5
-MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0LDIwMTQxNTI4NjFdfQ
-==
+eyJoaXN0b3J5IjpbLTUxMzMzNzM4NCwtMTIyNjMzOTg0NywtMT
+kzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5
+MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMj
+AxNDE1Mjg2MV19
 -->
