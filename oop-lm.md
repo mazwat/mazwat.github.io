@@ -579,7 +579,39 @@ class  Program
 ```
 The abstract parent class can only be accessed by it's child. The ``Animal`` sound method is only accessible because it being called from ``Pig`` not ``Animal``.
 
-## OOP in Embedded Systm
+## OOP in Embedded Systems (Arduino & C++)
+
+Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
+
+Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
+
+  
+
+In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
+
+CLICK
+
+In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main program.cs file.
+
+CLICK
+
+In C++ if we want to start developing objects, classes and eventually full fledged libraries. We create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a CPP files which is a standard C++ file which will contain our extension or class and then we also need additionally a header file that has the extension (.h).
+
+In C++ the header file contains:
+
+Function definitions
+
+Data type definitions
+
+Macros
+
+The header file allows the sketch to access the class properties content in the CPP. But you have to use hash include and the name of the header file.
+
+Let’s take the original tinkerCAD version updated to function as a proper C++ library.
+
+  
+
+
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -607,8 +639,8 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjgwNTI0Niw4OTg4MzQ4NSwtMTIyNj
-MzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUy
-MDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01Mj
-I1NTEzMjQsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbLTE1MDE1NjE4OTUsODk4ODM0ODUsLTEyMj
+YzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1
+MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNT
+IyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
 -->
