@@ -111,7 +111,7 @@ Breadboards allow us to create complex layouts of components without having to s
 
 In the above example we use the horizontal tracks on either side of the breadboard to plug the battery in. The horizontal tracks are marked with **red (+)** and **black (-)**. It is not essential to use them for the positive or negative terminals but using the red and black convention helps to avoid confusion. The reason for using the horizontal tracks means we can plug multiple components into this track across the length of the breadboard and draw power from the power source.
 
-A cable from the battery is plugged into the red and black track on either side of the board anf then cables are connected to the LED and the resistor, bit
+A cable from the battery is plugged into the red and black track on either side of the board anf then cables are connected to the LED and the resistor. However we have one more component to add the mix.
 
 e
 
@@ -1621,7 +1621,7 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTQxMTc2NSwxNzUyNzcwMzQxLDE3Mz
+eyJoaXN0b3J5IjpbLTUzMDM2NjcxOSwxNzUyNzcwMzQxLDE3Mz
 M0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIsLTExNDEx
 NTY4NzMsMTA3NDU1NTA3LC04NjY2OTM4MDAsLTgzNDU3NjE4MC
 w4MDU3NjQ2MjAsLTE0ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1
