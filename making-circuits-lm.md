@@ -126,33 +126,10 @@ In the diagram the switch is wired to the right hand pin (terminal B) and the sw
 
 The previous example is fine if we are just turning something on and off, but we want to create more complex lighting states, like an array of lights or a traffic light system we need to be able to control the lights programmtically. This is where Arduino comes in.
 
-What we're going to do is
-introduce our Arduino.
 
 
 
-edefa
-
-OK, so I've just dragged an
-example about doing so. This
-
-
-
-cadfa
-
-is going to simulate it.
-It's got the kind of the USB
-
-
-
--abbbfc
-
-plugged into the Arduino.
-
-
-
--bebda
-
+In the 
 So I have pre cleared this
 but you normally get a bit
 
@@ -1047,11 +1024,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY3MTUyMjgsLTE3NzM2NzkyODUsLT
-UzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2
-OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3NDU1NT
-A3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0
-ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwOD
-g4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
-
+eyJoaXN0b3J5IjpbMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNz
+czNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4
+NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIyLC0xMTQxMTU2OD
+czLDEwNzQ1NTUwNywtODY2NjkzODAwLC04MzQ1NzYxODAsODA1
+NzY0NjIwLC0xNDg5Mjk0MDc1LDM5MzcxNjkyOSwtNzkxNTc4MT
+M1LC02NzAzMDg4ODAsMTIyNjQ4MDUzNCwyMTAwMzkxNTAxLDIw
+MTA1MDI2MTBdfQ==
 -->
