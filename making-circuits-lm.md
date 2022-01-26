@@ -151,33 +151,34 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 - ``digitalWrite`` - Sets the pin to either **on** (HIGH) or **off** (LOW)
 - ``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
 
-You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``. To make it easier manage a range of components connected to a range of pins you can assign variables first:
+You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``. To make it easier to manage a range of components connected to a range of pins you can assign variables first for the number of the pin:
 ```c++
-int red =  10;
+int redLED =  10;
+int 
 
 void setup()
 {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(redLED, OUTPUT);
 }
 
 void loop()
 {
-  digitalWrite(LED_BUILTIN, HIGH);
+  digitalWrite(redLED, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(LED_BUILTIN, LOW);
+  digitalWrite(redLED, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-
+This way a complex set-up becomes easier to understand.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQyOTkyMDgsLTQ2MzU0MzkwOSwxNT
-k4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgy
-MjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2Mj
-gsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2
-NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MD
-M0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIy
-LC0xMTQxMTU2ODczXX0=
+eyJoaXN0b3J5IjpbMTcxNTIxNDQxMCwtNDYzNTQzOTA5LDE1OT
+g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
+NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
+wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
+MTUyMjgsLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNzUyNzcwMz
+QxLDE3MzM0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIs
+LTExNDExNTY4NzNdfQ==
 -->
