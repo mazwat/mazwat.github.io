@@ -592,14 +592,14 @@ The abstract parent class can only be accessed by it's child. The ``Animal`` sou
 
 Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
 
-### Traffic Lights
+### Traffic Light Example
 
 Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
 
  ![Class Diagram](images/traffic-class.png) 
  fig. 10 - Class Diagram for Traffic Light System
 
-In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a duration for off and one for on and we can also set a time for a blinking light through a variable.
+In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a time delay for off and one for on and we can also set a duration for a blinking light through a variable.
 
 ![Simple Circuit](images/traffic-light-tc.png)
 *fig 11. - Traffic Light Circuit on TinkerCAD*\
@@ -607,7 +607,7 @@ In the example above we have a ‘TrafficLight’ class and with each instance o
 
 ### Creating Libraries and Extension in C++
 
-In C# you have a class file or script as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
+In C# you have a class file or script (class.cs for example) as it is referred to in Unity and then these are instantiated through the main **program.cs** file.
 
 In C++ if we want to start developing objects, classes and eventually full fledged libraries, we create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a **CPP file** which is a standard C++ file (.ccp) which will contain our extension or class and then we also need additionally a **header file** that has the extension (.h).
 
@@ -660,9 +660,9 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM2MjM3NDgsLTE1OTEzNTI0MTQsMT
-QyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0
-MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC
-0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1
-Mjg2MV19
+eyJoaXN0b3J5IjpbLTY4NzA5Mzg1NiwtMTU5MTM1MjQxNCwxND
+I0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQy
+MzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLT
+IyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUy
+ODYxXX0=
 -->
