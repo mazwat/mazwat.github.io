@@ -173,13 +173,15 @@ This way a complex set-up becomes easier to understand and easier to modify from
 
 ## From TinkerCAD to Arduino 
 
-TinkerCAD is great for creating your initial wiring plan and testing in a simulated environment but it is essential that you start uploading your code to your real Arduino as soon as possible. Hardware sometimes behaves diffe
+TinkerCAD is great for creating your initial wiring plan and testing in a simulated environment but it is essential that you start uploading your code to your real Arduino as soon as possible. Hardware sometimes behaves differently when physically wired. 
+
+Download the Arduino IDE 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMxNTEwMjIsLTQ2MzU0MzkwOSwxNT
-k4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgy
-MjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2Mj
-gsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2
-NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1Mjc3MD
-M0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0xNDM2NDQ3ODIy
-LC0xMTQxMTU2ODczXX0=
+eyJoaXN0b3J5IjpbMTE5MTc1MDQxOCwtNDYzNTQzOTA5LDE1OT
+g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
+NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
+wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
+MTUyMjgsLTE3NzM2NzkyODUsLTUzMDM2NjcxOSwxNzUyNzcwMz
+QxLDE3MzM0ODg3NTEsLTE5MTY2OTE2NjgsLTE0MzY0NDc4MjIs
+LTExNDExNTY4NzNdfQ==
 -->
