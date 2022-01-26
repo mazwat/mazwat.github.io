@@ -245,12 +245,12 @@ int playerHealth = hero.updateHealthAndStrength(20, 15);
 It is important to note that instantiating new instances of the class as objects as in the example here. Allocates a space in memory for each new instance. Which means each character has a portion of memory allocated to contain the member variables and other elements of the instance.
 
 ![Memory Allocation of new spaces](images/memory1.png)
-*fig. 6 - Memory Allocation*
+*fig. 6 - Memory Allocation - existing instance*
 
 However if you create new instances of the class that are referencing an existing instance, there will be only one piece of allocated memory, so all the member variables will refer back to the original instance. If hero’s health is 20, then so will enemy’s, guide’s and boss’. It can be easy to make this mistake and end up resetting or changing everything with the same value when you wanted different values.
 
 ![Memory Allocation of one space](images/memory2.png)
-*fig. 6 - Memory Allocation*
+*fig. 7 - Memory Allocation - new instance*
 
 ## Properties
 
@@ -283,6 +283,7 @@ Now you may think this is a complicated way to access a private variable why not
 ### Access Modifiers
 
 ![Access Modifiers - House analogy](images/getset.png)
+*fig. 8 - Get and Set*
 
 We can use the analogy of a house. If we set our field to ``public`` anyone or any method call can access it. If we set it to ``private`` it is not accessible from the outside. But sometimes we want a method to be able to read something but nothing else. Known as read only. In this case we can ``get`` something. in other instances we want it to be writeable, so we can ``set`` something but not readable, sometimes both. The great thing with get and set is we can control one part of the code without affecting other parts and it makes our code more secure because we are not exposing all variables at all times.
 ```c#
@@ -380,6 +381,7 @@ name- apple
 ### Unity & Inheritance from MonoBehaviour
 
 ![Unity MonoBehaviour](images/monobehaviour.jpg)
+*fig. 6 - Mono*
 
 Another way to understand the application of inheritance is how it is represented in Unity. The ``MonoBehaviour`` class is a base class from which every Unity script derives. It is automatically parented when you create a script in Unity. Any child say ``pubVar`` in the example has access to the principle Monobehaviour methods like ``Start()`` , ``Update()`` ,`Awake()`, `FixedUpdate` and `onEnable()` as well as many more. For more information about MonoBehaviour look at the reference to it here in the Unity API:
 [https://docs.unity3d.com/ScriptReference/MonoBehaviour.html](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
@@ -650,7 +652,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MDY4MDg0LDE0MjQwMDYzNTIsODk4OD
+eyJoaXN0b3J5IjpbMjU3MjM0ODA2LDE0MjQwMDYzNTIsODk4OD
 M0ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3
 NiwtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyND
 k2MjE2MywtNTIyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
