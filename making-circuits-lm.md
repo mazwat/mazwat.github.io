@@ -171,9 +171,9 @@ void loop()
 ```
 This way a complex set-up becomes easier to understand and easier to modify from a set of initial variables.
 
-## 
+## Arduino 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzk3MzM1NSwtNDYzNTQzOTA5LDE1OT
+eyJoaXN0b3J5IjpbMTg0ODMzODEzMSwtNDYzNTQzOTA5LDE1OT
 g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
 NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
 wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
