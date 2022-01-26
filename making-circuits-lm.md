@@ -182,13 +182,16 @@ Once you have the IDE installed open it and you can install your first test prog
 ![Basic Blink on IDE](images/blink-sketch.png)
 *fig 8. - Blink Sketch on the Arduino IDE*\
 
-It is almost identical to the version we created in TinkerCAD. To make sure you install use the USB cable and conne
+It is almost identical to the version we created in TinkerCAD. To make sure you upload the sketch correctly to the board follow these steps:
+
+- Plug  the USB cable into your comptuer and your Arduino
+- GO to Tools > Board
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwODE4Mzc0LC0xNDEyODk2MDMsLTQ2Mz
-U0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0
-MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLT
-IwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5
-NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MT
-ksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0xOTE2NjkxNjY4LC0x
-NDM2NDQ3ODIyXX0=
+eyJoaXN0b3J5IjpbLTE1NjQ0NjY1NTYsLTE0MTI4OTYwMywtND
+YzNTQzOTA5LDE1OTg0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAx
+NjQxLC0xNTI5ODIyNjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NS
+wtMjA5NTEyNjYyOCwxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYw
+ODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2NzkyODUsLTUzMDM2Nj
+cxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2OTE2Njgs
+LTE0MzY0NDc4MjJdfQ==
 -->
