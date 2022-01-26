@@ -175,9 +175,13 @@ This way a complex set-up becomes easier to understand and easier to modify from
 
 TinkerCAD is great for creating your initial wiring plan and testing in a simulated environment but it is essential that you start uploading your code to your real Arduino as soon as possible. Hardware sometimes behaves differently when physically wired. 
 
-Download the Arduino IDE 
+[Download the Arduino IDE](https://docs.arduino.cc/software/ide-v1) 
+
+Once you have the IDE installed open it and you can install your first test program by going to File > Examples > Basics and select Blink. It will open this file:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTc1MDQxOCwtNDYzNTQzOTA5LDE1OT
+eyJoaXN0b3J5IjpbMjAxNTM5MzcyNCwtNDYzNTQzOTA5LDE1OT
 g0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIy
 NjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOC
 wxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3
