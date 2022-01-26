@@ -152,6 +152,7 @@ The important thing to note here is that ``LED_BUILTIN`` refers to the LED that 
 - ``delay`` - Is the time elapsed (milliseconds) before the next command in the loop is called.
 
 You can change the pin to something else if you want to use any of the other digital pins on the board. Just remember to change the pinMode or add a new one to reflect this for instance: ``pinMode(10, OUTPUT);``. To make it easier to manage a range of components connected to a range of pins you can assign variables first for the number of the pin:
+
 ```c++
 int redLED =  10;
 int timeDelay = 1000;
@@ -180,7 +181,7 @@ TinkerCAD is great for creating your initial wiring plan and testing Arduino in 
 Once you have the IDE installed open it and you can install your first test program by going to File > Examples > Basics and select Blink. It will open this file:
 
 ![Basic Blink on IDE](images/blink-sketch.png)
-*fig 8. - Blink Sketch on the Arduino IDE*\
+*fig 9. - Blink Sketch on the Arduino IDE*\
 
 It is almost identical to the version we created in TinkerCAD. To make sure you upload the sketch correctly to the board follow these steps:
 
@@ -192,12 +193,15 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 - Click the **Upload button** (look like circular button with an arrow point right)
 
 You will get confirmation in the output window at the bottom of the IDE that your sketch has been uploaded correctly and it should start running immediately.
+
+![Blink on Arduino](images/arduino-blink.png)
+*fig 10. - Blink on the Arduino and Breadboard*\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDUxODU4NywtMTQxMjg5NjAzLC00Nj
-M1NDM5MDksMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0NjkyMDE2
-NDEsLTE1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC
-0yMDk1MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4
-OTY5MiwtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2Nz
-E5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5MTY2OCwt
-MTQzNjQ0NzgyMl19
+eyJoaXN0b3J5IjpbMTcyOTQyNDczMywxNjcwNTE4NTg3LC0xND
+EyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3
+NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLT
+E3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQz
+ODI0ODMsMjc2MDg5NjkyLC0xNzY2NzE1MjI4LC0xNzczNjc5Mj
+g1LC01MzAzNjY3MTksMTc1Mjc3MDM0MSwxNzMzNDg4NzUxLC0x
+OTE2NjkxNjY4XX0=
 -->
