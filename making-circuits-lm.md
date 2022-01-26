@@ -186,8 +186,12 @@ It is almost identical to the version we created in TinkerCAD. To make sure you 
 
 - Plug  the USB cable into your comptuer and your Arduino
 - GO to Tools > Board
+- Select 'Arduino Uno"
+- Go to Tools > Port
+- Select the Port that is for your USB device (there's usually only one, but it's worth checking)
+- Click the Upla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0NjY1NTYsLTE0MTI4OTYwMywtND
+eyJoaXN0b3J5IjpbLTEwODQ5NjU3MjYsLTE0MTI4OTYwMywtND
 YzNTQzOTA5LDE1OTg0ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAx
 NjQxLC0xNTI5ODIyNjI3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NS
 wtMjA5NTEyNjYyOCwxNDEwODIxMjUwLDQ0NDM4MjQ4MywyNzYw
