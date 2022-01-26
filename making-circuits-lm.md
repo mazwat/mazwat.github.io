@@ -116,9 +116,9 @@ A cable from the battery is plugged into the red and black track on either side 
 A switch is a means to interrupt the flow of electricity in a basic **single throw** switch it either on or off.  But the switch in the above example is a **double-throw** switch as it has 3 terminals (see below). Terminal 1, Common and Terminal 2
 
 ![Switch](images/switch.jpg)
-*fig 7. - Double Throw Switch\
+*fig 7. - Double Throw Switch*
 
-When the switch is in one position, the common terminal is connected to the A terminal, so current flows from the common terminal to the A terminal but no current flows to the B terminal. When the switch is moved to its other position, the terminal connections are reversed: current flows from the common terminal to the B terminal, but no current flows though the A terminal. Essentially this means we can use the pins to choose whether the switch starts in the **on position** or the **off position**.
+When the switch is in one position, the common terminal is connected to the A terminal, so current flows from the common terminal to the A terminal but no current flows to the B terminal. When the switch is moved to its other position, the terminal connections are reversed: current flows from the common terminal to the B terminal, but no current flows though the A terminal. Essentially this means we can use the pins to choose whether the switch starts in the **on position** (Terminal 1) or the **off position** (Terminal 2).
 
 In the diagram the swtich is wired to the right hand pin and the 
 
@@ -1630,11 +1630,11 @@ Arduino.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzU5NjQ3NSwtMTc3MzY3OTI4NSwtNT
-MwMzY2NzE5LDE3NTI3NzAzNDEsMTczMzQ4ODc1MSwtMTkxNjY5
-MTY2OCwtMTQzNjQ0NzgyMiwtMTE0MTE1Njg3MywxMDc0NTU1MD
-csLTg2NjY5MzgwMCwtODM0NTc2MTgwLDgwNTc2NDYyMCwtMTQ4
-OTI5NDA3NSwzOTM3MTY5MjksLTc5MTU3ODEzNSwtNjcwMzA4OD
-gwLDEyMjY0ODA1MzQsMjEwMDM5MTUwMSwyMDEwNTAyNjEwXX0=
+eyJoaXN0b3J5IjpbLTE4OTI5Nzg0MDQsLTE3NzM2NzkyODUsLT
+UzMDM2NjcxOSwxNzUyNzcwMzQxLDE3MzM0ODg3NTEsLTE5MTY2
+OTE2NjgsLTE0MzY0NDc4MjIsLTExNDExNTY4NzMsMTA3NDU1NT
+A3LC04NjY2OTM4MDAsLTgzNDU3NjE4MCw4MDU3NjQ2MjAsLTE0
+ODkyOTQwNzUsMzkzNzE2OTI5LC03OTE1NzgxMzUsLTY3MDMwOD
+g4MCwxMjI2NDgwNTM0LDIxMDAzOTE1MDEsMjAxMDUwMjYxMF19
 
 -->
