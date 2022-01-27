@@ -724,34 +724,22 @@ void TrafficLight::BLINK(int rate, int times) {
 	}	
 }
 ```
-**trafficLight.cpp**
+**TrafficLight.h**
 ```C++
 #ifndef TrafficLight_h
-
 #define TrafficLight_h
-
 #include "Arduino.h"
 
 class TrafficLight
-
 {
-
-public:
-
-TrafficLight(int pin);
-
-void ON(int duration);
-
-void OFF(int duration);
-
-void BLINK(int rate, int times);
-
-private:
-
-int LightPin;
-
+	public:
+		TrafficLight(int pin);
+		void ON(int duration);
+		void OFF(int duration);
+		void BLINK(int rate, int times);
+	private:
+		int LightPin;
 };
-
 #endif
 ```
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
@@ -791,10 +779,10 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODE4NTIwMSwxMzUxNTU1MTI0LDE4MT
-UwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxNDI0MDA2
-MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLD
-E0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAw
-OTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX
-0=
+eyJoaXN0b3J5IjpbLTE0MzU2OTE3ODgsMTM1MTU1NTEyNCwxOD
+E1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEzNTI0MTQsMTQyNDAw
+NjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMC
+wxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMw
+MDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV
+19
 -->
