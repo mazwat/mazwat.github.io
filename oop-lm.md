@@ -20,8 +20,8 @@ page_nav:
     prev:
         content: Making Circuits
         url: '../making-circuits-lm'
-    next:
-        <!---content: Software Architecture
+    <!---next:
+        content: Software Architecture
         url: '../software-architecture-lm'-->
 ---
 
@@ -779,7 +779,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNTMxOTkwLC0xMDQ2ODM1NjcyLDMzMD
+eyJoaXN0b3J5IjpbMzY1MzkyNzg4LC0xMDQ2ODM1NjcyLDMzMD
 IwMzY5MCwxNjgyMjc2MDgwLC03MDA5MDY5NjUsNTk0ODc1OTg3
 LDQ3Mzc3NTM2MCwtMTE1Mzk2MzY5NCwtMTQzNTY5MTc4OCwxMz
 UxNTU1MTI0LDE4MTUwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1
