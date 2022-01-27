@@ -619,7 +619,7 @@ In C++ the header file contains:
 
 The header file allows the sketch (.ino) to access the class properties content in the .cpp. But you have to use hash include and the name of the header file. For example``#include “Class.h"``
 
-Let’s take the original TinkerCAD version and update it to function as a proper C++ library. Here's the orginal from TinkerCAD:
+
 ```c++
 class Traffic_Light
 {
@@ -667,12 +667,14 @@ void loop()
 	Amber.BLINK(200,20);
 }
 ```
+Let’s take the original TinkerCAD version and update it to function as a proper C++ library. 
+
 So we take the TinkerCAD example and break it down into 3 files. An **INO** which contains the sketch that create the instances of the class and defines their properties at runtime. We have a **header** file which defines all the functions and data types and then a **CPP** file which contains the definition of the Traffic light class itself. 
 
 All the files for this example are available at this [repository](https://github.falmouth.ac.uk/Matt-Watkins/OOP-Arduino-Example)
 
 **trafficLight.ino**
-```C++
+```c++
 #include <TrafficLight.h>
 
 TrafficLight Red(13);
@@ -690,7 +692,7 @@ void loop() {
 }
 ```
 **trafficLight.cpp**
-```C++
+```c++
 #include "Arduino.h"
 #include "TrafficLight.h"
 
@@ -723,7 +725,7 @@ void TrafficLight::BLINK(int rate, int times) {
 }
 ```
 **TrafficLight.h**
-```C++
+```c++
 #ifndef TrafficLight_h
 #define TrafficLight_h
 #include "Arduino.h"
@@ -777,7 +779,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDI4NzAyOCwtMTQzNTY5MTc4OCwxMz
+eyJoaXN0b3J5IjpbMTk4ODQ4MDkzNiwtMTQzNTY5MTc4OCwxMz
 UxNTU1MTI0LDE4MTUwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1
 MjQxNCwxNDI0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC
 0xOTM5MzQyMzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUy
