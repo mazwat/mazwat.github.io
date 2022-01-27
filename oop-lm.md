@@ -619,54 +619,6 @@ In C++ the header file contains:
 
 The header file allows the sketch (.ino) to access the class properties content in the .cpp. But you have to use hash include and the name of the header file. For example``#include “Class.h"``
 
-
-```c++
-class Traffic_Light
-{
-	int Lightpin;  
-	public:
-	Traffic_Light(int pin)
-	{
-		Lightpin = pin;
-		pinMode(Lightpin, OUTPUT);     
-	}  
-	void ON(int duration)
-	{
-		digitalWrite(Lightpin, HIGH);
-		delay(duration);
-		digitalWrite(Lightpin, LOW);  
-	} 
-	void OFF(int duration)
-	{
-		digitalWrite(Lightpin, LOW)
-		delay(duration);  
-	}
-	void BLINK(int rate, int times) {
-		for(int i=0; i < times; i++) {
-		 	digitalWrite(Lightpin, HIGH);
-		   	delay(rate);
-		   	digitalWrite(Lightpin, LOW);
-		   	delay(rate);  
-	  	}
-	}
-};
-
-Traffic_Light Red(13);
-Traffic_Light Amber(12);
-Traffic_Light Green(11);
-
-void setup()
-{ 	
-}
-
-void loop()
-{
-	Red.ON(3000);
-	Amber.ON(1000);
-	Green.ON(3000);
-	Amber.BLINK(200,20);
-}
-```
 Let’s take the original TinkerCAD version and update it to function as a proper C++ library. 
 
 So we take the TinkerCAD example and break it down into 3 files. An **INO** which contains the sketch that create the instances of the class and defines their properties at runtime. We have a **header** file which defines all the functions and data types and then a **CPP** file which contains the definition of the Traffic light class itself. 
@@ -779,10 +731,10 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODQ4MDkzNiwtMTQzNTY5MTc4OCwxMz
-UxNTU1MTI0LDE4MTUwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1
-MjQxNCwxNDI0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC
-0xOTM5MzQyMzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUy
-ODkwNjMsLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNC
-wyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbLTE3MDA1ODgxMzMsLTE0MzU2OTE3ODgsMT
+M1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEz
+NTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0Ny
+wtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1
+Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMj
+QsMjAxNDE1Mjg2MV19
 -->
