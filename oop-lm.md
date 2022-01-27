@@ -605,7 +605,7 @@ Rather than program each new set up for every junction we create a class with in
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a time delay for off and one for on and we can also set a duration for a blinking light through a variable.
 
 ![Simple Circuit](images/traffic-light-tc.png)
-*fig 11. - Traffic Light Circuit on TinkerCAD*\
+*fig 12. - Traffic Light Circuit on TinkerCAD*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0)**
 
 In the TinkerCAD version presented in the link above we have created a rought apporaximation of OOP in a C++ you can see that class `Traffic_Light` has been defined and 3 instances of `Traffic_Light` have been created - **Red, Amber** and **Green**. Then the methods are called at runtime in the loop function as shown in `Red.ON(3000);` for example.	
@@ -752,7 +752,7 @@ All the files for this example are available at this [**repository**](https://gi
 Let’s see the final embedded version on an actual breadboard.
 
 ![Arduino Traffic Lights](images/arduino-traffic.gif)\
-*fig 12. - Traffice Lights running on an Arduino*
+*fig 13. - Traffice Lights running on an Arduino*
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -779,11 +779,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjAzNjkwLDE2ODIyNzYwODAsLTcwMD
-kwNjk2NSw1OTQ4NzU5ODcsNDczNzc1MzYwLC0xMTUzOTYzNjk0
-LC0xNDM1NjkxNzg4LDEzNTE1NTUxMjQsMTgxNTA1MDY5MSwxND
-k4MDc3MzIzLC0xNTkxMzUyNDE0LDE0MjQwMDYzNTIsODk4ODM0
-ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3Ni
-wtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2
-MjE2M119
+eyJoaXN0b3J5IjpbLTEwNDY4MzU2NzIsMzMwMjAzNjkwLDE2OD
+IyNzYwODAsLTcwMDkwNjk2NSw1OTQ4NzU5ODcsNDczNzc1MzYw
+LC0xMTUzOTYzNjk0LC0xNDM1NjkxNzg4LDEzNTE1NTUxMjQsMT
+gxNTA1MDY5MSwxNDk4MDc3MzIzLC0xNTkxMzUyNDE0LDE0MjQw
+MDYzNTIsODk4ODM0ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMT
+AsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIz
+MDA5MzddfQ==
 -->
