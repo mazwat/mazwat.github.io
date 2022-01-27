@@ -591,7 +591,7 @@ The abstract parent class can only be accessed by it's child. The ``Animal`` sou
 ## OOP in Embedded Systems
 
  ![Class Diagram](images/city-lights.png) 
- fig. 10 - Traffic Lights - A clais
+ fig. 10 - Traffic Lights - A classic embedded system
 
 Let’s use a classic embedded system - a traffic light. You are designing a city wide traffic system with 100’s of different junctions with different needs. We could program our traffic lights to come on in a timed sequence. Which is fine if the timings never change, but some routes are busier than others and the timings need to reflect that and change during rush hours. We also may need to have a traffic light with only a green and a red light.
 
@@ -600,7 +600,7 @@ Let’s use a classic embedded system - a traffic light. You are designing a cit
 Rather than program each new set up for every junction we create a class with inheritance to handle each different type of light.
 
  ![Class Diagram](images/traffic-class.png) 
- fig. 10 - Class Diagram for Traffic Light System
+ fig. 11 - Class Diagram for Traffic Light System
 
 In the example above we have a ‘TrafficLight’ class and with each instance of the class we can trigger a time delay for off and one for on and we can also set a duration for a blinking light through a variable.
 
@@ -755,7 +755,8 @@ LINK TO REPO
 
 Let’s see the final embedded version on an actual breadboard.
 
-ANIMATED GIF
+![Arduino Traffic Lights](images/arduino-traffic.gif)
+*fig 12. - Traffice Lights running on an Arduino*\
  
 
 
@@ -784,7 +785,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzcwNDI5MSwtNzAwOTA2OTY1LDU5ND
+eyJoaXN0b3J5IjpbLTYzMjYyMDUyMSwtNzAwOTA2OTY1LDU5ND
 g3NTk4Nyw0NzM3NzUzNjAsLTExNTM5NjM2OTQsLTE0MzU2OTE3
 ODgsMTM1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLT
 E1OTEzNTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMz
