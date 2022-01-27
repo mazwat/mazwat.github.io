@@ -699,48 +699,32 @@ void loop() {
 TrafficLight::TrafficLight(int pin)
 {
 	pinMode(pin, OUTPUT);
-LightPin = pin;
+	LightPin = pin;
 
 }
-
 void TrafficLight::ON(int duration)
-
 {
-
-digitalWrite(LightPin, HIGH);
-
-delay(duration);
-
-digitalWrite(LightPin, LOW);
-
+	digitalWrite(LightPin, HIGH);
+	delay(duration);
+	digitalWrite(LightPin, LOW);
 }
 
 void TrafficLight::OFF(int duration)
-
 {
-
-digitalWrite(LightPin, LOW);
-
-delay(duration);
-
+	digitalWrite(LightPin, LOW);
+	delay(duration);
 }
 
 void TrafficLight::BLINK(int rate, int times) {
-
-for(int i=0; i < times; i++) {
-
-digitalWrite(LightPin, HIGH);
-
-delay(rate);
-
-digitalWrite(LightPin, LOW);
-
-delay(rate);
-
-}
-
+	for(int i=0; i < times; i++) {
+		digitalWrite(LightPin, HIGH);
+		delay(rate);
+		digitalWrite(LightPin, LOW);
+		delay(rate);
+	}	
 }
 ```
+
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
 
 ADD CODE FOR EACH FILE
@@ -778,10 +762,9 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTkzMjc2OSwxMzUxNTU1MTI0LDE4MT
-UwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxNDI0MDA2
-MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLD
-E0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLTIyMzAw
-OTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUyODYxXX
-0=
+eyJoaXN0b3J5IjpbLTkzNjU0NjksMTM1MTU1NTEyNCwxODE1MD
+UwNjkxLDE0OTgwNzczMjMsLTE1OTEzNTI0MTQsMTQyNDAwNjM1
+Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxND
+kzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMwMDkz
+NywxNjI0OTYyMTYzLC01MjI1NTEzMjQsMjAxNDE1Mjg2MV19
 -->
