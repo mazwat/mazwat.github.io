@@ -751,10 +751,8 @@ All the files for this example are available at this [**repository**](https://gi
 
 Let’s see the final embedded version on an actual breadboard.
 
-![Arduino Traffic Lights](images/arduino-traffic.gif)
-*fig 12. - Traffice Lights running on an Arduino*\
- 
-
+![Arduino Traffic Lights](images/arduino-traffic.gif)\
+*fig 12. - Traffice Lights running on an Arduino*
 
 ## Conclusion
 In this lecture we have now covered all the principles of OOP programming that we set to explore at the beginning. 
@@ -781,11 +779,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjI3NjA4MCwtNzAwOTA2OTY1LDU5ND
-g3NTk4Nyw0NzM3NzUzNjAsLTExNTM5NjM2OTQsLTE0MzU2OTE3
-ODgsMTM1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLT
-E1OTEzNTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMz
-OTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMD
-gsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1
-NTEzMjRdfQ==
+eyJoaXN0b3J5IjpbMzMwMjAzNjkwLDE2ODIyNzYwODAsLTcwMD
+kwNjk2NSw1OTQ4NzU5ODcsNDczNzc1MzYwLC0xMTUzOTYzNjk0
+LC0xNDM1NjkxNzg4LDEzNTE1NTUxMjQsMTgxNTA1MDY5MSwxND
+k4MDc3MzIzLC0xNTkxMzUyNDE0LDE0MjQwMDYzNTIsODk4ODM0
+ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3Ni
+wtMTU1NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2
+MjE2M119
 -->
