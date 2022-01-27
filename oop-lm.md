@@ -605,7 +605,8 @@ In the example above we have a ‘TrafficLight’ class and with each instance o
 *fig 11. - Traffic Light Circuit on TinkerCAD*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0)**
 
-In the TinkerCAD version presented in the link above we have created a rought apporaximation of OOP in a C++ you can see that class Traffic_Light has been defined and 3 instances of Traffic_Light have been created - Red, AMber and Green. Then the methods are called at runtiem as shown 
+In the TinkerCAD version presented in the link above we have created a rought apporaximation of OOP in a C++ you can see that class `Traffic_Light` has been defined and 3 instances of `Traffic_Light` have been created - **Red, Amber** and **Green**. Then the methods are called at runtime in the loop function as shown in `Red.ON(3000);`
+
 **Code in TinkerCAD**
 ```c++
 class Traffic_Light
@@ -781,10 +782,10 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzY3NTMwMiwtMTQzNTY5MTc4OCwxMz
-UxNTU1MTI0LDE4MTUwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1
-MjQxNCwxNDI0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC
-0xOTM5MzQyMzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUy
-ODkwNjMsLTIyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNC
-wyMDE0MTUyODYxXX0=
+eyJoaXN0b3J5IjpbLTExNTM5NjM2OTQsLTE0MzU2OTE3ODgsMT
+M1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEz
+NTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0Ny
+wtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1
+Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMj
+QsMjAxNDE1Mjg2MV19
 -->
