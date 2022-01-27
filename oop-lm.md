@@ -671,31 +671,23 @@ void loop()
 ```
 So we take the TinkerCAD example and break it down into 3 files. An **INO** which contains the sketch that create the instances of the class and defines their properties at runtime. We have a **header** file which defines all the functions and data types and then a **CPP** file which contains the definition of the Traffic light class itself. 
 
-https://github.falmouth.ac.uk/Matt-Watkins/OOP-Arduino-Example
+All the files for this example are available at this [repository](https://github.falmouth.ac.uk/Matt-Watkins/OOP-Arduino-Example)
 
 ```C++
 #include <TrafficLight.h>
 
 TrafficLight Red(13);
-
 TrafficLight Amber(12);
-
 TrafficLight Green(11);
 
 void setup() {
-
 }
 
 void loop() {
-
-Red.ON(3000);
-
-Amber.ON(1000);
-
-Green.ON(3000);
-
-Amber.BLINK(200,10);
-
+	Red.ON(3000);
+	Amber.ON(1000);
+	Green.ON(3000);
+	Amber.BLINK(200,10);
 }
 ```
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
@@ -735,7 +727,7 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTk2NzUzNSwxODE1MDUwNjkxLDE0OT
+eyJoaXN0b3J5IjpbMTM1MTU1NTEyNCwxODE1MDUwNjkxLDE0OT
 gwNzczMjMsLTE1OTEzNTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4
 NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC
 0xNTU1OTUyMDgsNDI1Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYy
