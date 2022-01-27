@@ -663,7 +663,6 @@ In C# you have a class file (**class.cs** for example) then the properties of th
 In C++ if we want to start developing objects, classes and eventually full fledged libraries, we create a sketch file in the Arduino IDE that has the runtime functions in it. We also need a **CPP file** which is a standard C++ file (.ccp) which will contain our extension or class and then we also need additionally a **header file** that has the extension (.h).
 
 In C++ the header file contains:
-
  - Function definitions
  - Data type definitions
  - Macros
@@ -782,10 +781,10 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM5NjM2OTQsLTE0MzU2OTE3ODgsMT
-M1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEz
-NTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0Ny
-wtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1
-Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMj
-QsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbNDczNzc1MzYwLC0xMTUzOTYzNjk0LC0xND
+M1NjkxNzg4LDEzNTE1NTUxMjQsMTgxNTA1MDY5MSwxNDk4MDc3
+MzIzLC0xNTkxMzUyNDE0LDE0MjQwMDYzNTIsODk4ODM0ODUsLT
+EyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1
+NTk1MjA4LDQyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2My
+wtNTIyNTUxMzI0LDIwMTQxNTI4NjFdfQ==
 -->
