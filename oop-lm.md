@@ -669,7 +669,7 @@ void loop()
 	Amber.BLINK(200,20);
 }
 ```
-So we take the TinkerCAD example and break it down into 3 files. CLICK An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
+So we take the TinkerCAD example and break it down into 3 files. An INO which contains the sketch that create the instances of the class and defines their properties at runtime. CLICK We have a header file which defines all the functions and data types and then a CLICK CPP file which contains the definition of the Traffic light class itself. 
 
 In this way way create a neat and terse method of deploying where implementation is modular and easy to change in a few lines of code. We have a library for a traffic light that we can use for all the cities junctions and traffic lights.  
 
@@ -708,9 +708,9 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxND
-I0MDA2MzUyLDg5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQy
-MzEwLDE0OTMyNDQ4NzYsLTE1NTU5NTIwOCw0MjUyODkwNjMsLT
-IyMzAwOTM3LDE2MjQ5NjIxNjMsLTUyMjU1MTMyNCwyMDE0MTUy
-ODYxXX0=
+eyJoaXN0b3J5IjpbMTgxNTA1MDY5MSwxNDk4MDc3MzIzLC0xNT
+kxMzUyNDE0LDE0MjQwMDYzNTIsODk4ODM0ODUsLTEyMjYzMzk4
+NDcsLTE5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LD
+QyNTI4OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUx
+MzI0LDIwMTQxNTI4NjFdfQ==
 -->
