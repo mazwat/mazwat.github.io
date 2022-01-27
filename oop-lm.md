@@ -605,6 +605,8 @@ In the example above we have a ‘TrafficLight’ class and with each instance o
 *fig 11. - Traffic Light Circuit on TinkerCAD*\
 **[View Circuit on TinkerCad](https://www.tinkercad.com/things/b9tJlT5tGJl-traffic-lights-oop-for-comp140/editel?sharecode=U5YG5Ng6lDm_B3qfw6YHQUq25OkBR--bl9psTo9ikL0)**
 
+In the TinkerCAD version presented in the link above we have created a rought apporaximation of OOP in a
+
 ### Creating Libraries and Extension in C++
 
 In C# you have a class file (**class.cs** for example) then the properties of the class are instantiated through the main **program.cs** file.
@@ -731,10 +733,10 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1ODgxMzMsLTE0MzU2OTE3ODgsMT
-M1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEz
-NTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0Ny
-wtMTkzOTM0MjMxMCwxNDkzMjQ0ODc2LC0xNTU1OTUyMDgsNDI1
-Mjg5MDYzLC0yMjMwMDkzNywxNjI0OTYyMTYzLC01MjI1NTEzMj
-QsMjAxNDE1Mjg2MV19
+eyJoaXN0b3J5IjpbNzAwMzA5NTQ2LC0xNDM1NjkxNzg4LDEzNT
+E1NTUxMjQsMTgxNTA1MDY5MSwxNDk4MDc3MzIzLC0xNTkxMzUy
+NDE0LDE0MjQwMDYzNTIsODk4ODM0ODUsLTEyMjYzMzk4NDcsLT
+E5MzkzNDIzMTAsMTQ5MzI0NDg3NiwtMTU1NTk1MjA4LDQyNTI4
+OTA2MywtMjIzMDA5MzcsMTYyNDk2MjE2MywtNTIyNTUxMzI0LD
+IwMTQxNTI4NjFdfQ==
 -->
