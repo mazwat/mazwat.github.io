@@ -49,7 +49,7 @@ UML is a **visual notation system** which can be used to design software. It was
 ![UML types](images/uml-types.png)
 *fig.2 - UML types*
 
-UML can be divided into 2 types:
+UML can be divided into **2 types**:
 
 1. **Behaviour Diagrams**
 – Describes what happens in a system, this includes interactions between users and the system
@@ -76,7 +76,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjgxMjI5NCwyNTA5MDY0OCwtMTk1Nz
+eyJoaXN0b3J5IjpbLTY0OTg0Njg0MiwyNTA5MDY0OCwtMTk1Nz
 k0OTUyMCwxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5
 NDVdfQ==
 -->
