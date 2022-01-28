@@ -45,7 +45,20 @@ fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 -   UML offers us a **standardised way of designing** software
 -   It allows us to **think through our systems** before committing them to code
 -   It offers a **shared language** between programmer and other disciplines including **clients**
+
+## Diagram Families
+
+**UML 2.0** is split into  
+**2 diagram families**
+
+**Behaviour Diagrams**
+– Describes what happens in a system, this includes interactions between users and the system
+– Or the current system and other external systems
+
+**Structure Diagrams**
+– Describes what is contained in the system
+– Typically used to model the system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyNzk2MjIsLTgzMDY5MjQ2MCwtMT
-M4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbMTg0MzIxNjg0MywtODMwNjkyNDYwLC0xMz
+g3OTM1OTQ1XX0=
 -->
