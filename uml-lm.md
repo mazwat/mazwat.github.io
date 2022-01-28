@@ -26,6 +26,9 @@ page_nav:
 ---
 
 # Unified Markup Language
+
+![Hero Banner Image](images/uml-hero-banner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbLTk5NDc3MTc5MywtODMwNjkyNDYwLC0xMz
+g3OTM1OTQ1XX0=
 -->
