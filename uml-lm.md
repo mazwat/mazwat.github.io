@@ -29,6 +29,9 @@ page_nav:
 
 ![Hero Banner Image](images/uml-hero-banner.png)
 
+The following materials are derived from the *UML lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
+{: .callout .callout--warning}
+
 ## What is UML?
 UML is a **visual notation system** which can be used to design software. It was first devised in **1996** by Booch, Jacobson and Rumbaugh. The goal was to **unify/standardise** all the various modelling languages and diagrams used in Software Development. In **2005**, ISO published UML as an **international standard**. **UML 2.0** is the most current version, with **14 different diagram types** defined as being part of UML.
 
@@ -58,10 +61,13 @@ UML can be divided into 2 types:
 
 ## Tools for making UML
 
--   Diagram - [http://www.diagram.net](http://www.diagram.net)
--   Lucid Chart - [https://www.lucidchart.com](https://www.lucidchart.com)
+1.   Diagram - [http://www.diagram.net](http://www.diagram.net)
+2.  Lucid Chart - [https://www.lucidchart.com](https://www.lucidchart.com)
 -   Gliffy - [http://www.gliffy.com](http://www.gliffy.com)
+
+There are many more you can use but these are some of the best.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODk0MzA1MCwtMTk1Nzk0OTUyMCwxNj
+eyJoaXN0b3J5IjpbLTU5NDg4MTgwMSwtMTk1Nzk0OTUyMCwxNj
 M5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
 -->
