@@ -34,11 +34,7 @@ page_nav:
 ![Inventors of UML](images/booch.png)
 fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 
--  UML is a **visual notation system** which can be used to design software
--  It was first devised in **1996** by Booch, Jacobson and Rumbaugh  
--  The goal was to **unify/standardise** all the various modelling languages and diagrams used in Software Development
--  In **2005**, ISO published UML as an **international standard**
--  **UML 2.0** is the most current version, there are currently **14 different diagram types**
+UML is a **visual notation system** which can be used to design software. It was first devised in **1996** by Booch, Jacobson and Rumbaugh. The goal was to **unify/standardise** all the various modelling languages and diagrams used in Software Development. In **2005**, ISO published UML as an **international standard**. **UML 2.0** is the most current version, with **14 different diagram types** defined as being part
 
 ## Why use UML?
 
@@ -58,6 +54,6 @@ Uml can be divided into 2 types:
 – Describes what is contained in the system
 – Typically used to model the system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDEyNTQzMywtODMwNjkyNDYwLC0xMz
+eyJoaXN0b3J5IjpbLTExNzcyNjgzNSwtODMwNjkyNDYwLC0xMz
 g3OTM1OTQ1XX0=
 -->
