@@ -46,14 +46,14 @@ UML is a **visual notation system** which can be used to design software. It was
 
 Uml can be divided into 2 types:
 
-**Behaviour Diagrams**
+1. **Behaviour Diagrams**
 – Describes what happens in a system, this includes interactions between users and the system
 – Or the current system and other external systems
 
-**Structure Diagrams**
+2. **Structure Diagrams**
 – Describes what is contained in the system
 – Typically used to model the system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYzODA1NjYsLTgzMDY5MjQ2MCwtMT
-M4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbMTkxNDExNDAzMywtODMwNjkyNDYwLC0xMz
+g3OTM1OTQ1XX0=
 -->
