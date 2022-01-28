@@ -33,7 +33,7 @@ page_nav:
 UML is a **visual notation system** which can be used to design software. It was first devised in **1996** by Booch, Jacobson and Rumbaugh. The goal was to **unify/standardise** all the various modelling languages and diagrams used in Software Development. In **2005**, ISO published UML as an **international standard**. **UML 2.0** is the most current version, with **14 different diagram types** defined as being part of UML.
 
 ![Inventors of UML](images/booch.png)
-fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
+*fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML*
 
 ## Why use UML?
 
@@ -43,7 +43,10 @@ fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 
 ## Diagram Families
 
-Uml can be divided into 2 types:
+![UML types](images/uml-types.png)
+*fig.2 - UML types*
+
+UML can be divided into 2 types:
 
 1. **Behaviour Diagrams**
 – Describes what happens in a system, this includes interactions between users and the system
@@ -53,6 +56,6 @@ Uml can be divided into 2 types:
 – Describes what is contained in the system
 – Typically used to model the system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMz
-g3OTM1OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE5NTc5NDk1MjAsMTYzOTAzMjc3MSwtOD
+MwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
 -->
