@@ -20,6 +20,9 @@ page_nav:
     prev:
         content: Arduino
         url: '../arduino-lm'
+    next:
+        content: OOP
+        url: '../oop-lm'
 ---
 
 # Making Circuits
@@ -209,11 +212,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NDU5MjgxLC04MDIxMDc3NTksMTcyOT
-QyNDczMywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0Mzkw
-OSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMT
-UyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUx
-MjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC
-0xNzY2NzE1MjI4LC0xNzczNjc5Mjg1LC01MzAzNjY3MTksMTc1
-Mjc3MDM0MV19
+eyJoaXN0b3J5IjpbLTg4MTYwMTY4MywtODAyMTA3NzU5LDE3Mj
+k0MjQ3MzMsMTY3MDUxODU4NywtMTQxMjg5NjAzLC00NjM1NDM5
+MDksMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0NjkyMDE2NDEsLT
+E1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC0yMDk1
+MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4OTY5Mi
+wtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2NzE5LDE3
+NTI3NzAzNDFdfQ==
 -->
