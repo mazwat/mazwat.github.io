@@ -63,6 +63,14 @@ UML can be divided into **2 types**:
 
 ### 1. Use Case Diagram
 
+Use Case diagrams typically details the user’s interaction with the system. In essence it details the **Use Case** of the **System** and the **Actors** which interact with the system
+
+– NB. These Actors could be other systems!
+{: .callout .callout--info}
+
+• Created using terms that a layperson could understand
+• Can be used to capture and communicate User Requirements
+• This is often the first diagram created for a system
 
 
 ## Tools for making UML
@@ -76,7 +84,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTg0Njg0MiwyNTA5MDY0OCwtMTk1Nz
+eyJoaXN0b3J5IjpbLTkzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nz
 k0OTUyMCwxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5
 NDVdfQ==
 -->
