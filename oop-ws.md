@@ -111,7 +111,7 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 
 1. You need to create a class ``Village``
 2. Create an ``Animal`` class and this will have child classes for the different animals in the village. 
-3. Decide on different *variables/fields* and *properties* for your animals. Some should be in the animal class and *inherited* by the chid class and some are overridden by the children.
+3. Decide on different *variables/fields* and *properties* for your animals. Some should be in the animal class and *inherited* by the child class and some are overridden by the children.
 4. At least one filed should be protected using ``get`` and ``set``.
 5. Some of the properties should appear in your game as *physical elements* of game objects. As in the example above you could create different *colours* for animals. Develop some or all of these features:
     1. **Shape** (different primitive or models)
@@ -127,6 +127,6 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The videos and workshop materials are available [here](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDMwMzU3NiwtMTM2OTY3ODQxNiwtMT
+eyJoaXN0b3J5IjpbMTMzODg4NjEwMCwtMTM2OTY3ODQxNiwtMT
 A2MDc3ODQxNiwtMjExNDIxODcwXX0=
 -->
