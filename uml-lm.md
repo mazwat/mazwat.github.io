@@ -35,7 +35,7 @@ UML is a **visual notation system** which can be used to design software. It was
 ![Inventors of UML](images/booch.png)
 *fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML*
 
-## Why use UML?
+### Why use UML?
 
 -   UML offers us a **standardised way of designing** software
 -   It allows us to **think through our systems** before committing them to code
@@ -55,7 +55,13 @@ UML can be divided into 2 types:
 2. **Structure Diagrams**
 – Describes what is contained in the system
 – Typically used to model the system
+
+## Tools for making UML
+
+-   Diagram - [http://www.diagram.net](http://www.diagram.net)
+-   Lucid Chart - [https://www.lucidchart.com](https://www.lucidchart.com)
+-   Gliffy - [http://www.gliffy.com](http://www.gliffy.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc5NDk1MjAsMTYzOTAzMjc3MSwtOD
-MwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
+eyJoaXN0b3J5IjpbMTU5ODk0MzA1MCwtMTk1Nzk0OTUyMCwxNj
+M5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
 -->
