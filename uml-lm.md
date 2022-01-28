@@ -40,8 +40,12 @@ fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 -  In **2005**, ISO published UML as an **international standard**
 -  **UML 2.0** is the most current version, there are currently **14 different diagram types**
 
-## Why use UML
+## Why use UML?
+
+-   UML offers us a **standardised way of designing** software
+-   It allows us to **think through our systems** before committing them to code
+-   It offers a **shared language** between programmer and other disciplines including **clients**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5NjMxODksLTgzMDY5MjQ2MCwtMT
+eyJoaXN0b3J5IjpbLTExMDkyNzk2MjIsLTgzMDY5MjQ2MCwtMT
 M4NzkzNTk0NV19
 -->
