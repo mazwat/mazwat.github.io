@@ -121,11 +121,11 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 6. The scene should be initiated by the ``Village class``. 
 7. Your prototype game system should be built using objects and classes and make use of *properties, constructors, encapsulation, inheritance* and *polymorphism*.
 
-Fork this repo to complete as a pair: [https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS](https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS) 
+**Fork** this **repo** and complete the task as a pair:\ [https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS](https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS) 
 
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The videos and workshop materials are available [here](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjQ3MzY0LC0xMDYwNzc4NDE2LC0yMT
-E0MjE4NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjk2Nzg0MTYsLTEwNjA3Nzg0MTYsLT
+IxMTQyMTg3MF19
 -->
