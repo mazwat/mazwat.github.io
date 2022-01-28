@@ -48,8 +48,7 @@ fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 
 ## Diagram Families
 
-**UML 2.0** is split into  
-**2 diagram families**
+Uml can be divided into 2 types:
 
 **Behaviour Diagrams**
 – Describes what happens in a system, this includes interactions between users and the system
@@ -59,6 +58,6 @@ fig.1 - Booch, Jacobson and Rimbaugh, the devisors of UML
 – Describes what is contained in the system
 – Typically used to model the system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzIxNjg0MywtODMwNjkyNDYwLC0xMz
+eyJoaXN0b3J5IjpbLTg5NDEyNTQzMywtODMwNjkyNDYwLC0xMz
 g3OTM1OTQ1XX0=
 -->
