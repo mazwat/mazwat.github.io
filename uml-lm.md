@@ -87,11 +87,8 @@ The above diagram describes as system for a mobile banking app.
 *fig.4 - Include and Extend*
 
 #### Include and Extend
-The extend relationships are important because they show optional functionality or system behaviour. The 
-
-   <<extend>>
-
-relationship is used to include optional behavior from an extending use case in an extended use case.  Whereas a <<include>> use case includes the functionality described in another use case as a part of its business process flow. In the above example Barney includes a noise when he burps but he can choose to extend the process by saying excuse me.
+The extend relationships are important because they show optional functionality or system behaviour. The ``<<extend>>``
+relationship is used to include optional behavior from an extending use case in an extended use case.  Whereas a ``<<include>>`` use case includes the functionality described in another use case as a part of its business process flow. In the above example Barney includes a noise when he burps but he can choose to extend the process by saying excuse me.
 
 ## Tools for making UML
 
@@ -104,8 +101,9 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLT
-M4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5
-NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNj
-M5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMT
+Y4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1
+OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOT
+U3OTQ5NTIwLDE2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4Nzkz
+NTk0NV19
 -->
