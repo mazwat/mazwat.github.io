@@ -83,11 +83,14 @@ The above diagram describes as system for a mobile banking app.
 3. The **lines** connecting them represent interactions between the actors and the system and are called **associations**.  
 4. Finally a line with an **arrow** signifies a **generalisation**  which denotes a parent/child relationship. Tne arrow always points towards the parent.
 
-
-
 #### Include and Extend
 The extend relationships are important because they show optional functionality or system behaviour. The ``<<extend>>``
-relationship is used to include optional behavior from an extending use case in an extended use case.  Whereas a ``<<include>>`` use case includes the functionality described in another use case as a part of its business process flow. In the above example Barney includes a noise when he burps but he can choose to extend the process by saying excuse me.
+relationship is used to include optional behavior from an extending use case.  Whereas an ``<<include>>`` use case includes the functionality described in another use case as a part of its business process flow. 
+
+![Include and Extend-extend](images/include-extend.svg)
+*fig.4 - Include and Extend*
+
+In the above example *Barney* includes a noise when he burps but he can choose to extend the process by saying excuse me.
 
 ## Tools for making UML
 
@@ -100,7 +103,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjYwOTUyNSwxMDk3MTQwMjU1LC0xOT
+eyJoaXN0b3J5IjpbLTYyMTEzMjQxMSwxMDk3MTQwMjU1LC0xOT
 g1NjYxMTM5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUx
 MjcwLDMxNTAzNDU5MCwtMjY1OTc3OTUxLC05MzUyODQ5OTUsMj
 UwOTA2NDgsLTE5NTc5NDk1MjAsMTYzOTAzMjc3MSwtODMwNjky
