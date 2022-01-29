@@ -68,13 +68,14 @@ Use Case diagrams typically details the user’s interaction with the system. In
 – NB. These Actors could be other systems!
 {: .callout .callout--info}
 
-• Created using terms that a layperson could understand
-• Can be used to capture and communicate User Requirements
-• This is often the first diagram created for a system
+- Created using terms that a layperson could understand
+- Can be used to capture and communicate User Requirements
+- This is often the first diagram created for a system
 
 ![Use Case Diagram](images/use-case-1.svg)
-*fig.2 - Use Case Diag*
+*fig.3 - Use Case Diagram - Banking App*
 
+The above diagram describes as system for a mobile banking app. The bounding box describes everything contained within the system and outside it are the actors which are the customer or user and the bank itself (which could equally refer to an employee or the system itself. In the ellispses we have the features of the system.
 
 ## Tools for making UML
 
@@ -87,7 +88,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTQ3Njg4MywtMjY1OTc3OTUxLC05Mz
-UyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAsMTYzOTAzMjc3
-MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
+eyJoaXN0b3J5IjpbMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNT
+I4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcx
+LC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
 -->
