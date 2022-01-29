@@ -71,7 +71,7 @@ Use Case diagrams typically details the user’s interaction with the system. In
 - Created using terms that a layperson could understand
 - Can be used to capture and communicate User Requirements
 - This is often the first diagram created for a system
-- An attempt t
+- An attempt to represent the key features of a system and it's goals.
 
 ![Use Case Diagram](images/use-case-1.svg)
 *fig.3 - Use Case Diagram - Banking App*
@@ -89,7 +89,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNDc4MjA5LDMxNTAzNDU5MCwtMjY1OT
+eyJoaXN0b3J5IjpbNjYxMTUxMjcwLDMxNTAzNDU5MCwtMjY1OT
 c3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAs
 MTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
 -->
