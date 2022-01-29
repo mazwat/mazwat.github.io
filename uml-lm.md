@@ -72,7 +72,8 @@ Use Case diagrams typically details the user’s interaction with the system. In
 • Can be used to capture and communicate User Requirements
 • This is often the first diagram created for a system
 
-
+![Use Case Diagram](images/use-case-1.svg)
+*fig.2 - Use Case Diag*
 
 
 ## Tools for making UML
@@ -86,7 +87,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MD
-kwNjQ4LC0xOTU3OTQ5NTIwLDE2MzkwMzI3NzEsLTgzMDY5MjQ2
-MCwtMTM4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbLTg2NTQ3Njg4MywtMjY1OTc3OTUxLC05Mz
+UyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAsMTYzOTAzMjc3
+MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
 -->
