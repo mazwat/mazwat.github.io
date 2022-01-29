@@ -71,11 +71,20 @@ Use Case diagrams typically details the user’s interaction with the system. In
 - Created using terms that a layperson could understand
 - Can be used to capture and communicate User Requirements
 - This is often the first diagram created for a system
+- An attempt to represent the key features of a system and it's goals.
 
 ![Use Case Diagram](images/use-case-1.svg)
 *fig.3 - Use Case Diagram - Banking App*
 
-The above diagram describes as system for a mobile banking app. The bounding box describes everything contained within the system and outside it are the actors which are the customer or user and the bank itself (which could equally refer to an employee or the system itself. In the ellispses we have the features of the system.
+The above diagram describes as system for a mobile banking app.  
+
+ 1. The **bounding box** describes everything contained within the system and outside it are the actors which are the customer or user and the bank itself (which could equally refer to an employee or the system itself). 
+2. In the **ellipses** we have the **features** of the system - Login, Check Balance etc. 
+3. The **lines** connecting them represent interactions between the actors and the system and are called **associations**.  
+4. Finally a line with an **arrow** signifies a **generalisation**  which denotes a parent/child relationship. Tne arrow always points towards the parent.
+
+![Include and Extend-extend](images/include-.svg)
+*fig.4 - Include and Extend*
 
 ## Tools for making UML
 
@@ -88,7 +97,8 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNT
-I4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcx
-LC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTM4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MD
+M0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwt
+MTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEzOD
+c5MzU5NDVdfQ==
 -->
