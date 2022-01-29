@@ -90,7 +90,7 @@ relationship is used to include optional behavior from an extending use case.  W
 ![Include and Extend-extend](images/include-extend.svg)
 *fig.4 - Include and Extend*
 
-In the above example *Barney* includes a noise when he burps but he can choose to extend the process by saying excuse me.
+In the above example *Barney* includes a **noise** when he **burps** but he can choose to extend the process by saying **"excuse me"**.
 
 ## Tools for making UML
 
@@ -103,7 +103,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTEzMjQxMSwxMDk3MTQwMjU1LC0xOT
+eyJoaXN0b3J5IjpbLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOT
 g1NjYxMTM5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUx
 MjcwLDMxNTAzNDU5MCwtMjY1OTc3OTUxLC05MzUyODQ5OTUsMj
 UwOTA2NDgsLTE5NTc5NDk1MjAsMTYzOTAzMjc3MSwtODMwNjky
