@@ -75,7 +75,7 @@ Use Case diagrams typically details the user’s interaction with the system. In
 ![Use Case Diagram](images/use-case-1.svg)
 *fig.3 - Use Case Diagram - Banking App*
 
-The above diagram describes as system for a mobile banking app. The bounding box describes everything contained within the system and outside it are the actors which are the customer or user and the bank itself (which could equally refer to an employee or the system itself. In the ellipses we have the features of the system - Login, Check Balance etc. The lines connecting them represent interactions be
+The above diagram describes as system for a mobile banking app. The bounding box describes everything contained within the system and outside it are the actors which are the customer or user and the bank itself (which could equally refer to an employee or the system itself. In the ellipses we have the features of the system - Login, Check Balance etc. The lines connecting them represent interactions between the actors and the system. 
 
 ## Tools for making UML
 
@@ -88,7 +88,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODQ4NTcxNywzMTUwMzQ1OTAsLTI2NT
-k3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIw
-LDE2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbODczNzgxNzc0LDMxNTAzNDU5MCwtMjY1OT
+c3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAs
+MTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX0=
 -->
