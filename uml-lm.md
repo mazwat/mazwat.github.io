@@ -83,7 +83,7 @@ The above diagram describes as system for a mobile banking app.
 3. The **lines** connecting them represent interactions between the actors and the system and are called **associations**.  
 4. Finally a line with an **arrow** signifies a **generalisation**  which denotes a parent/child relationship. Tne arrow always points towards the parent.
 
-![Include and Extend-extend](images/include-.svg)
+![Include and Extend-extend](images/include-extend.svg)
 *fig.4 - Include and Extend*
 
 ## Tools for making UML
@@ -97,8 +97,8 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MD
-M0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwt
-MTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEzOD
-c5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2Nj
+ExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4NDk5
+NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04Mz
+A2OTI0NjAsLTEzODc5MzU5NDVdfQ==
 -->
