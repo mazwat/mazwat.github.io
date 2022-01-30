@@ -97,9 +97,10 @@ In the above example *Barney* includes a **noise** when he **burps** but he can 
 
 In this example which takes Pokemon GO as a starting point. We can see a the key features of the game but we can also see how a trapping is included in a Poke Stop but catching is an extension it is dependent on a set of certain parameters being met.
 
-I have inclided this additional video which will provide you with further insight into the purpose of use-case diagrams:
+I have included this third-party video which will provide you with further insight into the purpose of use-case diagrams:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zid-MVo7M-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*fig.6 - Use Case Diagrams explained by LucidChart*
 
 ### 2. Activity Diagram
 
@@ -108,7 +109,7 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 #### Key Diagram Symbols
 
 ![Include and Extend-extend](images/include-extend.svg)
-*fig.6 - The main symbols in an Activity Diagram*
+*fig.7 - The main symbols in an Activity Diagram*
 
 
 
@@ -123,7 +124,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MDU5NjAxLDEwMzEzMjk2MzksLTgzMT
+eyJoaXN0b3J5IjpbMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMT
 AwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4
 NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMj
 Y1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1
