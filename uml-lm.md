@@ -95,7 +95,7 @@ In the above example *Barney* includes a **noise** when he **burps** but he can 
 ![Include and Extend-extend](images/include-extend.svg)
 *fig.4 - Include and Extend*
 
-In this example which takes Pokemon GO as a starting point. We can see a  the key features
+In this example which takes Pokemon GO as a starting point. We can see a the key features of the game but we can also see how a trapping is included in a Poke Stop but catching is an extension it is dependent on a set of factor
 
 ## Tools for making UML
 
@@ -108,9 +108,9 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njk4MzcwOCwtODMxMDA1NjI3LDEwOT
-cxNDAyNTUsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1
-Nzg4NCw2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLT
-kzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMy
-NzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbNjMxMjAzMTE0LC04MzEwMDU2MjcsMTA5Nz
+E0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3
+ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOT
+M1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIwLDE2MzkwMzI3
+NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
 -->
