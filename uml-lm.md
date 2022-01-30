@@ -93,7 +93,7 @@ relationship is used to include optional behavior from an extending use case.  W
 In the above example *Barney* includes a **noise** when he **burps** but he can choose to extend the process by saying **"excuse me"**.
 
 ![Include and Extend-extend](images/include-extend.svg)
-*fig.4 - Pokemon GO Use Case*
+*fig.5 - Pokemon GO Use Case*
 
 In this example which takes Pokemon GO as a starting point. We can see a the key features of the game but we can also see how a trapping is included in a Poke Stop but catching is an extension it is dependent on a set of certain parameters being met.
 
@@ -105,10 +105,10 @@ I have inclided this additional video which will provide you with further insigh
 
 Activity Diagrams describe **behaviour** composed of a collection of **tasks**. This is used to model the flow of work and/or data in a system. This type of diagram supports choice, iteration and concurrency. You can think of this diagram as a structured **Flow Chart**.
 
-#### Key Diagram Icons
+#### Key Diagram Symbols
 
 ![Include and Extend-extend](images/include-extend.svg)
-*fig.4 - Pokemon GO Use Case*
+*fig.6 - The main symbols in an Activity Diagram*
 
 
 
@@ -123,10 +123,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjMyNTk0MCwxMDMxMzI5NjM5LC04Mz
-EwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUw
-ODQwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLT
-I2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5
-NTIwLDE2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV
-19
+eyJoaXN0b3J5IjpbNjc4MDU5NjAxLDEwMzEzMjk2MzksLTgzMT
+AwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4
+NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMj
+Y1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1
+MjAsMTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX
+0=
 -->
