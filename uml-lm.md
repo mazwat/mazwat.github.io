@@ -99,7 +99,7 @@ In this example which takes Pokemon GO as a starting point. We can see a the key
 
 I have included this third-party video which will provide you with further insight into the purpose of use-case diagrams:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zid-MVo7M-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zid-MVo7M-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *fig.6 - Use Case Diagrams explained by LucidChart*
 
 ### 2. Activity Diagram
@@ -124,10 +124,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMT
-AwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4
-NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMj
-Y1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1
-MjAsMTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX
-0=
+eyJoaXN0b3J5IjpbLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMz
+EzMjk2MzksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYx
+MTM5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLD
+MxNTAzNDU5MCwtMjY1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2
+NDgsLTE5NTc5NDk1MjAsMTYzOTAzMjc3MSwtODMwNjkyNDYwLC
+0xMzg3OTM1OTQ1XX0=
 -->
