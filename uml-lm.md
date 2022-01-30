@@ -103,11 +103,12 @@ I have inclided this additional video which will provide you with further insigh
 
 ### 2. Activity Diagram
 
--   Activity Diagrams describe behaviour composed of a collection of tasks
--   This is used to model the flow of work and/or data in a system
--   This type of diagram supports choice, iteration and concurrency
--   You can think of this diagram as a structured Flow Chart
+Activity Diagrams describe **behaviour** composed of a collection of **tasks**. This is used to model the flow of work and/or data in a system. This type of diagram supports choice, iteration and concurrency. You can think of this diagram as a structured **Flow Chart**.
 
+#### Key Diagram Icons
+
+![Include and Extend-extend](images/include-extend.svg)
+*fig.4 - Pokemon GO Use Case*
 
 
 
@@ -122,10 +123,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTY4NjA5LDEwMzEzMjk2MzksLTgzMT
-AwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4
-NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMj
-Y1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1
-MjAsMTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX
-0=
+eyJoaXN0b3J5IjpbMTA3NjMyNTk0MCwxMDMxMzI5NjM5LC04Mz
+EwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUw
+ODQwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLT
+I2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5
+NTIwLDE2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV
+19
 -->
