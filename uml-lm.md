@@ -97,6 +97,10 @@ In the above example *Barney* includes a **noise** when he **burps** but he can 
 
 In this example which takes Pokemon GO as a starting point. We can see a the key features of the game but we can also see how a trapping is included in a Poke Stop but catching is an extension it is dependent on a set of certain parameters being met.
 
+I have inclided this additional video which will provide you with further insight into the purpose of use-case diagrams:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zid-MVo7M-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2. Activity Diagram
 
 -   Activity Diagrams describe behaviour composed of a collection of tasks
@@ -118,9 +122,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOT
-cxNDAyNTUsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1
-Nzg4NCw2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLT
-kzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMy
-NzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbMTMwOTY4NjA5LDEwMzEzMjk2MzksLTgzMT
+AwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4
+NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMj
+Y1OTc3OTUxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1
+MjAsMTYzOTAzMjc3MSwtODMwNjkyNDYwLC0xMzg3OTM1OTQ1XX
+0=
 -->
