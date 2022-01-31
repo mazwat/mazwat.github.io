@@ -62,6 +62,10 @@ The Wolf bares its teeth!
 ```
 and so on…
 
+#### Some Clues
+
+Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from 
+
 ### 2. Making Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
@@ -127,6 +131,7 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjUzOTYzNSwxMzM4ODg2MTAwLC0xMz
-Y5Njc4NDE2LC0xMDYwNzc4NDE2LC0yMTE0MjE4NzBdfQ==
+eyJoaXN0b3J5IjpbMzc1NjMyNzUwLC02NDI1Mzk2MzUsMTMzOD
+g4NjEwMCwtMTM2OTY3ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIx
+ODcwXX0=
 -->
