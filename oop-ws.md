@@ -70,7 +70,7 @@ Here is a starter bit of code for understanding the use of classes, objects and 
 ```c#
 using System;
 
-namespace DogExample
+namespace DogApp
 {
     class MainClass
     {
@@ -158,7 +158,7 @@ The **output** should be 3 sample smoothie combinations and their price.
 ## EXERCISE 3 - OOP in **Unity**
 ### Animal Kingdom
 
-Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=217763) rpvided in the Learning Space, create your own auto generated game scene. This time you are going to be making ‘Animal Kingdom’ a generic rip off of ‘Animal Crossing’. You are going to create a village populated by 10 random animals with their own behaviours.
+Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=217763) provided in the Learning Space, create your own auto generated game scene. This time you are going to be making ‘Animal Kingdom’ a generic rip off of ‘Animal Crossing’. You are going to create a village populated by 10 random animals with their own behaviours.
 
 ![Example Scene in Unity](images/unity-animal.png)
 
@@ -180,7 +180,7 @@ Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODcxNjAxMiwtOTc0MzgxNjY4LC02ND
-I1Mzk2MzUsMTMzODg4NjEwMCwtMTM2OTY3ODQxNiwtMTA2MDc3
-ODQxNiwtMjExNDIxODcwXX0=
+eyJoaXN0b3J5IjpbLTEwOTM1ODM4NzQsLTk3NDM4MTY2OCwtNj
+QyNTM5NjM1LDEzMzg4ODYxMDAsLTEzNjk2Nzg0MTYsLTEwNjA3
+Nzg0MTYsLTIxMTQyMTg3MF19
 -->
