@@ -62,9 +62,44 @@ The Wolf bares its teeth!
 ```
 and so on…
 
-#### Some Clues
+#### Some Clues that might help
 
-Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from 
+Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from VS console app that has 2 files: **Program.cs** and Dog.cs
+
+```c#
+using System;
+
+namespace DogExample
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            int total = 5;
+            Console.WriteLine("Please enter the name of 5 breeds of dogs. Press ENTER after each dog. As wild or as tame as you like.");
+            Dog[] dogs = new Dog[total];
+
+            for (int i = 0; i < total; i++)
+            {
+                dogs[i] = new Dog()
+                {
+                    Breed = Console.ReadLine()
+                };
+            }
+
+            Console.WriteLine("A pack of wild dogs emerged out of the wilderness. Amongst their number was:");
+
+            for (int i = 0; i < total; i++)
+            {
+                Console.WriteLine("A " + dogs[i].ToString());
+            }
+
+        }
+    }
+}
+
+```
+
 
 ### 2. Making Smoothies
 
@@ -131,7 +166,7 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NjMyNzUwLC02NDI1Mzk2MzUsMTMzOD
-g4NjEwMCwtMTM2OTY3ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIx
-ODcwXX0=
+eyJoaXN0b3J5IjpbLTE1MzMwMTA4MzUsLTY0MjUzOTYzNSwxMz
+M4ODg2MTAwLC0xMzY5Njc4NDE2LC0xMDYwNzc4NDE2LC0yMTE0
+MjE4NzBdfQ==
 -->
