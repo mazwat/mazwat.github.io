@@ -64,8 +64,9 @@ and so on…
 
 #### Some Clues that might help
 
-Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from VS console app that has 2 files: **Program.cs** and Dog.cs
+Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from VS console app that has 2 files:
 
+**Program.cs**
 ```c#
 using System;
 
@@ -97,10 +98,23 @@ namespace DogExample
         }
     }
 }
-
 ```
+**Dog.cs**
+```c#
+using System;
+namespace DogExample
+{
+    public class Dog
+    {
+        public string Breed { get; set; }
 
-
+        public override string ToString()
+        {
+            return Breed;
+        }
+    }
+}
+```
 ### 2. Making Smoothies
 
 Create a new application called **Smoothie Calculator**. We are going to use classess to manage different methods and properties.
@@ -166,7 +180,7 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMwMTA4MzUsLTY0MjUzOTYzNSwxMz
-M4ODg2MTAwLC0xMzY5Njc4NDE2LC0xMDYwNzc4NDE2LC0yMTE0
-MjE4NzBdfQ==
+eyJoaXN0b3J5IjpbLTk3NDM4MTY2OCwtNjQyNTM5NjM1LDEzMz
+g4ODYxMDAsLTEzNjk2Nzg0MTYsLTEwNjA3Nzg0MTYsLTIxMTQy
+MTg3MF19
 -->
