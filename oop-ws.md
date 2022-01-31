@@ -124,9 +124,9 @@ Based on the Tavern example given create your own auto generated game scene. Thi
 **Fork** this **repo** and complete the task as a pair:
 [https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS](https://github.falmouth.ac.uk/Matt-Watkins/Animal-Kingdom-OOP-WS) 
 
-It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The videos and workshop materials are available [here](oop-lm)
+It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODg4NjEwMCwtMTM2OTY3ODQxNiwtMT
-A2MDc3ODQxNiwtMjExNDIxODcwXX0=
+eyJoaXN0b3J5IjpbLTY0MjUzOTYzNSwxMzM4ODg2MTAwLC0xMz
+Y5Njc4NDE2LC0xMDYwNzc4NDE2LC0yMTE0MjE4NzBdfQ==
 -->
