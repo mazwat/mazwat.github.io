@@ -64,7 +64,7 @@ and so on…
 
 #### Some Clues that might help
 
-Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from VS console app that has 2 files:
+Here is a starter bit of code for understanding the use of classes, objects and file structure. This is from a Visual Studio console app that has 2 files:
 
 **Program.cs**
 ```c#
@@ -180,7 +180,8 @@ Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDU4MDUwNywtMTA5MzU4Mzg3NCwtOT
-c0MzgxNjY4LC02NDI1Mzk2MzUsMTMzODg4NjEwMCwtMTM2OTY3
-ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIxODcwXX0=
+eyJoaXN0b3J5IjpbLTEzODk4NjEzNDMsMTE2NDU4MDUwNywtMT
+A5MzU4Mzg3NCwtOTc0MzgxNjY4LC02NDI1Mzk2MzUsMTMzODg4
+NjEwMCwtMTM2OTY3ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIxOD
+cwXX0=
 -->
