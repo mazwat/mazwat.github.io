@@ -37,7 +37,7 @@ Write a **1 page proposal** for a novel game/experience and control system:
 -   list the key electronic components of your controller
 -   and list the key user stories*.  
 
-_*By user stories we mean the features or key tasks that you can envisage taking place in your project build.
+*By user stories we mean the features or key tasks that you can envisage taking place in your project build.
 {: .callout .callout--warning}
 
 You should have a **completed proposal** that meets all the requirements above and in **Assignment 2** on the workspace. Please ensure you have a version to share with you programming tutor this week.
@@ -66,5 +66,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTA5NDcyNywtNTQxNTc1MjM0XX0=
+eyJoaXN0b3J5IjpbMTI4NDc0NjczNCwtNTQxNTc1MjM0XX0=
 -->
