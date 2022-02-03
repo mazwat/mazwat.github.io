@@ -56,20 +56,20 @@ Even if you have already developed your idea, you will find these approaches inv
 FdS is a great methodology to use for quick ideation that is also very practical. The best feature of all is that it requires very little introduction, and possibly the best tool to use in discussions with clients who are often not versed in the technological aspects of a project.  
     [http://fds.design](http://fds.design)
     
-2.  **Crazy Eights**  
+3.  **Crazy Eights**  
 Crazy 8’s is a core Design Sprint method. It is a fast sketching exercise that challenges people to sketch eight distinct ideas in eight minutes. The goal is to push beyond your first idea, frequently the least innovative, and to generate a wide variety of solutions to your challenge.  
     [https://uxdesign.cc/how-to-do-crazy-8s-remotely-223d7fbd5e98](https://uxdesign.cc/how-to-do-crazy-8s-remotely-223d7fbd5e98)
     
-3.  **Oblique Strategies**  
+4.  **Oblique Strategies**  
 A card-based method for promoting creativity jointly created by musician/artist [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and multimedia artist [Peter Schmidt](https://en.wikipedia.org/wiki/Peter_Schmidt_(artist)), first published in 1975. Each card offers a challenging constraint intended to help people break [creative blocks](https://en.wikipedia.org/wiki/Writer%27s_block) by encouraging [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking).  
     [https://www.joshharrison.net/oblique-strategies](https://www.joshharrison.net/oblique-strategies)
     
-4.  **Opposite Thinking**  
+5.  **Opposite Thinking**  
 Opposite thinking will help you to challenge their assumptions about the problem and possible solutions and come up with non-obvious ideas. Opposite thinking is more than just an ideation tool, it's a mindset.  
     [Opposite-Thinking-Worksheet](https://murally.blob.core.windows.net/uploads/falgam7012238/1602750970018.pdf?se=2021-02-07T16:00:00Z&sp=r&sv=2018-03-28&sr=b&rscc=public,%20max-age=600&sig=UGrPcr2enpIyksiDtGvWQVA5Oj2+wTuNYb+Ph+Tfc90=)
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgyNjk5MzUsMTA1NTk4OTQwOCwxMT
-MzNzA3Mzc0LC01NDE1NzUyMzRdfQ==
+eyJoaXN0b3J5IjpbNTk5MDI3MDg4LDEwNTU5ODk0MDgsMTEzMz
+cwNzM3NCwtNTQxNTc1MjM0XX0=
 -->
