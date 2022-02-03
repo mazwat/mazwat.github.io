@@ -22,7 +22,7 @@ page_nav: false
 ---
 # Complete your Project Proposal
 
-![Homies game](images/gdc-head-control.png)
+![Homies game](images/gdc-head-control.jpeg)
 *fig.1 - Homies :  These two games by Sam Sheffield are played by donning a freaky wooden mask and obeying the commands of a "bossy inner voice." In a twist on Simon, the game tells you to pick your nose, suck your thumb, poke yourself in the eye, et cetera, and you have to do these things to the mask to keep playing. Buttons in the nostrils and eyeholes register your presses.*
 
 Welcome to Week 3 of COMP140. This week we expect you to have developed your brief for your project and it should be pushed to a forked repo of Assignment 2 located here:
@@ -70,6 +70,6 @@ Opposite thinking will help you to challenge their assumptions about the problem
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTk4OTQwOCwxMTMzNzA3Mzc0LC01ND
-E1NzUyMzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDgyNjk5MzUsMTA1NTk4OTQwOCwxMT
+MzNzA3Mzc0LC01NDE1NzUyMzRdfQ==
 -->
