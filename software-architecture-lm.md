@@ -72,7 +72,7 @@ You can see how features of OOP from the previous lecture form a major part of S
 
 **“…it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others.”**
 
-David R Parnas -_ [_On the Criteria To Be Used in Decomposing Systems into Modules_](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)_. 1972
+David R Parnas - [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf) 1972
 
 We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In the piece of code below the class ``Employee`` is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer id responsible, as money is mis-spent.
 ```c#
@@ -503,11 +503,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ1MDY2NzgsLTM2ODI2MDM3MSwtMT
-UyOTM1MjQwNCwxMDk1Njg4NzE5LDYwNDExMzAyMiwxNDU1Njg1
-NjQ3LDMxNDIyNDUyNywxMDg4ODI5OTM1LC05NTY5MzAzODQsMT
-Q5MDYzMjY3NiwtMTkyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5
-ODU3ODUsLTk4MjgwODgzNiw5NzMyNTAxNjUsNTQ5NDU2MTc4LC
-01MjcyNjExMzksMTIxNDk1MTgxNiwtMTQ5MDMwMTA3OCwtMTUz
-OTY5NTA1NF19
+eyJoaXN0b3J5IjpbMzI0NTY5NzEyLC0xMjE0NTA2Njc4LC0zNj
+gyNjAzNzEsLTE1MjkzNTI0MDQsMTA5NTY4ODcxOSw2MDQxMTMw
+MjIsMTQ1NTY4NTY0NywzMTQyMjQ1MjcsMTA4ODgyOTkzNSwtOT
+U2OTMwMzg0LDE0OTA2MzI2NzYsLTE5MjkzNDI0NzMsLTIxMzAy
+MTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4MzYsOTczMjUwMTY1LD
+U0OTQ1NjE3OCwtNTI3MjYxMTM5LDEyMTQ5NTE4MTYsLTE0OTAz
+MDEwNzhdfQ==
 -->
