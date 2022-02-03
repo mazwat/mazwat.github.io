@@ -25,6 +25,8 @@ page_nav: false
 ![Homies game](images/gdc-head-control.jpeg)
 *fig.1 - Homies :  This game by Sam Sheffield is played by donning a freaky wooden mask and obeying the commands of a "bossy inner voice." In a twist on Simon, the game tells you to pick your nose, suck your thumb, poke yourself in the eye, et cetera, and you have to do these things to the mask to keep playing. Buttons in the nostrils and eyeholes register your presses.*
 
+## Introduction
+
 Welcome to Week 3 of COMP140. This week we expect you to have developed your brief for your project and it should be pushed to a forked repo of Assignment 2 located here:
 
 [https://github.falmouth.ac.uk/Games-Academy/COMP140-Project](https://github.falmouth.ac.uk/Games-Academy/COMP140-Project)
@@ -66,6 +68,7 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjU4MzMwNCwtNzU2ODEyNjkwLDEwNT
-U5ODk0MDgsMTEzMzcwNzM3NCwtNTQxNTc1MjM0XX0=
+eyJoaXN0b3J5IjpbLTEwNTI3NDU2MTYsMTIzNjU4MzMwNCwtNz
+U2ODEyNjkwLDEwNTU5ODk0MDgsMTEzMzcwNzM3NCwtNTQxNTc1
+MjM0XX0=
 -->
