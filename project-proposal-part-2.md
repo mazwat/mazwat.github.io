@@ -29,7 +29,7 @@ page_nav: false
 
 Welcome to Week 3 of COMP140. This week we expect you to have developed your brief for your project and it should be pushed to a forked repo of Assignment 2 located here:
 
-[https://github.falmouth.ac.uk/Games-Academy/COMP140-Project](https://github.falmouth.ac.uk/Games-Academy/COMP140-Project)
+[**https://github.falmouth.ac.uk/Games-Academy/COMP140-Project**](https://github.falmouth.ac.uk/Games-Academy/COMP140-Project)
 
 Ideally we would like you to use **Markdown** to create your 1 page proposal. This is editable both in Github and in a standard code editor. For details of how to write Markdown go here.  [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
@@ -68,7 +68,7 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI3NDU2MTYsMTIzNjU4MzMwNCwtNz
-U2ODEyNjkwLDEwNTU5ODk0MDgsMTEzMzcwNzM3NCwtNTQxNTc1
-MjM0XX0=
+eyJoaXN0b3J5IjpbMTA1MDk2MDM2OCwtMTA1Mjc0NTYxNiwxMj
+M2NTgzMzA0LC03NTY4MTI2OTAsMTA1NTk4OTQwOCwxMTMzNzA3
+Mzc0LC01NDE1NzUyMzRdfQ==
 -->
