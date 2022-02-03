@@ -18,7 +18,8 @@ micro_nav: true
 
 # Page navigation
 page_nav: false
-
+    
+---
 Welcome to Week 3 of COMP140. This week we expect you to have developed your brief for your project and it should be pushed to a forked repo of Assignment 2 located here:
 
 [https://gamesgit.falmouth.ac.uk/projects/COMP140](https://gamesgit.falmouth.ac.uk/projects/COMP140)
@@ -69,5 +70,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the assignment briefs, both 1 and 2 to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NjU5NzU4XX0=
+eyJoaXN0b3J5IjpbNTQwMjM2MjQ5XX0=
 -->
