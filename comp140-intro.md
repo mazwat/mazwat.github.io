@@ -33,8 +33,8 @@ page_nav: false
 # Research Challenges
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
-#### 2 - [Project Proposal](../project-proposal-part-1 "Project Proposal")
-#### 3 - [Project Proposal](../project-proposal-part-1 "Project Proposal")
+#### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
+#### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
 
 # Lecture Materials
 
@@ -48,7 +48,7 @@ page_nav: false
 #### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NTA2NDM1LC0yMjQwNzA1NTEsLTE1MD
-A5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3
-NzIxXX0=
+eyJoaXN0b3J5IjpbLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNT
+AwOTUzMDc4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5
+NzcyMV19
 -->
