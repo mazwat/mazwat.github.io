@@ -20,6 +20,7 @@ micro_nav: true
 page_nav: false
     
 ---
+# Complete your Project Proposal
 Welcome to Week 3 of COMP140. This week we expect you to have developed your brief for your project and it should be pushed to a forked repo of Assignment 2 located here:
 
 [https://gamesgit.falmouth.ac.uk/projects/COMP140](https://gamesgit.falmouth.ac.uk/projects/COMP140)
@@ -28,7 +29,7 @@ Ideally we would like you to use **Markdown** to create your 1 page proposal. Th
 
   
 
-**Requirements**
+33Requirements**
 
 Write a **1 page proposal** for a novel game/experience and control system:  
 
@@ -70,5 +71,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the assignment briefs, both 1 and 2 to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTU3NTIzNF19
+eyJoaXN0b3J5IjpbMTIzNzE5NDE1NiwtNTQxNTc1MjM0XX0=
 -->
