@@ -74,7 +74,7 @@ You can see how features of OOP from the previous lecture form a major part of S
 
 *David R Parnas* - [*On the Criteria To Be Used in Decomposing Systems into Modules*](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 
-We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In the piece of code below the class ``Employee`` is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer id responsible, as money is mis-spent.
+We can think of software much like a company and as most software is developed to serve business functions this is a perfect analogy. In the piece of code below the class ``Employee`` is serving methods for pay, archiving and reporting. In a company if the pay is not calculated properly the CEO of the company is responsible for it’s impact on the business, if the information is not saved then the CTO or Chief Technical Officer is responsible for failing to save records correctly. If the hours are not reported correctly then CFO the chief financial officer is responsible, as money is mis-spent.
 ```c#
 public class Employee {
 	public Money calculatePay();
@@ -503,7 +503,7 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTAzMDE3MywtMTIxNDUwNjY3OCwtMz
+eyJoaXN0b3J5IjpbLTE5NDQ5NjM5NiwtMTIxNDUwNjY3OCwtMz
 Y4MjYwMzcxLC0xNTI5MzUyNDA0LDEwOTU2ODg3MTksNjA0MTEz
 MDIyLDE0NTU2ODU2NDcsMzE0MjI0NTI3LDEwODg4Mjk5MzUsLT
 k1NjkzMDM4NCwxNDkwNjMyNjc2LC0xOTI5MzQyNDczLC0yMTMw
