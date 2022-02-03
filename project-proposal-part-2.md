@@ -49,7 +49,7 @@ Are you struggling to come up with an idea? There are methods that can unlock yo
 Even if you have already developed your idea, you will find these approaches invaluable in focussing and redirecting your creative energies: 
 
 1.  **Five Design Sheet ** 
-    FdS is a great methodology to use for quick ideation that is also very practical. The best feature of all is that it requires very little introduction, and possibly the best tool to use in discussions with clients who are often not versed in the technological aspects of a project.  
+FdS is a great methodology to use for quick ideation that is also very practical. The best feature of all is that it requires very little introduction, and possibly the best tool to use in discussions with clients who are often not versed in the technological aspects of a project.  
     [http://fds.design](http://fds.design)
     
 2.  **Crazy Eights**  
@@ -66,5 +66,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDc0NjczNCwtNTQxNTc1MjM0XX0=
+eyJoaXN0b3J5IjpbMTEzMzcwNzM3NCwtNTQxNTc1MjM0XX0=
 -->
