@@ -27,9 +27,7 @@ Welcome to Week 3 of COMP140. This week we expect you to have developed your bri
 
 Ideally we would like you to use **Markdown** to create your 1 page proposal. This is editable both in Github and in a standard code editor. For details of how to write Markdown go here.  [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
-  
-
-33Requirements**
+## Requirements
 
 Write a **1 page proposal** for a novel game/experience and control system:  
 
@@ -37,17 +35,14 @@ Write a **1 page proposal** for a novel game/experience and control system:
 -   illustrate basic research into electronic component and physical form factors for controllers
 -   analyse the design of the controller in detail
 -   list the key electronic components of your controller
--   and list the key user stories*.
+-   and list the key user stories*.  
 
-  
-
-_*By user stories we mean the features or key tasks that you can envisage taking place in your project build_
-
-  
+_*By user stories we mean the features or key tasks that you can envisage taking place in your project build.
+{: .callout .callout--warning}
 
 You should have a **completed proposal** that meets all the requirements above and in **Assignment 2** on the workspace. Please ensure you have a version to share with you programming tutor this week.
 
-Ideation Techniques
+## Ideation Techniques
 
 Are you struggling to come up with an idea? There are methods that can unlock your creative potential. Finding ideas can be challenging in the first instance and using a few techniques can become an essential part of your toolbox as creative developer. I have listed a range of tools to use in the pursuit of original thinking.
 
@@ -71,5 +66,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the assignment briefs, both 1 and 2 to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzE5NDE1NiwtNTQxNTc1MjM0XX0=
+eyJoaXN0b3J5IjpbMTczNDg0NjQ1NywtNTQxNTc1MjM0XX0=
 -->
