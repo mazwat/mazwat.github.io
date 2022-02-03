@@ -64,7 +64,7 @@ Even if you have already developed your idea, you will find these approaches inv
     Opposite thinking will help you to challenge their assumptions about the problem and possible solutions and come up with non-obvious ideas. Opposite thinking is more than just an ideation tool, it's a mindset.  
     [Opposite-Thinking-Worksheet](https://murally.blob.core.windows.net/uploads/falgam7012238/1602750970018.pdf?se=2021-02-07T16:00:00Z&sp=r&sv=2018-03-28&sr=b&rscc=public,%20max-age=600&sig=UGrPcr2enpIyksiDtGvWQVA5Oj2+wTuNYb+Ph+Tfc90=)
 
-**Note:** Please ensure you read the assignment briefs, both 1 and 2 to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
+**Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxOTA3NTAzLC01NDE1NzUyMzRdfQ==
+eyJoaXN0b3J5IjpbMTk2NTA5NDcyNywtNTQxNTc1MjM0XX0=
 -->
