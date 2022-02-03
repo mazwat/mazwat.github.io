@@ -24,7 +24,7 @@ Welcome to Week 3 of COMP140. This week we expect you to have developed your bri
 
 [https://gamesgit.falmouth.ac.uk/projects/COMP140](https://gamesgit.falmouth.ac.uk/projects/COMP140)
 
-Ideally we would like you to use **Markdown** to create your 1 page proposal. This is editable both in Bitbucket, Github and in a standard code editor. For details of how to write Markdown go here.  [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+Ideally we would like you to use **Markdown** to create your 1 page proposal. This is editable both in Github and in a standard code editor. For details of how to write Markdown go here.  [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
   
 
@@ -70,5 +70,5 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the assignment briefs, both 1 and 2 to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMjM2MjQ5XX0=
+eyJoaXN0b3J5IjpbLTU0MTU3NTIzNF19
 -->
