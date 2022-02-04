@@ -44,7 +44,7 @@ UML is a **visual notation system** which can be used to design software. It was
 -   It allows us to **think through our systems** before committing them to code
 -   It offers a **shared language** between programmer and other disciplines including **clients**
 
-## Diagram Families
+### Diagram Families
 
 ![UML types](images/uml-types.png)
 *fig.2 - UML types*
@@ -111,23 +111,32 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 ![Include and Extend-extend](images/activity-symbols.svg)
 *fig.7 - The main symbols in an Activity Diagram*
 
-Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, ditributing and recieving an online shop order.
+Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, distributing and recieving an online shop order.
+
+The basic layout of an activity diagram
+
+![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/what-is-activity-diagram/02-basic-activity-diagram.png)\
+*fig.9 - Layout of an Activity Diagram (image attribution: www.visual-paradigm.com)*
 
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
-![Include and Extend-extend](images/activity-game.png)
-*fig.8 - Top Level Game Activity Diagram*
+![Activity Game](images/actvity-game.png)
+*fig.10 - Top Level Game Activity Diagram*
 
 We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings, events and feedback.
 
-![Include and Extend-extend](images/activity-snake.png)
-*fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
+![Activity Snake](images/actvity-snake.png)
+*fig.11 - Nokia Classic Game 'Snake' as an Activity Diagram*
 
-### 2. Activity Diagram
+### 3. State Diagram
 
+State Diagrams are used to model the possible states of your applications. This allows you to not only to model the states but the flow of events and transitions between states. It is useful for modelling the following in games:  
+- AI Finite State Machines
+- Game States
+- Animation Systems
 
-
-
+![State Diagram Symbols](images/state-symbols.svg)
+*fig.12 - The main symbols in an State Diagram*
 
 ## Tools for making UML
 
@@ -140,11 +149,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xOD
-YzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3
-ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNy
-wxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0z
-ODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMjY1OTc3OT
-UxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAsMTYz
-OTAzMjc3MV19
+eyJoaXN0b3J5IjpbNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMz
+EyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAx
+LC0yMDU2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LD
+ExNTE2Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEz
+Mjk2MzksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMT
+M5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMx
+NTAzNDU5MF19
 -->
