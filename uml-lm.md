@@ -135,7 +135,7 @@ State Diagrams are used to model the possible **states** of your applications. T
 - Game States
 - Animation Systems
 
-Below is an example tha
+Below is an example of state diagram that describes an airport check-in process
 
 
 ![State Diagram Symbols](images/state-symbols.svg)
@@ -152,11 +152,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNT
-gxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3MzQz
-LC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xOD
-YzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3
-ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNy
-wxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0z
-ODk2NTc4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzYzODI5MDUsMzc5NTgxMDIzLC01MT
+E1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2
+LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMD
+U2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2
+Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2Mz
+ksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0x
+NjgwNTA4NDA2XX0=
 -->
