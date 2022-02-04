@@ -134,7 +134,7 @@ State Diagrams are used to model the possible **states** of your applications. T
 - AI Finite State Machines
 - Game States
 - Animation Systems
-- 
+
 ![State Diagram Symbols](images/state-symbols.svg)
 *fig.12 - The main symbols in a State Diagram*
 
@@ -188,11 +188,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDg0ODgyNywxMjUzNzEyMDUwLDM3OT
-U4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAy
-LC0yMDMxMjQ5NiwtMTYzNzU2NzM0MywtMTk2MzcyODc4LDY1OD
-MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
-NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
-wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
-NTY2MTEzOV19
+eyJoaXN0b3J5IjpbMTUxNzg4Mzk4LDEzNTA4NDg4MjcsMTI1Mz
+cxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1Njgs
+MTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5Nj
+M3Mjg3OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1
+NzksLTE0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1Mi
+wzOTYxMDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcx
+NDAyNTVdfQ==
 -->
