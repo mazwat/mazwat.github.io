@@ -194,16 +194,16 @@ It can also be used to model relationships between classes like:
 - Realisation/Implementation
 
 ![Sequence Diagram Symbols](images/class-terms-1.svg)
-*fig.18 - A Sequence Diagram of a game of 'Pong'*
+*fig.19 - Class Diagram Terms'*
 
 ![Sequence Diagram Symbols](images/class-terms-2.svg)
-*fig.18 - A Sequence Diagram of a game of 'Pong'*
+*fig.20 - Class Diagram tersm'*
 
-![Sequence Diagram Symbols](images/arrows.svg)
-*fig.18 - A Sequence Diagram of a game of 'Pong'*
+![Sequence Diagram Symbols](images/class-arrows.svg)
+*fig.21 - A Sequence Diagram of a game of 'Pong'*
 
 ![Sequence Diagram Symbols](images/class-mario.svg)
-*fig.18 - A Sequence Diagram of a game of 'Pong'*
+*fig.22 - A Sequence Diagram of a game of 'Pong'*
 
 link to Mario [chart](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)
 
@@ -222,11 +222,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 
 ≈
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MD
-U3NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEs
-MTgxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NT
-gxMDIzLC01MTE1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIs
-LTIwMzEyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4Mz
-M2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1
-MDc3XX0=
+eyJoaXN0b3J5IjpbMTk1MjIyOTYwMCwtNzA5NDYzMDk2LDc5ND
+kzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEs
+LTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1Mz
+cxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1Njgs
+MTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5Nj
+M3Mjg3OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1
+NzldfQ==
 -->
