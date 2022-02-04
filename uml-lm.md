@@ -44,7 +44,7 @@ UML is a **visual notation system** which can be used to design software. It was
 -   It allows us to **think through our systems** before committing them to code
 -   It offers a **shared language** between programmer and other disciplines including **clients**
 
-## Diagram Families
+### Diagram Families
 
 ![UML types](images/uml-types.png)
 *fig.2 - UML types*
@@ -148,7 +148,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTQ5NDEyMSwtMTk2MzcyODc4LDY1OD
+eyJoaXN0b3J5IjpbMjEwMDcxODM2MiwtMTk2MzcyODc4LDY1OD
 MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
 NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
 wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
