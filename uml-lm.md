@@ -180,13 +180,14 @@ I have included this third-party video which will provide you with further insig
 
 ### Class Diagrams
 
-Class Diagrams are used to model object-orientated systems
--   	Is the one diagram which can be directly translated into code
--   It has entities which represent:  
-    – Classes with functions and variables – Interfaces  
-    – Enumerations
--   It can also be used to model relationships between classes
-	- Dependency  
+Class Diagrams are used to model object-orientated systems. It is the one diagram which can be directly translated into code. It has entities which represent:
+Classes with functions and variables
+ - List item
+ - Interfaces  
+ - Enumerations
+
+It can also be used to model relationships between classes
+Dependency  
 	- Association  
 	- Aggregation
 	- Composition
@@ -206,11 +207,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDY4NTM3OCwxNDMxODk4NTQyLDg3OD
-A3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4ODI3
-LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNT
-gxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3MzQz
-LC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xOD
-YzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3
-ODcxNTJdfQ==
+eyJoaXN0b3J5IjpbLTExNTMyODQyMDQsMTQzMTg5ODU0Miw4Nz
+gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
+NywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3Mz
+U4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0
+MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1NjYyOTE1OCwtMT
+g2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5
+Nzg3MTUyXX0=
 -->
