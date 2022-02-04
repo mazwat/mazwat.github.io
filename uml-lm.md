@@ -127,8 +127,8 @@ We can be more detailed and prescriptive in defining the entire game loop. This 
 
 State Diagrams are used to model the possible states of your applications. This allows you to not only to model the states but the flow of events and transitions between states. It is useful for modelling the following in games:  
 - AI Finite State Machines
-- Game States  
-    – Animation Systems
+- Game States
+- Animation Systems
 
 
 
@@ -143,11 +143,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTUzMDYyNCwtMTk2MzcyODc4LDY1OD
-MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
-NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
-wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
-NTY2MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MT
-I3MCwzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1
-MDkwNjQ4XX0=
+eyJoaXN0b3J5IjpbNDYyODc2MiwtMTk2MzcyODc4LDY1ODMzNj
+kwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3
+NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OSwxMD
+MxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2
+MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MC
+wzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkw
+NjQ4XX0=
 -->
