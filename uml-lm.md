@@ -111,6 +111,9 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 ![Include and Extend-extend](images/activity-symbols.svg)
 *fig.7 - The main symbols in an Activity Diagram*
 
+![Include and Extend-extend](images/activity-symbols.svg)
+*fig.7 - The main symbols in an Activity Diagram*
+
 
 
 ## Tools for making UML
@@ -124,10 +127,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOT
-YxMDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcxNDAy
-NTUsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NC
-w2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4
-NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC
-04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzM1OTQ1MiwxMTUxNjI5NTQ3LC0xND
+M5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2
+MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNi
+wtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3
+Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIwLD
+E2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
 -->
