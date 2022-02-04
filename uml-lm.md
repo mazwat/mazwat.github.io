@@ -148,7 +148,9 @@ On of the classic uses for a state diagram is to plot the various **states** of 
 ![Airline Check in](images/state-animation.svg)
 *fig.14 -State Diagram for Character Animation*
 
-It is also an effective method of visualising finite state machines for embedded systems. We can manage the process flow of a system. 
+It is also an effective method of visualising finite state machines for embedded systems. We can manage the process flow of a system. A finite state
+
+![enter image description here](https://www.google.com/url?sa=i&url=https://brilliant.org/wiki/finite-state-machines/&psig=AOvVaw3lJGjp1FDAmKxk5LIYUMdU&ust=1644058058942000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDr0tfv5fUCFQAAAAAdAAAAABAD)
 
 ![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
 
@@ -174,11 +176,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0MzM0NTQ4LDM3OTU4MTAyMywtNTExNT
-gwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5Niwt
-MTYzNzU2NzM0MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1Nj
-YyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5
-NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC
-04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4
-MDUwODQwNl19
+eyJoaXN0b3J5IjpbLTg2MjY4NDAyOCwzNzk1ODEwMjMsLTUxMT
+U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
+LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
+Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
+OTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOS
+wtODMxMDA1NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2
+ODA1MDg0MDZdfQ==
 -->
