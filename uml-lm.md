@@ -177,7 +177,7 @@ I have included this third-party video which will provide you with further insig
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pCK6prSq8aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 5. Structural Diagrams
+## Structural Diagrams
 
 ## Tools for making UML
 
@@ -190,11 +190,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk4MzMwOTcsMTgxOTk2MDEzOCwxMz
-UwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0
-MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNj
-M3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5
-MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1ND
-csLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgz
-MTAwNTYyN119
+eyJoaXN0b3J5IjpbLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNT
+A4NDg4MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQx
+Niw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mz
+c1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNTY2Mjkx
+NTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYyOTU0Ny
+wtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOSwtODMx
+MDA1NjI3XX0=
 -->
