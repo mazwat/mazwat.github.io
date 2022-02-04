@@ -130,8 +130,6 @@ We can be more detailed and prescriptive in defining the entire game loop. This 
 
 ### 3. State Diagram
 
-
-
 State Diagrams are used to model the possible **states** of your applications. They sometimes also known as **state machine diagrams**. This allows you to not only to model the states but the flow of **events** and **transitions** between states. It is useful for modelling the following in games:  
 - AI Finite State Machines
 - Game States
@@ -154,7 +152,12 @@ It is also an effective method of visualising finite state machines for embedded
 
 ![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
 
-Seq
+### Sequence Diagrams
+
+This can be used to model the flow of logic in a system
+-   This is useful to see how the user interacts with the system
+-   How the data flows between different parts of the system
+-   These diagrams are often time focused with the vertical axis used to represent time
 
 ## Tools for making UML
 
@@ -167,7 +170,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODYyNDM3OCwzNzk1ODEwMjMsLTUxMT
+eyJoaXN0b3J5IjpbMTY1OTQ5OTI4MiwzNzk1ODEwMjMsLTUxMT
 U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
 LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
 Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
