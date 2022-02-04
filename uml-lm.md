@@ -146,7 +146,7 @@ Below is an example of state diagram that describes an airport check-in process.
 On of the classic uses for a state diagram is to plot the various **states** of a **character animation**. It is useful a to understand how each animation cycle proceeds to others managed in a controller.
 
 ![Character Animation](images/state-animation.svg)
-*fig.14 -State Diagram for Character Animation*
+\*fig.14 -State Diagram for Character Animation*
 
 It is also an effective method of visualising **finite state machines** for **embedded systems.** We can manage the process flow of a system. A system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
 
@@ -188,11 +188,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzg4Mzk4LDEzNTA4NDg4MjcsMTI1Mz
-cxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1Njgs
-MTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5Nj
-M3Mjg3OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1
-NzksLTE0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1Mi
-wzOTYxMDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcx
-NDAyNTVdfQ==
+eyJoaXN0b3J5IjpbMTM2ODE3MTYzMCwxMzUwODQ4ODI3LDEyNT
+M3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNTgxNTY4
+LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3MzQzLC0xOT
+YzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1
+NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3ODcxNT
+IsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNywxMDk3
+MTQwMjU1XX0=
 -->
