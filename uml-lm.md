@@ -148,9 +148,12 @@ On of the classic uses for a state diagram is to plot the various **states** of 
 ![Airline Check in](images/state-animation.svg)
 *fig.14 -State Diagram for Character Animation*
 
-It is also an effective method of visualising finite state machines for embedded systems. We can manage the process flow of a system. A finite state machine is a system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
+It is also an effective method of visualising **finite state machines** for **embedded systems.** We can manage the process flow of a system. A system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
 
 ![Finit State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)
+\*fig.15 -Finite State Machine *
+
+A state diagrams helps to represent the changes in the state of a washing machine.
 
 ![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
 
@@ -176,11 +179,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjQwNjA1MCwzNzk1ODEwMjMsLTUxMT
-U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
-LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
-Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
-OTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOS
-wtODMxMDA1NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2
-ODA1MDg0MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQ5NzA4OTAsMzc5NTgxMDIzLC01MT
+E1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2
+LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMD
+U2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2
+Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2Mz
+ksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0x
+NjgwNTA4NDA2XX0=
 -->
