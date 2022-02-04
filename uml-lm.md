@@ -178,7 +178,20 @@ I have included this third-party video which will provide you with further insig
 
 ## Structural Diagrams
 
-### Class Dia
+### Class Diagrams
+
+Class Diagrams are used to model object-orientated systems
+-   Is the one diagram which can be directly translated into code
+-   It has entities which represent:  
+    – Classes with functions and variables – Interfaces  
+    – Enumerations
+-   It can also be used to model relationships between classes  
+    – Dependency  
+    – Association  
+    – Aggregation  
+    – Composition  
+    – Inheritance  
+    – Realisation/Implementation
 
 ## Tools for making UML
 
@@ -193,11 +206,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMzMjY3ODAsODc4MDcxMzEsLTUwMD
-k5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1
-MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
-kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
-OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
-E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
-MDQwOTldfQ==
+eyJoaXN0b3J5IjpbMTQzMTg5ODU0Miw4NzgwNzEzMSwtNTAwOT
+kyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNywxMjUzNzEyMDUw
+LDM3OTU4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOT
+E5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0MywtMTk2MzcyODc4
+LDY1ODMzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMT
+Q3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEw
+NDA5OV19
 -->
