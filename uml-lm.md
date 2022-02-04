@@ -116,7 +116,7 @@ Activity Diagrams describe how activities are coordinated to provide a service w
 THe basic layout of an activity diagram
 
 ![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/what-is-activity-diagram/02-basic-activity-diagram.png)
-*fig.9 - Layout of an Activity Diagram*
+*fig.9 - Layout of an Activity Diagram (image attribution: www.visual-paradigm.com)*
 
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
@@ -148,11 +148,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDcxODM2MiwtMTk2MzcyODc4LDY1OD
-MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
-NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
-wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
-NTY2MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MT
-I3MCwzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1
-MDkwNjQ4XX0=
+eyJoaXN0b3J5IjpbODM2MzM4MjExLC0xOTYzNzI4NzgsNjU4Mz
+M2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1
+MDc3LDExNTE2Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LD
+EwMzEzMjk2MzksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1
+NjYxMTM5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUxMj
+cwLDMxNTAzNDU5MCwtMjY1OTc3OTUxLC05MzUyODQ5OTUsMjUw
+OTA2NDhdfQ==
 -->
