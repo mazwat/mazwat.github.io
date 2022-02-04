@@ -113,6 +113,10 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 
 Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, ditributing and recieving an online shop order.
 
+THe basic layout of an activity diagram
+
+![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/what-is-activity-diagram/02-basic-activity-diagram.png)
+
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
 ![Include and Extend-extend](images/activity-game.png)
@@ -143,11 +147,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODc2MiwtMTk2MzcyODc4LDY1ODMzNj
-kwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3
-NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OSwxMD
-MxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2
-MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MC
-wzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1MDkw
-NjQ4XX0=
+eyJoaXN0b3J5IjpbMTI4MzM2OTczMywtMTk2MzcyODc4LDY1OD
+MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
+NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
+wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
+NTY2MTEzOSwtMTY4MDUwODQwNiwtMzg5NjU3ODg0LDY2MTE1MT
+I3MCwzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwtOTM1Mjg0OTk1LDI1
+MDkwNjQ4XX0=
 -->
