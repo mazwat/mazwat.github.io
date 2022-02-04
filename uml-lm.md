@@ -141,15 +141,16 @@ State Diagrams are used to model the possible **states** of your applications. T
 Below is an example of state diagram that describes an airport check-in process. We can see the use of parallel or concurrent processes with the use of a black bar:
 
 ![Airline Check in](images/state-check-in.svg)
-*fig.12 - The main symbols in a State Diagram*
+*fig.13 - The main symbols in a State Diagram*
 
 On of the classic uses for a state diagram is to plot the various **states** of a **character animation**. It is useful a to understand how each animation cycle proceeds to others managed in a controller.
 
 ![Airline Check in](images/state-animation.svg)
-*fig.12 -State Diagram for Character Animation*
+*fig.14 -State Diagram for Character Animation*
 
-![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\
-*fig.1 -State Diagram for Character Animation*
+It is also an effective method of visualising finite state machines for embedded systems
+
+![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
 
 ## Tools for making UML
 
@@ -162,11 +163,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIxNzAzOTIsMzc5NTgxMDIzLC01MT
-E1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2
-LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMD
-U2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2
-Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2Mz
-ksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0x
-NjgwNTA4NDA2XX0=
+eyJoaXN0b3J5IjpbMzc1NjEwMTg5LDM3OTU4MTAyMywtNTExNT
+gwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5Niwt
+MTYzNzU2NzM0MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1Nj
+YyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5
+NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC
+04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4
+MDUwODQwNl19
 -->
