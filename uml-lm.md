@@ -136,7 +136,7 @@ State Diagrams are used to model the possible states of your applications. This 
 - Animation Systems
 
 ![State Diagram Symbols](images/state-symbols.svg)
-*fig.12 - The main symbols in an State Diagram*
+*fig.12 - The main symbols in a State Diagram*
 
 ## Tools for making UML
 
@@ -149,11 +149,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMz
-EyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAx
-LC0yMDU2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LD
-ExNTE2Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEz
-Mjk2MzksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMT
-M5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMx
-NTAzNDU5MF19
+eyJoaXN0b3J5IjpbLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
+kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
+OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
+E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
+MDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcxNDAyNT
+UsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2
+NjExNTEyNzBdfQ==
 -->
