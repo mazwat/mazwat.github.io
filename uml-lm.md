@@ -155,7 +155,7 @@ It is also an effective method of visualising **finite state machines** for **em
 
 A state diagrams helps to represent the changes in the state of a washing machine.
 
-![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
+![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.16 -State Machine for a Washing Machine*
 
 ### Sequence Diagrams
 
@@ -166,7 +166,12 @@ UML Sequence Diagrams are **interaction diagrams** that detail how operations ar
 -   How the data flows between different parts of the system
 -   These diagrams are often time focused with the vertical axis used to represent time
 
+![Sequence Diagram Symbols](images/seq-symbols.svg)
+*fig.12 - The main symbols in a Sequence Diagram*
 
+
+![Sequence Diagram Symbols](images/seq-pong.svg)
+*fig.13 - A Sequence Diagram of a game of 'Pong'*
 
 I have included this third-party video which will provide you with further insight into the purpose of sequence diagrams:
 
@@ -183,7 +188,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODEwMTI0NywxMjUzNzEyMDUwLDM3OT
+eyJoaXN0b3J5IjpbMTM1MDg0ODgyNywxMjUzNzEyMDUwLDM3OT
 U4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAy
 LC0yMDMxMjQ5NiwtMTYzNzU2NzM0MywtMTk2MzcyODc4LDY1OD
 MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
