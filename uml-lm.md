@@ -180,19 +180,18 @@ I have included this third-party video which will provide you with further insig
 
 ### Class Diagrams
 
-Class Diagrams are used to model object-orientated systems. It is the one diagram which can be directly translated into code. It has entities which represent:
-Classes with functions and variables
+Class Diagrams are used to model object-orientated systems. It is the one diagram which can be directly translated into code. It has entities which represent classes with functions and variables:
  - List item
  - Interfaces  
  - Enumerations
 
-It can also be used to model relationships between classes
-Dependency  
-	- Association  
-	- Aggregation
-	- Composition
-	- Inheritance  
-	- Realisation/Implementation
+It can also be used to model relationships between classes like:
+- Dependency
+- Association
+- Aggregation
+- Composition
+- Inheritance  
+- Realisation/Implementation
 
 ## Tools for making UML
 
@@ -207,7 +206,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMyODQyMDQsMTQzMTg5ODU0Miw4Nz
+eyJoaXN0b3J5IjpbLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nz
 gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
 NywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3Mz
 U4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0
