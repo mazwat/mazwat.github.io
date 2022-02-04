@@ -143,10 +143,14 @@ Below is an example of state diagram that describes an airport check-in process.
 ![Airline Check in](images/state-check-in.svg)
 *fig.12 - The main symbols in a State Diagram*
 
-On of the classic uses for a state diagram is to plot the various states of a character animation
+On of the classic uses for a state diagram is to plot the various **states** of a **character animation**. It is useful a to understand how each animation cycle 
+
+
 
 ![Airline Check in](images/state-check-in.svg)
 *fig.12 - The main symbols in a State Diagram*
+
+![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)
 
 ## Tools for making UML
 
@@ -159,7 +163,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDQ2NTg4MCwzNzk1ODEwMjMsLTUxMT
+eyJoaXN0b3J5IjpbLTU0MDQ1ODkzNSwzNzk1ODEwMjMsLTUxMT
 U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
 LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
 Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
