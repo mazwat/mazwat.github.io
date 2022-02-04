@@ -16,13 +16,14 @@ author:
 micro_nav: true
 
 # Page navigation
-page_nav: 
+page_nav:
     prev:
         content: Making Circuits
         url: '../making-circuits-lm'
-     next:
-        content: Software Architecture
-        url: '../software-architecture-lm'
+    next:
+        content: Software Arc Circuits
+        url: '../making-circuits-lm'
+---
 ---
 
 # Object Oriented Programming
@@ -779,11 +780,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzODIwMTgsLTE5MzM1MzU0ODUsMzY1Mz
-kyNzg4LC0xMDQ2ODM1NjcyLDMzMDIwMzY5MCwxNjgyMjc2MDgw
-LC03MDA5MDY5NjUsNTk0ODc1OTg3LDQ3Mzc3NTM2MCwtMTE1Mz
-k2MzY5NCwtMTQzNTY5MTc4OCwxMzUxNTU1MTI0LDE4MTUwNTA2
-OTEsMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxNDI0MDA2MzUyLD
-g5ODgzNDg1LC0xMjI2MzM5ODQ3LC0xOTM5MzQyMzEwLDE0OTMy
-NDQ4NzZdfQ==
+eyJoaXN0b3J5IjpbNDg0NTU4ODM5LC0xOTMzNTM1NDg1LDM2NT
+M5Mjc4OCwtMTA0NjgzNTY3MiwzMzAyMDM2OTAsMTY4MjI3NjA4
+MCwtNzAwOTA2OTY1LDU5NDg3NTk4Nyw0NzM3NzUzNjAsLTExNT
+M5NjM2OTQsLTE0MzU2OTE3ODgsMTM1MTU1NTEyNCwxODE1MDUw
+NjkxLDE0OTgwNzczMjMsLTE1OTEzNTI0MTQsMTQyNDAwNjM1Mi
+w4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkzOTM0MjMxMCwxNDkz
+MjQ0ODc2XX0=
 -->
