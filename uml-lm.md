@@ -125,7 +125,7 @@ The below example is a simple demonstration how a game works at the highest leve
 
 We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings, events and feedback.
 
-![Activity Snake](images/activity-snake.png)
+![Activity Snake](images/actvity-snake.png)
 *fig.11 - Nokia Classic Game 'Snake' as an Activity Diagram*
 
 ### 3. State Diagram
@@ -148,11 +148,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyNDk2LC0xNjM3NTY3MzQzLC0xOT
-YzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1
-NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3ODcxNT
-IsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNywxMDk3
-MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0zODk2NT
-c4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMjY1OTc3OTUxLC05
-MzUyODQ5OTVdfQ==
+eyJoaXN0b3J5IjpbMjM1OTYzMzExLC0yMDMxMjQ5NiwtMTYzNz
+U2NzM0MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1NjYyOTE1
+OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC
+0xNDM5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEw
+MDU2MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwOD
+QwNiwtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2
+NTk3Nzk1MV19
 -->
