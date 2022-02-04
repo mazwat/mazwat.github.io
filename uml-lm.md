@@ -120,7 +120,7 @@ The below example is a simple demonstration how a game works at the highest leve
 
 We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken
 
-![Include and Extend-extend](images/activity-snake.svg)
+![Include and Extend-extend](images/activity-snake.png)
 *fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
 
 ## Tools for making UML
@@ -134,11 +134,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMT
-E1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMy
-OTYzOSwtODMxMDA1NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMz
-ksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2NjExNTEyNzAsMzE1
-MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4NDk5NSwyNTA5MDY0OC
-wtMTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEz
-ODc5MzU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
+E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
+MDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcxNDAyNT
+UsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2
+NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4ND
+k5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04
+MzA2OTI0NjBdfQ==
 -->
