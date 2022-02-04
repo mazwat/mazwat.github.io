@@ -148,9 +148,9 @@ On of the classic uses for a state diagram is to plot the various **states** of 
 ![Airline Check in](images/state-animation.svg)
 *fig.14 -State Diagram for Character Animation*
 
-It is also an effective method of visualising finite state machines for embedded systems. We can manage the process flow of a system. A finite state
+It is also an effective method of visualising finite state machines for embedded systems. We can manage the process flow of a system. A finite state machine is a system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
 
-![enter image description here](https://www.google.com/url?sa=i&url=https://brilliant.org/wiki/finite-state-machines/&psig=AOvVaw3lJGjp1FDAmKxk5LIYUMdU&ust=1644058058942000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDr0tfv5fUCFQAAAAAdAAAAABAD)
+![Finit State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)
 
 ![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.15 -State Machine for a Washing Machine*
 
@@ -176,7 +176,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjY4NDAyOCwzNzk1ODEwMjMsLTUxMT
+eyJoaXN0b3J5IjpbMTQwMjQwNjA1MCwzNzk1ODEwMjMsLTUxMT
 U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
 LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
 Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
