@@ -157,7 +157,7 @@ A state diagrams helps to represent the changes in the state of a washing machin
 
 ![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.16 -State Machine for a Washing Machine*
 
-### Sequence Diagrams
+### 4. Sequence Diagrams
 
 UML Sequence Diagrams are **interaction diagrams** that detail how operations are carried out. They capture the interaction between objects in the context of a collaboration. Sequence Diagrams are **time focussed** and they show the order of the interaction visually by using the vertical axis of the diagram to represent time what messages are sent and when.
 
@@ -177,6 +177,8 @@ I have included this third-party video which will provide you with further insig
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pCK6prSq8aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 5. Structural Diagrams
+
 ## Tools for making UML
 
 1. **Diagram** - [http://www.diagram.net](http://www.diagram.net)
@@ -188,11 +190,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNT
-M3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNTgxNTY4
-LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3MzQzLC0xOT
-YzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1
-NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3ODcxNT
-IsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNywxMDk3
-MTQwMjU1XX0=
+eyJoaXN0b3J5IjpbLTIxMzk4MzMwOTcsMTgxOTk2MDEzOCwxMz
+UwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0
+MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNj
+M3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5
+MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1ND
+csLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgz
+MTAwNTYyN119
 -->
