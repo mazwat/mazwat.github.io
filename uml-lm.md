@@ -193,11 +193,14 @@ It can also be used to model relationships between classes like:
 - Inheritance  
 - Realisation/Implementation
 
-![Sequence Diagram Symbols](images/class-terms-1.svg)
+![Sequence Diagram Symbols](images/class-terms.svg)
 *fig.19 - Class Diagram Terms'*
 
-![Sequence Diagram Symbols](images/class-terms-2.svg)
-*fig.20 - Class Diagram tersm'*
+![Sequence Diagram Symbols](images/class-type-1.svg)
+*fig.19 - Class Diagram Terms'*
+
+![Sequence Diagram Symbols](images/class-type-2.svg)
+*fig.20 - Class Diagram terms'*
 
 ![Sequence Diagram Symbols](images/class-arrows.svg)
 *fig.21 - A Sequence Diagram of a game of 'Pong'*
@@ -222,7 +225,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 
 ≈
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjIyOTYwMCwtNzA5NDYzMDk2LDc5ND
+eyJoaXN0b3J5IjpbLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5ND
 kzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEs
 LTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1Mz
 cxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1Njgs
