@@ -116,16 +116,17 @@ Activity Diagrams describe how activities are coordinated to provide a service w
 THe basic layout of an activity diagram
 
 ![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/what-is-activity-diagram/02-basic-activity-diagram.png)
+*fig.9 - Layout of an Activity Diagram*
 
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
 ![Include and Extend-extend](images/activity-game.png)
-*fig.8 - Top Level Game Activity Diagram*
+*fig.10 - Top Level Game Activity Diagram*
 
 We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings, events and feedback.
 
 ![Include and Extend-extend](images/activity-snake.png)
-*fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
+*fig.11 - Nokia Classic Game 'Snake' as an Activity Diagram*
 
 ### 3. State Diagram
 
@@ -147,7 +148,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzM2OTczMywtMTk2MzcyODc4LDY1OD
+eyJoaXN0b3J5IjpbLTQxNTQ5NDEyMSwtMTk2MzcyODc4LDY1OD
 MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
 NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
 wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
