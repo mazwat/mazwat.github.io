@@ -178,6 +178,8 @@ I have included this third-party video which will provide you with further insig
 
 ## Structural Diagrams
 
+### Class Dia
+
 ## Tools for making UML
 
 1. **Diagram** - [http://www.diagram.net](http://www.diagram.net)
@@ -188,8 +190,10 @@ There are many more you can use but these are some of the best.
 
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMwOTAzMjMsODc4MDcxMzEsLTUwMD
+eyJoaXN0b3J5IjpbLTExMTMzMjY3ODAsODc4MDcxMzEsLTUwMD
 k5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1
 MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
 kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
