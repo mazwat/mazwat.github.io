@@ -115,10 +115,10 @@ Activity Diagrams describe how activities are coordinated to provide a service w
 
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
-![Include and Extend-extend](images/activity-game.svg)
+![Include and Extend-extend](images/activity-game.png)
 *fig.8 - Top Level Game Activity Diagram*
 
-We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken
+We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings,
 
 ![Include and Extend-extend](images/activity-snake.png)
 *fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
@@ -134,11 +134,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
-E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
-MDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcxNDAyNT
-UsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2
-NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5NTEsLTkzNTI4ND
-k5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNjM5MDMyNzcxLC04
-MzA2OTI0NjBdfQ==
+eyJoaXN0b3J5IjpbLTc3MDc0NzQxMywtMjA1NjYyOTE1OCwtMT
+g2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5
+Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2Mj
+csMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNiwt
+Mzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3Nz
+k1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIwLDE2
+MzkwMzI3NzFdfQ==
 -->
