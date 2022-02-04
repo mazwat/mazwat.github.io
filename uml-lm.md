@@ -134,11 +134,18 @@ State Diagrams are used to model the possible **states** of your applications. T
 - AI Finite State Machines
 - Game States
 - Animation Systems
-
-Below is an example of state diagram that describes an airport check-in process
-
-
+- 
 ![State Diagram Symbols](images/state-symbols.svg)
+*fig.12 - The main symbols in a State Diagram*
+
+Below is an example of state diagram that describes an airport check-in process. We can see the use of parallel or concurrent processes with the use of a black bar:
+
+![Airline Check in](images/state-check-in.svg)
+*fig.12 - The main symbols in a State Diagram*
+
+
+
+![Airline Check in](images/state-check-in.svg)
 *fig.12 - The main symbols in a State Diagram*
 
 ## Tools for making UML
@@ -152,7 +159,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzODI5MDUsMzc5NTgxMDIzLC01MT
+eyJoaXN0b3J5IjpbLTE2MTYzMDYxNDgsMzc5NTgxMDIzLC01MT
 E1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2
 LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMD
 U2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2
