@@ -118,7 +118,7 @@ The below example is a simple demonstration how a game works at the highest leve
 ![Include and Extend-extend](images/activity-game.png)
 *fig.8 - Top Level Game Activity Diagram*
 
-We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings,
+We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer. In the below example the game 'Snake' is broken into a looping procedure which defines key bindings, events and feedback.
 
 ![Include and Extend-extend](images/activity-snake.png)
 *fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
@@ -134,7 +134,7 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDc0NzQxMywtMjA1NjYyOTE1OCwtMT
+eyJoaXN0b3J5IjpbLTg0OTQyODI3OCwtMjA1NjYyOTE1OCwtMT
 g2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5
 Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2Mj
 csMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNiwt
