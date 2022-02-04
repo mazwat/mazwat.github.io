@@ -118,8 +118,7 @@ The below example is a simple demonstration how a game works at the highest leve
 ![Include and Extend-extend](images/activity-game.svg)
 *fig.8 - Top Level Game Activity Diagram*
 
-We can be more detailed and prescriptive in defining the entire game loop in 
-
+We can be more detailed and prescriptive in defining the entire game loop. This is invaluable for translating a mechanic into a logical process that can be deployed by a programmer.
 
 ![Include and Extend-extend](images/activity-snake.svg)
 *fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
@@ -135,10 +134,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTU3MDMwNCwxMTUxNjI5NTQ3LC0xND
-M5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2
-MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNi
-wtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3
-Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIwLD
-E2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
+eyJoaXN0b3J5IjpbNDQyNTI3MTYsMTE1MTYyOTU0NywtMTQzOT
+c4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3
+LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLT
+M4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5Nzc5
+NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMCwxNj
+M5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
 -->
