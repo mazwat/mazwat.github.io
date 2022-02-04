@@ -193,6 +193,10 @@ It can also be used to model relationships between classes like:
 - Inheritance  
 - Realisation/Implementation
 
+link to Mario [chart](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)
+
+
+
 ## Tools for making UML
 
 1. **Diagram** - [http://www.diagram.net](http://www.diagram.net)
@@ -204,13 +208,13 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 
-
+≈
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nz
-gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
-NywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3Mz
-U4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0
-MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1NjYyOTE1OCwtMT
-g2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5
-Nzg3MTUyXX0=
+eyJoaXN0b3J5IjpbNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMT
+g5ODU0Miw4NzgwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgs
+MTM1MDg0ODgyNywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNT
+gwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5Niwt
+MTYzNzU2NzM0MywtMTk2MzcyODc4LDY1ODMzNjkwMSwtMjA1Nj
+YyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5
+NTQ3XX0=
 -->
