@@ -111,9 +111,9 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 ![Include and Extend-extend](images/activity-symbols.svg)
 *fig.7 - The main symbols in an Activity Diagram*
 
-Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, ditributing and recieving an online shop order.
+Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, distributing and recieving an online shop order.
 
-THe basic layout of an activity diagram
+The basic layout of an activity diagram
 
 ![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/what-is-activity-diagram/02-basic-activity-diagram.png)\
 *fig.9 - Layout of an Activity Diagram (image attribution: www.visual-paradigm.com)*
@@ -148,11 +148,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTMzNTMxMywtMTYzNzU2NzM0MywtMT
-k2MzcyODc4LDY1ODMzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0
-NTU3OSwtMTQ3OTkyNTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MT
-UyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5
-NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNiwtMzg5Nj
-U3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3Nzk1MSwt
-OTM1Mjg0OTk1XX0=
+eyJoaXN0b3J5IjpbLTIwMzEyNDk2LC0xNjM3NTY3MzQzLC0xOT
+YzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xODYzMzQ1
+NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3ODcxNT
+IsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNywxMDk3
+MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0zODk2NT
+c4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMjY1OTc3OTUxLC05
+MzUyODQ5OTVdfQ==
 -->
