@@ -169,7 +169,6 @@ UML Sequence Diagrams are **interaction diagrams** that detail how operations ar
 ![Sequence Diagram Symbols](images/seq-symbols.svg)
 *fig.17 - The main symbols in a Sequence Diagram*
 
-
 ![Sequence Diagram Symbols](images/seq-pong.svg)
 *fig.18 - A Sequence Diagram of a game of 'Pong'*
 
@@ -190,11 +189,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MDcxMzEsLTUwMDk5MjgzMSwxODE5OT
-YwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMs
-LTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMT
-I0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEs
-LTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMT
-E1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMy
-OTYzOV19
+eyJoaXN0b3J5IjpbLTEzNTMwOTAzMjMsODc4MDcxMzEsLTUwMD
+k5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1
+MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
+kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
+OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
+E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
+MDQwOTldfQ==
 -->
