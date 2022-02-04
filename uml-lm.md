@@ -130,10 +130,13 @@ We can be more detailed and prescriptive in defining the entire game loop. This 
 
 ### 3. State Diagram
 
-State Diagrams are used to model the possible states of your applications. This allows you to not only to model the states but the flow of events and transitions between states. It is useful for modelling the following in games:  
+State Diagrams are used to model the possible **states** of your applications. This allows you to not only to model the states but the flow of **events** and **transitions** between states. It is useful for modelling the following in games:  
 - AI Finite State Machines
 - Game States
 - Animation Systems
+
+Below is an example tha
+
 
 ![State Diagram Symbols](images/state-symbols.svg)
 *fig.12 - The main symbols in a State Diagram*
@@ -149,11 +152,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
-kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
-OCw2NTgzMzY5MDEsLTIwNTY2MjkxNTgsLTE4NjMzNDU1NzksLT
-E0Nzk5MjUwNzcsMTE1MTYyOTU0NywtMTQzOTc4NzE1MiwzOTYx
-MDQwOTksMTAzMTMyOTYzOSwtODMxMDA1NjI3LDEwOTcxNDAyNT
-UsLTE5ODU2NjExMzksLTE2ODA1MDg0MDYsLTM4OTY1Nzg4NCw2
-NjExNTEyNzBdfQ==
+eyJoaXN0b3J5IjpbMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNT
+gxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3MzQz
+LC0xOTYzNzI4NzgsNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xOD
+YzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3
+ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNy
+wxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0z
+ODk2NTc4ODRdfQ==
 -->
