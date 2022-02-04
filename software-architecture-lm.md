@@ -20,9 +20,6 @@ page_nav:
     prev:
         content: OOP
         url: '../oop-lm'
-    next:
-        content: UML
-        url: '../uml-lm'
 ---
 
 # Software Architecture
@@ -503,11 +500,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ5NjM5NiwtMTIxNDUwNjY3OCwtMz
-Y4MjYwMzcxLC0xNTI5MzUyNDA0LDEwOTU2ODg3MTksNjA0MTEz
-MDIyLDE0NTU2ODU2NDcsMzE0MjI0NTI3LDEwODg4Mjk5MzUsLT
-k1NjkzMDM4NCwxNDkwNjMyNjc2LC0xOTI5MzQyNDczLC0yMTMw
-MjE0OTYwLDUxNzk4NTc4NSwtOTgyODA4ODM2LDk3MzI1MDE2NS
-w1NDk0NTYxNzgsLTUyNzI2MTEzOSwxMjE0OTUxODE2LC0xNDkw
-MzAxMDc4XX0=
+eyJoaXN0b3J5IjpbLTE2MTQ4MTQyMjgsLTE5NDQ5NjM5NiwtMT
+IxNDUwNjY3OCwtMzY4MjYwMzcxLC0xNTI5MzUyNDA0LDEwOTU2
+ODg3MTksNjA0MTEzMDIyLDE0NTU2ODU2NDcsMzE0MjI0NTI3LD
+EwODg4Mjk5MzUsLTk1NjkzMDM4NCwxNDkwNjMyNjc2LC0xOTI5
+MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4NTc4NSwtOTgyODA4OD
+M2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLTUyNzI2MTEzOSwxMjE0
+OTUxODE2XX0=
 -->
