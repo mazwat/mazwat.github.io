@@ -111,7 +111,7 @@ Activity Diagrams describe **behaviour** composed of a collection of **tasks**. 
 ![Include and Extend-extend](images/activity-symbols.svg)
 *fig.7 - The main symbols in an Activity Diagram*
 
-Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For exampe
+Activity Diagrams describe how activities are coordinated to provide a service which can be at **different levels of abstraction**. Typically, an event needs to be achieved by some operations, particularly where the operation is intended to achieve a number of different things that require coordination, or how the **events in a single use case relate to one another**, in particular, use cases where **activities may overlap and require coordination**. It is also suitable for modeling how a collection of use cases coordinate to represent business workflows. For example the process of purchasing, ditributing and recieving an online shop order.
 
 The below example is a simple demonstration how a game works at the highest level. The players progression through the game is measured by this basic activity:
 
@@ -135,11 +135,10 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk3MTI0MzUsMTE1MTYyOTU0NywtMT
-QzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOSwtODMxMDA1
-NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2ODA1MDg0MD
-YsLTM4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MDM0NTkwLC0yNjU5
-Nzc5NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwtMTk1Nzk0OTUyMC
-wxNjM5MDMyNzcxLC04MzA2OTI0NjAsLTEzODc5MzU5NDVdfQ==
-
+eyJoaXN0b3J5IjpbMTc4MTU3MDMwNCwxMTUxNjI5NTQ3LC0xND
+M5Nzg3MTUyLDM5NjEwNDA5OSwxMDMxMzI5NjM5LC04MzEwMDU2
+MjcsMTA5NzE0MDI1NSwtMTk4NTY2MTEzOSwtMTY4MDUwODQwNi
+wtMzg5NjU3ODg0LDY2MTE1MTI3MCwzMTUwMzQ1OTAsLTI2NTk3
+Nzk1MSwtOTM1Mjg0OTk1LDI1MDkwNjQ4LC0xOTU3OTQ5NTIwLD
+E2MzkwMzI3NzEsLTgzMDY5MjQ2MCwtMTM4NzkzNTk0NV19
 -->
