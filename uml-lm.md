@@ -123,7 +123,7 @@ We can be more detailed and prescriptive in defining the entire game loop. This 
 ![Include and Extend-extend](images/activity-snake.png)
 *fig.9 - Nokia Classic Game 'Snake' as an Activity Diagram*
 
-### 2. Activity Diagram
+### 3. State Diagram
 
 
 
@@ -140,11 +140,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MzM2OTAxLC0yMDU2NjI5MTU4LC0xOD
-YzMzQ1NTc5LC0xNDc5OTI1MDc3LDExNTE2Mjk1NDcsLTE0Mzk3
-ODcxNTIsMzk2MTA0MDk5LDEwMzEzMjk2MzksLTgzMTAwNTYyNy
-wxMDk3MTQwMjU1LC0xOTg1NjYxMTM5LC0xNjgwNTA4NDA2LC0z
-ODk2NTc4ODQsNjYxMTUxMjcwLDMxNTAzNDU5MCwtMjY1OTc3OT
-UxLC05MzUyODQ5OTUsMjUwOTA2NDgsLTE5NTc5NDk1MjAsMTYz
-OTAzMjc3MV19
+eyJoaXN0b3J5IjpbLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
+Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
+OTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOS
+wtODMxMDA1NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2
+ODA1MDg0MDYsLTM4OTY1Nzg4NCw2NjExNTEyNzAsMzE1MDM0NT
+kwLC0yNjU5Nzc5NTEsLTkzNTI4NDk5NSwyNTA5MDY0OCwtMTk1
+Nzk0OTUyMF19
 -->
