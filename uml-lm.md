@@ -130,13 +130,52 @@ We can be more detailed and prescriptive in defining the entire game loop. This 
 
 ### 3. State Diagram
 
-State Diagrams are used to model the possible states of your applications. This allows you to not only to model the states but the flow of events and transitions between states. It is useful for modelling the following in games:  
+State Diagrams are used to model the possible **states** of your applications. They sometimes also known as **state machine diagrams**. This allows you to not only to model the states but the flow of **events** and **transitions** between states. It is useful for modelling the following in games:  
 - AI Finite State Machines
 - Game States
 - Animation Systems
-
+- 
 ![State Diagram Symbols](images/state-symbols.svg)
-*fig.12 - The main symbols in an State Diagram*
+*fig.12 - The main symbols in a State Diagram*
+
+Below is an example of state diagram that describes an airport check-in process. We can see the use of parallel or concurrent processes with the use of a black bar:
+
+![Airline Check in](images/state-check-in.svg)
+*fig.13 - The main symbols in a State Diagram*
+
+On of the classic uses for a state diagram is to plot the various **states** of a **character animation**. It is useful a to understand how each animation cycle proceeds to others managed in a controller.
+
+![Character Animation](images/state-animation.svg)
+*fig.14 -State Diagram for Character Animation*
+
+It is also an effective method of visualising **finite state machines** for **embedded systems.** We can manage the process flow of a system. A system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
+
+![Finit State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)
+\*fig.15 -Finite State Machine *
+
+A state diagrams helps to represent the changes in the state of a washing machine.
+
+![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\*fig.16 -State Machine for a Washing Machine*
+
+### Sequence Diagrams
+
+UML Sequence Diagrams are **interaction diagrams** that detail how operations are carried out. They capture the interaction between objects in the context of a collaboration. Sequence Diagrams are **time focussed** and they show the order of the interaction visually by using the vertical axis of the diagram to represent time what messages are sent and when.
+
+-   This can be used to model the flow of logic in a system
+-   This is useful to see how the user interacts with the system
+-   How the data flows between different parts of the system
+-   These diagrams are often time focused with the vertical axis used to represent time
+
+![Sequence Diagram Symbols](images/seq-symbols.svg)
+*fig.12 - The main symbols in a Sequence Diagram*
+
+
+![Sequence Diagram Symbols](images/seq-pong.svg)
+*fig.13 - A Sequence Diagram of a game of 'Pong'*
+
+I have included this third-party video which will provide you with further insight into the purpose of sequence diagrams:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/pCK6prSq8aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tools for making UML
 
@@ -149,11 +188,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMz
-EyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAx
-LC0yMDU2NjI5MTU4LC0xODYzMzQ1NTc5LC0xNDc5OTI1MDc3LD
-ExNTE2Mjk1NDcsLTE0Mzk3ODcxNTIsMzk2MTA0MDk5LDEwMzEz
-Mjk2MzksLTgzMTAwNTYyNywxMDk3MTQwMjU1LC0xOTg1NjYxMT
-M5LC0xNjgwNTA4NDA2LC0zODk2NTc4ODQsNjYxMTUxMjcwLDMx
-NTAzNDU5MF19
+eyJoaXN0b3J5IjpbMTM1MDg0ODgyNywxMjUzNzEyMDUwLDM3OT
+U4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAy
+LC0yMDMxMjQ5NiwtMTYzNzU2NzM0MywtMTk2MzcyODc4LDY1OD
+MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
+NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
+wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
+NTY2MTEzOV19
 -->
