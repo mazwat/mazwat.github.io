@@ -159,10 +159,14 @@ A state diagrams helps to represent the changes in the state of a washing machin
 
 ### Sequence Diagrams
 
+UML Sequence Diagrams are **interaction diagrams** that detail how operations are carried out. They capture the interaction between objects in the context of a collaboration. Sequence Diagrams are **time focussed** and they show the order of the interaction visually by using the vertical axis of the diagram to represent time what messages are sent and when.
+
 -   This can be used to model the flow of logic in a system
 -   This is useful to see how the user interacts with the system
 -   How the data flows between different parts of the system
 -   These diagrams are often time focused with the vertical axis used to represent time
+
+
 
 I have included this third-party video which will provide you with further insight into the purpose of sequence diagrams:
 
@@ -179,11 +183,11 @@ There are many more you can use but these are some of the best.
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMT
-U4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYs
-LTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDEsLTIwNT
-Y2MjkxNTgsLTE4NjMzNDU1NzksLTE0Nzk5MjUwNzcsMTE1MTYy
-OTU0NywtMTQzOTc4NzE1MiwzOTYxMDQwOTksMTAzMTMyOTYzOS
-wtODMxMDA1NjI3LDEwOTcxNDAyNTUsLTE5ODU2NjExMzksLTE2
-ODA1MDg0MDZdfQ==
+eyJoaXN0b3J5IjpbLTM0ODEwMTI0NywxMjUzNzEyMDUwLDM3OT
+U4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5NjAy
+LC0yMDMxMjQ5NiwtMTYzNzU2NzM0MywtMTk2MzcyODc4LDY1OD
+MzNjkwMSwtMjA1NjYyOTE1OCwtMTg2MzM0NTU3OSwtMTQ3OTky
+NTA3NywxMTUxNjI5NTQ3LC0xNDM5Nzg3MTUyLDM5NjEwNDA5OS
+wxMDMxMzI5NjM5LC04MzEwMDU2MjcsMTA5NzE0MDI1NSwtMTk4
+NTY2MTEzOV19
 -->
