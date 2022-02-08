@@ -217,7 +217,7 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 
  - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is *zero to many* (**0..***). This is known as **multiplicity**. Conversely a specific weapon can only have a relationship with one enemy which is *one to one*, defined as (**1**). An association has a descripion of the relationship between the classes added to the line itself as in '**has a**' in the example. A character *has a* weapon.
  -  **Inheritance** - Like a family tree a child can inherit through a tree, tracing it's properites back to it's originating parent.
- - Implement is specific to Interfaces it means in the example that the **player** implements the **jumper** interface. All interfaces are preceeded by an I = **IJumper**
+ - Implement is specific to Interfaces it means in the example that the **Player** implements the **Jumper** interface. All interfaces are preceeded by an I therefore it is written**IJumper**. For more info on when to 
 
 ![Sequence Diagram Symbols](images/class-type-2.svg)
 *fig.21 - Class Diagram terms'*
@@ -252,11 +252,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzY0NDAyMCwtMTk2MjUzMzg1NywtMT
-I5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEz
-NzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0LD
-E0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYw
-MTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMsLT
-UxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA0MzQxOTUsLTE5NjI1MzM4NTcsLT
+EyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAx
+Mzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NC
+wxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2
+MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC
+01MTE1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEy
+NDk2XX0=
 -->
