@@ -196,6 +196,10 @@ It can also be used to model relationships between classes like:
 ![Sequence Diagram Symbols](images/class-terms.svg)
 *fig.19 - Class Diagram Terms'*
 
+In the above example we can see 3 examples of the the main symbols used in a class diagram:
+
+ 1. The first in the image above is a high level view of a class. A way to simply plot all the names of a c
+
 ![Sequence Diagram Symbols](images/class-type-1.svg)
 *fig.19 - Class Diagram Terms'*
 
@@ -233,11 +237,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04Nz
-AxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1
-NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOT
-k2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIz
-LC01MTE1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMz
-EyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAx
-XX0=
+eyJoaXN0b3J5IjpbMTk1Njk1OTA4NywtNTkwNDc2NTA3LDE1OT
+gyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4
+LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMD
+k5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1
+MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MT
+kxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3
+OF19
 -->
