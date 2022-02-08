@@ -226,13 +226,17 @@ Many of the above options are freemium. You may have a limited number of diagram
 {: .callout .callout--warning}
 
 ### Lecture - UML
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+#### Part 1
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTQzMzY2NSwxNTk4MjY3OTI4LC04Nz
-AxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1
-NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOT
-k2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIz
-LC01MTE1ODA0MTYsNTczNTgxNTY4LDExNTE5MTk2MDIsLTIwMz
-EyNDk2LC0xNjM3NTY3MzQzLC0xOTYzNzI4NzgsNjU4MzM2OTAx
-XX0=
+eyJoaXN0b3J5IjpbNDMxODI2NTExLDE1OTgyNjc5MjgsLTg3MD
+EzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0
+LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5MjgzMSwxODE5OT
+YwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMs
+LTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMT
+I0OTYsLTE2Mzc1NjczNDMsLTE5NjM3Mjg3OCw2NTgzMzY5MDFd
+fQ==
 -->
