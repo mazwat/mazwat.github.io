@@ -202,7 +202,7 @@ In the above example we can see 3 examples of the the main symbols used in a cla
  2. The **second** box includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
  3. The **third** box shows how to define an **interface** this is achieved by the use of a greater than or lesser than symbols in the title `<<interface>>`
  4. I have alos provided some **examples** of the class symbols with dummy content that could be applied to a game example.
- 5. 
+
 ![Sequence Diagram Symbols](images/class-arrows.svg)
 *fig.19 - Arrows Connecting Classes*
 
@@ -245,11 +245,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjgwMzQ2LC0xMjkyNTcxMDg3LC01OT
-A0NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMw
-OTYsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nz
-gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
-NywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3Mz
-U4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0
-M119
+eyJoaXN0b3J5IjpbLTI3MzY4MjAzNSwtMTI5MjU3MTA4NywtNT
+kwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYz
+MDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsOD
+c4MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4
+MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1Nz
+M1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1Njcz
+NDNdfQ==
 -->
