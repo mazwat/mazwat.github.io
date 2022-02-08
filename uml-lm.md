@@ -217,7 +217,7 @@ Boxes containing classes are joined by arrows which define the relationship betw
 
 The relationships between classes is explained in the above image. 
 
- - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is zero to many (**0..***). This is known as **multiplicity**. Conversely a specific weapon can only have a relationship with one enemy which is one to one, defined as (**1**). An association 
+ - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is zero to many (**0..***). This is known as **multiplicity**. Conversely a specific weapon can only have a relationship with one enemy which is one to one, defined as (**1**). An association has a descripion of the relationship between the classes added to the line itself as in 'has a' in the exampl
  - 
 
 ![Sequence Diagram Symbols](images/class-type-2.svg)
@@ -253,7 +253,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTk3MzU0OCwtMTk2MjUzMzg1NywtMT
+eyJoaXN0b3J5IjpbLTM5MTI3ODcwNiwtMTk2MjUzMzg1NywtMT
 I5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEz
 NzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0LD
 E0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYw
