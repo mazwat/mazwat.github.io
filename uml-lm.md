@@ -193,8 +193,10 @@ It can also be used to model relationships between classes like:
 - Inheritance  
 - Realisation/Implementation
 
+#### Defining Classes
+
 ![Sequence Diagram Symbols](images/class-terms.svg)
-*fig.19 - Class Diagram Terms*
+*fig.19 - Class Diagram Boxes*
 
 In the above example we can see 3 examples of the the main symbols used in a class diagram:
 
@@ -202,6 +204,8 @@ In the above example we can see 3 examples of the the main symbols used in a cla
  2. The **second** box includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
  3. The **third** box shows how to define an **interface** this is achieved by the use of a greater than or lesser than symbols in the title `<<interface>>`
  4. I have also provided some **examples** of the class symbols with dummy content that could be applied to a game example.
+
+#### Linking Classes Together
 
 ![Sequence Diagram Symbols](images/class-arrows.svg)
 *fig.19 - Arrows Connecting Classes*
@@ -245,7 +249,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MzY1Mzk3LC0xMjkyNTcxMDg3LC01OT
+eyJoaXN0b3J5IjpbMzA2MzQ4OTkxLC0xMjkyNTcxMDg3LC01OT
 A0NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMw
 OTYsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nz
 gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
