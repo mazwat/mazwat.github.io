@@ -198,7 +198,8 @@ It can also be used to model relationships between classes like:
 
 In the above example we can see 3 examples of the the main symbols used in a class diagram:
 
- 1. The first in the image above is a high level view of a class. A way to simply plot all the names of a c
+ 1. The first in the image above is a high level view of a class. A way to simply plot all the names of classes in a given system.
+ 2. The second image includes fields(variables) and the methods or operators in our class. You can see how 
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
 *fig.19 - Class Diagram Terms'*
@@ -237,7 +238,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Njk1OTA4NywtNTkwNDc2NTA3LDE1OT
+eyJoaXN0b3J5IjpbMTcxNzQ5NDA3MiwtNTkwNDc2NTA3LDE1OT
 gyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4
 LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMD
 k5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1
