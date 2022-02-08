@@ -194,14 +194,14 @@ It can also be used to model relationships between classes like:
 - Realisation/Implementation
 
 ![Sequence Diagram Symbols](images/class-terms.svg)
-*fig.19 - Class Diagram Terms'*
+*fig.19 - Class Diagram Terms*
 
 In the above example we can see 3 examples of the the main symbols used in a class diagram:
 
  1. The **first** box in the image above is a **high level view** of a class. A way to simply plot all the names of classes in a given system.
  2. The **second** box includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
  3. The **third** box shows how to write an **interface** this is defined by the use of greater than or lesser than symbols in the title `<<interface>>`
- 4. Underneath I have provided some examples of h
+ 4. Underneath I have provided some examples of the class symbols with dummy content that could be applied to a game example.
 
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
@@ -241,11 +241,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTU1ODE0MiwtMTI5MjU3MTA4NywtNT
-kwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYz
-MDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsOD
-c4MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4
-MjcsMTI1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1Nz
-M1ODE1NjgsMTE1MTkxOTYwMiwtMjAzMTI0OTYsLTE2Mzc1Njcz
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNDAyNTc3NzgsLTEyOTI1NzEwODcsLT
+U5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2
+MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLD
+g3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4
+ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNT
+czNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3
+MzQzXX0=
 -->
