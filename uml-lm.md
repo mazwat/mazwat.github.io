@@ -224,8 +224,11 @@ There are many more you can use but these are some of the best.
 
 Many of the above options are freemium. You may have a limited number of diagrams you can make or a time limit for use. Just be aware of the pay wall when using these tools.
 {: .callout .callout--warning}
+
+### Lecture - UML
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODY3MjM5OSwxNTk4MjY3OTI4LC04Nz
+eyJoaXN0b3J5IjpbMTA1MTQzMzY2NSwxNTk4MjY3OTI4LC04Nz
 AxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1
 NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOT
 k2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIz
