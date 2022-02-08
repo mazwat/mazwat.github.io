@@ -198,9 +198,11 @@ It can also be used to model relationships between classes like:
 
 In the above example we can see 3 examples of the the main symbols used in a class diagram:
 
- 1. The **first** example in the image above is a **high level view** of a class. A way to simply plot all the names of classes in a given system.
- 2. The **second** example includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
- 3. The **third** example shows how to write an **interface** this is defined by the use of greater than or lesser than symbols in the title **<<>>**
+ 1. The **first** box in the image above is a **high level view** of a class. A way to simply plot all the names of classes in a given system.
+ 2. The **second** box includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
+ 3. The **third** box shows how to write an **interface** this is defined by the use of greater than or lesser than symbols in the title `<<interface>>`
+ 4. Underneath I have provided some examples of h
+
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
 *fig.19 - Class Diagram Terms'*
@@ -239,7 +241,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTgyMTkzMCwtMTI5MjU3MTA4NywtNT
+eyJoaXN0b3J5IjpbMTg3NTU1ODE0MiwtMTI5MjU3MTA4NywtNT
 kwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYz
 MDk2LDc5NDkzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsOD
 c4MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4
