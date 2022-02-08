@@ -217,7 +217,8 @@ Boxes containing classes are joined by arrows which define the relationship betw
 
 The relationships between classes is explained in the above image. 
 
- - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is zero to many (
+ - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is zero to many (**0..***). Where a specific weapon can only have a relationship with one enemy which is one to one, defined as (**1**).
+ - 
 
 ![Sequence Diagram Symbols](images/class-type-2.svg)
 *fig.21 - Class Diagram terms'*
@@ -252,7 +253,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA0MzcxNzcsLTEyOTI1NzEwODcsLT
+eyJoaXN0b3J5IjpbLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLT
 U5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2
 MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLD
 g3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4
