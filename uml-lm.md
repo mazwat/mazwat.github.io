@@ -201,18 +201,19 @@ In the above example we can see 3 examples of the the main symbols used in a cla
  1. The **first** box in the image above is a **high level view** of a class. A way to simply plot all the names of classes in a given system.
  2. The **second** box includes **fields**(variables) and the **methods** or operators in our class. You can see how the **encapsulation** of these elements is defined by the prefix (**+**) for **public**, (**-**) for **private** and (**#**) for protected
  3. The **third** box shows how to define an **interface** this is achieved by the use of a greater than or lesser than symbols in the title `<<interface>>`
- 4. Underneath I have provided some examples of the class symbols with dummy content that could be applied to a game example.
+ 4. I have alos provided some **examples** of the class symbols with dummy content that could be applied to a game example.
  5. 
 ![Sequence Diagram Symbols](images/class-arrows.svg)
-*fig.21 - Arrows con*
+*fig.19 - Arrows Connecting Classes*
+
+Boxes containing classes are joined by arrows which define the relationship between the classes.
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
-*fig.19 - Class Diagram Terms'*
-
+*fig.20 - Class Diagram Terms'*
 
 
 ![Sequence Diagram Symbols](images/class-type-2.svg)
-*fig.20 - Class Diagram terms'*
+*fig.21 - Class Diagram terms'*
 
 
 
@@ -244,11 +245,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1NTAzMDAsLTEyOTI1NzEwODcsLT
-U5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2
-MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLD
-g3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4
-ODI3LDEyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNT
-czNTgxNTY4LDExNTE5MTk2MDIsLTIwMzEyNDk2LC0xNjM3NTY3
-MzQzXX0=
+eyJoaXN0b3J5IjpbLTczNjgwMzQ2LC0xMjkyNTcxMDg3LC01OT
+A0NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMw
+OTYsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nz
+gwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgy
+NywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3Mz
+U4MTU2OCwxMTUxOTE5NjAyLC0yMDMxMjQ5NiwtMTYzNzU2NzM0
+M119
 -->
