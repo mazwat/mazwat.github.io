@@ -48,7 +48,7 @@ Write a **1 page proposal** for a novel game/experience and control system:
 
 You should have a **completed proposal** that meets all the requirements above and in **Assignment 2** on the workspace. Please ensure you have a version to share with you programming tutor this week.
 
-This should be submitted at **5pm GMT Firday 11th February**.
+This should be commited and pushed to your repo at **5pm GMT Firday 11th February**.
 
 ## Ideation Techniques
 
@@ -70,7 +70,7 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjIyMjU0MSwxMDUwOTYwMzY4LC0xMD
+eyJoaXN0b3J5IjpbMjA5NjUzNzk3OCwxMDUwOTYwMzY4LC0xMD
 UyNzQ1NjE2LDEyMzY1ODMzMDQsLTc1NjgxMjY5MCwxMDU1OTg5
 NDA4LDExMzM3MDczNzQsLTU0MTU3NTIzNF19
 -->
