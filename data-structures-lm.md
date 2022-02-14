@@ -43,7 +43,7 @@ One of the ways we make our code efficient is by deciding how to search for a si
 
 |  |  |  | 
 |--|--|--|--|--|--|--|--|--|--|
-| X | X | X |  X|  |  |  |  |  |  |
+|X|X|X|X|X|X|X|X|X|X|
 The best case for finding the data is 1 iteration
 
 The Worst case: 100 iterations
@@ -55,6 +55,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM3MzEyOTMsLTMxNTc3MDMwMCwxNz
-Q3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3ND
+cxNTIxMzQsNTg5MDM3Mjk4XX0=
 -->
