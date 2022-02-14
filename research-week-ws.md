@@ -61,9 +61,11 @@ We will explore the use of UML in a later session but for now try out the basics
 As you have a week free of taught sessions take this as an important opportunity to start researching the **components** that you need for your custom robot, controller or control system and start the process of rapid prototyping. Things to consider:
 
  1. Physical systems don't always behave the way you think they do. 
- 2. Start building mockups using components to see what signal data (analogue) 
+ 2. Start building mockups using components to see what signal data you are recieving from a sensor and if it corresponds to what you wer expecting
+ 3. Are your actuators - motors, servos,LCD screens or Unity game object behaviours working as expected.
+ 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTQzMDI4MSwtMjA3NDAwNzAzOSwtNj
+eyJoaXN0b3J5IjpbLTQ3ODczNzIyNSwtMjA3NDAwNzAzOSwtNj
 M3NTUyMjAyXX0=
 -->
