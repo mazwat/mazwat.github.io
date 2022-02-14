@@ -48,7 +48,7 @@ How we want to define our code is based on two simple premises: **Simplicity** a
 One of the ways to make our code efficient is by optimising the search for data within a data set.
 Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
-| <!-- -->  | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+| | | | | | | | | | |
 |---|:-:|---|---|---|---|---|---|---|---|
 |X|X|X|X|X|X|X|X|X|X|
 |X|X|X|X|X|X|X|X|X|X|
@@ -73,7 +73,7 @@ $$0(N)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDg2MjM4NiwtMTI1NDc3MTE4LC03Mz
+eyJoaXN0b3J5IjpbMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03Mz
 Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
 OF19
 -->
