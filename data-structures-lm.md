@@ -117,9 +117,11 @@ END PROCEDURE
 ```
 **Graph**
 ----ADD GRAPH IMAGE----
+
+$O(N2)$ represents an algorithm whose performance is directly proportional to the square of the size of the data set. Algorithms which are based on nested loops are more likely to have a quadratic $O(N2)$ and so are 2 dimensional arrays like the one above. Where we are plotting the grid of a chessboard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTUzOTk4MiwtNDM1MTE3MTQ2LC0xND
-Y2MDM0NjQ2LDQ0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0Nzcx
-MTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNT
-g5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE1ODEyODcyODIsLTQzNTExNzE0NiwtMT
+Q2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3
+MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LD
+U4OTAzNzI5OF19
 -->
