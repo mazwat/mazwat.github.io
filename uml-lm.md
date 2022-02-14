@@ -59,7 +59,7 @@ UML can be divided into **2 types**:
 – Describes what is contained in the system
 – Typically used to model the system
 
-### The Complete list of UML diagrams
+### The Complete list of UML diagram types
 
 | Behavioural  | Structural |
 |--|--|
@@ -71,7 +71,7 @@ UML can be divided into **2 types**:
 | Interaction Overview | Profile |
 |Timing | Composite Structure |
 
-The ones in bold are the diagrams we are going to explore during the lecture. They constitute the diagrams you will find the most useful in COMP140. But feel free to do further research on the o
+The ones in bold are the diagrams we are going to explore during the lecture. They constitute the diagrams you will find the most useful in COMP140. But feel free to do further research on the the other types
 
 ## Behavioural Diagrams
 
@@ -224,7 +224,7 @@ In the above example we can see 3 examples of the the main symbols used in a cla
 ![Sequence Diagram Symbols](images/class-arrows.svg)
 *fig.19 - Arrows Connecting Classes*
 
-Boxes containing classes are joined by arrows which declare the relationship between the classes. Each ending to an arrow defines a specific relationship.
+Boxes containing classes are joined by arrows which declare the relationship between the classes. Each ending to an arrow defines a specific relationship. See above for the p
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
 *fig.20 - Class Diagram Terms'*
@@ -265,11 +265,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNzc4NTM0LC0xNjA2MzE4OTM3LC0xOT
-YyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1MDcsMTU5ODI2
-NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYsNzk0OTMyMDgsLT
-E4NzA1NzUyNTQsMTQzMTg5ODU0Miw4NzgwNzEzMSwtNTAwOTky
-ODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNywxMjUzNzEyMDUwLD
-M3OTU4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5
-NjAyXX0=
+eyJoaXN0b3J5IjpbLTUyNzc5MTQxNSwtMTYwNjMxODkzNywtMT
+k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
+Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
+0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
+MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MC
+wzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkx
+OTYwMl19
 -->
