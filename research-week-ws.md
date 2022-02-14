@@ -69,9 +69,9 @@ Archie has provided this video to cover the elements we didn't get round to in t
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/x5ZUvXkvch0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For the majority of you Uduino will play a vital role in your project so familirasing yourself with it's methods at this stage is essential.
+For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY2Nzc5MTgsLTIwNzQwMDcwMzksLT
-YzNzU1MjIwMl19
+eyJoaXN0b3J5IjpbLTYwMjU5MTAwNCwtMjA2NjY3NzkxOCwtMj
+A3NDAwNzAzOSwtNjM3NTUyMjAyXX0=
 -->
