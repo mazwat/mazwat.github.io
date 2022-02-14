@@ -68,12 +68,12 @@ Big ‘O’ is always based on worse case scenario.
 - Therefore **N records** would take **N iterations**.
 - This can be written like this:
 
-$0(N)$
+$$0(N)$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDU4NzgyMCwtMTI1NDc3MTE4LC03Mz
+eyJoaXN0b3J5IjpbLTk5NDg2MjM4NiwtMTI1NDc3MTE4LC03Mz
 Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
 OF19
 -->
