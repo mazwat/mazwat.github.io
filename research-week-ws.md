@@ -36,8 +36,8 @@ Based on your insight into SOLID with specific reference to: Single Responsibili
 ![Mario Screenshot](images/mario.jpg)
 *Attribution: A screenshot from Nintendo's 1985 classic video game Super Mario Bros.*
 
-You are not designing Mario, but you are using this as template.
-
+You are not designing Mario, but you are using this as a template for the kind of game. Essentially it should be a 2D sprite based side scrolling platform game.
+ 
 1.  Develop a **design specification document** for your game. Break down all the key functionality into encapsulated classes. You should design the key classes and relationships that would be in the platformer:
 	- We are not expecting you to use any formal notation at this stage but we expect you to create a diagram that represents an overview of all the relationships. 
 	- Think about the classes, variables and functions that will support the game
@@ -59,10 +59,10 @@ We will explore the use of UML in a later session but for now try out the basics
 
 ## Research
 
-As you have a week free of taught sessions take this as an important opportunity to start reseatch
+As you have a week free of taught sessions take this as an important opportunity to start reseatching the components that you need for your custom robot, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI3Mjk5NzMsLTIwNzQwMDcwMzksLT
+eyJoaXN0b3J5IjpbLTE0MDU0Mzg5ODIsLTIwNzQwMDcwMzksLT
 YzNzU1MjIwMl19
 -->
