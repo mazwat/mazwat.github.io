@@ -43,8 +43,8 @@ One of the ways we make our code efficient is by deciding how to search for a si
 
 | <!-- -->  | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|:-:|---|---|---|---|---|---|---|---|
-| X | X | X | X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X | X | X | X |
+|X|X|X|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|X|X| X |
 | X | X | X | X | X | X | **0** | X | X | X |
 | X | X | X | X | X | X | X | X | X | X |
 | X | X | X | X | X | X | X | X | X | X |
@@ -62,6 +62,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTQwMTA3MiwtNzM0NzU4NjI5LC0zMT
-U3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIwMzc5NTIsLTczNDc1ODYyOSwtMz
+E1NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX0=
 -->
