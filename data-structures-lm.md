@@ -72,12 +72,12 @@ $$0(N)$$
 
 **Performance** is represented by the **O** and the **N** represents **execution time or space used** - Hence the term Big ‘O’.
 
-Examples in Pse
+## Different Notation in Big 'O'
 
-
+The prevou
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDI3NTQ1NSwxNTYxMzA5MDYwLC0xMj
-U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
-MzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbODIxOTMzNCwxNTYxMzA5MDYwLC0xMjU0Nz
+cxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQs
+NTg5MDM3Mjk4XX0=
 -->
