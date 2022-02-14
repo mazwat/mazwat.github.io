@@ -74,24 +74,20 @@ $$0(N)$$
 
 ## Different Notation in Big 'O'
 
-The previous example can be described using both pseudo code and and a graph
+The previous example can be described using both **pseudo code** and and a **graph**
 
 ```c#
-FUNCTION  linearSearch(list,  value)
-	FOR  EACH  element IN  list
-		IF  (element == value)
-			RETURN  true
-		END  IF
-			NEXT
-		RETURN  false
-END  FUNCTION
-``
-
-
-
-
+FUNCTION  linearSearch(list, value)
+	FOR EACH element IN list
+		IF (element == value)
+			RETURN true
+		END IF
+	NEXT
+		RETURN false
+END FUNCTION
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzc1NTQxMSwxNTYxMzA5MDYwLC0xMj
-U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
-MzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbNTA4ODAzOTczLDE1NjEzMDkwNjAsLTEyNT
+Q3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEz
+NCw1ODkwMzcyOThdfQ==
 -->
