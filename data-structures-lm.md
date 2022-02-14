@@ -41,7 +41,7 @@ How we want to define our code is based on two simple premises: **Simplicity** a
 
 One of the ways we make our code efficient is by deciding how to search for a single poitn of data in a data set. of 100 items, In a data set of 100 items, you are searching for an ‘O’ amongst ‘X’s
 
-| X | X | X | X | X | X | X | X | X | X |
+| <!-- -->  | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|:-:|---|---|---|---|---|---|---|---|
 | X | X | X | X | X | X | X | X | X | X |
 | X | X | X | X | X | X | X | X | X | X |
@@ -63,6 +63,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNjA1MjQzLC03MzQ3NTg2MjksLTMxNT
-c3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbMjEzNjE5MjY0NSwtNzM0NzU4NjI5LC0zMT
+U3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
