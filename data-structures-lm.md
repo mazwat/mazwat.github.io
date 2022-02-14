@@ -20,9 +20,9 @@ page_nav:
     prev:
         content: UML
         url: '../uml-lm'
-    next:
+    <!---next:
         content: Design Patterns
-        url: '../design-patterns-lm'
+        url: '../design-patterns-lm'-->
 ---
 
 # Data Structures
@@ -39,7 +39,7 @@ Bill Gates
 
 How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**.
 
-### What is Big 'O'
+### What is Big 'O'?
 
 -   The efficiency of an algorithm can be gauged by how long it takes
 -   This is known as *Time Complexity*
@@ -66,13 +66,14 @@ The **worst case** is a **100 iterations**
 Big ‘O’ is always based on worse case scenario. 
 Therefore **100 records** would take **100 iterations**
 **N records** would take **N iterations**.
+This can be written like this:
 
 $$0(N)$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjYxNjM0OSwtMTI1NDc3MTE4LC03Mz
-Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
-OF19
+eyJoaXN0b3J5IjpbMTIxNDA5OTEsLTEyNTQ3NzExOCwtNzM0Nz
+U4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThd
+fQ==
 -->
