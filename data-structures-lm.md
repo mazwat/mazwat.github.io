@@ -70,10 +70,14 @@ Big ‘O’ is always based on worse case scenario.
 
 $$0(N)$$
 
+**Performance** is represented by the **O** and the **N** represents **execution time or space used** - Hence the term Big ‘O’.
+
+Examples in Pse
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03Mz
-Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
-OF19
+eyJoaXN0b3J5IjpbLTIyMDI3NTQ1NSwxNTYxMzA5MDYwLC0xMj
+U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
+MzQsNTg5MDM3Mjk4XX0=
 -->
