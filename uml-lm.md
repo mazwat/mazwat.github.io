@@ -63,9 +63,9 @@ UML can be divided into **2 types**:
 
 | Behavioural  | Structural |
 |--|--|
-| Use Case | Class | 
-| Activity | Component |
-| State Machine | Deployment |
+| *Use Case** | *Class** | 
+| *Activity* | Component |
+| *State* | Deployment |
 | Sequence | Object |
 | Communication | Package |
 | Interaction Overview | Profile |
@@ -266,11 +266,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTEwNTA3MSwtMTYwNjMxODkzNywtMT
-k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
-Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
-0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
-MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MC
-wzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkx
-OTYwMl19
+eyJoaXN0b3J5IjpbOTkwNTUwOTUwLC0xNjA2MzE4OTM3LC0xOT
+YyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1MDcsMTU5ODI2
+NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYsNzk0OTMyMDgsLT
+E4NzA1NzUyNTQsMTQzMTg5ODU0Miw4NzgwNzEzMSwtNTAwOTky
+ODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNywxMjUzNzEyMDUwLD
+M3OTU4MTAyMywtNTExNTgwNDE2LDU3MzU4MTU2OCwxMTUxOTE5
+NjAyXX0=
 -->
