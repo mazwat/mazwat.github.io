@@ -76,7 +76,7 @@ $$0(N)$$
 
 The previous example can be described using both **pseudo code** and and a **graph**
 
-### Linear Notatation - $$Linear Notation - 0(N)$$
+### Linear Notatation - $$0(N)$$
 
 **Pseudo Code**
 ```c#
@@ -92,7 +92,7 @@ END FUNCTION
 **Graph**
 ----ADD GRAPH IMAGE----
 
-### Linear Notatation - $0(1)$
+### Constant Notation - $$0(1)$$
 **Pseudo Code**
 ```c#
 FUNCTION getFirstElement(list)
@@ -102,7 +102,7 @@ END FUNCTION
 **Graph**
 ----ADD GRAPH IMAGE----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzYxODUwNiwxNTYxMzA5MDYwLC0xMj
+eyJoaXN0b3J5IjpbLTkyNDkxNDY0NCwxNTYxMzA5MDYwLC0xMj
 U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
 MzQsNTg5MDM3Mjk4XX0=
 -->
