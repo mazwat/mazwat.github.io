@@ -96,7 +96,7 @@ The constant notation describes an algorithm that will always execute in the sam
 
 #### Hashing Tables
 
-A hashing algorithm is an O(1) algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
+A hashing algorithm is an $$0(1)$$ algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
 
 ----ADD HASH IMAGE----
 
@@ -137,8 +137,8 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xND
-Y2MDM0NjQ2LDQ0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0Nzcx
-MTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNT
-g5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00Mz
+UxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkw
+NjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMT
+c0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
