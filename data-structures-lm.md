@@ -34,9 +34,13 @@ page_nav:
 
 ## Big 'O" Notation
 
-“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”
+*“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”*
 Bill Gates
+
+How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**
+
+These can be measured used
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzQ5NDI3OSwtMzE1NzcwMzAwLDE3ND
-cxNTIxMzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTEyNzIyMDI1NzksLTMxNTc3MDMwMCwxNz
+Q3MTUyMTM0LDU4OTAzNzI5OF19
 -->
