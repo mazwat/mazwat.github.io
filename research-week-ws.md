@@ -40,13 +40,11 @@ Based on your insight into SOLID with specific reference to: Single Responsibili
 You are not designing Mario, but you are using this as template.
 
 1.  Develop a **design specification document** for your game. Break down all the key functionality into encapsulated classes. You should design the key classes and relationships that would be in the platformer:
-
+2. 
 	- We are not expecting you to use any formal notation at this stage but we expect you to create a diagram that represents an overview of all the relationships. 
 	
 We will explore the use of UML in a later session but for now try out the basics here at [diagrams.net](http://diagrams.net)
-{: .callout .callout--info}
-
-	- Please think about the classes, variables and functions that will support the game
+{: .callout .callout--info}Think about the classes, variables and functions that will support the game
 
 3.  Develop a basic prototype of your game (one level) in Unity that uses the specification outlined in the document.
 	- Your game should employ the class structure and hierarchy from your document.
@@ -66,5 +64,5 @@ RESEARCH
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzM2NDI5M119
+eyJoaXN0b3J5IjpbLTgwNzQ5MzkzMF19
 -->
