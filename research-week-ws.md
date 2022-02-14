@@ -47,15 +47,15 @@ You are not designing Mario, but you are using this as template.
 4.  Develop a basic prototype of your game (one level) in Unity that uses the specification outlined in the document.
 
 5.  Your game should employ the class structure and hierarchy from your document.
-6.  Please use the following assets (see below) in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
+6.  Use the following assets (see below) in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
 
 7.  Deliverables for week 5 workshop:
-	8.  A document that plots the relationship between your classes
-8.  You should bring a working game in Unity to the workshop where you can demonstrate the construction of your classes and objects in your game to the group.
+	- A **document** that plots the relationship between your classes
+	- You should bring a **working game in Unity to the workshop** where you can demonstrate the construction of your classes and objects in your game to the group.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDYwNDYxM119
+eyJoaXN0b3J5IjpbMjI4MzY3OTkxXX0=
 -->
