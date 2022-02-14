@@ -63,9 +63,9 @@ As you have a week free of taught sessions take this as an important opportunity
  1. Physical systems don't always behave the way you think they do. 
  2. Start building mockups using components to see what signal data you are recieving from a sensor and if it corresponds to what you wer expecting
  3. Are your actuators - motors, servos,LCD screens or Unity game object behaviours working as expected.
- 4. 
+ 4. Mock up some analogue sensors to stand in for your game or experience inputs a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODczNzIyNSwtMjA3NDAwNzAzOSwtNj
-M3NTUyMjAyXX0=
+eyJoaXN0b3J5IjpbNDk0NDIxNjA2LC0yMDc0MDA3MDM5LC02Mz
+c1NTIyMDJdfQ==
 -->
