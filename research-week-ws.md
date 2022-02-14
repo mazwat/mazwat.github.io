@@ -65,13 +65,13 @@ As you have a week free of taught sessions take this as an important opportunity
  3. Are your **actuators** - motors, servos, LCD screens or Unity game object behaviours working as expected.
  4. Mock up some analogue sensors to stand in for your game or experience inputs and see how they work over a serial connction using **Uduino** and test some of your initial preconceptions.
 
-Archie has provided this video to cover the elemetns we didn't get round to in the workshop last week:
+Archie has provided this video to cover the elements we didn't get round to in the workshop last week:
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/x5ZUvXkvch0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For the majority of you Uduino will play a vital role in your project so familirasing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzgyMDk4LC0yMDc0MDA3MDM5LC02Mz
-c1NTIyMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNjY2Nzc5MTgsLTIwNzQwMDcwMzksLT
+YzNzU1MjIwMl19
 -->
