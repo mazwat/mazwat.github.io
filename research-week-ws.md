@@ -48,19 +48,19 @@ We will explore the use of UML in a later session but for now try out the basics
 	- Your game should employ the class structure and hierarchy from your document.
 	- Use the following assets (see below) in your game - [Kenney Assets](https://kenney.nl/assets?s=platformer)
 
-![Mario Screenshot](images/mario.jpg)
-*Attribution: A screenshot from Nintendo's 1985 classic video game Super Mario Bros.*
+![Kenney Assets](images/kenney.png)
+*Screenshot of Kenney Assets available on Unity Asset Store .*
 
 5.  Deliverables for week 5 workshop:
 	- A **document** that plots the relationship between your classes
 	- You should bring a **working game in Unity to the workshop** where you can demonstrate the construction of your classes and objects in your game to the group.
 
 
-RES
+RESEARCH
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjkxODMzMF19
+eyJoaXN0b3J5IjpbLTEyNzcwODE3NzJdfQ==
 -->
