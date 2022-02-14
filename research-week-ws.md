@@ -17,9 +17,12 @@ micro_nav: true
 
 # Page navigation
 page_nav:
+    prev:
+        content: OOP
+        url: '../oop-ws'
     next:
-        content: Software Architecture
-        url: '../software-architecture-ws'
+        content: UML
+        url: '../uml-ws'
 ---
 
 # Research Week
@@ -63,5 +66,5 @@ We will explore the use of UML in a later session but for now try out the basics
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjExODIxMDEsLTYzNzU1MjIwMl19
+eyJoaXN0b3J5IjpbLTgwNTU4MjA3OSwtNjM3NTUyMjAyXX0=
 -->
