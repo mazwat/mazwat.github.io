@@ -48,10 +48,10 @@ One of the ways we make our code efficient is by deciding how to search for a si
 |X|X|X|X|X|X|**0**|X|X|X|
 |X|X|X|X|X|X|X|X|X|X|
 |X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X| X | X | X | X | X |
-| X | X | X | X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X | X | X | X |
+|X|X|X|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|X|X|X|
 
 The best case for finding the data is 1 iterationThe Worst case: 100 iterations
 
@@ -62,6 +62,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMDI3MDU2LC03MzQ3NTg2MjksLTMxNT
-c3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbMTc1ODgyNzgwOCwtNzM0NzU4NjI5LC0zMT
+U3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
