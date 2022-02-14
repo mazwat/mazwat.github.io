@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Research Worksheet - Week 4
+title: COMP140 - Worksheet - Week 4
 
 # Author box
 author:
@@ -63,5 +63,5 @@ We will explore the use of UML in a later session but for now try out the basics
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTQ2OTM0OCwtNjM3NTUyMjAyXX0=
+eyJoaXN0b3J5IjpbLTExNjExODIxMDEsLTYzNzU1MjIwMl19
 -->
