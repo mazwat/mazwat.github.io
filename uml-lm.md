@@ -238,10 +238,12 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 
 - A **dependency** is a relationship between two or more objects in which an object depends on the other object or objects for its implementation. If one of these objects change, the other object(s) can be impacted. The dependency relationship between two or more objects is depicted in UML using dashed arrows. In other words, when a dependency relationship exists between two or more objects, the object needs to know about the other object(s) which it depends on.
 - An **aggregate** is the relationship of a subordinate class to its principle one. A parent child relationship. This has a relationship number. So a tank in the above example has 1 turret and 2 tracks.
-- A **composition** is a special case of association that describes a relationship between a whole and its existential parts. Put simply, in a composition, a part can never be larger than the whole. IN the example: The village is composed of villagers and a werewolf. But the villager can never contain a village
+- A **composition** is a special case of association that describes a relationship between a whole and its existential parts. Put simply, in a composition, a part can never be larger than the whole. In the example: the village is composed of villagers and a werewolf. But the villager can never contain a village.
 
 ![Sequence Diagram Symbols](images/class-mario.svg)
 *fig.22 - A Sequence Diagram of a game of Super Mario Brothers*
+
+The above example demonstrates how all the previous elements can be brought together to represent an entire game and it's objects relationships.
 
 **You may find the examples above of class diagrams difficult to read. You can view them in more detail on Lucid Chart here [here.](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)**
 
@@ -268,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjcxNTkwLC0zOTIwMDM0NjAsLTE2MD
-YzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3
-NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Ni
-w3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3ODA3
-MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4ODI3LD
-EyNTM3MTIwNTAsMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNTgx
-NTY4XX0=
+eyJoaXN0b3J5IjpbMTM3NDY5NDg5NSwtMzkyMDAzNDYwLC0xNj
+A2MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0
+NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOT
+YsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nzgw
+NzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNy
+wxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3MzU4
+MTU2OF19
 -->
