@@ -33,8 +33,8 @@ EXERCISE
 
 Based on your insight into SOLID with specific reference to: Single Responsibility Principle, Open Closed Principle and Liskov Substitution principle work in teams of 3-5 to design and develop a platformer based on the following image
 
-----
-
+![Mario Screenshot](images/mario.jpg)
+*Attribution: A screenshot from Nintendo's 1985 classic video game Super Mario Bros.*
 
 You are not designing Mario, but you are using this as template.
 
@@ -53,8 +53,11 @@ We will explore the use of UML in a later session but for now try out the basics
 	- You should bring a **working game in Unity to the workshop** where you can demonstrate the construction of your classes and objects in your game to the group.
 
 
+RES
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIwMzU0OTBdfQ==
+eyJoaXN0b3J5IjpbMTA5ODA1NzAwOF19
 -->
