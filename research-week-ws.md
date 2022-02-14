@@ -62,9 +62,9 @@ We will explore the use of UML in a later session but for now try out the basics
 
 ## Research
 
-
+As you have a week free of taught sessions take this as an important opportunity to start reseatch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTU4MjA3OSwtNjM3NTUyMjAyXX0=
+eyJoaXN0b3J5IjpbLTIwNzQwMDcwMzksLTYzNzU1MjIwMl19
 -->
