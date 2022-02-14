@@ -63,13 +63,19 @@ UML can be divided into **2 types**:
 
 | Behavioural  | Structural |
 |--|--|
-| Class |  | 
-| Component |  |
-| Deployment |  |
-| Object |  |
-| Package |  |
-| Profile |  |
-| Composite Structure |  |
+| Use Case
+
+State Machine Diagram
+Sequence Diagram
+Communication Diagram
+Interaction Overview Diagram
+Timing Diagram | Class | 
+|  | Component |
+|  | Deployment |
+|  | Object |
+|  | Package |
+|  | Profile |
+| | Composite Structure |
 
 
 
@@ -266,7 +272,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY3OTU2MjcsLTE2MDYzMTg5MzcsLT
+eyJoaXN0b3J5IjpbLTE1Mzg4NTU0NjcsLTE2MDYzMTg5MzcsLT
 E5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4
 MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOC
 wtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5
