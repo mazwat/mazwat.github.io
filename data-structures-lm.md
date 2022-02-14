@@ -26,7 +26,17 @@ page_nav:
 ---
 
 # Data Structures
+
+-   In programming we have the concept of reusable data structures which can be used to build applications
+-   These can be used in order to build larger systems (e.g. Inventory Systems, AI Navigation etc)
+-   Most programming languages have these built in
+-   Before writing any system you should always examine these data structures and pick the appropriate one for your Use Case
+
+## Big 'O" Notation
+
+“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”
+Bill Gates
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OT
-AzNzI5OF19
+eyJoaXN0b3J5IjpbLTY3MzQ5NDI3OSwtMzE1NzcwMzAwLDE3ND
+cxNTIxMzQsNTg5MDM3Mjk4XX0=
 -->
