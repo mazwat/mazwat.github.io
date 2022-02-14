@@ -104,7 +104,7 @@ A hash table locates the actual data at an address called an index that is alway
 
 A bit like a book in a library its location is always known because of it’s numbering system. It resides at a fixed location no matter if the book is replaced with a newer copy. No sorting is required.
 
-### Polynomial 	 Notation - $$0(N^2)$$
+### Polynomial 	Notation - $$0(N^2)$$
 **Pseudo Code**
 ```c#
 PROCEDURE emptyChessboardGrid()
@@ -120,22 +120,22 @@ END PROCEDURE
 
 $O(N2)$ represents an algorithm whose performance is directly proportional to the square of the size of the data set. Algorithms which are based on nested loops are more likely to have a quadratic $O(N2)$ and so are 2 dimensional arrays like the one above. Where we are plotting the grid of a chessboard.
 
-### Expone 	 Notation - $$0(N^2)$$
+### Exponential Notation - $$0(2^N)$$
 **Pseudo Code**
 ```c#
-PROCEDURE emptyChessboardGrid()
-	FOR row FROM 0 to 7
-		FOR col FROM 0 to 7
-			grid[row][col] = 0
-		NEXT col
-	NEXT row
-END PROCEDURE
+FUNCTION  fibonacci(number)
+	IF  (number <= 1)
+		RETURN  number
+	END  IF
+	RETURN fibonacci(number - 2) + fibonacci(number -  1)
+END FUNCTION
 ```
 **Graph**
 ----ADD GRAPH IMAGE----
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk4MjA1MjUsLTQzNTExNzE0NiwtMT
-Q2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3
-MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LD
-U4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbMTIwODYzMDI1MCwtNDM1MTE3MTQ2LC0xND
+Y2MDM0NjQ2LDQ0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0Nzcx
+MTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNT
+g5MDM3Mjk4XX0=
 -->
