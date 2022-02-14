@@ -186,6 +186,8 @@ UML Sequence Diagrams are **interaction diagrams** that detail how operations ar
 ![Sequence Diagram Symbols](images/seq-pong.svg)
 *fig.18 - A Sequence Diagram of a game of 'Pong'*
 
+https://lucid.app/lucidchart/fac64dc6-0ce8-4668-8795-37a7d171b8eb/edit?viewport_loc=-91%2C3%2C3321%2C1707%2CmzncGjuS.pNx&invitationId=inv_bdfd44db-f99f-42cc-a259-3aed2cf6836a
+
 I have included this third-party video which will provide you with further insight into the purpose of sequence diagrams:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pCK6prSq8aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -268,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2OD
-M2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4
-NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC
-04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3
-NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMT
-gxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgx
-MDIzXX0=
+eyJoaXN0b3J5IjpbLTE2MDM0ODg3NzYsMTA2NTU5NDk3MSwtOT
+g5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMTg5
+MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNy
+wxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5
+MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC
+01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNTM3
+MTIwNTBdfQ==
 -->
