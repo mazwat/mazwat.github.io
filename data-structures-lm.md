@@ -76,8 +76,9 @@ $$0(N)$$
 
 The previous example can be described using both **pseudo code** and and a **graph**
 
-### Constant Notatation - $0(N)$
+### Linear Notatation - $0(N)$
 
+**Pseudo Code**
 ```c#
 FUNCTION  linearSearch(list, value)
 	FOR EACH element IN list
@@ -88,8 +89,12 @@ FUNCTION  linearSearch(list, value)
 		RETURN false
 END FUNCTION
 ```
+**Graph**
+----ADD GRAPH IMAGE----
+
+### Linear Notatation - $0(N)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTczNjkzMywxNTYxMzA5MDYwLC0xMj
+eyJoaXN0b3J5IjpbMTI4OTk1ODY5NCwxNTYxMzA5MDYwLC0xMj
 U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
 MzQsNTg5MDM3Mjk4XX0=
 -->
