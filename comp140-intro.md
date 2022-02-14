@@ -26,11 +26,12 @@ page_nav: false
 
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
+#### 3 - [Research Week](../research-week-ws "Research Week")
 <!---#### 3 - [Unified Markup Language (UML)](../uml-ws "UML")-->
 <!---#### 4 - [Data Structures](../data-ws "Data Structures") -->
 <!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
 
-# Research Challenges
+# Proposal Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
@@ -48,7 +49,7 @@ page_nav: false
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg2OTk0NzQsLTM1MDIzODc2NCwtMj
-I0MDcwNTUxLC0xNTAwOTUzMDc4LC0yMDY5NzAxNDI5LC02OTU3
-MTg4MzksLTg4MzQ5NzcyMV19
+eyJoaXN0b3J5IjpbLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMz
+UwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3
+MDE0MjksLTY5NTcxODgzOSwtODgzNDk3NzIxXX0=
 -->
