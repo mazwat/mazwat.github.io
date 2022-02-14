@@ -76,27 +76,22 @@ $$0(N)$$
 
 The previous example can be described using both pseudo code and and a graph
 
+```c#
 FUNCTION  linearSearch(list,  value)
-
-FOR  EACH  element IN  list
-
-IF  (element == value)
-
-RETURN  true
-
-END  IF
-
-NEXT
-
-RETURN  false
-
+	FOR  EACH  element IN  list
+		IF  (element == value)
+			RETURN  true
+		END  IF
+			NEXT
+		RETURN  false
 END  FUNCTION
+``
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5NzkwMTMzLDE1NjEzMDkwNjAsLTEyNT
-Q3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEz
-NCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTgzMzc1NTQxMSwxNTYxMzA5MDYwLC0xMj
+U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
+MzQsNTg5MDM3Mjk4XX0=
 -->
