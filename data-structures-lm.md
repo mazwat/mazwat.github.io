@@ -32,7 +32,7 @@ page_nav:
 -   Most programming languages have these built in
 -   Before writing any system you should always examine these data structures and pick the appropriate one for your Use Case
 
-## Big 'O Notation
+## Big 'O' Notation
 
 *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”*
 Bill Gates
@@ -62,6 +62,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MzMwNTA1LC03MzQ3NTg2MjksLTMxNT
-c3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbLTUzNTQwMTA3MiwtNzM0NzU4NjI5LC0zMT
+U3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
