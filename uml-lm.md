@@ -231,17 +231,18 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 
  - **Association** - An enemy can have a weapon or not and it can have multiple so it's relationship is *zero to many* (**0..***). This is known as **multiplicity**. Conversely a specific weapon can only have a relationship with one enemy which is *one to one*, defined as (**1**). An association has a descripion of the relationship between the classes added to the line itself as in '**has a**' in the example. A character *has a* weapon.
  -  **Inheritance** - Like a family tree a child can inherit through a tree, tracing it's properites back to it's originating parent.
- - Implement is specific to Interfaces it means in the example that the **Player** implements the **Jumper** interface. All interfaces are preceeded by an "*I*" therefore it is written **IJumper**. For more info on when to use interfaces refer to the materials on **composition** in [Object Oriented Programming](../oop-lm).
+ - **Implement** is specific to Interfaces it means in the example that the **Player** implements the **Jumper** interface. All interfaces are preceeded by an "*I*" therefore it is written **IJumper**. For more info on when to use interfaces refer to the materials on **composition** in [Object Oriented Programming](../oop-lm).
 
 ![Sequence Diagram Symbols](images/class-type-2.svg)
 *fig.21 - Class Diagram terms'*
 
-A dependency is a relationship between two or more objects in which an object depends on the other object or objects for its implementation. If one of these objects change, the other object(s) can be impacted. The dependency relationship between two or more objects is depicted in UML using dashed arrows. In other words, when a dependency relationship exists between two or more objects, the object needs to know about the other object(s) which it depends on.
+- A **dependency** is a relationship between two or more objects in which an object depends on the other object or objects for its implementation. If one of these objects change, the other object(s) can be impacted. The dependency relationship between two or more objects is depicted in UML using dashed arrows. In other words, when a dependency relationship exists between two or more objects, the object needs to know about the other object(s) which it depends on.
+- 
 
 ![Sequence Diagram Symbols](images/class-pong.svg)
 *fig.22 - A Sequence Diagram of a game of 'Pong'*
 
-![Sequence Diagram Symbols](images/class-pong.svg)
+![Sequence Diagram Symbols](images/class-mario.svg)
 *fig.22 - A Sequence Diagram of a game of Super Mario Brothers*
 
 link to Mario [chart](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)
@@ -269,7 +270,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTY2MjE4MSwtMTYwNjMxODkzNywtMT
+eyJoaXN0b3J5IjpbMTUyMTExNTgyMSwtMTYwNjMxODkzNywtMT
 k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
 Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
 0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
