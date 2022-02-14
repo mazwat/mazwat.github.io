@@ -39,7 +39,7 @@ Bill Gates
 
 How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**.
 
-One of the ways tp make our code efficient is by deciding how to search for a single poitn of data in a data set. of 100 items, In a data set of 100 items, you are searching for an ‘O’ amongst ‘X’s.
+One of the ways to make our code efficient is by deciding how to search for a single point of data in a data set. of 100 items, In a data set of 100 items, you are searching for an ‘O’ amongst ‘X’s.
 
 | <!-- -->  | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|:-:|---|---|---|---|---|---|---|---|
@@ -53,7 +53,8 @@ One of the ways tp make our code efficient is by deciding how to search for a si
 |X|X|X|X|X|X|X|X|X|X|
 |X|X|X|X|X|X|X|X|X|X|
 
-The best case for finding the data is 1 iterationThe Worst case: 100 iterations
+The best case for finding the data - is **1 iteration**
+The Worst case is a 100 iterations
 
 Big ‘O’ is based on worse case scenario
 
@@ -62,6 +63,7 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMT
-U3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTEyNDY5NjQ5ODEsLTEyNTQ3NzExOCwtNz
+M0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcy
+OThdfQ==
 -->
