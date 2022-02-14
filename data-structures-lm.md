@@ -39,10 +39,14 @@ Bill Gates
 
 How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**.
 
-### What is Bit 
+### What is Big 'O'
+
+-   The efficiency of an algorithm can be gauged by how long it takes
+-   This is known as *Time Complexity*
+-   Big O Notation is used to describe this
 
 One of the ways to make our code efficient is by optimising the search for data within a data set.
-Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘O’ amongst ‘X’s.
+Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
 | <!-- -->  | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|:-:|---|---|---|---|---|---|---|---|
@@ -59,14 +63,12 @@ Let's consider how we search a data set of 100 items for a single data point. Fo
 The **best case** for finding the data is **1 iteration**
 The **worst case** is a **100 iterations**
 
-Big ‘O’ is based on worse case scenario
-
-100 records would take 100 iterations
-
+Big ‘O’ is always based on worse case scenario. 
+Therefore **100 records** would take **100 iterations**
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc0OTAxMjQsLTEyNTQ3NzExOCwtNz
+eyJoaXN0b3J5IjpbLTE2MDc0NjEyMDYsLTEyNTQ3NzExOCwtNz
 M0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcy
 OThdfQ==
 -->
