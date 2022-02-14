@@ -1,4 +1,3 @@
-
 ---
 # Page settings
 layout: default
@@ -64,5 +63,5 @@ We will explore the use of UML in a later session but for now try out the basics
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzU1MjIwMl19
+eyJoaXN0b3J5IjpbMTc3OTQ2OTM0OCwtNjM3NTUyMjAyXX0=
 -->
