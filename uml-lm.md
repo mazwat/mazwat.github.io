@@ -71,7 +71,7 @@ UML can be divided into **2 types**:
 | Interaction Overview | Profile |
 |Timing | Composite Structure |
 
-The ones above
+The ones 
 
 
 ## Behavioural Diagrams
@@ -266,7 +266,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODk1MTI2MywtMTYwNjMxODkzNywtMT
+eyJoaXN0b3J5IjpbMTE0MDExMDE2MCwtMTYwNjMxODkzNywtMT
 k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
 Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
 0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
