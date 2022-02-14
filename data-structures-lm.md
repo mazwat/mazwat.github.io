@@ -104,18 +104,22 @@ A hash table locates the actual data at an address called an index that is alway
 
 A bit like a book in a library its location is always known because of it’s numbering system. It resides at a fixed location no matter if the book is replaced with a newer copy. No sorting is required.
 
-### Polynomial 	 Notation - $$0(1)$$
+### Polynomial 	 Notation - $$0(N^2)$$
 **Pseudo Code**
 ```c#
-FUNCTION getFirstElement(list)
-	RETURN list[0]
-END FUNCTION
+PROCEDURE emptyChessboardGrid()
+	FOR row FROM 0 to 7
+		FOR col FROM 0 to 7
+			grid[row][col] = 0
+		NEXT col
+	NEXT row
+END PROCEDURE
 ```
 **Graph**
 ----ADD GRAPH IMAGE----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMDU3OTU3LC00MzUxMTcxNDYsLTE0Nj
-YwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzEx
-OCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1OD
-kwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTM1MTUzOTk4MiwtNDM1MTE3MTQ2LC0xND
+Y2MDM0NjQ2LDQ0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0Nzcx
+MTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNT
+g5MDM3Mjk4XX0=
 -->
