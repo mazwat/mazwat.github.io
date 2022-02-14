@@ -224,7 +224,7 @@ In the above example we can see 3 examples of the the main symbols used in a cla
 ![Sequence Diagram Symbols](images/class-arrows.svg)
 *fig.19 - Arrows Connecting Classes*
 
-Boxes containing classes are joined by arrows which declare the relationship between the classes. Each ending to an arrow defines a specific relationship. See above for the p
+Boxes containing classes are joined by arrows which declare the relationship between the classes. Each ending to an arrow defines a specific relationship. See above for the particlar line ending you will need.
 
 ![Sequence Diagram Symbols](images/class-type-1.svg)
 *fig.20 - Class Diagram Terms'*
@@ -265,7 +265,7 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzc5MTQxNSwtMTYwNjMxODkzNywtMT
+eyJoaXN0b3J5IjpbLTM0NzMxNTg2MSwtMTYwNjMxODkzNywtMT
 k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
 Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
 0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
