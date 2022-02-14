@@ -6,8 +6,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Research - Week 4
-description: 
+title: COMP140 - ResearchWorksheet - Week 2
 
 # Author box
 author:
@@ -18,14 +17,16 @@ author:
 micro_nav: true
 
 # Page navigation
-page_nav: false
-    
+page_nav:
+    next:
+        content: Software Architecture
+        url: '../software-architecture-ws'
 ---
-# Research Week - Consolidation
+
+# Research Week
 
 This week is a consolidation of your skills in programming and Arduino. Please expand on the exercise you began last week to complete a design document and a simple level of a prototype game.
 
-  
 
 EXERCISE
 
@@ -62,5 +63,5 @@ RESEARCH
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcwODE3NzJdfQ==
+eyJoaXN0b3J5IjpbNDE0ODg4NjAwXX0=
 -->
