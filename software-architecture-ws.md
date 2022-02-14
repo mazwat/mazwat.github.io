@@ -21,8 +21,8 @@ page_nav:
         content: OOP
         url: '../oop-ws'
     next:
-        content: UML
-        url: '../uml-ws'
+        content: Research Week
+        url: '../research -ws'
 ---
 
 # Software Architecture
@@ -70,6 +70,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxODA5OTksMTAyMzM1ODg5Nyw5NTI5OD
-k2NzhdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg5MjE3OTUsMTAyMzM1ODg5Nyw5NT
+I5ODk2NzhdfQ==
 -->
