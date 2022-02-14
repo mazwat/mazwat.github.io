@@ -39,8 +39,8 @@ Bill Gates
 
 How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**
 
-These can be measured used
+One of the ways we 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIyMDI1NzksLTMxNTc3MDMwMCwxNz
+eyJoaXN0b3J5IjpbLTEyNjUyMDY2NzYsLTMxNTc3MDMwMCwxNz
 Q3MTUyMTM0LDU4OTAzNzI5OF19
 -->
