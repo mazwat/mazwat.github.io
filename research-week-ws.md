@@ -56,13 +56,12 @@ We will explore the use of UML in a later session but for now try out the basics
 	- A **document** that plots the relationship between your classes
 	- You should bring a **working game in Unity to the workshop** where you can demonstrate the construction of your classes and objects in your game to the group.
 
-
 ## Research
 
-As you have a week free of taught sessions take this as an important opportunity to start reseatching the components that you need for your custom robot, c
+As you have a week free of taught sessions take this as an important opportunity to start reseatching the components that you need for your custom robot, controller or control system and start the process of rapid prototyping. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU0Mzg5ODIsLTIwNzQwMDcwMzksLT
+eyJoaXN0b3J5IjpbLTE3MTA1MjI5OTMsLTIwNzQwMDcwMzksLT
 YzNzU1MjIwMl19
 -->
