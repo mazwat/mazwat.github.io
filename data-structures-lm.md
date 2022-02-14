@@ -48,17 +48,7 @@ How we want to define our code is based on two simple premises: **Simplicity** a
 One of the ways to make our code efficient is by optimising the search for data within a data set.
 Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
-| | | | | | | | | | |
-|---|:-:|---|---|---|---|---|---|---|---|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|**0**|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|X|X|X|
+![100 data points](images/100-data-points.png)
 
  - The **best case** for finding the data is **1 iteration**
  - The **worst case** is a **100 iterations**
@@ -106,7 +96,7 @@ The constant notation describes an algorithm that will always execute in the sam
 
 For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1Nj
-EzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAz
-MDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0ND
+g1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2
+MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
 -->
