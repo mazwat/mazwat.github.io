@@ -92,11 +92,18 @@ END FUNCTION
 **Graph**
 ----ADD GRAPH IMAGE----
 
-The constant notation describes an algorithm that will always execute in the same execution time regardless of the size of the data set.
+The constant notation describes an algorithm that will always execute in the same execution time regardless of the size of the data set. For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 
-For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
+#### Hashing Tables
+
+A hashing algorithm is an O(1) algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
+
+A hash table locates the actual data at an address called an index that is always a whole number and therefore is always associated with that record.
+
+A bit like a book in a library its location is always known because of it’s numbering system. It resides at a fixed location no matter if the book is replaced with a newer copy. No sorting is required.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0ND
-g1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2
-MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbLTEzODM3MDQ1MDgsLTQzNTExNzE0NiwtMT
+Q2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3
+MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LD
+U4OTAzNzI5OF19
 -->
