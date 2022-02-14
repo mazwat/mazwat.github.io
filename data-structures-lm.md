@@ -65,10 +65,14 @@ The **worst case** is a **100 iterations**
 
 Big ‘O’ is always based on worse case scenario. 
 Therefore **100 records** would take **100 iterations**
-N records would take N iterations
+**N records** would take **N iterations**.
+
+$$0(N)$$
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc0NjEyMDYsLTEyNTQ3NzExOCwtNz
-M0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcy
-OThdfQ==
+eyJoaXN0b3J5IjpbMTg4MjYxNjM0OSwtMTI1NDc3MTE4LC03Mz
+Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
+OF19
 -->
