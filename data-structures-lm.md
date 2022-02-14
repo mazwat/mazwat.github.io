@@ -68,12 +68,12 @@ Therefore **100 records** would take **100 iterations**
 **N records** would take **N iterations**.
 This can be written like this:
 
-$$0(N)$$
+$0(N)$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDA5OTEsLTEyNTQ3NzExOCwtNzM0Nz
-U4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThd
-fQ==
+eyJoaXN0b3J5IjpbLTY0MjI3NzQ5OSwtMTI1NDc3MTE4LC03Mz
+Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
+OF19
 -->
