@@ -67,14 +67,14 @@ As you have a week free of taught sessions take this as an important opportunity
 
 ## Concluding Directed Practice
 
-Archie Andrews has provided this **video** to cover the elements we didn't get round to in the workshop last week:
+Archie Andrews has provided this **video** to cover the elements we didn't get round to in the workshop on **Uduino** last week:
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/x5ZUvXkvch0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzk4ODk2MSwxOTk2MjgwNTA3LC02MD
-I1OTEwMDQsLTIwNjY2Nzc5MTgsLTIwNzQwMDcwMzksLTYzNzU1
-MjIwMl19
+eyJoaXN0b3J5IjpbLTE2MzYyNjMyMzYsMTk5NjI4MDUwNywtNj
+AyNTkxMDA0LC0yMDY2Njc3OTE4LC0yMDc0MDA3MDM5LC02Mzc1
+NTIyMDJdfQ==
 -->
