@@ -28,7 +28,7 @@ page_nav:
 This week is a consolidation of your skills in programming and Arduino. Please expand on the exercise you began last week to complete a design document and a simple level of a prototype game.
 
 
-EXERCISE
+## Exercise
 
 **Design A Basic Mario Platformer**
 
@@ -58,11 +58,11 @@ We will explore the use of UML in a later session but for now try out the basics
 	- You should bring a **working game in Unity to the workshop** where you can demonstrate the construction of your classes and objects in your game to the group.
 
 
-RESEARCH
+## Research
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzQ5MzkzMF19
+eyJoaXN0b3J5IjpbLTYzNzU1MjIwMl19
 -->
