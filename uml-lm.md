@@ -245,7 +245,7 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 
 The above example demonstrates how all the previous elements can be brought together to represent an entire game and it's objects relationships.
 
-**You may find the examples above of class diagrams difficult to read. You can view them in more detail on Lucid Chart here [here.](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)**
+**You may find the examples above of class diagrams difficult to read. You can view them in more detail on Lucid Chart [here.](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99) Use the tabs at the bottom to switch between the examples.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UI6lqHOVHic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -270,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDY5NDg5NSwtMzkyMDAzNDYwLC0xNj
-A2MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0
-NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOT
-YsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4Nzgw
-NzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNy
-wxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgwNDE2LDU3MzU4
-MTU2OF19
+eyJoaXN0b3J5IjpbNzY4MzY5MDUsLTM5MjAwMzQ2MCwtMTYwNj
+MxODkzNywtMTk2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2
+NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LD
+c5NDkzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcx
+MzEsLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMT
+I1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1
+NjhdfQ==
 -->
