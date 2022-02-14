@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Worksheet 1
+title: COMP140 - OOP Worksheet - Week 2
 
 # Author box
 author:
@@ -180,8 +180,8 @@ Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk4NjEzNDMsMTE2NDU4MDUwNywtMT
-A5MzU4Mzg3NCwtOTc0MzgxNjY4LC02NDI1Mzk2MzUsMTMzODg4
-NjEwMCwtMTM2OTY3ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIxOD
-cwXX0=
+eyJoaXN0b3J5IjpbLTg2MDE4OTgxLC0xMzg5ODYxMzQzLDExNj
+Q1ODA1MDcsLTEwOTM1ODM4NzQsLTk3NDM4MTY2OCwtNjQyNTM5
+NjM1LDEzMzg4ODYxMDAsLTEzNjk2Nzg0MTYsLTEwNjA3Nzg0MT
+YsLTIxMTQyMTg3MF19
 -->
