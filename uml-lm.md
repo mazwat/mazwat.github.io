@@ -71,7 +71,7 @@ UML can be divided into **2 types**:
 | Interaction Overview | Profile |
 |Timing | Composite Structure |
 
-The ones in bold are the diagrams we are going to explore during the lecture. They constitute the diagrams you will find the most useful in COMP140. But feel free to do further research on the the other types
+The ones in bold are the diagrams we are going to explore during the lecture. They constitute the diagrams you will find the most useful in COMP140. But feel free to do further research into the other types.
 
 ## Behavioural Diagrams
 
@@ -268,11 +268,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTc4NDUyOSw3NjgzNjkwNSwtMzkyMD
-AzNDYwLC0xNjA2MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcx
-MDg3LC01OTA0NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC
-03MDk0NjMwOTYsNzk0OTMyMDgsLTE4NzA1NzUyNTQsMTQzMTg5
-ODU0Miw4NzgwNzEzMSwtNTAwOTkyODMxLDE4MTk5NjAxMzgsMT
-M1MDg0ODgyNywxMjUzNzEyMDUwLDM3OTU4MTAyMywtNTExNTgw
-NDE2XX0=
+eyJoaXN0b3J5IjpbMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2OD
+M2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4
+NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC
+04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3
+NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMT
+gxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNTAsMzc5NTgx
+MDIzXX0=
 -->
