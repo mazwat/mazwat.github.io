@@ -18,11 +18,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: OOP
-        url: '../oop-ws'
-    next:
-        content: UML
-        url: '../uml-ws'
+        content: Software Architecture
+        url: '../software-architecture-ws'
 ---
 
 # Research Week
@@ -66,5 +63,6 @@ As you have a week free of taught sessions take this as an important opportunity
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwMDcwMzksLTYzNzU1MjIwMl19
+eyJoaXN0b3J5IjpbLTYyOTczMjk0OSwtMjA3NDAwNzAzOSwtNj
+M3NTUyMjAyXX0=
 -->
