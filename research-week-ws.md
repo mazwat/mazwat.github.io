@@ -67,9 +67,11 @@ As you have a week free of taught sessions take this as an important opportunity
 
 Archie has provided this video to cover the elemetns we didn't get round to in thr workshop last week:
 
-https://youtu.be/x5ZUvXkvch0
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/x5ZUvXkvch0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+For the majority of you Uduino will play a vital role in your project so familirasing yourself with it's methods at this stage 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNzUwMTI3LC0yMDc0MDA3MDM5LC02Mz
-c1NTIyMDJdfQ==
+eyJoaXN0b3J5IjpbLTU5MDQzNjg5OCwtMjA3NDAwNzAzOSwtNj
+M3NTUyMjAyXX0=
 -->
