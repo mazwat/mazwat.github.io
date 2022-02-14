@@ -237,8 +237,7 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 *fig.21 - Class Diagram terms'*
 
 - A **dependency** is a relationship between two or more objects in which an object depends on the other object or objects for its implementation. If one of these objects change, the other object(s) can be impacted. The dependency relationship between two or more objects is depicted in UML using dashed arrows. In other words, when a dependency relationship exists between two or more objects, the object needs to know about the other object(s) which it depends on.
-- An aggregate is s
-
+- An aggregate is the relationship of a subordinate class to its principle one. A parent child relationship. THis 
 ![Sequence Diagram Symbols](images/class-pong.svg)
 *fig.22 - A Sequence Diagram of a game of 'Pong'*
 
@@ -270,11 +269,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU0ODM4MzIsLTE2MDYzMTg5MzcsLT
-E5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4
-MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOC
-wtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5
-OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4ODI3LDEyNTM3MTIwNT
-AsMzc5NTgxMDIzLC01MTE1ODA0MTYsNTczNTgxNTY4LDExNTE5
-MTk2MDJdfQ==
+eyJoaXN0b3J5IjpbLTM5MjAwMzQ2MCwtMTYwNjMxODkzNywtMT
+k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
+Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
+0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
+MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MC
+wzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkx
+OTYwMl19
 -->
