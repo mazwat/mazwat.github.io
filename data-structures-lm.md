@@ -60,20 +60,20 @@ Let's consider how we search a data set of 100 items for a single data point. Fo
 |X|X|X|X|X|X|X|X|X|X|
 |X|X|X|X|X|X|X|X|X|X|
 
-The **best case** for finding the data is **1 iteration**
-The **worst case** is a **100 iterations**
+ - The **best case** for finding the data is **1 iteration**
+ - The **worst case** is a **100 iterations**
 
 Big ‘O’ is always based on worse case scenario. 
-Therefore **100 records** would take **100 iterations**
-**N records** would take **N iterations**.
-This can be written like this:
+- So **100 records** would take **100 iterations**
+- Therefore **N records** would take **N iterations**.
+- This can be written like this:
 
 $0(N)$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjI3NzQ5OSwtMTI1NDc3MTE4LC03Mz
+eyJoaXN0b3J5IjpbLTc1MDU4NzgyMCwtMTI1NDc3MTE4LC03Mz
 Q3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5
 OF19
 -->
