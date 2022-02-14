@@ -74,9 +74,9 @@ $$0(N)$$
 
 ## Different Notation in Big 'O'
 
-The previous example can be described using both **pseudo code** and and a **graph**
+The previous example is known as:
 
-### Linear Notatation - $$0(N)$$
+### Linear Notation - $$0(N)$$
 
 **Pseudo Code**
 ```c#
@@ -101,8 +101,12 @@ END FUNCTION
 ```
 **Graph**
 ----ADD GRAPH IMAGE----
+
+The constant notation describes an algorithm that will always execute in the same execution time regardless of the size of the data set.
+
+For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDkxNDY0NCwxNTYxMzA5MDYwLC0xMj
-U0NzcxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIx
-MzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNT
+Q3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEz
+NCw1ODkwMzcyOThdfQ==
 -->
