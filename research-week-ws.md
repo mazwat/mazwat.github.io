@@ -58,10 +58,12 @@ We will explore the use of UML in a later session but for now try out the basics
 
 ## Research
 
-As you have a week free of taught sessions take this as an important opportunity to start reseatching the components that you need for your custom robot, controller or control system and start the process of rapid prototyping. 
+As you have a week free of taught sessions take this as an important opportunity to start researching the **components** that you need for your custom robot, controller or control system and start the process of rapid prototyping. Things to consider:
 
+ 1. Physical systems don't always behave the way you think they do. 
+ 2. Start building mockups using components to see what signal data (analogue) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA1MjI5OTMsLTIwNzQwMDcwMzksLT
-YzNzU1MjIwMl19
+eyJoaXN0b3J5IjpbLTk2MTQzMDI4MSwtMjA3NDAwNzAzOSwtNj
+M3NTUyMjAyXX0=
 -->
