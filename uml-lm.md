@@ -244,7 +244,7 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 ![Sequence Diagram Symbols](images/class-mario.svg)
 *fig.22 - A Sequence Diagram of a game of Super Mario Brothers*
 
-link to Mario [chart](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)
+You may find the examples above of class diagrams difficult to read. You canlink to Mario [chart](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UI6lqHOVHic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -269,11 +269,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjAwMzQ2MCwtMTYwNjMxODkzNywtMT
-k2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgy
-Njc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC
-0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4MDcxMzEsLTUwMDk5
-MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4MjcsMTI1MzcxMjA1MC
-wzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1ODE1NjgsMTE1MTkx
-OTYwMl19
+eyJoaXN0b3J5IjpbLTIwNjkxMjgzNDMsLTM5MjAwMzQ2MCwtMT
+YwNjMxODkzNywtMTk2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkw
+NDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMD
+k2LDc5NDkzMjA4LC0xODcwNTc1MjU0LDE0MzE4OTg1NDIsODc4
+MDcxMzEsLTUwMDk5MjgzMSwxODE5OTYwMTM4LDEzNTA4NDg4Mj
+csMTI1MzcxMjA1MCwzNzk1ODEwMjMsLTUxMTU4MDQxNiw1NzM1
+ODE1NjhdfQ==
 -->
