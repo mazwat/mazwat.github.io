@@ -74,10 +74,29 @@ $$0(N)$$
 
 ## Different Notation in Big 'O'
 
-The prevou
+The previous example can be described using both pseudo code and and a graph
+
+FUNCTION  linearSearch(list,  value)
+
+FOR  EACH  element IN  list
+
+IF  (element == value)
+
+RETURN  true
+
+END  IF
+
+NEXT
+
+RETURN  false
+
+END  FUNCTION
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxOTMzNCwxNTYxMzA5MDYwLC0xMjU0Nz
-cxMTgsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQs
-NTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMzI5NzkwMTMzLDE1NjEzMDkwNjAsLTEyNT
+Q3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEz
+NCw1ODkwMzcyOThdfQ==
 -->
