@@ -60,18 +60,18 @@ We will explore the use of UML in a later session but for now try out the basics
 
 As you have a week free of taught sessions take this as an important opportunity to start researching the **components** that you need for your custom robot, controller or control system and start the process of rapid prototyping. Things to consider:
 
- 1. Physical systems don't always behave the way you think they do. 
- 2. Start building mockups using components to see what signal data you are recieving from a sensor and if it corresponds to what you wer expecting
- 3. Are your actuators - motors, servos,LCD screens or Unity game object behaviours working as expected.
- 4. Mock up some analogue sensors to stand in for your game or experience inputs and see how they work over a serial connction using Uduino and test some of your initial preconceptions.
+ 1. Physical systems don't always behave the way you think they will. 
+ 2. Start building mockups using components to see what **signal data** you are recieving from a **sensor** and if it corresponds to what you wer expecting
+ 3. Are your **actuators** - motors, servos, LCD screens or Unity game object behaviours working as expected.
+ 4. Mock up some analogue sensors to stand in for your game or experience inputs and see how they work over a serial connction using **Uduino** and test some of your initial preconceptions.
 
-Archie has provided this video to cover the elemetns we didn't get round to in thr workshop last week:
+Archie has provided this video to cover the elemetns we didn't get round to in the workshop last week:
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/x5ZUvXkvch0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For the majority of you Uduino will play a vital role in your project so familirasing yourself with it's methods at this stage 
+For the majority of you Uduino will play a vital role in your project so familirasing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDQzNjg5OCwtMjA3NDAwNzAzOSwtNj
+eyJoaXN0b3J5IjpbLTkyNjI3OTYyNiwtMjA3NDAwNzAzOSwtNj
 M3NTUyMjAyXX0=
 -->
