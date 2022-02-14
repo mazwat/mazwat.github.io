@@ -41,9 +41,12 @@ How we want to define our code is based on two simple premises: **Simplicity** a
 
 One of the ways we make our code efficient is by deciding how to search for a single poitn of data in a data set. of 100 items, In a data set of 100 items, you are searching for an ‘O’ amongst ‘X’s
 
-The Best case for finding the data is 1 iteration
+|  |  |  | 
+|--|--|--|--
+|  |  |
+The best case for finding the data is 1 iteration
 
-Worst case: 100 iterations
+The Worst case: 100 iterations
 
 Big ‘O’ is based on worse case scenario
 
@@ -52,6 +55,6 @@ Big ‘O’ is based on worse case scenario
 N records would take N iterations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzA5NjAyMiwtMzE1NzcwMzAwLDE3ND
+eyJoaXN0b3J5IjpbLTE5NTMxMzI1MywtMzE1NzcwMzAwLDE3ND
 cxNTIxMzQsNTg5MDM3Mjk4XX0=
 -->
