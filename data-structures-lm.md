@@ -20,9 +20,9 @@ page_nav:
     prev:
         content: UML
         url: '../uml-lm'
-    <!---next:
+    next:
         content: Design Patterns
-        url: '../design-patterns-lm'-->
+        url: '../design-patterns-lm'
 ---
 
 # Data Structures
@@ -106,7 +106,7 @@ The constant notation describes an algorithm that will always execute in the sam
 
 For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNT
-Q3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEz
-NCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1Nj
+EzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAz
+MDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
