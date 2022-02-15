@@ -530,6 +530,10 @@ I have outlined the mathematical theory of big O notation which is used to class
 
 Here is some addtitional **reference** material to support this lecture:
 
+Visualise d
+
+[https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms](https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms)
+
 **Lists and Dictionaries in Unity**
 
 [https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
@@ -550,11 +554,11 @@ Here is some addtitional **reference** material to support this lecture:
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1OTA1NTYwLDE2MTczMTA0MzAsLTY3MD
-AzNjU1MSwtMTI1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQz
-MDI4LC0xMTg3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNz
-ksOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQy
-MTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOS
-wtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAx
-OTM5NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTM2NTEyMTAsNTE1OTA1NTYwLDE2MT
+czMTA0MzAsLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMTQ1NDg0
+NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2ODg1ND
+gsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMz
+MDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMD
+EsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYx
+MDg0MDQ4XX0=
 -->
