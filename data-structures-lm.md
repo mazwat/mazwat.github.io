@@ -120,7 +120,8 @@ PROCEDURE emptyChessboardGrid()
 END PROCEDURE
 ```
 **Graph**
-----ADD GRAPH IMAGE----
+![Polynomial Notation Graph](images/polynomial.png)
+*Fig. 5 - Polynomial Notation Graph*
 
 $$O(N2)$$ represents an algorithm whose performance is directly proportional to the square of the size of the data set. Algorithms which are based on nested loops are more likely to have a quadratic $$O(N2)$$ and so are 2 dimensional arrays like the one above. Where we are plotting the grid of a chessboard.
 
@@ -135,15 +136,16 @@ FUNCTION  fibonacci(number)
 END FUNCTION
 ```
 **Graph**
-----ADD GRAPH IMAGE----
+![Exponential Notation Graph](images/exponential.png)
+*Fig. 5 - Exponential Notation Graph*
 
 The exponential notation O(2N) describes an algorithm whose growth doubles with each addition to the data set.
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTk5ODIxNywtMTE0MjEwMzY3NCwxNj
-A2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAz
-NDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC
-03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAz
-NzI5OF19
+eyJoaXN0b3J5IjpbLTE0NTYyMTgxMjgsLTExNDIxMDM2NzQsMT
+YwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUxMTcxNDYsLTE0NjYw
+MzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzExOC
+wtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkw
+MzcyOThdfQ==
 -->
