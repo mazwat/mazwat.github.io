@@ -505,6 +505,18 @@ as in the method which compares the current object with the specified object, as
 
 In the following code, the `Character` class implements the `IComparable` interface and overrides its `CompareTo()` method. The List of Characters objects is then sorted using the no-arg `Sort` method.
 
+#### Points to note in C#
+
+The **CompareTo** function returns an **int** which can be the following
+
+-   **Less than zero**: The instance precedes the one passed in
+-   **Zero**: The objects are in the same order
+-   **Greater than zero**: The instance follows the one passed in  
+	- 1: Swap
+	- 0: Keep
+-1: Don't swap
+
+Another way to look at it is like a deck of cards that we shuffling into order based on higher lower principle.
 
 ## Video Lecture
 
@@ -514,7 +526,7 @@ In the following code, the `Character` class implements the `IComparable` interf
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjMwOTIxOCwtNjcwMDM2NTUxLC0xMj
+eyJoaXN0b3J5IjpbLTQ4MjE1Nzc3OSwtNjcwMDM2NTUxLC0xMj
 U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
 OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
 UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
