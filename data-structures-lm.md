@@ -72,7 +72,7 @@ $$0(N)$$
 
 The previous example is known as:
 
-### Linear Notation - $$0(N)$$
+### Linear Notation - $$O(N)$$
 
 **Pseudo Code**
 ```c#
@@ -89,7 +89,7 @@ END FUNCTION
 ![Linear Notation Graph](images/linear.png)
 *Fig. 2 - Linear Notation Graph*
 
-### Constant Notation - $$0(1)$$
+### Constant Notation - $$O(1)$$
 **Pseudo Code**
 ```c#
 FUNCTION getFirstElement(list)
@@ -104,7 +104,7 @@ The constant notation describes an algorithm that will always execute in the sam
 
 #### Hashing Tables
 
-A hashing algorithm is an $$0(1)$$ algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
+A hashing algorithm is an $$O(1)$$ algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
 
 ![Hashing Tables](images/hashing.png)
 *Fig. 4 - Hashing Tables*
@@ -115,7 +115,7 @@ A hash table locates the actual data at an address called an index that is alway
 
 A bit like a book in a library its location is always known because of it’s numbering system. It resides at a fixed location no matter if the book is replaced with a newer copy. No sorting is required.
 
-### Polynomial 	Notation - $$0(N^2)$$
+### Polynomial 	Notation - $$O(N^2)$$
 **Pseudo Code**
 ```c#
 PROCEDURE emptyChessboardGrid()
@@ -132,7 +132,7 @@ END PROCEDURE
 
 $$O(N2)$$ represents an algorithm whose performance is directly proportional to the square of the size of the data set. Algorithms which are based on nested loops are more likely to have a quadratic $$O(N2)$$ and so are 2 dimensional arrays like the one above. Where we are plotting the grid of a chessboard.
 
-### Exponential Notation - $$0(2^N)$$
+### Exponential Notation - $$O(2^N)$$
 **Pseudo Code**
 ```c#
 FUNCTION  fibonacci(number)
@@ -147,12 +147,12 @@ END FUNCTION
 *Fig. 6 - Exponential Notation Graph*
 
 The exponential notation O(2N) describes an algorithm whose growth doubles with each addition to the data set.
-An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
+An example of an $$O(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 ![Fibonacci Numbers](images/fibonacci.png)
 *Fig. 7 - Fibonacci Number Set*
 
-### Logarithmic Notation - $$0(2^N)$$
+### Logarithmic Notation - $$O(log(N))$$
 **Pseudo Code**
 ```c#
 ? // Difficult to define in code. See explanation below.
@@ -168,10 +168,10 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 - **Linear** notation would take **8 iterations**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyND
-AyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIxMDM2
-NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUxMTcxNDYsLT
-E0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNTQ3
-NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNC
-w1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE1NTM3MDY3MzEsLTc0NzQyNzU3MSwxMz
+Q2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgx
+MjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC
+00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEz
+MDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMD
+AsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
