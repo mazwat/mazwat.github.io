@@ -42,7 +42,7 @@ The following materials are derived from the *Data Structures lecture*. The vide
 *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”*
 Bill Gates
 
-How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**.
+This famous statement highlights How we want to define our code is based on two simple premises: **Simplicity** and **Purpose**.
 
 ### What is Big 'O'?
 
@@ -425,11 +425,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTczNDUxNTAsLTE0NTQ4NDQxNjksMT
-k1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5Njg4NTQ4LC0xNjU3
-MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LD
-E2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIw
-MjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OC
-wxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5
-MDM2NzM2MF19
+eyJoaXN0b3J5IjpbLTE5NTI2MDQyODMsLTEyNTczNDUxNTAsLT
+E0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5
+Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0OD
+csNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5
+MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMz
+gsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5
+Mjg4Mjc3NV19
 -->
