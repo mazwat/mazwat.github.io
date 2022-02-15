@@ -264,6 +264,10 @@ scores.Remove(100);
 ```
 #### Addtional Notes on Lists
 
+-   Try to avoid insertion/deletion in the **middle of the collection**
+-   Searching the collection is linear and will increase as more elements are added $$O(lN))$$
+-   Insertion/deleting at the end of the collection is constant in performance
+
 ## Video Lecture
 
 ### Part 1
@@ -272,11 +276,11 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5OD
-kyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEz
-OCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNj
-kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
-MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
-wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
-MTgxMjhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTMzNzIzMDksMTY2NTQyMTMxNiwtMT
+cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
+Mjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNj
+Y2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYy
+Mjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0Mj
+IsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDky
+MTA3MjZdfQ==
 -->
