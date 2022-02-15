@@ -486,34 +486,24 @@ struct  Character:IComparable<Character>
 {
 	string  name;
 	int  health;
-
-int  strength;
-
-// sort by name
-
-public  int  CompareTo(Character  compareCharacter)
-
-{
-
-return  name.CompareTo(compareCharacter.name);
-
+	int  strength;
+	// sort by name
+	public  int  CompareTo(Character  compareCharacter)
+	{
+		return  name.CompareTo(compareCharacter.name);
+	}
 }
-
-}
-
-  
-
 //Adding omitted!
-
-  
-
 List<Character> characters=new  List<Character>();
 
 //Sort will use the CompareTo in the struct or class
-
 characters.Sort()
 ```
+Another approach is to use the interface of `IComparable` which imposes a natural order on things. In `IComparable` the `CompareTo` method is overridden
 
+as in the method which compares the current object with the specified object, as we saw in the previous approach. In `IComparable` the value now returned by the `compareTo()` method decides the relative order of the objects in the sorted list. A negative, zero and a positive value represents if the compared object is less than, equal to or more than the specified object. More on that shortly.
+
+In the following code, the Character class implements the IComparable interface (CLICK) and overrides its CompareTo() method (CLICK). The List of Characters objects is then sorted using the no-arg Sort method (CLICK).
 ## Video Lecture
 
 ### Part 1
@@ -522,11 +512,11 @@ characters.Sort()
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MTE1MTI3LC02NzAwMzY1NTEsLTEyNT
-czNDUxNTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5
-NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NS
-w2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2
-NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OC
-wzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4
-ODI3MF19
+eyJoaXN0b3J5IjpbLTE4MDgxNDQ4NzEsLTY3MDAzNjU1MSwtMT
+I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
+NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
+c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
+NzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMj
+k4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2
+OTg4MjcwXX0=
 -->
