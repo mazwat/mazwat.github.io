@@ -349,6 +349,74 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 ![Orders to a Unit](images/orders.png)
 *Fig. 15 - Orders to a Unit*
 
+#### C# Queue Example
+```c#
+Queue<GameObject> unitsToBuild = new  Queue<GameObject>();
+
+unitsToBuild.Enqeue(soliderPrefab);
+unitsToBuild.Enqeue(builderPrefab);
+unitsToBuild.Enqeue(tankPrefab);
+
+foreach(GameObject  i  in  unitsToBuild)
+{
+	Debug.Log("Units to build “ + i.name);
+} 
+GameObject  nextUnitToBuild = unitsToBuild.Peek();
+unitsToBuild.Dequeue();
+```
+Enqueue() adds an object to the queue. Dequeue() is a method to remove from the beginning of the Queue. The trivial drawback of this system is writing variations on the word Queue with it’s proliferation of U’s and E’s. Typos are always a pain!
+
+### 4. Stack
+
+#### The Problem
+
+-   If you need to manage the state of an AI character
+-   If you need to implement a Undo system
+
+#### The Solution - Stack
+
+-   A Stack would be a good choice
+-   In C# we have the Stack class
+-   This is **Last-In-First-Out** data structure
+-   You add elements to the top of the stack and you remove elements from the top
+
+#### C# Stack Example
+```c#
+Stack<Command> issuedCommands=new  Stack<Command>();
+issuedCommands.Push(new  Command(“Edit"));
+issuedCommands.Push(new  Command("Create"));
+issuedCommands.Push(new  Command(“Update”));  
+Debug.Log(“First Command Added” + issuedCommands.Peek());
+```
+Stack has **3 principle methods**
+
+-   [Push](http://msdn.microsoft.com/en-us/library/6335ax0f%28v=vs.100%29.aspx): add an object on the stack.
+-   [Pop](http://msdn.microsoft.com/en-us/library/9say334k%28v=vs.100%29.aspx): remove and return the first object on the stack.
+-   [Peek](http://msdn.microsoft.com/en-us/library/1w32446f%28v=vs.100%29.aspx): get the first object without removing it.
+
+### 5. Associative Arrays
+
+#### The Problem
+-   If you need to store **one unique copy** of an element
+-   You want to access an **element via a key**
+-   You are doing **lots of searches** for an element
+
+#### The Solution
+-   You should use an Associative array
+-   In C# we have the `Dictionary` class
+-   These data structures are structured as **key-value pair** eg. - Name & Age
+-   It allows you to retrieve the items via the key
+-   This makes it a good choice for looking up large data sets
+
+#### Use Case
+
+-   If you are creating a **resource management system** for handling textures, models or other assets
+-   **Localisation system**, each language is stored in an Associative Array
+-   **Unit Manager**, a class to manage units created in the game
+-   **Save Game** System
+
+
+
 ## Video Lecture
 
 ### Part 1
@@ -357,11 +425,11 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOT
-g5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0
-ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOT
-g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
-MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
-Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
-NDM1NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTczNDUxNTAsLTE0NTQ4NDQxNjksMT
+k1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5Njg4NTQ4LC0xNjU3
+MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LD
+E2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIw
+MjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OC
+wxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5
+MDM2NzM2MF19
 -->
