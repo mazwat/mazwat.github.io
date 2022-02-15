@@ -167,7 +167,7 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 - In a data set of **9 items**, you are searching for a **6**
 
 ![Logarithmic Sample Set](images/log-data.png)
-*Fig. 9 - Logarithmic Sample Set
+*Fig. 9 - Logarithmic Sample Set*
 
 Linear notation would take 9 iterations
 {: .callout .callout--info}
@@ -183,18 +183,18 @@ Logarithmic eliminates data that we don't need by choosing the mid point in the 
 - In the example the search is completed in **3 iterations** using logarithmic notation
 
 ![Logarithmic Sample Set](images/log-sort.png)
-*Fig. 10 - Logarithmic Sort and Search
+*Fig. 10 - Logarithmic Sort and Search*
 
 We can better understand the process using a flow chart to explain the logic loop.
 
 ![LogarithmicFlow Chart](images/log-flow.svg)
-*Fig. 11 - Flow of a Logarithmic Sort
+*Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzAxNzg0NCwtMzE2MjI5NjMyLDE0Nj
-Y4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1
-NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xND
-U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
-NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
-wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
-NzcwMzAwXX0=
+eyJoaXN0b3J5IjpbLTExNDk1ODgxMzIsLTMxNjIyOTYzMiwxND
+Y2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3
+NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMT
+Q1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEw
+NDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMz
+gsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMx
+NTc3MDMwMF19
 -->
