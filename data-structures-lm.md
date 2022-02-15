@@ -49,6 +49,7 @@ One of the ways to make our code efficient is by optimising the search for data 
 Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
 ![100 data points](images/100-data-points.png)
+*Fig. 14 - Voltage Divider Circuit in a Bread board*
 
  - The **best case** for finding the data is **1 iteration**
  - The **worst case** is a **100 iterations**
@@ -80,7 +81,8 @@ FUNCTION  linearSearch(list, value)
 END FUNCTION
 ```
 **Graph**
-----ADD GRAPH IMAGE----
+![Linear Notation Graph](images/linear.png)
+*Fig. 14 - Voltage Divider Circuit in a Bread board*
 
 ### Constant Notation - $$0(1)$$
 **Pseudo Code**
@@ -137,8 +139,8 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00Mz
-UxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkw
-NjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMT
-c0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjg2NjMwOTAsMTYwNjQxNDQxMCwtNj
+gxMDQ1MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkz
+MTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC
+0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
