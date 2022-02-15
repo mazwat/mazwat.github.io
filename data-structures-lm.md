@@ -268,7 +268,17 @@ scores.Remove(100);
 -   Searching the collection is linear and will increase as more elements are added $$O(n)$$
 -   Insertion/deleting at the end of the collection is constant in performance $$O(1)$$
 
-### Notes on Ge
+### Notes on Generic Types
+
+#### Generic Programming
+
+-   Generic Programming is where you write one piece of code which operates on many different types
+-   This uses a concept called Templates which act in proxy for the type
+-   The Compiler then generates the code which uses the actual type
+
+
+
+
 
 ## Video Lecture
 
@@ -278,11 +288,11 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDA0NDI1MiwxNjY1NDIxMzE2LC0xNz
-E3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAy
-OTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2Nj
-Y5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIy
-OTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMi
-wtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIx
-MDcyNl19
+eyJoaXN0b3J5IjpbNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MT
+c2NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5
+OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Nj
+k4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5
+NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC
+03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEw
+NzI2XX0=
 -->
