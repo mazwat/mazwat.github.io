@@ -49,7 +49,7 @@ One of the ways to make our code efficient is by optimising the search for data 
 Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
 ![100 data points](images/100-data-points.png)
-*Fig. 14 - Voltage Divider Circuit in a Bread board*
+*Fig. 1 - 100 data points in a data set*
 
  - The **best case** for finding the data is **1 iteration**
  - The **worst case** is a **100 iterations**
@@ -82,7 +82,7 @@ END FUNCTION
 ```
 **Graph**
 ![Linear Notation Graph](images/linear.png)
-*Fig. 14 - Voltage Divider Circuit in a Bread board*
+*Fig. 2 - Linear Notation Graph*
 
 ### Constant Notation - $$0(1)$$
 **Pseudo Code**
@@ -92,7 +92,8 @@ FUNCTION getFirstElement(list)
 END FUNCTION
 ```
 **Graph**
-----ADD GRAPH IMAGE----
+![Constant Notation Graph](images/constant.png)
+*Fig. 2 - Constant Notation Graph*
 
 The constant notation describes an algorithm that will always execute in the same execution time regardless of the size of the data set. For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 
@@ -100,7 +101,8 @@ The constant notation describes an algorithm that will always execute in the sam
 
 A hashing algorithm is an $$0(1)$$ algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
 
-----ADD HASH IMAGE----
+![Constant Notation Graph](images/has.png)
+*Fig. 2 - Constant Notation Graph*
 
 A hash table locates the actual data at an address called an index that is always a whole number and therefore is always associated with that record.
 
@@ -139,8 +141,8 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg2NjMwOTAsMTYwNjQxNDQxMCwtNj
-gxMDQ1MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkz
-MTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC
-0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTQwNjMzNDgzNiwxNjA2NDE0NDEwLC02OD
+EwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMx
+MzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLT
+MxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
 -->
