@@ -301,7 +301,7 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 -   If the AI/Player carries an **action** and a number of **systems** need to be notified of the event
 
 ![Visiting Waypoints](images/waypoints.png)
-*Fig. 13 - Visiting Waypoints*
+*Fig. 14 - Visiting Waypoints*
 
 #### C# Linked List Example
 ```c#
@@ -339,8 +339,15 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 -   In C# we have the `Queue` class
 -   This is **First-In-Last-Out** (FILO) data structure
 -   You add elements to the end of the queue and you remove elements from the start
-####
 
+#### Use Case
+
+-   An Real Time Strategy game where you can add **orders** to a unit, these are then carried out in **sequence**  
+-   An RTS where you have a **base** which **produces units**    
+-   A **spawning system**, where you have to defeat enemies in a **specific order**
+
+![Orders to a Unit](images/orders.png)
+*Fig. 15 - Orders to a Unit*
 
 ## Video Lecture
 
@@ -350,7 +357,7 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDk0OTMyNiwtMTE4NzU5NDA3NywxOT
+eyJoaXN0b3J5IjpbMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOT
 g5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0
 ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOT
 g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
