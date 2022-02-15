@@ -450,7 +450,14 @@ highScores.Remove(“Laura”);
 -   Most of the common data types don’t need additional work
 -   For **custom classes**, we have to write our own sorting algorithm
 
-#### Sorting 
+#### Sorting C#
+
+-   There are few ways to sort a collection
+	1.  Provide a **custom delegate** function for the sort
+	2.  Provide a custom class which inherits from `IComparer`
+	3.  Your own class has to inherit from `IComparable`
+-   Often you will use option 3 as the **default sort**
+-   Which can then be overridden by option 1
 
 ## Video Lecture
 
@@ -460,11 +467,11 @@ highScores.Remove(“Laura”);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzEzMDEwNSwtNjcwMDM2NTUxLC0xMj
-U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
-OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
-UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
-NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
-gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
-ODgyNzBdfQ==
+eyJoaXN0b3J5IjpbNjgyNTQ2ODUwLC02NzAwMzY1NTEsLTEyNT
+czNDUxNTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5
+NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NS
+w2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2
+NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OC
+wzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4
+ODI3MF19
 -->
