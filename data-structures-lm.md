@@ -194,7 +194,8 @@ We can better understand the process using a flow chart to explain the logic loo
 In computer games and other realtime interactive systems there is high frequency tracking of moving objects and statistics on those objects. This requires that we add, update, search, sort and delete data in the scene in real time. As we have previously seen there is a cost in time and memory of all this collection processing.
 
 ![Big Sort](images/many-objects.gif)
-\*Fig. 12 - A lot of sorting is requred in realtime applications
+
+*Fig. 12 - A lot of sorting is requred in realtime applications
 
 Data structures form the container for performing and managing these operations.
 
@@ -202,7 +203,7 @@ Data structures form the container for performing and managing these operations.
 
 We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. 
 
-### Data Structure Types*
+### Data Structure Types
 
 1.  Dynamic Arrays
 2.  Linked Lists
@@ -211,10 +212,12 @@ We are going to look at **Linear Data structures** -  a data structure is said t
 5.  Associative Arrays
 6.  Operations on Collection
 
+These are typical to C# but many are also found or have equivalents in other languages.
+{: .callout .callout--info}
+
 We are primarily using examples in **Unity game engine using C#**. We will look at specific problems and how a specifc class of data structure can provide a solution through explanation and example.
 
-*These are typical to C# but many are also found or have equivalents in other languages.
-{: .callout .callout--info}
+
 
 ### Dynamic Arrays
 
@@ -246,14 +249,14 @@ You should consider using a Dynamic Array over a normal array.
 
 ## Video Lecture
 
-### Lecture - Software Architecture
+### Lecture - Data Structures
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5Nj
-Q0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4Mjcw
-LC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMT
-Q2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQy
-NzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLT
-E0NTYyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgx
-MDQ1MzAxXX0=
+eyJoaXN0b3J5IjpbLTE4MjI4NTcyNjcsMTE1MjAyODEyOSwtNj
+g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
+NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
+0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
+NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC
+0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIxMDM2NzQsMTYw
+NjQxNDQxMF19
 -->
