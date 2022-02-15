@@ -200,6 +200,8 @@ Data structures form the container for performing and managing these operations.
 
 ## Types of Data Structure
 
+We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. There are two techniques of representing such linear structure within memory.
+
 ### Data Structure Classes*
 
 1.  Dynamic Arrays
@@ -209,18 +211,18 @@ Data structures form the container for performing and managing these operations.
 5.  Associative Arrays
 6.  Operations on Collection
 
-* These are typical to C# but many are also found or have equivalents in other languages.
+*These are typical to C# but many are also found or have equivalents in other languages.
 {: .callout .callout--info}
 
 ### Dynamic Arrays
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDE5Mzk1Miw2NjY5ODgyNzAsLTE2OT
-I4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQz
-NTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLD
-EzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIx
-ODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMD
-EsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2
-MTMwOTA2MF19
+eyJoaXN0b3J5IjpbMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Nj
+k4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5
+NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC
+03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEw
+NzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MT
+AsLTY4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0
+ODU5MzEzOF19
 -->
