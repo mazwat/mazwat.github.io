@@ -415,6 +415,9 @@ Stack has **3 principle methods**
 -   **Unit Manager**, a class to manage units created in the game
 -   **Save Game** System
 
+![Save Game System](images/save-game.png)
+*Fig. 16 - Save Game System*
+
 
 
 ## Video Lecture
@@ -425,11 +428,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI2MDQyODMsLTEyNTczNDUxNTAsLT
-E0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5
-Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0OD
-csNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5
-MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMz
-gsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5
-Mjg4Mjc3NV19
+eyJoaXN0b3J5IjpbLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMT
+Q1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2
+ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Ny
+w0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODky
+MTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOC
+wxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNjky
+ODgyNzc1XX0=
 -->
