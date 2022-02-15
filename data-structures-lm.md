@@ -332,6 +332,16 @@ LinkedList give you control over where new items are placed in the list. For ins
 
 #### The problem
 
+If you need to visit items in a certain order (e.g front to back). Examples of this could be waypoints or commands to an AI character.
+
+#### The Solution - Queue
+
+-   In C# we have the `Queue` class
+-   This is **First-In-Last-Out** (FILO) data structure
+-   You add elements to the end of the queue and you remove elements from the start
+####
+
+
 ## Video Lecture
 
 ### Part 1
@@ -340,11 +350,11 @@ LinkedList give you control over where new items are placed in the list. For ins
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc1OTQwNzcsMTk4OTY4ODU0OCwtMT
-Y1NzA0OTE3OSw5ODgyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEy
-NCwxNjY1NDIxMzE2LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMT
-UyMDI4MTI5LC02ODk5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQw
-NDgsMTMyMDE5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLT
-IwOTAzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4
-MTIyMjJdfQ==
+eyJoaXN0b3J5IjpbMjAwMDk0OTMyNiwtMTE4NzU5NDA3NywxOT
+g5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0
+ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOT
+g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
+MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
+Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
+NDM1NDRdfQ==
 -->
