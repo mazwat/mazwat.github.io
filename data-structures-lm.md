@@ -166,7 +166,8 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 
 - In a data set of **9 items**, you are searching for a **6**.
 - First **sort** the data.
-Logarithmic eliminates data that we don't need by choosing the **mid point** in the data. In this case **position 4** (fifth item in the set) and then Completed in 3 iterations using logarithmic notation.
+Logarithmic eliminates data that we don't need by choosing the **mid point** in the data. In this case **position 4** (fifth item in the set) and then C.
+- Completed in 3 iterations using logarithmic notation
 
 ![Logarithmic Sample Set](images/logarithmic.png)
 *Fig. 9 - Logarithmic Sample Set
@@ -182,11 +183,11 @@ Logarithmic eliminates data that we don't need by choosing the **mid point** in 
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 10 - Flow of a Logarithmic Sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI2NDcxMTYsLTg2NjgxMjIyMiwxMj
-YyNDU0NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgx
-MSwtMzA5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LD
-E2MDY0MTQ0MTAsLTY4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2
-MDM0NjQ2LDQ0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0NzcxMT
-gsLTczNDc1ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNTg5
-MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNj
+I0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAyODEx
+LC0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIxMDM2NzQsMT
+YwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUxMTcxNDYsLTE0NjYw
+MzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzExOC
+wtNzM0NzU4NjI5LC0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkw
+MzcyOThdfQ==
 -->
