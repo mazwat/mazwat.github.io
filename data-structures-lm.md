@@ -152,10 +152,21 @@ An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci n
 ![Fibonacci Numbers](images/fibonacci.png)
 *Fig. 7 - Fibonacci Number Set*
 
+### Logarithmic Notation - $$0(2^N)$$
+**Pseudo Code**
+```c#
+? // Logarithmic notation is difficult to explain in code. See explanation below.
+```
+Logarithmic notation is difficult to explain
+**Graph**
+![Logarithmic Notation Graph](images/logarithmic.png)
+*Fig. 6 - Exponential Notation Graph*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NT
-YyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1
-MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LD
-E1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3
-NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5Mj
+EwNzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0
+MTAsLTY4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LD
+Q0ODU5MzEzOCwxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1
+ODYyOSwtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX
+0=
 -->
