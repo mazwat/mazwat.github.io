@@ -302,29 +302,24 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 
 ![Visiting Waypoints](images/waypoints.png)
 *Fig. 13 - Visiting Waypoints*
+
+#### C# Linked List Example
 ```c#
 LinkedList<Transform> waypoints=new  LinkedList<Transform>();
+
 waypoints.AddLast(GameObject.Find("Waypoint1").Transform);
 waypoints.AddLast(GameObject.Find("Waypoint2").Transform);
 waypoints.AddLast(GameObject.Find(“Waypoint3”).Transform);
 
-  
-
 foreach(Transform  t  in  waypoints) {
-
-Debug.Log("Waypoint Locations “ + t.position.ToString());
-
+	Debug.Log("Waypoint Locations “ + t.position.ToString());
 }
 
-  
-
 waypoints.AddFirst(GameObject.Find("Waypoint0").Transform);
-
 LinkedListNode<Transform> waypoint2Node = linked.Find(GameObject.Find("Waypoint2"));
-
 waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
 ```
-
+LinkedList give you control over where new items are placed in the list. For instance using methods like (CLICK) `AddLast`, (CLICK) AddFirst, AddBefore and (CLICK) AddAfter,. You have a wide variety fo methods to control the placement of items.
 ## Video Lecture
 
 ### Part 1
@@ -333,11 +328,11 @@ waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYwODcwNzEsLTE2NTcwNDkxNzksOT
-g4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMx
-NiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNj
-g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
-NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
-0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
-NTQ0MjJdfQ==
+eyJoaXN0b3J5IjpbMzE5NjQ1NzksLTE2NTcwNDkxNzksOTg4Mj
+g1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwt
+MTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OT
+YwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIs
+NjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMT
+YyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0
+MjJdfQ==
 -->
