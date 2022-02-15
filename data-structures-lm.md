@@ -400,8 +400,13 @@ Stack has **3 principle methods**
 -   If you need to store **one unique copy** of an element
 -   You want to access an **element via a key**
 -   You are doing **lots of searches** for an element
-- 
-#### The Problem
+
+#### The Solution
+-   You should use an Associative array
+-   In C# we have the `Dictionary` class
+-   These data structures are structured as **key-value pair** eg. - Name & Age
+-   It allows you to retrieve the items via the key
+-   This makes it a good choice for looking up large data sets
 
 ## Video Lecture
 
@@ -411,11 +416,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3Njk0MSwxOTUxMTQzMDI4LC0xMTg3NT
-k0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1
-LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNz
-Y2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4
-LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OT
-g4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMT
+E4NzU5NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4
+NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLT
+E3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2
+MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLD
+Y2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2
+MjI5NjMyXX0=
 -->
