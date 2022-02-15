@@ -272,11 +272,15 @@ scores.Remove(100);
 
 #### Generic Programming
 
--   Generic Programming is where you write one piece of code which operates on many different types
--   This uses a concept called **Templates** which act in **proxy** for the type
--   The Compiler then generates the code which uses the actual type
+Generic Programming is where you write one piece of code which operates on many different types. This uses a concept called **Templates** which act in **proxy** for the type. The Compiler then generates the code which uses the actual type
 
-#### Applying Generic Types to List
+#### Applying Generic Types to `List`
+
+In the previous section you would have noticed the following:
+-   `List<int>`
+-   These are known as generic parameters and you should insert the data type that the collection will handle (including your own data types aka classes and structs)
+-   Example: `TypeName<T>` where `T` is a type parameter
+
 
 
 
@@ -290,11 +294,11 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzczMTc1OSw0MTMzMDkxMjQsMTY2NT
-QyMTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEy
-OSwtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMj
-AxOTM5NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3
-MzYwLC0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLD
-EyNjI0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAy
-ODExXX0=
+eyJoaXN0b3J5IjpbODExMjEzMDUyLDQxMzMwOTEyNCwxNjY1ND
+IxMzE2LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5
+LC02ODk5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMD
+E5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjcz
+NjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMT
+I2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4
+MTFdfQ==
 -->
