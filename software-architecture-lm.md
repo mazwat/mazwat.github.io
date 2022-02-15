@@ -24,6 +24,8 @@ page_nav:
 
 # Software Architecture
 
+![Hero Banner Image](images/sa-hero-banner.png)
+
 The following materials are derived from the *Software Architecture lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
@@ -500,11 +502,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ4MTQyMjgsLTE5NDQ5NjM5NiwtMT
-IxNDUwNjY3OCwtMzY4MjYwMzcxLC0xNTI5MzUyNDA0LDEwOTU2
-ODg3MTksNjA0MTEzMDIyLDE0NTU2ODU2NDcsMzE0MjI0NTI3LD
-EwODg4Mjk5MzUsLTk1NjkzMDM4NCwxNDkwNjMyNjc2LC0xOTI5
-MzQyNDczLC0yMTMwMjE0OTYwLDUxNzk4NTc4NSwtOTgyODA4OD
-M2LDk3MzI1MDE2NSw1NDk0NTYxNzgsLTUyNzI2MTEzOSwxMjE0
-OTUxODE2XX0=
+eyJoaXN0b3J5IjpbLTI1MTE3MDc3NywtMTYxNDgxNDIyOCwtMT
+k0NDk2Mzk2LC0xMjE0NTA2Njc4LC0zNjgyNjAzNzEsLTE1Mjkz
+NTI0MDQsMTA5NTY4ODcxOSw2MDQxMTMwMjIsMTQ1NTY4NTY0Ny
+wzMTQyMjQ1MjcsMTA4ODgyOTkzNSwtOTU2OTMwMzg0LDE0OTA2
+MzI2NzYsLTE5MjkzNDI0NzMsLTIxMzAyMTQ5NjAsNTE3OTg1Nz
+g1LC05ODI4MDg4MzYsOTczMjUwMTY1LDU0OTQ1NjE3OCwtNTI3
+MjYxMTM5XX0=
 -->
