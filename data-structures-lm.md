@@ -293,7 +293,12 @@ You have started using a **dynamic array** and you have noticed performance is p
 
 #### The Solution
 
-In this case a Linked List would be a better choice. In C# we have the **LinkedList** class. Linked Lists contain elements (called **Nodes**) which usually have a reference to the previous and next Node in the list. This means that there is a slight increase in memory needed when working with lists.
+In this case a Linked List would be a better choice. In C# we have the `LinkedList` class. Linked lists contain elements (called **Nodes**) which usually have a reference to the previous and next Node in the list. This means that there is a slight increase in memory needed when working with lists.
+
+#### Use Case
+-   If an AI character has to visit a series of **waypoints**, these could be stored in a list
+-   Your Player has a number of **quests** they can try and complete
+-   If the AI/Player carries an **action** and a number of **systems** need to be notified of the event
 
 ## Video Lecture
 
@@ -303,7 +308,7 @@ In this case a Linked List would be a better choice. In C# we have the **LinkedL
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjU3MDA2NSwtMTY1NzA0OTE3OSw5OD
+eyJoaXN0b3J5IjpbLTE2NDc1MzE1MCwtMTY1NzA0OTE3OSw5OD
 gyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2
 LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02OD
 k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
