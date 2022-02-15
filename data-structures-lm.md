@@ -194,7 +194,7 @@ We can better understand the process using a flow chart to explain the logic loo
 In computer games and other realtime interactive systems there is high frequency tracking of moving objects and statistics on those objects. This requires that we add, update, search, sort and delete data in the scene in real time. As we have previously seen there is a cost in time and memory of all this collection processing.
 
 ![Big Sort](images/many-objects.gif)
-*Fig. 12 - A lot of sorting is requred in realtime applications
+\*Fig. 12 - A lot of sorting is requred in realtime applications
 
 Data structures form the container for performing and managing these operations.
 
@@ -227,9 +227,24 @@ Arrays in C# are fixed in size. During development you need to know exactly how 
 -   **Destroy** the old array
 -   **Add** in the new element
 
-The above process can be quite costly
+The above process can be quite costly.
+
+#### The Solution - Dy
+
+-   Luckily in most programming languages we have a Data Structure which grows in size when we require it
+
+-   In C# we have the **List** class
+
+-   These classes have the same properties as an array
+
+-   Items are located **contiguously** in memory
+-   We can **randomly access** elements using an index 􏰀
+-   We can **iterate** through each element
+
+-   You should consider using a Dynamic Array over a normal array
+-   One caveat, Dynamic Arrays are slightly more expensive!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTU2NDgzNiwzOTY0NDYxMzgsMTc2MT
+eyJoaXN0b3J5IjpbMTUxNzczNzg1NiwzOTY0NDYxMzgsMTc2MT
 A4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3
 NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLT
 g2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0Njgx
