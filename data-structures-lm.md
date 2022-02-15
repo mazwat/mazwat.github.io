@@ -202,7 +202,7 @@ Data structures form the container for performing and managing these operations.
 
 We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. 
 
-### Data Structure Classes*
+### Data Structure Types*
 
 1.  Dynamic Arrays
 2.  Linked Lists
@@ -240,7 +240,7 @@ Luckily in most programming languages we have a Data Structure which grows in si
 You should consider using a Dynamic Array over a normal array. 
 *One caveat - Dynamic Arrays are slightly more expensive!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjQ2NDEzMSwzOTY0NDYxMzgsMTc2MT
+eyJoaXN0b3J5IjpbLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MT
 A4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3
 NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLT
 g2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0Njgx
