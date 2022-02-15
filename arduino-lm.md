@@ -27,6 +27,8 @@ page_nav:
 
 # Arduino
 
+![Hero Banner Image](images/arduino-hero-banner.png)
+
 The following materials are derived from the *Arduino lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
@@ -216,11 +218,11 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNDIwMjc2LC04MTU1NTQwMTEsMjAzMT
-k3NTIyNSwtNDc1OTg4OTYxLC00NTY2MzU5NjcsMjEyMzI1NTM3
-MCwxNTIyMjI0MTA2LDE4MTM2MzA1MTQsMTk4MDk0MDU4NiwtMj
-EwNDU0NjQ0NiwxNDU0MjY1OTUsLTE0MTM4MjkzMzMsNjk2NDMw
-NTU3LDU3MjA2NjQwMCwxMTczNzcyMTgxLDc5NTQyODI2Miw5MT
-g5OTA3NzMsMTc2MzQ5MDAsNTM4OTY0NjkxLDYwNzE4NjUzMl19
-
+eyJoaXN0b3J5IjpbLTI4MzQ4OTk0OSwtODE1NTU0MDExLDIwMz
+E5NzUyMjUsLTQ3NTk4ODk2MSwtNDU2NjM1OTY3LDIxMjMyNTUz
+NzAsMTUyMjIyNDEwNiwxODEzNjMwNTE0LDE5ODA5NDA1ODYsLT
+IxMDQ1NDY0NDYsMTQ1NDI2NTk1LC0xNDEzODI5MzMzLDY5NjQz
+MDU1Nyw1NzIwNjY0MDAsMTE3Mzc3MjE4MSw3OTU0MjgyNjIsOT
+E4OTkwNzczLDE3NjM0OTAwLDUzODk2NDY5MSw2MDcxODY1MzJd
+fQ==
 -->
