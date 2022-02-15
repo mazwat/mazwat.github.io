@@ -212,13 +212,15 @@ Data structures form the container for performing and managing these operations.
 * These are typical to C# but many are also found or have equivalents in other languages.
 {: .callout .callout--info}
 
+### Dynamic Arrays
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMzMjk5ODgsNjY2OTg4MjcwLC0xNj
-kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
-MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
-wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
-MTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1Mz
-AxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1
-NjEzMDkwNjBdfQ==
+eyJoaXN0b3J5IjpbMTMyMDE5Mzk1Miw2NjY5ODgyNzAsLTE2OT
+I4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQz
+NTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLD
+EzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIx
+ODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMD
+EsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2
+MTMwOTA2MF19
 -->
