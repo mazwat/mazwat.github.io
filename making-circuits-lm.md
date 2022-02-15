@@ -27,7 +27,7 @@ page_nav:
 
 # Making Circuits
 
-![Hero Banner Image](images/circuit-hero-banner.png)
+![Hero Banner Image](images/circuit-hero-banner.jpg)
 
 The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
@@ -219,11 +219,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzNDM0MTUsNTExODkxODY2LC04OD
-E2MDE2ODMsLTgwMjEwNzc1OSwxNzI5NDI0NzMzLDE2NzA1MTg1
-ODcsLTE0MTI4OTYwMywtNDYzNTQzOTA5LDE1OTg0ODE1MDIsMT
-I0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIyNjI3LDU5Nzc0
-NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwxNDEwODIxMj
-UwLDQ0NDM4MjQ4MywyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3
-NzM2NzkyODVdfQ==
+eyJoaXN0b3J5IjpbNDQ1NzYwMzg1LC0xMzE1MzQzNDE1LDUxMT
+g5MTg2NiwtODgxNjAxNjgzLC04MDIxMDc3NTksMTcyOTQyNDcz
+MywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0MzkwOSwxNT
+k4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgy
+MjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2Mj
+gsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2
+NzE1MjI4XX0=
 -->
