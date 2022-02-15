@@ -249,14 +249,16 @@ You should consider using a Dynamic Array over a normal array.
 
 ## Video Lecture
 
-### Lecture - Data Structures
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+### Part 1
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+### Part 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI4NTcyNjcsMTE1MjAyODEyOSwtNj
-g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
-NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
-0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
-NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC
-0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIxMDM2NzQsMTYw
-NjQxNDQxMF19
+eyJoaXN0b3J5IjpbLTc5MzcxNjM0NywxMTUyMDI4MTI5LC02OD
+k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
+Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
+MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
+NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLT
+MwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2
+NDE0NDEwXX0=
 -->
