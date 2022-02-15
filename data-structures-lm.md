@@ -435,12 +435,12 @@ if (highScores.ContainsKey("Laura")) {
 }
 highScores.Remove(“Laura”);
 ```
-
 #### Additional Notes
-
 -   Iterating over a map has a slightly **annoying syntax**
--   Associative Arrays tend to have **good performance for retrieval**
+-   Associative Arrays tend to have **good performance for retrieval** $$O(log(N))$$
 -   If you add an item and its key already exists it may **overwrite** the value
+
+### 6. Operations on Collections
 
 
 
@@ -452,7 +452,7 @@ highScores.Remove(“Laura”);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk4NzU0ODAsLTY3MDAzNjU1MSwtMT
+eyJoaXN0b3J5IjpbLTEzMzA4NzQ3MzAsLTY3MDAzNjU1MSwtMT
 I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
 NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
 c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
