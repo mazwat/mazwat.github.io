@@ -195,7 +195,7 @@ In computer games and other realtime interactive systems there is high frequency
 
 ![Big Sort](images/many-objects.gif)
 
-*Fig. 12 - A lot of sorting is requred in realtime applications
+*Fig. 12 - A lot of sorting is requred in realtime applications*
 
 Data structures form the container for performing and managing these operations.
 
@@ -216,8 +216,6 @@ These are typical to C# but many are also found or have equivalents in other lan
 {: .callout .callout--info}
 
 We are primarily using examples in **Unity game engine using C#**. We will look at specific problems and how a specifc class of data structure can provide a solution through explanation and example.
-
-
 
 ### Dynamic Arrays
 
@@ -253,12 +251,13 @@ You should consider using a Dynamic Array over a normal array.
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Part 2
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzcxNjM0NywxMTUyMDI4MTI5LC02OD
-k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
-Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
-MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
-NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLT
-MwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2
-NDE0NDEwXX0=
+eyJoaXN0b3J5IjpbOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OT
+k2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUy
+LDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMz
+E2MjI5NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0
+NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMz
+A5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0
+MTQ0MTBdfQ==
 -->
