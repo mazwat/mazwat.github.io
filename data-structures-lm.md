@@ -168,11 +168,13 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 
 ![Logarithmic Sample Set](images/log-data.png)
 *Fig. 9 - Logarithmic Sample Set*
+
 Linear notation would take 9 iterations
 {: .callout .callout--info}
 
 - First **sort** the data.
 - In this case **position 4** (fifth item in the set) which has the value: **3**
+- 
 Logarithmic eliminates data that we don't need by choosing the mid point in the data. 
 {: .callout .callout--info}
 
@@ -190,11 +192,11 @@ We can better understand the process using a flow chart to explain the logic loo
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAzNjczNjAsLTMxNjIyOTYzMiwxND
-Y2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3
-NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMT
-Q1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEw
-NDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMz
-gsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMx
-NTc3MDMwMF19
+eyJoaXN0b3J5IjpbLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
+MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
+NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLT
+MwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2
+NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzND
+Y0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03
+MzQ3NTg2MjldfQ==
 -->
