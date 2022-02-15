@@ -252,7 +252,7 @@ You should consider using a Dynamic Array over a normal array.
 
 #### C# List Example
 
-```C#
+```c#
 List<int> scores = new List<int>();
 scores.Add(100);
 scores.Add(200);
@@ -265,8 +265,8 @@ scores.Remove(100);
 #### Addtional Notes on Lists
 
 -   Try to avoid insertion/deletion in the **middle of the collection**
--   Searching the collection is linear and will increase as more elements are added $$O(lN))$$
--   Insertion/deleting at the end of the collection is constant in performance
+-   Searching the collection is linear and will increase as more elements are added $$O(n)$$
+-   Insertion/deleting at the end of the collection is constant in performance $$O(1)$$
 
 ## Video Lecture
 
@@ -276,11 +276,11 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMzNzIzMDksMTY2NTQyMTMxNiwtMT
-cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
-Mjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNj
-Y2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYy
-Mjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0Mj
-IsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDky
-MTA3MjZdfQ==
+eyJoaXN0b3J5IjpbMTkyNDkxMDQzNSwxNjY1NDIxMzE2LC0xNz
+E3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAy
+OTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2Nj
+Y5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIy
+OTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMi
+wtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIx
+MDcyNl19
 -->
