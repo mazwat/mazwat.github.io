@@ -191,13 +191,18 @@ We can better understand the process using a flow chart to explain the logic loo
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort*
 
+In computer games and other realtime interactive systems there is high frequency tracking of moving objects and statistics on those objects. This requires that we add, update, search, sort and delete data in the scene in real time. As we have previously seen there is a cost in time and memory of all this collection processing.
 
+![Big Sort](images/many-objects.gif)
+*Fig. 12 - A lot of sorting is requred in realtime applications
+
+Data structures form the container for performing and managing these operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE5MzAxNCw2NjY5ODgyNzAsLTE2OT
-I4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQz
-NTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLD
-EzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIx
-ODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMD
-EsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2
-MTMwOTA2MF19
+eyJoaXN0b3J5IjpbLTIxMzM5Mzc2MTcsNjY2OTg4MjcwLC0xNj
+kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
+MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
+wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
+MTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1Mz
+AxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1
+NjEzMDkwNjBdfQ==
 -->
