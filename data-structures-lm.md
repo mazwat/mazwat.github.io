@@ -218,9 +218,18 @@ We are primarily using examples in **Unity game engine using C#**. We will look 
 
 ### Dynamic Arrays
 
+#### The Problem
 
+Arrays in C# are fixed in size. During development you need to know exactly how many item are going to be in the array. If you need to add elements and you don’t have enough space, you will need to carry out the following:
+
+-   Create a **new** array of the appropriate size
+-  **Copy** elements from the old array into this new one
+-   **Destroy** the old array
+-   **Add** in the new element
+
+The above process can be quite costly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjcwNDg2MiwzOTY0NDYxMzgsMTc2MT
+eyJoaXN0b3J5IjpbMjA1MTU2NDgzNiwzOTY0NDYxMzgsMTc2MT
 A4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3
 NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLT
 g2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0Njgx
