@@ -272,7 +272,7 @@ scores.Remove(100);
 
 Generic Programming is where you write one piece of code which operates on many different types. This uses a concept called **Templates** which act in **proxy** for the type. The Compiler then generates the code which uses the actual type
 
-##### Applying Generic Types to `List`
+**Applying Generic Types to `List`**
 
 In the previous section you would have noticed the following:
 -   `List<int>`
@@ -336,11 +336,11 @@ LinkedList give you control over where new items are placed in the list. For ins
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NjQ2NzksLTE2NTcwNDkxNzksOTg4Mj
-g1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwt
-MTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OT
-YwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIs
-NjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMT
-YyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0
-MjJdfQ==
+eyJoaXN0b3J5IjpbMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5OD
+gyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2
+LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02OD
+k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
+Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
+MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
+NDQyMl19
 -->
