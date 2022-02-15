@@ -530,15 +530,15 @@ I have outlined the mathematical theory of big O notation which is used to class
 
 Here is some addtitional **reference** material to support this lecture:
 
-**Visualise different sorting methods in C#**
-[https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms](https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms)
-
 **Lists and Dictionaries in Unity**
 [https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
 
 **Understanding Big ‘O’ Notation**
 [https://www.101computing.net/big-o-notation](https://www.101computing.net/big-o-notation)
 [http://bigocheatsheet.com/](http://bigocheatsheet.com/)
+
+**Visualise different sorting methods in C#**
+[https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms](https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms)
 
 
 
@@ -550,11 +550,11 @@ Here is some addtitional **reference** material to support this lecture:
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTI4MDMyLDUxNTkwNTU2MCwxNjE3Mz
-EwNDMwLC02NzAwMzY1NTEsLTEyNTczNDUxNTAsLTE0NTQ4NDQx
-NjksMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5Njg4NTQ4LC
-0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0ODcsNDEzMzA5
-MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5MjE0MzAxLD
-ExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4
-NDA0OF19
+eyJoaXN0b3J5IjpbLTE0MTQwMjMxMjYsNTE1OTA1NTYwLDE2MT
+czMTA0MzAsLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMTQ1NDg0
+NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2ODg1ND
+gsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMz
+MDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMD
+EsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYx
+MDg0MDQ4XX0=
 -->
