@@ -268,6 +268,8 @@ scores.Remove(100);
 -   Searching the collection is linear and will increase as more elements are added $$O(n)$$
 -   Insertion/deleting at the end of the collection is constant in performance $$O(1)$$
 
+### Notes on Ge
+
 ## Video Lecture
 
 ### Part 1
@@ -276,7 +278,7 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDkxMDQzNSwxNjY1NDIxMzE2LC0xNz
+eyJoaXN0b3J5IjpbLTM2MDA0NDI1MiwxNjY1NDIxMzE2LC0xNz
 E3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAy
 OTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2Nj
 Y5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLTMxNjIy
