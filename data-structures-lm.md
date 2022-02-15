@@ -168,7 +168,6 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 
 ![Logarithmic Sample Set](images/log-data.png)
 *Fig. 9 - Logarithmic Sample Set*
-
 Linear notation would take 9 iterations
 {: .callout .callout--info}
 
@@ -191,7 +190,7 @@ We can better understand the process using a flow chart to explain the logic loo
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUzNjM1MzgsLTMxNjIyOTYzMiwxND
+eyJoaXN0b3J5IjpbLTIwOTAzNjczNjAsLTMxNjIyOTYzMiwxND
 Y2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3
 NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMT
 Q1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEw
