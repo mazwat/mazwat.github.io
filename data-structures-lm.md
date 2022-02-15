@@ -29,6 +29,9 @@ page_nav:
 
 ![Hero Banner Image](images/data-hero-banner.png)
 
+The following materials are derived from the *Data Structures lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+{: .callout .callout--warning}
+
 -   In programming we have the concept of reusable data structures which can be used to build applications
 -   These can be used in order to build larger systems (e.g. Inventory Systems, AI Navigation etc)
 -   Most programming languages have these built in
@@ -145,9 +148,9 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDI3NDgyMywtMzA5MjEwNzI2LC0xND
-U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
-NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
-wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
-NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE5MjUzNDc5OTUsLTMwOTIxMDcyNiwtMT
+Q1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEw
+NDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMz
+gsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMx
+NTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
 -->
