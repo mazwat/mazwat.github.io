@@ -163,7 +163,6 @@ Logarithmic notation is difficult to explain
 *Fig. 8 - Logarithmic Notation Graph*
 
 Logarithmic notation works on the basis of elimination. Getting rid of the things we know we are not looking for, that way we can arrive at the item we are searching for much quicker.
-
 - In a data set of **9 items**, you are searching for a **6**
 
 ![Logarithmic Sample Set](images/log-data.png)
@@ -174,7 +173,7 @@ Linear notation would take 9 iterations
 
 - First **sort** the data.
 - In this case **position 4** (fifth item in the set) which has the value: **3**
-- 
+
 Logarithmic eliminates data that we don't need by choosing the mid point in the data. 
 {: .callout .callout--info}
 
@@ -192,11 +191,11 @@ We can better understand the process using a flow chart to explain the logic loo
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
-MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
-NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLT
-MwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2
-NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzND
-Y0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03
-MzQ3NTg2MjldfQ==
+eyJoaXN0b3J5IjpbNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMD
+kwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEy
+MjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLT
+UyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIx
+MDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUxMTcxND
+YsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEy
+NTQ3NzExOF19
 -->
