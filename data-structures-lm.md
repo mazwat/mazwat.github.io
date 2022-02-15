@@ -174,12 +174,17 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 ![Logarithmic Sample Set](images/logarithmic.png)
 *Fig. 10 - Logarithmic Sort
 
-Logarithmic eliminates data that we don't need by choosing the mid point in the data. In this caseCompleted in 3 iterations using logarithmic notation.
+Logarithmic eliminates data that we don't need by choosing the mid point in the data. In this case item no. 4 (fifth item in the set) Completed in 3 iterations using logarithmic notation.
+
+
+![LogarithmicFlow Chart](images/log-flow.svg)
+*Fig. 10 - Flow of a Logarithmic Sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03ND
-c0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2
-LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLT
-Y4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5
-MzEzOCwxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOS
-wtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTYzMzI5OTEzLC04NjY4MTIyMjIsMTI2Mj
+Q1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEs
+LTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNj
+A2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAz
+NDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC
+03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAz
+NzI5OF19
 -->
