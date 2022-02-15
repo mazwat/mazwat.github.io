@@ -300,6 +300,9 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 -   Your Player has a number of **quests** they can try and complete
 -   If the AI/Player carries an **action** and a number of **systems** need to be notified of the event
 
+![Visiting Waypoints](images/enemy-spawn.png)
+*Fig. 13 - Manage Spawning Enemies*
+
 ## Video Lecture
 
 ### Part 1
@@ -308,7 +311,7 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc1MzE1MCwtMTY1NzA0OTE3OSw5OD
+eyJoaXN0b3J5IjpbMjA2ODA2MjY5OCwtMTY1NzA0OTE3OSw5OD
 gyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2
 LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02OD
 k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
