@@ -268,11 +268,11 @@ scores.Remove(100);
 -   Searching the collection is linear and will increase as more elements are added $$O(n)$$
 -   Insertion/deleting at the end of the collection is constant in performance $$O(1)$$
 
-### Notes on Generic Types
+#### Notes on Generic Types
 
 Generic Programming is where you write one piece of code which operates on many different types. This uses a concept called **Templates** which act in **proxy** for the type. The Compiler then generates the code which uses the actual type
 
-#### Applying Generic Types to `List`
+##### Applying Generic Types to `List`
 
 In the previous section you would have noticed the following:
 -   `List<int>`
@@ -323,10 +323,10 @@ LinkedList give you control over where new items are placed in the list. For ins
 
 #### Addtional Notes on Linked Lists
 
--   Linked Lists usually support constant time insertions and deletions in the collection $$O(n)$$
+-   Linked Lists usually support constant time insertions and deletions in the collection $$O(1)$$
 -   Also perform better than dynamic arrays for moving elements around the collection
 -   This feature means that Linked Lists are a good data structure if you need to sort your data
--   Main drawback of Linked Lists is that you can’t have direct access to elements in the list, it takes linear time to access
+-   Main drawback of Linked Lists is that you can’t have direct access to elements in the list, it takes linear time $$O(n)$$ to access
 
 ## Video Lecture
 
@@ -336,11 +336,11 @@ LinkedList give you control over where new items are placed in the list. For ins
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1MzA1NzYsLTE2NTcwNDkxNzksOT
-g4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMx
-NiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNj
-g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
-NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
-0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
-NTQ0MjJdfQ==
+eyJoaXN0b3J5IjpbNTI2NjQ2NzksLTE2NTcwNDkxNzksOTg4Mj
+g1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwt
+MTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OT
+YwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIs
+NjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMT
+YyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0
+MjJdfQ==
 -->
