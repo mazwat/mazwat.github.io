@@ -164,22 +164,22 @@ Logarithmic notation is difficult to explain
 
 Logarithmic notation works on the basis of elimination. Getting rid of the things we know we are not looking for, that way we can arrive at the item we are searching for much quicker.
 
-- In a data set of **8 items**, you are searching for a **6**.
+- In a data set of **9 items**, you are searching for a **6**.
 
 ![Logarithmic Sample Set](images/logarithmic.png)
 *Fig. 9 - Logarithmic Sample Set
 
-- **Linear** notation would take **8 iterations**
+- **Linear** notation would take **9 iterations**
 
 ![Logarithmic Sample Set](images/logarithmic.png)
 *Fig. 10 - Logarithmic Sort
 
-Logarithmic Completed in 3 iterations using logarithmic notation.
+Logarithmic eliminates data that we don't need by choosing the mid point in the data. In this caseCompleted in 3 iterations using logarithmic notation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMxMTE1MjcsMTI2MjQ1NDQyMiwtNz
-Q3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcy
-NiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC
-02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1
-OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2Mj
-ksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03ND
+c0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2
+LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLT
+Y4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5
+MzEzOCwxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOS
+wtMzE1NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX0=
 -->
