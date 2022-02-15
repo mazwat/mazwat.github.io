@@ -176,6 +176,7 @@ Linear notation would take 9 iterations
 - In this case **position 4** (fifth item in the set) which has the value: **3**
 Logarithmic eliminates data that we don't need by choosing the mid point in the data. 
 {: .callout .callout--info}
+
 - We then check to see if the value searched is **higher** than the **midpoint**. 
 - If **true** we **remove** all values **below** the midpoint.
 - If **false** we **remove** all values **above** the midpoint.
@@ -190,7 +191,7 @@ We can better understand the process using a flow chart to explain the logic loo
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk1ODgxMzIsLTMxNjIyOTYzMiwxND
+eyJoaXN0b3J5IjpbLTEwNzUzNjM1MzgsLTMxNjIyOTYzMiwxND
 Y2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3
 NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMT
 Q1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEw
