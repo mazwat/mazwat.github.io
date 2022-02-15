@@ -526,7 +526,9 @@ Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://d
 
 ## Conclusion
 
-I have outlined the mathematical theo big O notation is used to classify algorithms according to how their run time or space requirements grow as the input size grows. behind data structures and the reason for choosing them in
+I have outlined the mathematical theory of big O notation which is used to classify algorithms according to how their run time or space requirements grow as the input size grows. I have also outlined a range of example data structures with use cases and examples that you can deploy in your own code and projects.
+
+Here are is some addtitional re
 
 ## Video Lecture
 
@@ -536,11 +538,11 @@ I have outlined the mathematical theo big O notation is used to classify algorit
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYyODg1NjUsLTY3MDAzNjU1MSwtMT
-I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
-NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
-c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
-NzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMj
-k4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2
-OTg4MjcwXX0=
+eyJoaXN0b3J5IjpbOTEzNDIzNTU0LC02NzAwMzY1NTEsLTEyNT
+czNDUxNTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5
+NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NS
+w2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2
+NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OC
+wzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4
+ODI3MF19
 -->
