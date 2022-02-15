@@ -302,6 +302,28 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 
 ![Visiting Waypoints](images/waypoints.png)
 *Fig. 13 - Visiting Waypoints*
+```c#
+LinkedList<Transform> waypoints=new  LinkedList<Transform>();
+waypoints.AddLast(GameObject.Find("Waypoint1").Transform);
+waypoints.AddLast(GameObject.Find("Waypoint2").Transform);
+waypoints.AddLast(GameObject.Find(“Waypoint3”).Transform);
+
+  
+
+foreach(Transform  t  in  waypoints) {
+
+Debug.Log("Waypoint Locations “ + t.position.ToString());
+
+}
+
+  
+
+waypoints.AddFirst(GameObject.Find("Waypoint0").Transform);
+
+LinkedListNode<Transform> waypoint2Node = linked.Find(GameObject.Find("Waypoint2"));
+
+waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
+```
 
 ## Video Lecture
 
@@ -311,11 +333,11 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzEyNTY1LC0xNjU3MDQ5MTc5LDk4OD
-I4NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYs
-LTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OT
-k2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUy
-LDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMz
-E2MjI5NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0
-NDIyXX0=
+eyJoaXN0b3J5IjpbLTE2ODYwODcwNzEsLTE2NTcwNDkxNzksOT
+g4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMx
+NiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNj
+g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
+NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
+0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
+NTQ0MjJdfQ==
 -->
