@@ -268,11 +268,11 @@ scores.Remove(100);
 -   Searching the collection is linear and will increase as more elements are added $$O(n)$$
 -   Insertion/deleting at the end of the collection is constant in performance $$O(1)$$
 
-### Notes on Generic Types
+#### Notes on Generic Types
 
 Generic Programming is where you write one piece of code which operates on many different types. This uses a concept called **Templates** which act in **proxy** for the type. The Compiler then generates the code which uses the actual type
 
-#### Applying Generic Types to `List`
+**Applying Generic Types to `List`**
 
 In the previous section you would have noticed the following:
 -   `List<int>`
@@ -301,7 +301,53 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 -   If the AI/Player carries an **action** and a number of **systems** need to be notified of the event
 
 ![Visiting Waypoints](images/waypoints.png)
-*Fig. 13 - Visiting Waypoints*
+*Fig. 14 - Visiting Waypoints*
+
+#### C# Linked List Example
+```c#
+LinkedList<Transform> waypoints=new  LinkedList<Transform>();
+
+waypoints.AddLast(GameObject.Find("Waypoint1").Transform);
+waypoints.AddLast(GameObject.Find("Waypoint2").Transform);
+waypoints.AddLast(GameObject.Find(“Waypoint3”).Transform);
+
+foreach(Transform  t  in  waypoints) {
+	Debug.Log("Waypoint Locations “ + t.position.ToString());
+}
+
+waypoints.AddFirst(GameObject.Find("Waypoint0").Transform);
+LinkedListNode<Transform> waypoint2Node = linked.Find(GameObject.Find("Waypoint2"));
+waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
+```
+LinkedList give you control over where new items are placed in the list. For instance using methods like `AddLast`, `AddFirst`, `AddBefore` and `AddAfter`. You have a wide variety fo methods to control the placement of items.
+
+#### Addtional Notes on Linked Lists
+
+-   Linked Lists usually support constant time insertions and deletions in the collection $$O(1)$$
+-   Also perform better than dynamic arrays for moving elements around the collection
+-   This feature means that Linked Lists are a good data structure if you need to sort your data
+-   Main drawback of Linked Lists is that you can’t have direct access to elements in the list, it takes linear time $$O(n)$$ to access
+
+### 3. Queue
+
+#### The problem
+
+If you need to visit items in a certain order (e.g front to back). Examples of this could be waypoints or commands to an AI character.
+
+#### The Solution - Queue
+
+-   In C# we have the `Queue` class
+-   This is **First-In-Last-Out** (FILO) data structure
+-   You add elements to the end of the queue and you remove elements from the start
+
+#### Use Case
+
+-   An Real Time Strategy game where you can add **orders** to a unit, these are then carried out in **sequence**  
+-   An RTS where you have a **base** which **produces units**    
+-   A **spawning system**, where you have to defeat enemies in a **specific order**
+
+![Orders to a Unit](images/orders.png)
+*Fig. 15 - Orders to a Unit*
 
 ## Video Lecture
 
@@ -311,11 +357,11 @@ In this case a Linked List would be a better choice. In C# we have the `LinkedLi
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzEyNTY1LC0xNjU3MDQ5MTc5LDk4OD
-I4NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYs
-LTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OT
-k2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUy
-LDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMz
-E2MjI5NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0
-NDIyXX0=
+eyJoaXN0b3J5IjpbMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOT
+g5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0
+ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOT
+g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
+MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
+Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
+NDM1NDRdfQ==
 -->
