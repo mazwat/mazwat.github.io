@@ -197,8 +197,12 @@ In computer games and other realtime interactive systems there is high frequency
 *Fig. 12 - A lot of sorting is requred in realtime applications
 
 Data structures form the container for performing and managing these operations.
+
+## Types of Data Structure
+
+Data Structure Classes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5Mzc2MTcsNjY2OTg4MjcwLC0xNj
+eyJoaXN0b3J5IjpbLTE0MDQzMDEyMTEsNjY2OTg4MjcwLC0xNj
 kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
 MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
 wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
