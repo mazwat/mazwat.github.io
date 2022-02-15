@@ -289,9 +289,11 @@ Word of warning, it is often difficult to write generic code. If you have errors
 
 #### The Problem
 
-You have started using a **dynamic array** and you have noticed performance is poor on adding/removing
--   You then realise that you are **adding/removing** elements from the **middle** of the collection
--   You also realise that you **don’t** require **random access** to elements in the collection
+You have started using a **dynamic array** and you have noticed performance is poor on adding/removing. You then realise that you are **adding/removing** elements from the **middle** of the collection. You also realise that you **don’t** require **random access** to elements in the collection.
+
+#### The Solution
+
+In this case a Linked List would be a better choice. In C# we have the **LinkedList** class. Linked Lists contain elements (called **Nodes**) which usually have a reference to the previous and next Node in the list. This means that there is a slight increase in memory needed when working with lists.
 
 ## Video Lecture
 
@@ -301,7 +303,7 @@ You have started using a **dynamic array** and you have noticed performance is p
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzA5MjI5MiwtMTY1NzA0OTE3OSw5OD
+eyJoaXN0b3J5IjpbLTYwMjU3MDA2NSwtMTY1NzA0OTE3OSw5OD
 gyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2
 LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02OD
 k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
