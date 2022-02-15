@@ -239,12 +239,21 @@ Luckily in most programming languages we have a Data Structure which grows in si
 
 You should consider using a Dynamic Array over a normal array. 
 *One caveat - Dynamic Arrays are slightly more expensive!*
+
+
+
+
+
+## Video Lecture
+
+### Lecture - Software Architecture
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MT
-A4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3
-NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLT
-g2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0Njgx
-ODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xNDU2MjE4MTI4LC
-0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0NTMwMSwtNDM1
-MTE3MTQ2XX0=
+eyJoaXN0b3J5IjpbMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5Nj
+Q0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4Mjcw
+LC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMT
+Q2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQy
+NzU3MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLT
+E0NTYyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgx
+MDQ1MzAxXX0=
 -->
