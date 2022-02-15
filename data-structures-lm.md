@@ -109,6 +109,8 @@ A hashing algorithm is an $$0(1)$$ algorithm that can be used to very effectivel
 ![Hashing Tables](images/hashing.png)
 *Fig. 4 - Hashing Tables*
 
+Source: [https://it.wikipedia.org/wiki/Hash_table](https://it.wikipedia.org/wiki/Hash_table)
+
 A hash table locates the actual data at an address called an index that is always a whole number and therefore is always associated with that record.
 
 A bit like a book in a library its location is always known because of it’s numbering system. It resides at a fixed location no matter if the book is replaced with a newer copy. No sorting is required.
@@ -151,9 +153,9 @@ An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci n
 *Fig. 7 - Fibonacci Number Set*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjAzNDkxMywtMzA5MjEwNzI2LC0xND
-U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
-NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
-wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
-NzcwMzAwLDE3NDcxNTIxMzQsNTg5MDM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NT
+YyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1
+MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LD
+E1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3
+NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
 -->
