@@ -28,6 +28,8 @@ page_nav:
 
 # Object Oriented Programming
 
+![Hero Banner Image](images/oop-hero-banner.png)
+
 The following materials are derived from the *Object Oriented Programming lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
@@ -780,11 +782,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDI3MzY0OSwtMTkzMzUzNTQ4NSwzNj
-UzOTI3ODgsLTEwNDY4MzU2NzIsMzMwMjAzNjkwLDE2ODIyNzYw
-ODAsLTcwMDkwNjk2NSw1OTQ4NzU5ODcsNDczNzc1MzYwLC0xMT
-UzOTYzNjk0LC0xNDM1NjkxNzg4LDEzNTE1NTUxMjQsMTgxNTA1
-MDY5MSwxNDk4MDc3MzIzLC0xNTkxMzUyNDE0LDE0MjQwMDYzNT
-IsODk4ODM0ODUsLTEyMjYzMzk4NDcsLTE5MzkzNDIzMTAsMTQ5
-MzI0NDg3Nl19
+eyJoaXN0b3J5IjpbLTk1Njk0MjgyNCwtNTAwMjczNjQ5LC0xOT
+MzNTM1NDg1LDM2NTM5Mjc4OCwtMTA0NjgzNTY3MiwzMzAyMDM2
+OTAsMTY4MjI3NjA4MCwtNzAwOTA2OTY1LDU5NDg3NTk4Nyw0Nz
+M3NzUzNjAsLTExNTM5NjM2OTQsLTE0MzU2OTE3ODgsMTM1MTU1
+NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMjMsLTE1OTEzNTI0MT
+QsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIyNjMzOTg0NywtMTkz
+OTM0MjMxMF19
 -->

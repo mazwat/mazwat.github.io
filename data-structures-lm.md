@@ -163,31 +163,39 @@ Logarithmic notation is difficult to explain
 *Fig. 8 - Logarithmic Notation Graph*
 
 Logarithmic notation works on the basis of elimination. Getting rid of the things we know we are not looking for, that way we can arrive at the item we are searching for much quicker.
-
-- In a data set of **9 items**, you are searching for a **6**.
-- First **sort** the data.
-Logarithmic eliminates data that we don't need by choosing the **mid point** in the data. In this case **position 4** (fifth item in the set) and then C.
-- Completed in 3 iterations using logarithmic notation
+- In a data set of **9 items**, you are searching for a **6**
 
 ![Logarithmic Sample Set](images/log-data.png)
-*Fig. 9 - Logarithmic Sample Set
+*Fig. 9 - Logarithmic Sample Set*
 
-- **Linear** notation would take **9 iterations**
+Linear notation would take 9 iterations
+{: .callout .callout--info}
+
+- First **sort** the data.
+- In this case **position 4** (fifth item in the set) which has the value: **3**
+
+Logarithmic eliminates data that we don't need by choosing the mid point in the data. 
+{: .callout .callout--info}
+
+- We then check to see if the value searched is **higher** than the **midpoint**. 
+- If **true** we **remove** all values **below** the midpoint.
+- If **false** we **remove** all values **above** the midpoint.
+- Continue finding the midpoint and **repeat** until the value is found
+- In the example the search is completed in **3 iterations** using logarithmic notation
 
 ![Logarithmic Sample Set](images/log-sort.png)
-*Fig. 10 - Logarithmic Sort and Search
+*Fig. 10 - Logarithmic Sort and Search*
 
-
-
+We can better understand the process using a flow chart to explain the logic loop.
 
 ![LogarithmicFlow Chart](images/log-flow.svg)
-*Fig. 11 - Flow of a Logarithmic Sort
+*Fig. 11 - Flow of a Logarithmic Sort*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04Nj
-Y4MTIyMjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5
-OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMT
-E0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTEx
-NzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MC
-wtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3
-MTUyMTM0XX0=
+eyJoaXN0b3J5IjpbNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMD
+kwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEy
+MjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4OTgsLT
+UyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLTExNDIx
+MDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUxMTcxND
+YsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEzMDkwNjAsLTEy
+NTQ3NzExOF19
 -->
