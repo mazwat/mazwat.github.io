@@ -394,6 +394,15 @@ Stack has **3 principle methods**
 -   [Pop](http://msdn.microsoft.com/en-us/library/9say334k%28v=vs.100%29.aspx): remove and return the first object on the stack.
 -   [Peek](http://msdn.microsoft.com/en-us/library/1w32446f%28v=vs.100%29.aspx): get the first object without removing it.
 
+### 5. Associative Arrays
+
+#### The Problem
+-   If you need to store **one unique copy** of an element
+-   You want to access an **element via a key**
+-   You are doing **lots of searches** for an element
+- 
+#### The Problem
+
 ## Video Lecture
 
 ### Part 1
@@ -402,11 +411,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzQ1ODY4OCwxOTUxMTQzMDI4LC0xMT
-g3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1
-Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMT
-cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
-Mjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNj
-Y2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYy
-Mjk2MzJdfQ==
+eyJoaXN0b3J5IjpbODY3Njk0MSwxOTUxMTQzMDI4LC0xMTg3NT
+k0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1
+LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNz
+Y2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4
+LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OT
+g4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2
+MzJdfQ==
 -->
