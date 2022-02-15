@@ -349,6 +349,23 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 ![Orders to a Unit](images/orders.png)
 *Fig. 15 - Orders to a Unit*
 
+#### C# Queue Example
+```c#
+LinkedList<Transform> waypoints=new  LinkedList<Transform>();
+
+waypoints.AddLast(GameObject.Find("Waypoint1").Transform);
+waypoints.AddLast(GameObject.Find("Waypoint2").Transform);
+waypoints.AddLast(GameObject.Find(“Waypoint3”).Transform);
+
+foreach(Transform  t  in  waypoints) {
+	Debug.Log("Waypoint Locations “ + t.position.ToString());
+}
+
+waypoints.AddFirst(GameObject.Find("Waypoint0").Transform);
+LinkedListNode<Transform> waypoint2Node = linked.Find(GameObject.Find("Waypoint2"));
+waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
+```
+
 ## Video Lecture
 
 ### Part 1
@@ -357,11 +374,11 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTE0MzAyOCwtMTE4NzU5NDA3NywxOT
-g5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0
-ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOT
-g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
-MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
-Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
-NDM1NDRdfQ==
+eyJoaXN0b3J5IjpbLTMzMDA5MDU5NSwxOTUxMTQzMDI4LC0xMT
+g3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1
+Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMT
+cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
+Mjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNj
+Y2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYy
+Mjk2MzJdfQ==
 -->
