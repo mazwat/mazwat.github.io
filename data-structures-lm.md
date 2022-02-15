@@ -200,7 +200,7 @@ Data structures form the container for performing and managing these operations.
 
 ## Types of Data Structure
 
-We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. We are also primarily using examples in Unity game engine using C#.
+We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. We are also primarily using examples in Unity game engine using C#. We will look at specific problems and hoow a specifc class of 
 
 ### Data Structure Classes*
 
@@ -218,11 +218,11 @@ We are going to look at **Linear Data structures** -  a data structure is said t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMD
-E5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjcz
-NjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMT
-I2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4
-MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NC
-wxNjA2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2
-NjAzNDY0Nl19
+eyJoaXN0b3J5IjpbNTc1OTkyMDM1LDM5NjQ0NjEzOCwxNzYxMD
+g0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1
+LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtOD
+Y2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4
+OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgxMjgsLT
+ExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC00MzUx
+MTcxNDZdfQ==
 -->
