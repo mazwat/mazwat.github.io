@@ -366,6 +366,8 @@ unitsToBuild.Dequeue();
 ```
 Enqueue() adds an object to the queue. Dequeue() is a method to remove from the beginning of the Queue. The trivial drawback of this system is writing variations on the word Queue with it’s proliferation of U’s and E’s. Typos are always a pain!
 
+### 4. Stack
+
 ## Video Lecture
 
 ### Part 1
@@ -374,7 +376,7 @@ Enqueue() adds an object to the queue. Dequeue() is a method to remove from the 
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjU2MDIxNSwxOTUxMTQzMDI4LC0xMT
+eyJoaXN0b3J5IjpbMTIyODUzMzIyMiwxOTUxMTQzMDI4LC0xMT
 g3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1
 Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMT
 cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
