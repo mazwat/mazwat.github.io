@@ -474,6 +474,11 @@ characters.Sort(delegate (Character  c1, Character  c2) {
 	return (c1.health.CompareTo(c2.health));
 });
 ```
+Note for those unfamiliar with structs. **Structs** can be used to hold small data values that do not require inheritance, e.g. coordinate points, key-value pairs.
+Here you can see that the `delegate` sorts the list of `struct` Characters by their health using `CompareTo`.
+ 
+The following article helps to explains in more detail how to utilise delegates to sort lists:
+[https://www.techiedelight.com/sort-list-of-objects-csharp](https://www.techiedelight.com/sort-list-of-objects-csharp)
 
 ## Video Lecture
 
@@ -483,11 +488,11 @@ characters.Sort(delegate (Character  c1, Character  c2) {
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDQ3OTY5NywtNjcwMDM2NTUxLC0xMj
-U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
-OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
-UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
-NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
-gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
-ODgyNzBdfQ==
+eyJoaXN0b3J5IjpbOTY0NTI4MzMwLC02NzAwMzY1NTEsLTEyNT
+czNDUxNTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5
+NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NS
+w2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2
+NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OC
+wzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4
+ODI3MF19
 -->
