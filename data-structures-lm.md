@@ -241,6 +241,12 @@ Luckily in most programming languages we have a Data Structure which grows in si
 You should consider using a Dynamic Array over a normal array. 
 *One caveat - Dynamic Arrays are slightly more expensive!*
 
+#### Game Development Use Cases
+
+ 1. Manage enemies as they are spawned into the scene
+ 2. Keep track of players as they are added into the game
+ 3. Manage inventory systems
+
 
 
 
@@ -253,11 +259,11 @@ You should consider using a Dynamic Array over a normal array.
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OT
-k2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUy
-LDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMz
-E2MjI5NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0
-NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMz
-A5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0
-MTQ0MTBdfQ==
+eyJoaXN0b3J5IjpbODgzMDYwMTMxLDk4OTIxNDMwMSwxMTUyMD
+I4MTI5LC02ODk5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgs
+MTMyMDE5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOT
+AzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIy
+MjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNT
+I0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEw
+MzY3NF19
 -->
