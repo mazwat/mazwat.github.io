@@ -418,6 +418,30 @@ Stack has **3 principle methods**
 ![Save Game System](images/save-game.png)
 *Fig. 16 - Save Game System*
 
+#### C# Dictionary Example
+```c#
+Dictionary<string, int> highScoreTable = new  Dictionary<string, int>();
+highScores.Add(“Laura",200);
+highScores.Add(“Olu",2000);
+highScores[Laura]= 4000;
+
+foreach(KeyValuePair<string, int> pair  in highScoreTable)
+{
+	Debug.Log("High Score "+pair.Key+" “+pair.Value);
+}
+
+if (highScores.ContainsKey("Laura")) {
+	int  score = highScores[“Laura”];
+}
+highScores.Remove(“Laura”);
+```
+
+#### Additional Notes
+
+-   Iterating over a map has a slightly **annoying syntax**
+-   Associative Arrays tend to have **good performance for retrieval**
+-   If you add an item and its key already exists it may **overwrite** the value
+
 
 
 ## Video Lecture
@@ -428,11 +452,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMT
-Q1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2
-ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Ny
-w0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODky
-MTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOC
-wxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNjky
-ODgyNzc1XX0=
+eyJoaXN0b3J5IjpbLTE3Nzk4NzU0ODAsLTY3MDAzNjU1MSwtMT
+I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
+NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
+c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
+NzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMj
+k4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2
+OTg4MjcwXX0=
 -->
