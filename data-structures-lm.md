@@ -528,7 +528,7 @@ Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://d
 
 I have outlined the mathematical theory of big O notation which is used to classify algorithms according to how their run time or space requirements grow as the input size grows. I have also outlined a range of example data structures with use cases and examples that you can deploy in your own code and projects.
 
-Here are is some addtitional reference material:
+Here is some addtitional **reference** material to support this lecture:
 
 **Lists and Dictionaries in Unity**
 
@@ -550,11 +550,11 @@ Here are is some addtitional reference material:
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzMxMDQzMCwtNjcwMDM2NTUxLC0xMj
-U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
-OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
-UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
-NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
-gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
-ODgyNzBdfQ==
+eyJoaXN0b3J5IjpbNTE1OTA1NTYwLDE2MTczMTA0MzAsLTY3MD
+AzNjU1MSwtMTI1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQz
+MDI4LC0xMTg3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNz
+ksOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQy
+MTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOS
+wtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAx
+OTM5NTJdfQ==
 -->
