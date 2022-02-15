@@ -93,7 +93,7 @@ END FUNCTION
 ```
 **Graph**
 ![Constant Notation Graph](images/constant.png)
-*Fig. 2 - Constant Notation Graph*
+*Fig. 3 - Constant Notation Graph*
 
 The constant notation describes an algorithm that will always execute in the same execution time regardless of the size of the data set. For instance, an algorithm to retrieve the first value of a data set, will always be completed in one step, regardless of the number of values in the data set.
 
@@ -101,8 +101,8 @@ The constant notation describes an algorithm that will always execute in the sam
 
 A hashing algorithm is an $$0(1)$$ algorithm that can be used to very effectively locate/search a value/key when the data is stored using a hash table.
 
-![Constant Notation Graph](images/hashing.png)
-*Fig. 2 - Constant Notation Graph*
+![Hashing Tables](images/hashing.png)
+*Fig. 4 - Hashing Tables*
 
 A hash table locates the actual data at an address called an index that is always a whole number and therefore is always associated with that record.
 
@@ -141,8 +141,9 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNj
-gxMDQ1MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkz
-MTM4LDE1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC
-0zMTU3NzAzMDAsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTkzMTk5ODIxNywtMTE0MjEwMzY3NCwxNj
+A2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAz
+NDY0Niw0NDg1OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC
+03MzQ3NTg2MjksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAz
+NzI5OF19
 -->
