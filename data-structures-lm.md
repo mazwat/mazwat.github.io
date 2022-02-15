@@ -176,28 +176,26 @@ Linear notation would take 9 iterations
 - In this case **position 4** (fifth item in the set) which has the value: **3**
 Logarithmic eliminates data that we don't need by choosing the mid point in the data. 
 {: .callout .callout--info}
-- We then check to see if the value searched is higher than the midpoint. 
-- If true we remove all values below the midpoint.
-- If false we remove all values abov
-- Continue 
-
-- Completed in 3 iterations using logarithmic notation
-
+- We then check to see if the value searched is **higher** than the **midpoint**. 
+- If **true** we **remove** all values **below** the midpoint.
+- If **false** we **remove** all values **above** the midpoint.
+- Continue finding the midpoint and **repeat** until the value is found
+- In the example the search is completed in **3 iterations** using logarithmic notation
 
 ![Logarithmic Sample Set](images/log-sort.png)
 *Fig. 10 - Logarithmic Sort and Search
 
-
+We can beyy
 
 
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzczODg0MSwtMzE2MjI5NjMyLDE0Nj
-Y4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1
-NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xND
-U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
-NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
-wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
-NzcwMzAwXX0=
+eyJoaXN0b3J5IjpbMjkwMzk0NzkxLC0zMTYyMjk2MzIsMTQ2Nj
+g0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3
+MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NT
+YyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1
+MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LD
+E1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3
+NzAzMDBdfQ==
 -->
