@@ -23,7 +23,12 @@ page_nav:
 ---
 
 # Design Patterns
+
+![Hero Banner Image](images/patterns-hero-banner.png)
+
+The following materials are derived from the *Design Patterns lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+{: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMyMjg5NzYsLTIwMjgxODI5NjIsLT
-IxMzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMj
+EzMDY1OTk1NV19
 -->
