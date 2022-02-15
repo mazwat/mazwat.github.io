@@ -24,7 +24,7 @@ page_nav:
 
 # Electrical Circuits
 
-![Hero Banner Image](images/elctrical-hero-banner.png)
+![Hero Banner Image](images/electrical-hero-banner.png)
 
 The following materials are derived from the *Electrical Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
@@ -272,11 +272,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcxNDYxNzksMjY1NDAxOTI5LDI2NT
-QwMTkyOSwtMTE2MDEyMTM5MiwtMTk1MjM2NDkzMCwxMTY3MDEy
-OTg4LC03NjgzNzEwMzYsLTIwOTMxODAyNjksLTIwNDc0NzY0MD
-IsLTE1NjYyODkyMjcsLTE3MDI0NDI2NjQsMTE1NTY1Nzk5Nywx
-NDg0NjgyMDkwLC01OTM3MTk2NTQsMTY4MTE1NjQ3OSw5MTIwMT
-gxNjYsLTExMjM2NDE0NDIsLTExNzgxNDk5NjQsMjAyOTM5NTIx
-OCwtMTcwNDMzNzI2MF19
+eyJoaXN0b3J5IjpbLTM0OTc5MTUzNiwyNjU0MDE5MjksMjY1ND
+AxOTI5LC0xMTYwMTIxMzkyLC0xOTUyMzY0OTMwLDExNjcwMTI5
+ODgsLTc2ODM3MTAzNiwtMjA5MzE4MDI2OSwtMjA0NzQ3NjQwMi
+wtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1NjU3OTk3LDE0
+ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkxMjAxOD
+E2NiwtMTEyMzY0MTQ0MiwtMTE3ODE0OTk2NCwyMDI5Mzk1MjE4
+LC0xNzA0MzM3MjYwXX0=
 -->

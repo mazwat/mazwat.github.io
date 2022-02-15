@@ -194,15 +194,70 @@ We can better understand the process using a flow chart to explain the logic loo
 In computer games and other realtime interactive systems there is high frequency tracking of moving objects and statistics on those objects. This requires that we add, update, search, sort and delete data in the scene in real time. As we have previously seen there is a cost in time and memory of all this collection processing.
 
 ![Big Sort](images/many-objects.gif)
-*Fig. 12 - A lot of sorting is requred in realtime applications
+
+*Fig. 12 - A lot of sorting is requred in realtime applications*
 
 Data structures form the container for performing and managing these operations.
+
+## Types of Data Structure
+
+We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. 
+
+### Data Structure Types
+
+1.  Dynamic Arrays
+2.  Linked Lists
+3.  Queue
+4.  Stack
+5.  Associative Arrays
+6.  Operations on Collection
+
+These are typical to C# but many are also found or have equivalents in other languages.
+{: .callout .callout--info}
+
+We are primarily using examples in **Unity game engine using C#**. We will look at specific problems and how a specifc class of data structure can provide a solution through explanation and example.
+
+### Dynamic Arrays
+
+#### The Problem
+
+Arrays in C# are fixed in size. During development you need to know exactly how many item are going to be in the array. If you need to add elements and you don’t have enough space, you will need to carry out the following:
+
+-   Create a **new** array of the appropriate size
+-  **Copy** elements from the old array into this new one
+-   **Destroy** the old array
+-   **Add** in the new element
+
+The above process can be quite costly.
+
+#### The Solution - Dynamic Arrays (Lists)
+
+Luckily in most programming languages we have a Data Structure which grows in size when we require it. In C# we have the **List** class. These classes have the same properties as an array
+
+-   Items are located **contiguously** in memory
+-   We can **randomly access** elements using an index
+-   We can **iterate** through each element
+
+You should consider using a Dynamic Array over a normal array. 
+*One caveat - Dynamic Arrays are slightly more expensive!*
+
+
+
+
+
+## Video Lecture
+
+### Part 1
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+### Part 2
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5Mzc2MTcsNjY2OTg4MjcwLC0xNj
-kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
-MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
-wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
-MTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1Mz
-AxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1
-NjEzMDkwNjBdfQ==
+eyJoaXN0b3J5IjpbOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OT
+k2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUy
+LDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMz
+E2MjI5NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0
+NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMz
+A5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0
+MTQ0MTBdfQ==
 -->
