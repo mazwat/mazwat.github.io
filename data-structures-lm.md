@@ -418,6 +418,128 @@ Stack has **3 principle methods**
 ![Save Game System](images/save-game.png)
 *Fig. 16 - Save Game System*
 
+#### C# Dictionary Example
+```c#
+Dictionary<string, int> highScoreTable = new  Dictionary<string, int>();
+highScores.Add(“Laura",200);
+highScores.Add(“Olu",2000);
+highScores[Laura]= 4000;
+
+foreach(KeyValuePair<string, int> pair  in highScoreTable)
+{
+	Debug.Log("High Score "+pair.Key+" “+pair.Value);
+}
+
+if (highScores.ContainsKey("Laura")) {
+	int  score = highScores[“Laura”];
+}
+highScores.Remove(“Laura”);
+```
+#### Additional Notes
+-   Iterating over a map has a slightly **annoying syntax**
+-   Associative Arrays tend to have **good performance for retrieval** $$O(log(N))$$
+-   If you add an item and its key already exists it may **overwrite** the value
+
+### 6. Operations on Collections
+
+#### Sorting
+
+-   Sorting is where we order the items in a collection in a **specific** **order**
+-   There are a whole bunch of sorting algorithms including; Insertion sort, Heap sort, Quick sort (**please read about these!**)
+-   In C#, the best sorting algorithm will be picked depending on the size of the collection
+-   Most of the common data types don’t need additional work
+-   For **custom classes**, we have to write our own sorting algorithm
+
+#### Sorting C#
+
+-   There are few ways to sort a collection
+	1.  Provide a **custom delegate** function for the sort
+	2.  Provide a custom class which inherits from `IComparer`
+	3.  Your own class has to inherit from `IComparable`
+-   Often you will use option 3 as the **default sort**
+-   Which can then be overridden by option 1
+
+#### C# Example 1 - Sorting with Delegate
+```c#
+struct  Character {
+	string  name;
+	int  health;
+	int  strength;
+}
+//Adding omitted!
+List<Character> characters = new  List<Character>();
+
+//Sort by health
+characters.Sort(delegate (Character  c1, Character  c2) {
+	return (c1.health.CompareTo(c2.health));
+});
+```
+Note for those unfamiliar with structs. **Structs** can be used to hold small data values that do not require inheritance, e.g. coordinate points, key-value pairs.
+Here you can see that the `delegate` sorts the list of `struct` Characters by their health using `CompareTo`.
+ 
+The following article helps to explains in more detail how to utilise delegates to sort lists:
+[https://www.techiedelight.com/sort-list-of-objects-csharp](https://www.techiedelight.com/sort-list-of-objects-csharp)
+
+#### C# Example 2 - Sorting with IComparable
+```c#
+struct  Character:IComparable<Character>
+{
+	string  name;
+	int  health;
+	int  strength;
+	// sort by name
+	public  int  CompareTo(Character  compareCharacter)
+	{
+		return  name.CompareTo(compareCharacter.name);
+	}
+}
+//Adding omitted!
+List<Character> characters=new  List<Character>();
+
+//Sort will use the CompareTo in the struct or class
+characters.Sort()
+```
+Another approach is to use the interface of `IComparable` which imposes a natural order on things. In `IComparable` the `CompareTo` method is overridden
+
+as in the method which compares the current object with the specified object, as we saw in the previous approach. In `IComparable` the value now returned by the `compareTo()` method decides the relative order of the objects in the sorted list. A negative, zero and a positive value represents if the compared object is less than, equal to or more than the specified object. More on that shortly.
+
+In the following code, the `Character` class implements the `IComparable` interface and overrides its `CompareTo()` method. The List of Characters objects is then sorted using the no-arg `Sort` method.
+
+#### Points to note in C#
+
+The **CompareTo** function returns an **int** which can be the following
+
+-   **Less than zero**: The instance precedes the one passed in
+-   **Zero**: The objects are in the same order
+-   **Greater than zero**: The instance follows the one passed in  
+	- 1: Swap
+	- 0: Keep
+	- -1: Don't swap
+
+Another way to look at it is like a deck of cards that we shuffling into order based on higher lower principle.
+
+### ICompare vs IComparable
+
+The principle reason for choosing the different options is based on access. If you don’t have access to modify a specific class then implementing through the ICompare interface is recommended.
+
+Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)
+
+## Conclusion
+
+I have outlined the mathematical theory of big O notation which is used to classify algorithms according to how their run time or space requirements grow as the input size grows. I have also outlined a range of example data structures with use cases and examples that you can deploy in your own code and projects.
+
+Here are is some addtitional reference material:
+
+**Lists and Dictionaries in Unity**
+
+[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
+
+**Understanding Big ‘O’ Notation**
+
+[https://www.101computing.net/big-o-notation](https://www.101computing.net/big-o-notation)
+
+[http://bigocheatsheet.com/](http://bigocheatsheet.com/)
+
 
 
 ## Video Lecture
@@ -428,11 +550,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMT
-Q1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2
-ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Ny
-w0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODky
-MTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOC
-wxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNjky
-ODgyNzc1XX0=
+eyJoaXN0b3J5IjpbMTYxNzMxMDQzMCwtNjcwMDM2NTUxLC0xMj
+U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
+OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
+UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
+NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
+gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
+ODgyNzBdfQ==
 -->
