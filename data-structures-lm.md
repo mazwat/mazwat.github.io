@@ -503,7 +503,9 @@ Another approach is to use the interface of `IComparable` which imposes a natura
 
 as in the method which compares the current object with the specified object, as we saw in the previous approach. In `IComparable` the value now returned by the `compareTo()` method decides the relative order of the objects in the sorted list. A negative, zero and a positive value represents if the compared object is less than, equal to or more than the specified object. More on that shortly.
 
-In the following code, the Character class implements the IComparable interface (CLICK) and overrides its CompareTo() method (CLICK). The List of Characters objects is then sorted using the no-arg Sort method (CLICK).
+In the following code, the `Character` class implements the `IComparable` interface and overrides its `CompareTo()` method. The List of Characters objects is then sorted using the no-arg `Sort` method.
+
+
 ## Video Lecture
 
 ### Part 1
@@ -512,11 +514,11 @@ In the following code, the Character class implements the IComparable interface 
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgxNDQ4NzEsLTY3MDAzNjU1MSwtMT
-I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
-NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
-c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
-NzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMj
-k4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2
-OTg4MjcwXX0=
+eyJoaXN0b3J5IjpbLTg1NjMwOTIxOCwtNjcwMDM2NTUxLC0xMj
+U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
+OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
+UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
+NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
+gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
+ODgyNzBdfQ==
 -->
