@@ -27,6 +27,8 @@ page_nav:
 
 # Making Circuits
 
+![Hero Banner Image](images/electrical-hero-banner.png)
+
 The following materials are derived from the *Making Circuits lecture*. The video lecture is included at the bottom of the [document](#video-lecture).
 {: .callout .callout--warning}
 
@@ -44,7 +46,12 @@ Tinkercad is a way to simulate electrical circuits, but also to simulate circuit
 
 ### TinkerCAD Interface
 
-What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it through a simulation (2 in fig. 1) of the Arduino environment. You can drag components on to the stage from the right hand inspector (3 in fig. 1). We can also write code in order to demonstrate it (1 in fig. 1). However, this is just a test environment it's important to actually use your own Arduino and the Arduino IDE in conjunction with the USB connection to your Arduino. This is just a way to
+What tinkercad is very good at is simulating. The environment of Arduino so that we can build things with low cost in terms of putting it together and then we can test it. Some key things to take not of in the interface:
+1. You can write arduino C++ code (See in fig.1)
+2.  and test it through a simulation of how it would work in a physical set-up (See in fig. 1)
+3.  You can drag components on to the stage from the right hand inspector (See in fig. 1). 
+
+However, this is just a test environment it's important to actually use your own Arduino and the Arduino IDE in conjunction with the USB connection to your Arduino. This is just a way to
 test the process before you implement it for real.
 
 ![Simple Circuit](images/tc-simple.png)
@@ -212,11 +219,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTYwMTY4MywtODAyMTA3NzU5LDE3Mj
-k0MjQ3MzMsMTY3MDUxODU4NywtMTQxMjg5NjAzLC00NjM1NDM5
-MDksMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0NjkyMDE2NDEsLT
-E1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC0yMDk1
-MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4OTY5Mi
-wtMTc2NjcxNTIyOCwtMTc3MzY3OTI4NSwtNTMwMzY2NzE5LDE3
-NTI3NzAzNDFdfQ==
+eyJoaXN0b3J5IjpbNTExODkxODY2LC04ODE2MDE2ODMsLTgwMj
+EwNzc1OSwxNzI5NDI0NzMzLDE2NzA1MTg1ODcsLTE0MTI4OTYw
+MywtNDYzNTQzOTA5LDE1OTg0ODE1MDIsMTI0ODE5MTc3MywxND
+Y5MjAxNjQxLC0xNTI5ODIyNjI3LDU5Nzc0NTY0NiwtMTc4NjUw
+MDM4NSwtMjA5NTEyNjYyOCwxNDEwODIxMjUwLDQ0NDM4MjQ4My
+wyNzYwODk2OTIsLTE3NjY3MTUyMjgsLTE3NzM2NzkyODUsLTUz
+MDM2NjcxOV19
 -->
