@@ -459,7 +459,7 @@ highScores.Remove(“Laura”);
 -   Often you will use option 3 as the **default sort**
 -   Which can then be overridden by option 1
 
-#### C# Example - Sorting with Delegate
+#### C# Example 1 - Sorting with Delegate
 ```c#
 struct  Character {
 	string  name;
@@ -480,6 +480,40 @@ Here you can see that the `delegate` sorts the list of `struct` Characters by th
 The following article helps to explains in more detail how to utilise delegates to sort lists:
 [https://www.techiedelight.com/sort-list-of-objects-csharp](https://www.techiedelight.com/sort-list-of-objects-csharp)
 
+#### C# Example 2 - Sorting with IComparable
+```c#
+struct  Character:IComparable<Character>
+{
+	string  name;
+	int  health;
+
+int  strength;
+
+// sort by name
+
+public  int  CompareTo(Character  compareCharacter)
+
+{
+
+return  name.CompareTo(compareCharacter.name);
+
+}
+
+}
+
+  
+
+//Adding omitted!
+
+  
+
+List<Character> characters=new  List<Character>();
+
+//Sort will use the CompareTo in the struct or class
+
+characters.Sort()
+```
+
 ## Video Lecture
 
 ### Part 1
@@ -488,7 +522,7 @@ The following article helps to explains in more detail how to utilise delegates 
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NTI4MzMwLC02NzAwMzY1NTEsLTEyNT
+eyJoaXN0b3J5IjpbMzA5MTE1MTI3LC02NzAwMzY1NTEsLTEyNT
 czNDUxNTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5
 NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NS
 w2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2
