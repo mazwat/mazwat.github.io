@@ -408,6 +408,15 @@ Stack has **3 principle methods**
 -   It allows you to retrieve the items via the key
 -   This makes it a good choice for looking up large data sets
 
+#### Use Case
+
+-   If you are creating a **resource management system** for handling textures, models or other assets
+-   **Localisation system**, each language is stored in an Associative Array
+-   **Unit Manager**, a class to manage units created in the game
+-   **Save Game** System
+
+
+
 ## Video Lecture
 
 ### Part 1
@@ -416,11 +425,11 @@ Stack has **3 principle methods**
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMT
-E4NzU5NDA3NywxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4
-NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLT
-E3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2
-MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLD
-Y2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2
-MjI5NjMyXX0=
+eyJoaXN0b3J5IjpbLTEyNTczNDUxNTAsLTE0NTQ4NDQxNjksMT
+k1MTE0MzAyOCwtMTE4NzU5NDA3NywxOTg5Njg4NTQ4LC0xNjU3
+MDQ5MTc5LDk4ODI4NTc3NSw2MjIyODY0ODcsNDEzMzA5MTI0LD
+E2NjU0MjEzMTYsLTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNTIw
+MjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0OC
+wxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5
+MDM2NzM2MF19
 -->
