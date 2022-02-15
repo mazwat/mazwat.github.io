@@ -232,7 +232,7 @@ The above process can be quite costly.
 
 #### The Solution - Dynamic Arrays (Lists)
 
-Luckily in most programming languages we have a Data Structure which grows in size when we require it. In C# we have the **List** class. These classes have the same properties as an array
+Luckily in most programming languages we have a Data Structure which grows in size when we require it. In C# we have the `List` class. These classes have the same properties as an array
 
 -   Items are located **contiguously** in memory
 -   We can **randomly access** elements using an index
@@ -250,6 +250,8 @@ You should consider using a Dynamic Array over a normal array.
 ![Spawning Enemies](images/enemy-spawn.png)
 *Fig. 13 - Manage Spawning Enemies*
 
+#### C# List Example
+
 
 
 ## Video Lecture
@@ -260,7 +262,7 @@ You should consider using a Dynamic Array over a normal array.
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzMzYxODEsOTg5MjE0MzAxLDExNT
+eyJoaXN0b3J5IjpbLTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNT
 IwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0
 OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMj
 A5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLTg2Njgx
