@@ -50,7 +50,7 @@ How we want to define our code is based on two simple premises: **Simplicity** a
 One of the ways to make our code efficient is by optimising the search for data within a data set.
 Let's consider how we search a data set of 100 items for a single data point. For example in a data set of 100 items, you are searching for an ‘0’ amongst ‘X’s.
 
-![100 data points](images/100-data-points.png | width=100)
+![100 data points](images/100-data-points.png)
 *Fig. 1 - 100 data points in a data set*
 
  - The **best case** for finding the data is **1 iteration**
@@ -145,7 +145,7 @@ The exponential notation O(2N) describes an algorithm whose growth doubles with 
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mzg1NjE3NywtMzA5MjEwNzI2LC0xND
+eyJoaXN0b3J5IjpbMjE0NDI3NDgyMywtMzA5MjEwNzI2LC0xND
 U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
 NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
 wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
