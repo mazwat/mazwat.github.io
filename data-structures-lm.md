@@ -229,22 +229,18 @@ Arrays in C# are fixed in size. During development you need to know exactly how 
 
 The above process can be quite costly.
 
-#### The Solution - Dy
+#### The Solution - Dynamic Arrays (Lists)
 
--   Luckily in most programming languages we have a Data Structure which grows in size when we require it
-
--   In C# we have the **List** class
-
--   These classes have the same properties as an array
+Luckily in most programming languages we have a Data Structure which grows in size when we require it. In C# we have the **List** class. These classes have the same properties as an array
 
 -   Items are located **contiguously** in memory
--   We can **randomly access** elements using an index 􏰀
+-   We can **randomly access** elements using an index
 -   We can **iterate** through each element
 
--   You should consider using a Dynamic Array over a normal array
--   One caveat, Dynamic Arrays are slightly more expensive!
+You should consider using a Dynamic Array over a normal array. 
+*One caveat - Dynamic Arrays are slightly more expensive!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzczNzg1NiwzOTY0NDYxMzgsMTc2MT
+eyJoaXN0b3J5IjpbMjAyNjQ2NDEzMSwzOTY0NDYxMzgsMTc2MT
 A4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3
 NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLT
 g2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0Njgx
