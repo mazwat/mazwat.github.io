@@ -319,7 +319,15 @@ waypoints.AddFirst(GameObject.Find("Waypoint0").Transform);
 LinkedListNode<Transform> waypoint2Node = linked.Find(GameObject.Find("Waypoint2"));
 waypoints.AddAfter(waypoint2Node,GameObject.Find("SpecialQuest"));
 ```
-LinkedList give you control over where new items are placed in the list. For instance using methods like (CLICK) `AddLast`, (CLICK) AddFirst, AddBefore and (CLICK) AddAfter,. You have a wide variety fo methods to control the placement of items.
+LinkedList give you control over where new items are placed in the list. For instance using methods like `AddLast`, `AddFirst`, `AddBefore` and `AddAfter`. You have a wide variety fo methods to control the placement of items.
+
+#### Addtional Notes on Linked Lists
+
+-   Linked Lists usually support constant time insertions and deletions in the collection $$O(n)$$
+-   Also perform better than dynamic arrays for moving elements around the collection
+-   This feature means that Linked Lists are a good data structure if you need to sort your data
+-   Main drawback of Linked Lists is that you can’t have direct access to elements in the list, it takes linear time to access
+
 ## Video Lecture
 
 ### Part 1
@@ -328,11 +336,11 @@ LinkedList give you control over where new items are placed in the list. For ins
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NjQ1NzksLTE2NTcwNDkxNzksOTg4Mj
-g1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwt
-MTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OT
-YwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIs
-NjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMT
-YyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1NzM1MzA1NzYsLTE2NTcwNDkxNzksOT
+g4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMx
+NiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNj
+g5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5
+NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC
+0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0
+NTQ0MjJdfQ==
 -->
