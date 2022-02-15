@@ -281,7 +281,7 @@ In the previous section you would have noticed the following:
 
 You can write your own generic classes and functions but this is beyond the scope of this class. Here are some C# examples - [http://www.tutorialsteacher. com/csharp/csharp-generics](http://www.tutorialsteacher.%20com/csharp/csharp-generics)
 
-Word of warning, it is often difficult to write generic code. If you have errors they are often difficult to isolate as the compiler messages are so cryptic.apless
+Word of warning, it is often difficult to write generic code. If you have errors they are often difficult to isolate as the compiler messages are so cryptic.aplesspornhub.cstraplezz
 {: .callout .callout--warning}
 
 
@@ -297,11 +297,11 @@ Word of warning, it is often difficult to write generic code. If you have errors
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMD
-kxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMDEs
-MTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYxMD
-g0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNjkyODgyNzc1
-LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0MzU0NCwtOD
-Y2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MSwxMzQ2ODE4
-OThdfQ==
+eyJoaXN0b3J5IjpbLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMj
+I4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1
+Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5Nj
+Q0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4Mjcw
+LC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMT
+Q2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQy
+NzU3MV19
 -->
