@@ -200,7 +200,7 @@ Data structures form the container for performing and managing these operations.
 
 ## Types of Data Structure
 
-We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. We are also usi
+We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. We are also primarily using examples in Unity game engine using C#.
 
 ### Data Structure Classes*
 
@@ -218,7 +218,7 @@ We are going to look at **Linear Data structures** -  a data structure is said t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njg0NDUzLDE3NjEwODQwNDgsMTMyMD
+eyJoaXN0b3J5IjpbMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMD
 E5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjcz
 NjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMT
 I2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4
