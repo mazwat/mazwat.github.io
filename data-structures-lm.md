@@ -64,7 +64,7 @@ Big ‘O’ is always based on worse case scenario.
 - Therefore **N records** would take **N iterations**.
 - This can be written like this:
 
-$$0(N)$$
+$$O(N)$$
 
 **Performance** is represented by the **O** and the **N** represents **execution time or space used** - Hence the term Big ‘O’.
 
@@ -168,10 +168,10 @@ Logarithmic notation works on the basis of elimination. Getting rid of the thing
 - **Linear** notation would take **8 iterations**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM3MDY3MzEsLTc0NzQyNzU3MSwxMz
-Q2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYyMTgx
-MjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1MzAxLC
-00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LDE1NjEz
-MDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3NzAzMD
-AsMTc0NzE1MjEzNCw1ODkwMzcyOThdfQ==
+eyJoaXN0b3J5IjpbMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzND
+Y4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEy
+OCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMDEsLT
+QzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMw
+OTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMC
+wxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
 -->
