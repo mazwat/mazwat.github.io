@@ -160,18 +160,26 @@ An example of an $$O(2^N)$$ function is the recursive calculation of Fibonacci n
 Logarithmic notation is difficult to explain
 **Graph**
 ![Logarithmic Notation Graph](images/logarithmic.png)
-*Fig. 6 - Logarithmic Notation Graph*
+*Fig. 8 - Logarithmic Notation Graph*
 
 Logarithmic notation works on the basis of elimination. Getting rid of the things we know we are not looking for, that way we can arrive at the item we are searching for much quicker.
 
 - In a data set of **8 items**, you are searching for a **6**.
+
+![Logarithmic Sample Set](images/logarithmic.png)
+*Fig. 9 - Logarithmic Sample Set
+
 - **Linear** notation would take **8 iterations**
 
+![Logarithmic Sample Set](images/logarithmic.png)
+*Fig. 10 - Logarithmic Sort
+
+Logarithmic Completed in 3 iterations using logarithmic notation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzND
-Y4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEy
-OCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC02ODEwNDUzMDEsLT
-QzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1OTMxMzgsMTU2MTMw
-OTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2MjksLTMxNTc3MDMwMC
-wxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
+eyJoaXN0b3J5IjpbLTEyNTMxMTE1MjcsMTI2MjQ1NDQyMiwtNz
+Q3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4MTEsLTMwOTIxMDcy
+NiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NCwxNjA2NDE0NDEwLC
+02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2NjAzNDY0Niw0NDg1
+OTMxMzgsMTU2MTMwOTA2MCwtMTI1NDc3MTE4LC03MzQ3NTg2Mj
+ksLTMxNTc3MDMwMCwxNzQ3MTUyMTM0LDU4OTAzNzI5OF19
 -->
