@@ -247,7 +247,8 @@ You should consider using a Dynamic Array over a normal array.
  2. Keep track of players as they are added into the game
  3. Manage inventory systems
 
-
+![Spawning Enemies](images/enemy-spawn.png)
+*Fig. 13 - Manage Spawning Enemies*
 
 
 
@@ -259,11 +260,11 @@ You should consider using a Dynamic Array over a normal array.
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMDYwMTMxLDk4OTIxNDMwMSwxMTUyMD
-I4MTI5LC02ODk5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgs
-MTMyMDE5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOT
-AzNjczNjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIy
-MjIsMTI2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNT
-I0MDI4MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEw
-MzY3NF19
+eyJoaXN0b3J5IjpbLTIwMzIzMzYxODEsOTg5MjE0MzAxLDExNT
+IwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0
+OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMj
+A5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLTg2Njgx
+MjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC
+01MjQwMjgxMSwtMzA5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQy
+MTAzNjc0XX0=
 -->
