@@ -252,7 +252,16 @@ You should consider using a Dynamic Array over a normal array.
 
 #### C# List Example
 
-
+```C#
+List<int> scores = new List<int>();
+scores.Add(100);
+scores.Add(200);
+foreach(int  score  in  scores)	{
+	Debug.Log("Score is "+score.ToString());
+}
+int player1Score = scores[0];
+scores.Remove(100);
+```
 
 ## Video Lecture
 
@@ -262,11 +271,11 @@ You should consider using a Dynamic Array over a normal array.
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2NjI2NTMsOTg5MjE0MzAxLDExNT
-IwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYxMzgsMTc2MTA4NDA0
-OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMTY5Mjg4Mjc3NSwtMj
-A5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4NDM1NDQsLTg2Njgx
-MjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1NzEsMTM0NjgxODk4LC
-01MjQwMjgxMSwtMzA5MjEwNzI2LC0xNDU2MjE4MTI4LC0xMTQy
-MTAzNjc0XX0=
+eyJoaXN0b3J5IjpbLTExMzc5Mzc0MzksLTE3MTc2NjI2NTMsOT
+g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
+MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
+Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
+NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1Nz
+EsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xNDU2
+MjE4MTI4XX0=
 -->
