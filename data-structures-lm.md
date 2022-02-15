@@ -200,9 +200,21 @@ Data structures form the container for performing and managing these operations.
 
 ## Types of Data Structure
 
-Data Structure Classes
+### Data Structure Classes*
+
+1.  Dynamic Arrays
+2.  Linked Lists
+3.  Queue
+4.  Stack
+5.  Associative Arrays
+6.  Operations on Collection
+
+* These are typical to C# but many are also found or have equivalents in other languages.
+{: .callout .callout--info}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQzMDEyMTEsNjY2OTg4MjcwLC0xNj
+eyJoaXN0b3J5IjpbLTEzMTMzMjk5ODgsNjY2OTg4MjcwLC0xNj
 kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
 MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
 wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
