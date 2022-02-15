@@ -142,16 +142,16 @@ END FUNCTION
 ```
 **Graph**
 ![Exponential Notation Graph](images/exponential.png)
-*Fig. 5 - Exponential Notation Graph*
+*Fig. 6 - Exponential Notation Graph*
 
 The exponential notation O(2N) describes an algorithm whose growth doubles with each addition to the data set.
 An example of an $$0(2^N)$$ function is the recursive calculation of Fibonacci numbers:
 
-![Fibonacci Numbers](images/exponential.png)
-*Fig. 5 - Fibonacci Number Set*
+![Fibonacci Numbers](images/fibonacci.png)
+*Fig. 7 - Fibonacci Number Set*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjcyNTMxNywtMzA5MjEwNzI2LC0xND
+eyJoaXN0b3J5IjpbMjEzNjAzNDkxMywtMzA5MjEwNzI2LC0xND
 U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
 NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
 wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
