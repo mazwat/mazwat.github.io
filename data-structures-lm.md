@@ -217,7 +217,7 @@ These are typical to C# but many are also found or have equivalents in other lan
 
 We are primarily using examples in **Unity game engine using C#**. We will look at specific problems and how a specifc class of data structure can provide a solution through explanation and example.
 
-### Dynamic Arrays
+### 1. Dynamic Arrays
 
 #### The Problem
 
@@ -281,13 +281,17 @@ In the previous section you would have noticed the following:
 
 You can write your own generic classes and functions but this is beyond the scope of this class. Here are some C# examples - [http://www.tutorialsteacher. com/csharp/csharp-generics](http://www.tutorialsteacher.%20com/csharp/csharp-generics)
 
-Word of warning, it is often difficult to write generic code. If you have errors they are often difficult to isolate as the compiler messages are so cryptic.aplesspornhub.cstraplezz
+Word of warning, it is often difficult to write generic code. If you have errors they are often difficult to isolate as the compiler messages are so cryptic
 {: .callout .callout--warning}
 
 
+### 2. Linked Lists
 
+#### The Problem
 
-
+You have started using a **dynamic array** and you have noticed performance is poor on adding/removing
+-   You then realise that you are **adding/removing** elements from the **middle** of the collection
+-   You also realise that you **don’t** require **random access** to elements in the collection
 
 ## Video Lecture
 
@@ -297,11 +301,11 @@ Word of warning, it is often difficult to write generic code. If you have errors
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMj
-I4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1
-Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5Nj
-Q0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4Mjcw
-LC0xNjkyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMT
-Q2Njg0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQy
-NzU3MV19
+eyJoaXN0b3J5IjpbMTkwMzA5MjI5MiwtMTY1NzA0OTE3OSw5OD
+gyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2
+LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02OD
+k5NjAyOTgsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1
+Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjczNjAsLT
+MxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMTI2MjQ1
+NDQyMl19
 -->
