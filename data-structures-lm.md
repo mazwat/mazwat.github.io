@@ -262,6 +262,7 @@ foreach(int  score  in  scores)	{
 int player1Score = scores[0];
 scores.Remove(100);
 ```
+#### Addtional Notes on Lists
 
 ## Video Lecture
 
@@ -271,11 +272,11 @@ scores.Remove(100);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc5Mzc0MzksLTE3MTc2NjI2NTMsOT
-g5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0NDYx
-MzgsMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Njk4ODI3MCwtMT
-Y5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5NjMyLDE0NjY4
-NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1Nz
-EsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xNDU2
-MjE4MTI4XX0=
+eyJoaXN0b3J5IjpbMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5OD
+kyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEz
+OCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2OTg4MjcwLC0xNj
+kyODgyNzc1LC0yMDkwMzY3MzYwLC0zMTYyMjk2MzIsMTQ2Njg0
+MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3MS
+wxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NTYy
+MTgxMjhdfQ==
 -->
