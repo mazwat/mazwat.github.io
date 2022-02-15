@@ -200,7 +200,7 @@ Data structures form the container for performing and managing these operations.
 
 ## Types of Data Structure
 
-We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. There are two techniques of representing such linear structure within memory.
+We are going to look at **Linear Data structures** -  a data structure is said to be linear if its elements combine to form any specific order. We are also usi
 
 ### Data Structure Classes*
 
@@ -218,11 +218,11 @@ We are going to look at **Linear Data structures** -  a data structure is said t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTA4NDA0OCwxMzIwMTkzOTUyLDY2Nj
-k4ODI3MCwtMTY5Mjg4Mjc3NSwtMjA5MDM2NzM2MCwtMzE2MjI5
-NjMyLDE0NjY4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC
-03NDc0Mjc1NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEw
-NzI2LC0xNDU2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MT
-AsLTY4MTA0NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0
-ODU5MzEzOF19
+eyJoaXN0b3J5IjpbMTk0Njg0NDUzLDE3NjEwODQwNDgsMTMyMD
+E5Mzk1Miw2NjY5ODgyNzAsLTE2OTI4ODI3NzUsLTIwOTAzNjcz
+NjAsLTMxNjIyOTYzMiwxNDY2ODQzNTQ0LC04NjY4MTIyMjIsMT
+I2MjQ1NDQyMiwtNzQ3NDI3NTcxLDEzNDY4MTg5OCwtNTI0MDI4
+MTEsLTMwOTIxMDcyNiwtMTQ1NjIxODEyOCwtMTE0MjEwMzY3NC
+wxNjA2NDE0NDEwLC02ODEwNDUzMDEsLTQzNTExNzE0NiwtMTQ2
+NjAzNDY0Nl19
 -->
