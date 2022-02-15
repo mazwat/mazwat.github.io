@@ -185,17 +185,16 @@ Logarithmic eliminates data that we don't need by choosing the mid point in the 
 ![Logarithmic Sample Set](images/log-sort.png)
 *Fig. 10 - Logarithmic Sort and Search
 
-We can beyy
-
+We can better understand the process using a flow chart to explain the logic loop.
 
 ![LogarithmicFlow Chart](images/log-flow.svg)
 *Fig. 11 - Flow of a Logarithmic Sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMzk0NzkxLC0zMTYyMjk2MzIsMTQ2Nj
-g0MzU0NCwtODY2ODEyMjIyLDEyNjI0NTQ0MjIsLTc0NzQyNzU3
-MSwxMzQ2ODE4OTgsLTUyNDAyODExLC0zMDkyMTA3MjYsLTE0NT
-YyMTgxMjgsLTExNDIxMDM2NzQsMTYwNjQxNDQxMCwtNjgxMDQ1
-MzAxLC00MzUxMTcxNDYsLTE0NjYwMzQ2NDYsNDQ4NTkzMTM4LD
-E1NjEzMDkwNjAsLTEyNTQ3NzExOCwtNzM0NzU4NjI5LC0zMTU3
-NzAzMDBdfQ==
+eyJoaXN0b3J5IjpbLTMxMzAxNzg0NCwtMzE2MjI5NjMyLDE0Nj
+Y4NDM1NDQsLTg2NjgxMjIyMiwxMjYyNDU0NDIyLC03NDc0Mjc1
+NzEsMTM0NjgxODk4LC01MjQwMjgxMSwtMzA5MjEwNzI2LC0xND
+U2MjE4MTI4LC0xMTQyMTAzNjc0LDE2MDY0MTQ0MTAsLTY4MTA0
+NTMwMSwtNDM1MTE3MTQ2LC0xNDY2MDM0NjQ2LDQ0ODU5MzEzOC
+wxNTYxMzA5MDYwLC0xMjU0NzcxMTgsLTczNDc1ODYyOSwtMzE1
+NzcwMzAwXX0=
 -->
