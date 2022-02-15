@@ -380,6 +380,19 @@ Enqueue() adds an object to the queue. Dequeue() is a method to remove from the 
 -   This is **Last-In-First-Out** data structure
 -   You add elements to the top of the stack and you remove elements from the top
 
+#### C# Stack Example
+```c#
+Stack<Command> issuedCommands=new  Stack<Command>();
+issuedCommands.Push(new  Command(“Edit"));
+issuedCommands.Push(new  Command("Create"));
+issuedCommands.Push(new  Command(“Update”));  
+Debug.Log(“First Command Added” + issuedCommands.Peek());
+```
+Stack has **3 principle methods**
+
+-   [Push](http://msdn.microsoft.com/en-us/library/6335ax0f%28v=vs.100%29.aspx): add an object on the stack.
+-   [Pop](http://msdn.microsoft.com/en-us/library/9say334k%28v=vs.100%29.aspx): remove and return the first object on the stack.
+-   [Peek](http://msdn.microsoft.com/en-us/library/1w32446f%28v=vs.100%29.aspx): get the first object without removing it.
 
 ## Video Lecture
 
@@ -389,7 +402,7 @@ Enqueue() adds an object to the queue. Dequeue() is a method to remove from the 
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjA4MDgwNCwxOTUxMTQzMDI4LC0xMT
+eyJoaXN0b3J5IjpbMTUxMzQ1ODY4OCwxOTUxMTQzMDI4LC0xMT
 g3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1
 Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMT
 cxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYw
