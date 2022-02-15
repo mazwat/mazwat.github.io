@@ -442,7 +442,15 @@ highScores.Remove(“Laura”);
 
 ### 6. Operations on Collections
 
+#### Sorting
 
+-   Sorting is where we order the items in a collection in a **specific** **order**
+-   There are a whole bunch of sorting algorithms including; Insertion sort, Heap sort, Quick sort (**please read about these!**)
+-   In C#, the best sorting algorithm will be picked depending on the size of the collection
+-   Most of the common data types don’t need additional work
+-   For **custom classes**, we have to write our own sorting algorithm
+
+#### Sorting 
 
 ## Video Lecture
 
@@ -452,11 +460,11 @@ highScores.Remove(“Laura”);
 ### Part 2
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA4NzQ3MzAsLTY3MDAzNjU1MSwtMT
-I1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC0xMTg3
-NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4Mjg1Nz
-c1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNiwtMTcx
-NzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5OTYwMj
-k4LDM5NjQ0NjEzOCwxNzYxMDg0MDQ4LDEzMjAxOTM5NTIsNjY2
-OTg4MjcwXX0=
+eyJoaXN0b3J5IjpbMTkwMzEzMDEwNSwtNjcwMDM2NTUxLC0xMj
+U3MzQ1MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1
+OTQwNzcsMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3Nz
+UsNjIyMjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3
+NjYyNjUzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOT
+gsMzk2NDQ2MTM4LDE3NjEwODQwNDgsMTMyMDE5Mzk1Miw2NjY5
+ODgyNzBdfQ==
 -->
