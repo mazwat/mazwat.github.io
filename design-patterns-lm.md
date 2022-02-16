@@ -176,14 +176,28 @@ public  class  InstantiateEnemyFactory : EnemyFactory
 #### Example - The Client
 
 ```c#
-
+class  Program{
+	static  void  Main(string[] args)
+	{
+		//random number
+		int type = new Random().Next(1, 1000)% 2 + 1;
+		//Instance of the class
+		EnemyFactory  factory = new  InstantiateEnemyFactory();
+		IFactory  newEnemy = factory.InstantiateEnemy(type);
+		newEnemy.Damage(20);
+		type = new Random().Next(1, 2000)%2 + 1;
+		IFactory  newEnemy2 = factory.InstantiateEnemy(type);
+		newEnemy2.Damage(20);
+		Console.ReadKey();
+	}
+}
 ```
 ```c#
 ```
 
 In The factory Class we override the method with `switch` statement that will return the objects based on the input number. As a return type we use interface `IFactory`, this way we can return any object that inherits from it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTAwMjMyNCw0OTA1MjUzMzksOTkyNj
+eyJoaXN0b3J5IjpbMTgyMTQ2NzA3NCw0OTA1MjUzMzksOTkyNj
 kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
 MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
 Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
