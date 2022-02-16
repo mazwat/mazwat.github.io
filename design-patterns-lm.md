@@ -99,7 +99,7 @@ Prototype|Flyweight|Memento
 
 ## Creational Patterns
 
-### Factory
+### 1. Factory
 
 Factory is used to create an object from instance of another class.  In Factory pattern, we create object without exposing the creation logic. This helps to deal with large and more complex programs. In this pattern, an interface is used for creating an object, but lets subclasses decide which class to instantiate. Creation process is done in run time.
 
@@ -200,7 +200,7 @@ Factory defines an interface for creating an object, but lets subclasses decide 
 You can see this example as a **Visual Studio App** in this repo:\
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
-### Abstract Factory
+### 2. Abstract Factory
 
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
 fig. 4 - Visualising Abstract Factory
@@ -343,12 +343,19 @@ static  void  Main(string[] args)
 ```
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
+
+### 3. Singleton
+
+A singleton guarantees** that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the statement above
+-   It is used for **manager classes** which track some sort of Global State
+-   Some programmer’s consider Singletons to be an anti-pattern  
+    **Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIwMDI1OTEsLTE1NTk4NjE5MzEsLT
-IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
-MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLD
-Q5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIw
-ODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNz
-gsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIw
-MjgxODI5NjJdfQ==
+eyJoaXN0b3J5IjpbLTgyMzk1ODI2MSwtMTU1OTg2MTkzMSwtMj
+A3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUx
+MjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsND
+kwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4
+NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OC
+wtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAy
+ODE4Mjk2Ml19
 -->
