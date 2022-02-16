@@ -197,15 +197,19 @@ The last step is to create the client that will use the factory class. Numbers d
 
 Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
+You can see this example as Visual Studio App here:
+[https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
+
+### Factory
 
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNj
-kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
-MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
-Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
-NjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTE4MTQ2ODcyNTQsMjEwNzk0MDc1MSw0OT
+A1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1
+NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC
+01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4
+MTgyOTYyLC0yMTMwNjU5OTU1XX0=
 -->
