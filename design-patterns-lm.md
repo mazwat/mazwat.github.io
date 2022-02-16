@@ -71,7 +71,7 @@ Design patterns have some basic similarities there is almost always a **client**
 Design patterns are divided into 3 principle types which relate to their role in a process or application.
 
 ![Relationships between objects](images/dp-categories.svg)
-*Fig. 1 - The 3 main categories of Design Patterns*
+*Fig. 2 - The 3 main categories of Design Patterns*
 
 Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in ***bold***.
 
@@ -103,14 +103,15 @@ Prototype|Flyweight|Memento
 
 Factory is used to create an object from instance of another class.  In Factory pattern, we create object without exposing the creation logic. This helps to deal with large and more complex programs. In this pattern, an interface is used for creating an object, but lets subclasses decide which class to instantiate. Creation process is done in run time.
 
-
+![UML for Factory Example](images/factory-uml.png)
+fig. 3 - UML for Facotry Example 
 
 In this example UML from a typical game where Enemy object is created, and its type is based on random number. Object is created in run time.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEyMzUyODAsOTkyNjkxMjEzLC0xND
-M5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0
-Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OC
-wxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbMTU3OTAwMjE2MCw5OTI2OTEyMTMsLTE0Mz
+k0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3
+OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LD
+E5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 
 -->
