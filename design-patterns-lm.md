@@ -73,17 +73,17 @@ Design patterns are divided into 3 principle types which relate to their role in
 ![Relationships between objects](images/dp-categories.svg)
 *Fig. 1 - The 3 main categories of Design Patterns*
 
-Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in bold.
+Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in ***bold***.
 
 **Creational**|**Structural**|**Behavioural**
 :-----:|:-----:|:-----:
 ***Abstract Factory***|Adapter|Chain of Responsibility
-Builder|Bridge|Command
+Builder|Bridge|***Command***
 ***Factory***|Composite|Interpreter
-Object|Decorator|Iterator
+Object|***Decorator***|Iterator
 Pool|Facade|Mediator
 Prototype|Flyweight|Memento
-Singleton|Proxy|Observer
+***Singleton***|Proxy|***Observer***
  | |State
  | |Strategy
  | |Template
@@ -92,8 +92,8 @@ Singleton|Proxy|Observer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzM0MDU0LC0xNDM5NDAyMzYwLC05Mz
-YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
-Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
-0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTY1MTM3NDk5NCwtMTQzOTQwMjM2MCwtOT
+M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
+ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
+wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
 -->
