@@ -202,22 +202,67 @@ You can see this example as a **Visual Studio App** in this repo:\
 
 ### Abstract Factory
 
-Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
-
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
 fig. 4 - Visualising Abstract Factory
 
-In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
+Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
 
 #### UML
+
+In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
+
+
 
 ![Visualising Abstract Factory](images/abstract-uml.png)
 fig. 5 - Abstract Factory UML diagram
 
 ```c#
+interface  IEnemyFactory
+{
+	IWeapon GetWeapon();
+	IArmor GetArmour();
+}
 ```
 
 ```c#
+  
+
+class  Mage : IEnemyFactory
+{
+	public  IWeapon  GetWeapon()
+{
+
+return new Wand();
+}
+	public IArmor GetArmor()
+{
+
+return new Cloak();
+}
+
+}
+
+class  Warrior : IEnemyFactory
+
+{
+
+public  IWeapon  GetWeapon()
+
+{
+
+return new Sword();
+
+}
+
+public IArmor GetArmor()
+
+{
+
+return new BodyArmour();
+
+}
+
+}
 ```
 
 ```c#
@@ -231,10 +276,10 @@ fig. 5 - Abstract Factory UML diagram
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODY0MjQyNCwzOTI4ODE5MTMsLTgzOT
-M5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1
-MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
-YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
-Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
-0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbODQ4NjE0OTE2LDM5Mjg4MTkxMywtODM5Mz
+k1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUx
+LDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNj
+IwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4Nzgy
+NzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLT
+IwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
