@@ -193,11 +193,9 @@ class  Program{
 	}
 }
 ```
-The last step is to create the client that will use the factory class. Numbers don’t have to be random. I’m using random numbers to generate random enemies from the factory. In a real world example we would create a list of enemies rather than choosing name for each of them.
+The last step is to create the client that will use the factory class. Numbers don’t have to be random. I’m using random numbers to generate random enemies from the factory. In a real world example we would create a list of enemies rather than choosing name for each of them. This pattern is very simple and effective.
 
-This pattern is very simple and effective.
-
-Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. CLICK Factory Method lets a class defer instantiation to subclasses.
+Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 
 ```c#
@@ -205,9 +203,9 @@ Factory defines an interface for creating an object, but lets subclasses decide 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MDMwODQ3LDQ5MDUyNTMzOSw5OTI2OT
-EyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQy
-LC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNj
-U4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2
-NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNj
+kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
+MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
+Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
+NjU5OTU1XX0=
 -->
