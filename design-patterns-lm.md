@@ -60,15 +60,17 @@ Names and specifies the design structure explicitly and thereby distils design e
 
 ### Formalising the Relationship between Objects
 
-Design patterns have some basic similarities there is almost always a client that requests something or makes use of the pattern. There is also a subject that is usually creating, producing, changing, observing or providing access to the object which is usually an product in the system or a game object on screen.
+Design patterns have some basic similarities there is almost always a **client** that requests something or makes use of the pattern. There is also a **subject** that is usually creating, producing, changing, observing or providing access to the object which is usually an **product** in the system or a game object on screen.
 
 ![Relationships between objects](images/objects-dp.svg)
+
 *Fig. 1 - Relationships between objects*
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOT
-c1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1
-ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbNDUzNjM1NzI4LC0zMzg3NDEzNDIsLTIwNz
+Q3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUy
+OTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV
+19
 -->
