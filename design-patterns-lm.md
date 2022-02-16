@@ -112,7 +112,7 @@ In this example UML from a typical game where Enemy object is created, and its t
 
 #### Example - The Factory
 
-First let’s create Interface that will be shared between all enemies that can be crated with Factory. This will be used by client.
+First let’s create Interface that will be shared between all enemies that can be created with Factory. This will be used by client.
 
 ```c#
 public  interface  IFactory
@@ -120,7 +120,7 @@ public  interface  IFactory
 	void Damage(int dmg);
 }
 ```
-Now we need to create Classes that will inherit this interface. In the example this will be EnemyType1 and EnemyTy2.
+Now we need to create Classes that will inherit this interface. In the example this will be `EnemyType1` and `EnemyType2`.
   
 ```c#
 public  class  EnemyType1 : IFactory
@@ -172,11 +172,20 @@ public  class  InstantiateEnemyFactory : EnemyFactory
 	}
 }
 ```
+
+#### Example - The Client
+
+```c#
+
+```
+```c#
+```
+
 In The factory Class we override the method with `switch` statement that will return the objects based on the input number. As a return type we use interface `IFactory`, this way we can return any object that inherits from it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAyMTE3NTMsNDkwNTI1MzM5LDk5Mj
-Y5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEz
-NDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC
-02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEz
-MDY1OTk1NV19
+eyJoaXN0b3J5IjpbMTg1OTAwMjMyNCw0OTA1MjUzMzksOTkyNj
+kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
+MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
+Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
+NjU5OTU1XX0=
 -->
