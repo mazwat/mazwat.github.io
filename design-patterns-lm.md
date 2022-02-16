@@ -197,7 +197,7 @@ The last step is to create the client that will use the factory class. Numbers d
 
 Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
-You can see this example as Visual Studio App in this repo:\
+You can see this example as a **Visual Studio App** in this repo:\
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
 ### Abstract Factory
@@ -209,18 +209,32 @@ fig. 4 - Visualising Abstract Factory
 
 In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
 
+#### UML
+
 ![Visualising Abstract Factory](images/abstract-uml.png)
 fig. 5 - Abstract Factory UML diagram
 
 ```c#
 ```
 
+```c#
+```
+
+```c#
+```
+
+```c#
+```
+
+```c#
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyODgxOTEzLC04MzkzOTUxMjQsMjU2Nz
-A3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1MzM5
-LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMz
-g3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5
-NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2Mi
-wtMjEzMDY1OTk1NV19
+eyJoaXN0b3J5IjpbLTkwODY0MjQyNCwzOTI4ODE5MTMsLTgzOT
+M5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1
+MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
+YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
+Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
+0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
 -->
