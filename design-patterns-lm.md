@@ -283,7 +283,7 @@ class  Wand : IWeapon
 {
 	public  string  Item()
 	{
-	return "Magic Wand";
+		return "Magic Wand";
 	}
 }
 
@@ -354,11 +354,11 @@ Singleton is a basic design pattern is useful because it guarantees that there i
 Some programmer’s consider Singletons to be an anti-pattern
 **Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDc2ODI2NCwtMTg1ODE5NDg3NCwtMT
-U1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgx
-OTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LD
-IxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQw
-MjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OT
-MsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkw
-ODQ2NTgxM119
+eyJoaXN0b3J5IjpbLTEwNTA1NTg1MTIsLTE4NTgxOTQ4NzQsLT
+E1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4
+MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNi
+wyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0
+MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OT
+kzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5
+MDg0NjU4MTNdfQ==
 -->
