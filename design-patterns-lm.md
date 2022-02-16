@@ -211,7 +211,7 @@ Abstract factory is similar to factory but this time we will encapsulate all cla
 
 In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
 
-![Visualising Abstract Factory](images/abstract-uml.png)
+![Abstract Factory UML](images/abstract-uml.png)
 fig. 5 - Abstract Factory UML diagram
 
 #### Example - The Factory
@@ -344,11 +344,11 @@ static  void  Main(string[] args)
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMT
-I3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEz
-OSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OT
-I2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQx
-MzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MC
-wtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIx
-MzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzIwMDI1OTEsLTE1NTk4NjE5MzEsLT
+IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
+MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLD
+Q5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIw
+ODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNz
+gsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIw
+MjgxODI5NjJdfQ==
 -->
