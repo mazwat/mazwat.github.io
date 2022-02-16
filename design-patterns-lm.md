@@ -302,20 +302,60 @@ class  Cloak : IArmour
 ```
 #### Example - The Client
 
-Client is the last part is to create. Here we will create instance of the factory and spawn our enemies  and define their weapons and armour. 
+Client is the last part is to create. Here we will create instance of the factory and spawn our enemies and define their weapons and armour. 
 
-  
-
-Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 ```c#
-```
+class  Client
+{
+	IEnemyFactory  factory = null;
+	public  void  SpawnEnemy(string  enemy)
+{
 
+if (enemy == "Warrior")
+
+{
+
+factory = new Warrior();
+
+Console.WriteLine("New Warrior equipment:");
+
+Console.WriteLine(factory.GetWeapon().Item());
+
+Console.WriteLine(factory.GetArmour().Item());
+
+}
+
+else if (enemy == "Mage")
+
+{
+
+factory = new Mage();
+
+Console.WriteLine("New Mage equipment: ");
+
+Console.WriteLine(factory.GetWeapon().Item());
+
+Console.WriteLine(factory.GetArmour().Item());
+
+}
+
+else
+
+{
+
+Console.WriteLine("Wrong type");
+
+}
+
+}
+```
+Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUzMzA4ODUsMzkyODgxOTEzLC04Mz
-kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
-NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOT
-M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
-ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
-wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
+eyJoaXN0b3J5IjpbMTgzMTM5NzYyOCwzOTI4ODE5MTMsLTgzOT
+M5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1
+MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
+YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
+Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
+0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
 -->
