@@ -110,7 +110,7 @@ fig. 3 - UML for Factory Example
 
 In this example UML from a typical game where Enemy object is created, and its type is based on random a number. Object is created in run time.
 
-#### E
+#### Example - The Factory
 
 First let’s create Interface that will be shared between all enemies that can be crated with Factory. This will be used by client.
 
@@ -143,10 +143,22 @@ public  class  EnemyType2 : IFactory
 	}
 }
 ```
+
+#### Example - The Interface
+
+```c#
+public  abstract  class  EnemyFactory
+{
+	public  abstract  IFactory  InstantiateEnemy(int  type);
+}
+```
+
+```c#
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM1NDM1OTgsNDkwNTI1MzM5LDk5Mj
-Y5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEz
-NDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC
-02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEz
-MDY1OTk1NV19
+eyJoaXN0b3J5IjpbNTU1NTM3MjAwLDQ5MDUyNTMzOSw5OTI2OT
+EyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQy
+LC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNj
+U4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2
+NTk5NTVdfQ==
 -->
