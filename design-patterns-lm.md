@@ -209,18 +209,18 @@ fig. 4 - Visualising Abstract Factory
 
 In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
 
-![Visualising Abstract Factory](images/abstract-factory-pic.png)
-fig. 4 - Visualising Abstract Factory
+![Visualising Abstract Factory](images/abstract-uml.png)
+fig. 5 - Abstract Factory UML diagram
 
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODIxMzM4MCwtODM5Mzk1MTI0LDI1Nj
-cwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMz
-OSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMz
-M4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYw
-OTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5Nj
-IsLTIxMzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMzkyODgxOTEzLC04MzkzOTUxMjQsMjU2Nz
+A3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1MzM5
+LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMz
+g3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5
+NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2Mi
+wtMjEzMDY1OTk1NV19
 -->
