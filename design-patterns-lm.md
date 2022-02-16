@@ -48,7 +48,17 @@ Design Patterns are intended for object orientated systems as they tend to exhib
 -   **Flexibility**
 -   **Modularity**
 -   **Elegance**
+
+Abstracts a recurring design structure and comprises class and/or object
+
+-   **dependencies**
+-   **structures**
+-   **interactions**
+-   **conventions**
+
+-   names and specifies the design structure explicitly
+-   and thereby distils design experience
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzODMzNTcxLDE5MDg0NjU4MTMsLTIwMj
+eyJoaXN0b3J5IjpbNjIwOTI3ODk2LDE5MDg0NjU4MTMsLTIwMj
 gxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
