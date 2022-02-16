@@ -73,7 +73,7 @@ Design patterns are divided into 3 principle types which relate to their role in
 ![Relationships between objects](images/dp-categories.svg)
 *Fig. 2 - The 3 main categories of Design Patterns*
 
-Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in ***bold***.
+Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subset which are highlighted below in ***bold***.
 
 **Creational**|**Structural**|**Behavioural**
 :-----:|:-----:|:-----:
@@ -197,24 +197,158 @@ The last step is to create the client that will use the factory class. Numbers d
 
 Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
-You can see this example as Visual Studio App here:
+You can see this example as a **Visual Studio App** in this repo:\
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
 ### Abstract Factory
 
-Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
-
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
 fig. 4 - Visualising Abstract Factory
 
-```c#
-```
+Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
 
+#### UML
+
+In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
+
+![Visualising Abstract Factory](images/abstract-uml.png)
+fig. 5 - Abstract Factory UML diagram
+
+#### Example - The Factory
+
+```c#
+interface  IEnemyFactory
+{
+	IWeapon GetWeapon();
+	IArmor GetArmour();
+}
+```
+The first thing is to create the interface for Factory, that will be used to specify the equipment of each enemy.
+```c#
+class  Mage : IEnemyFactory
+{
+	public  IWeapon  GetWeapon()
+	{
+		return new Wand();
+	}
+	public IArmor GetArmor()
+	{
+		return new Cloak();
+	}
+}
+
+class  Warrior : IEnemyFactory
+{
+	public  IWeapon  GetWeapon()
+	{
+		return new Sword();
+	}
+	public IArmor GetArmor()
+	{
+		return new BodyArmour();
+	}
+}
+```
+Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
+
+#### Example - The Product
+
+In next step we will create interface for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
+
+```c#
+interface  IWeapon
+{
+	string Item();
+}
+
+interface  IArmour
+{
+	string Item();
+}
+```
+In Concrete classes methods will return string values  that will be printed to the console.
+```c#
+class  Sword : IWeapon
+{
+	public  string  Item()
+	{
+		return  "Iron Sword";
+	}
+}
+
+class  Wand : IWeapon
+{
+	public  string  Item()
+	{
+	return "Magic Wand";
+	}
+}
+
+class  BodyArmour : IArmour
+{
+	public  string  Item()
+	{
+	return  "Iron Body Armor";
+	}
+}
+
+class  Cloak : IArmour
+{
+	public  string  Item()
+	{
+	return  "Magic Cloak";
+	}
+}
+```
+#### Example - The Client
+
+Client is the last part is to create. Here we will create instance of the factory and spawn our enemies and define their weapons and armour. 
+
+```c#
+class  Client
+{
+	IEnemyFactory  factory = null;
+	public  void  SpawnEnemy(string  enemy)
+	{
+		if (enemy == "Warrior")
+		{
+			factory = new Warrior();
+			Console.WriteLine("New Warrior equipment:");
+			Console.WriteLine(factory.GetWeapon().Item());
+			Console.WriteLine(factory.GetArmour().Item());
+		}
+		else if (enemy == "Mage")
+		{
+			factory = new Mage();
+			Console.WriteLine("New Mage equipment: ");
+			Console.WriteLine(factory.GetWeapon().Item());
+			Console.WriteLine(factory.GetArmour().Item());
+		}
+		else
+		{
+			Console.WriteLine("Wrong type");
+		}
+	}
+}
+```
+```c#
+//Main method
+static  void  Main(string[] args)
+{
+	Client client = new Client();
+	client.SpawnEnemy("Mage");
+	client.SpawnEnemy("Warrior");
+	Console.Read();
+}
+```
+Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMD
-c5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2
-MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLT
-k3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2
-NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
+eyJoaXN0b3J5IjpbLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMT
+I3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEz
+OSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OT
+I2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQx
+MzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MC
+wtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIx
+MzA2NTk5NTVdfQ==
 -->
