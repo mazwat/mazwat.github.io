@@ -32,8 +32,14 @@ The following materials are derived from the *Design Patterns lecture*. The vide
 
 ## Introduction
 
-Design patterns was written in 1994 by the (… read first line). Design patterns are set of procedures or patterns that help to make OOP code more effective and reusable.
+Design patterns was written in 1994 by the ‘Gang of Four’ - Erich Gamma, John Vlissides, Richard Helm &  Ralph Johnson. Design patterns are set of procedures or patterns that help to make OOP code more effective and reusable.
+
+Design patterns establish consistency that helps developers build and modify code safely avoiding common architecting problems. 
+
+- Using consistent methods to fix and to avoid issues. 
+- Having a shared language to understand common problems
+- Adhering to the SOLID principles of object-oriented programming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MjU3MDk1LDE5MDg0NjU4MTMsLTIwMj
+eyJoaXN0b3J5IjpbMzY0NjQ4MzgyLDE5MDg0NjU4MTMsLTIwMj
 gxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
