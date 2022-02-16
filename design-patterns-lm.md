@@ -211,10 +211,10 @@ Abstract factory is similar to factory but this time we will encapsulate all cla
 
 In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
 
-
-
 ![Visualising Abstract Factory](images/abstract-uml.png)
 fig. 5 - Abstract Factory UML diagram
+
+#### Example - The Factory
 
 ```c#
 interface  IEnemyFactory
@@ -250,6 +250,8 @@ class  Warrior : IEnemyFactory
 }
 ```
 Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
+
+#### Example - The Product
 
 In next step we will create interface for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
 
@@ -295,20 +297,25 @@ class  Cloak : IArmour
 	public  string  Item()
 	{
 	return  "Magic Cloak";
-}
-
+	}
 }
 ```
+#### Example - The Client
 
+Client is the last part is to create. Here we will create instance of the factory and spawn our enemies  and define their weapons and armour. 
+
+  
+
+Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTk1MjgwOCwzOTI4ODE5MTMsLTgzOT
-M5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1
-MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
-YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
-Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
-0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTIxMjUzMzA4ODUsMzkyODgxOTEzLC04Mz
+kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
+NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOT
+M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
+ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
+wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
 -->
