@@ -331,13 +331,24 @@ class  Client
 	}
 }
 ```
+```c#
+//Main method
+static  void  Main(string[] args)
+{
+	Client client = new Client();
+	client.SpawnEnemy("Mage");
+	client.SpawnEnemy("Warrior");
+	Console.Read();
+}
+```
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODc4ODY3MywxMjc5NzY3MDYsMzkyOD
-gxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2
-LDIxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOT
-QwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5
-OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMT
-kwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
+eyJoaXN0b3J5IjpbLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mj
+g4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMy
+NiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mz
+k0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3
+OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LD
+E5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
+
 -->
