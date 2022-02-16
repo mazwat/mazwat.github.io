@@ -346,16 +346,16 @@ Abstract Factory facilitates an interface for creating families of related or de
 
 ### 3. Singleton
 
-A singleton guarantees** that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the statement above
--   It is used for **manager classes** which track some sort of Global State
--   Some programmer’s consider Singletons to be an anti-pattern  
-    **Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
+Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
+
+Some programmer’s consider Singletons to be an anti-pattern
+**Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzk1ODI2MSwtMTU1OTg2MTkzMSwtMj
-A3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUx
-MjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsND
-kwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4
-NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OC
-wtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAy
-ODE4Mjk2Ml19
+eyJoaXN0b3J5IjpbLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLT
+IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
+MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLD
+Q5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIw
+ODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNz
+gsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIw
+MjgxODI5NjJdfQ==
 -->
