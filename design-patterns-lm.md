@@ -264,60 +264,37 @@ interface  IArmour
 	string Item();
 }
 ```
-In Concrete classes methods will return string values CLICK that will be printed to the console.
+In Concrete classes methods will return string values  that will be printed to the console.
 ```c#
 class  Sword : IWeapon
-
 {
-
-public  string  Item()
-
-{
-
-return  "Iron Sword";
-
-}
-
+	public  string  Item()
+	{
+		return  "Iron Sword";
+	}
 }
 
 class  Wand : IWeapon
-
 {
-
-public  string  Item()
-
-{
-
-return "Magic Wand";
-
-}
-
+	public  string  Item()
+	{
+	return "Magic Wand";
+	}
 }
 
 class  BodyArmour : IArmour
-
 {
-
-public  string  Item()
-
-{
-
-return  "Iron Body Armor";
-
-}
-
+	public  string  Item()
+	{
+	return  "Iron Body Armor";
+	}
 }
 
 class  Cloak : IArmour
-
 {
-
-public  string  Item()
-
-{
-
-return  "Magic Cloak";
-
+	public  string  Item()
+	{
+	return  "Magic Cloak";
 }
 
 }
@@ -328,10 +305,10 @@ return  "Magic Cloak";
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTU3MjQyLDM5Mjg4MTkxMywtODM5Mz
-k1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUx
-LDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNj
-IwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4Nzgy
-NzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLT
-IwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTA4OTk1MjgwOCwzOTI4ODE5MTMsLTgzOT
+M5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1
+MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
+YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
+Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
+0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
 -->
