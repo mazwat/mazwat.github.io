@@ -58,10 +58,10 @@ Abstracts a recurring design structure and comprises class and/or object:
 
 Names and specifies the design structure explicitly and thereby distils design experience
 
-### Object Oriented Design Basics
+### Formalising the Relationship between Objects
 
-
+Design patterns have some basic similarities there is almost always a client that requests something or makes use of the pattern. There is also a subject that is usually creating, producing, changing, observing or providing access to the object which is usually an product in the system or a game object on screen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMD
-I4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MD
+g0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
