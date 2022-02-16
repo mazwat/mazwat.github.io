@@ -154,11 +154,26 @@ public  abstract  class  EnemyFactory
 ```
 
 ```c#
+public  class  InstantiateEnemyFactory : EnemyFactory
+{
+	public  override  IFactory  InstantiateEnemy(int  type)
+	{
+		switch (type)
+		{
+			case 1:
+				return new EnemyType1();
+			case 2:
+				return new EnemyType2();
+			default:
+				throw  new  ApplicationException(string.Format("Wrong number"));
+			}
+		}
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NTM3MjAwLDQ5MDUyNTMzOSw5OTI2OT
-EyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQy
-LC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNj
-U4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2
-NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTM0Mzg1MjcxMyw0OTA1MjUzMzksOTkyNj
+kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
+MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
+Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
+NjU5OTU1XX0=
 -->
