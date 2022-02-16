@@ -230,38 +230,25 @@ interface  IEnemyFactory
 class  Mage : IEnemyFactory
 {
 	public  IWeapon  GetWeapon()
-{
-
-return new Wand();
-}
+	{
+		return new Wand();
+	}
 	public IArmor GetArmor()
-{
-
-return new Cloak();
-}
-
+	{
+		return new Cloak();
+	}
 }
 
 class  Warrior : IEnemyFactory
-
 {
-
-public  IWeapon  GetWeapon()
-
-{
-
-return new Sword();
-
-}
-
-public IArmor GetArmor()
-
-{
-
-return new BodyArmour();
-
-}
-
+	public  IWeapon  GetWeapon()
+	{
+		return new Sword();
+	}
+	public IArmor GetArmor()
+	{
+		return new BodyArmour();
+	}
 }
 ```
 
@@ -276,7 +263,7 @@ return new BodyArmour();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjE0OTE2LDM5Mjg4MTkxMywtODM5Mz
+eyJoaXN0b3J5IjpbNTE5OTY0NjU0LDM5Mjg4MTkxMywtODM5Mz
 k1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUx
 LDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNj
 IwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4Nzgy
