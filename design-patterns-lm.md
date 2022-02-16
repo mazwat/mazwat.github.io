@@ -68,14 +68,16 @@ Design patterns have some basic similarities there is almost always a **client**
 
 ### The Design Pattern Categories
 
+Design patterns are divided into 3 principle types which relate to their role in a pra
+
 ![Relationships between objects](images/dp-categories.svg)
 *Fig. 1 - The 3 main categories of Design Patterns*
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMz
-M4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYw
-OTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5Nj
-IsLTIxMzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTAxNjczNDkzNiwtMTQzOTQwMjM2MCwtOT
+M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
+ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
+wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
 -->
