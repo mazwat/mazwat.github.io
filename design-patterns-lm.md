@@ -105,9 +105,12 @@ Factory is used to create an object from instance of another class.  In Factory 
 
 
 
+In this example UML from a typical game where Enemy object is created, and its type is based on random number. Object is created in run time.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
-YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
-Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
-0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTE4MjEyMzUyODAsOTkyNjkxMjEzLC0xND
+M5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0
+Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OC
+wxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+
 -->
