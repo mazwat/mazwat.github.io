@@ -116,15 +116,42 @@ First let’s create Interface that will be shared between all enemies that can 
 
 ```c#
 public  interface  IFactory
+{
+	void Damage(int dmg);
+}
+```
+Now we need to create Classes that will inherit this interface. In the example this will be enemyType1 and 2.
+  
+```c#
+public  class  EnemyType1 : IFactory
+{
+	int  _health=100;
+	public  void  Damage(int  dmg)
+	{
+		_health -= dmg;
+		Console.WriteLine("EnemyType1 health:" + _health.ToString());
+	}
+}
+
+public  class  EnemyType2 : IFactory
+{
+
+int _health = 200;
+
+public  void  Damage(int  dmg)
 
 {
 
-void Damage(int dmg);
+_health -= dmg;
+
+Console.WriteLine("EnemyType2 health:" + _health.ToString());
 
 }
 
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA2MDkyNTgsNDkwNTI1MzM5LDk5Mj
+eyJoaXN0b3J5IjpbLTExNDAwNjM2NTgsNDkwNTI1MzM5LDk5Mj
 Y5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEz
 NDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC
 02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEz
