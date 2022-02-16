@@ -200,14 +200,18 @@ Factory defines an interface for creating an object, but lets subclasses decide 
 You can see this example as Visual Studio App here:
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
-### Factory
+### Abstract Factory
+
+Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
+
+
 
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2ODcyNTQsMjEwNzk0MDc1MSw0OT
+eyJoaXN0b3J5IjpbLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OT
 A1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1
 NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC
 01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4
