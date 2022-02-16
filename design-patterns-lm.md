@@ -318,35 +318,26 @@ class  Client
 			Console.WriteLine(factory.GetArmour().Item());
 		}
 		else if (enemy == "Mage")
-{
-
-factory = new Mage();
-
-Console.WriteLine("New Mage equipment: ");
-
-Console.WriteLine(factory.GetWeapon().Item());
-
-Console.WriteLine(factory.GetArmour().Item());
-
-}
-
-else
-
-{
-
-Console.WriteLine("Wrong type");
-
-}
-
+		{
+			factory = new Mage();
+			Console.WriteLine("New Mage equipment: ");
+			Console.WriteLine(factory.GetWeapon().Item());
+			Console.WriteLine(factory.GetArmour().Item());
+		}
+		else
+		{
+			Console.WriteLine("Wrong type");
+		}
+	}
 }
 ```
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjI4NjUwLDEyNzk3NjcwNiwzOTI4OD
-E5MTMsLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYs
-MjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5ND
-AyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5
-MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOT
-A4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbMTkxODc4ODY3MywxMjc5NzY3MDYsMzkyOD
+gxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2
+LDIxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOT
+QwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5
+OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMT
+kwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
 -->
