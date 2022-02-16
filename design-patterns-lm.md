@@ -207,15 +207,20 @@ Abstract factory is similar to factory but this time we will encapsulate all cla
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
 fig. 4 - Visualising Abstract Factory
 
+In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
+
+![Visualising Abstract Factory](images/abstract-factory-pic.png)
+fig. 4 - Visualising Abstract Factory
+
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyND
-g1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNjkxMjEz
-LC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMj
-A3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2
-NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OT
-U1XX0=
+eyJoaXN0b3J5IjpbMTM2ODIxMzM4MCwtODM5Mzk1MTI0LDI1Nj
+cwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMz
+OSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMz
+M4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYw
+OTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5Nj
+IsLTIxMzA2NTk5NTVdfQ==
 -->
