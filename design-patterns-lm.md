@@ -34,6 +34,9 @@ The following materials are derived from the *Design Patterns lecture*. The vide
 
 Design patterns was written in 1994 by the ‘Gang of Four’ - Erich Gamma, John Vlissides, Richard Helm &  Ralph Johnson. Design patterns are set of procedures or patterns that help to make OOP code more effective and reusable.
 
+![Relationships between objects](images/inventors.png)
+*Fig. 1 - The Gang of Four and their book*
+
 Design patterns establish consistency that helps developers build and modify code safely avoiding common architecting problems. 
 
 - Using consistent methods to fix and to avoid issues. 
@@ -99,7 +102,7 @@ Prototype|Flyweight|Memento
 
 ## Creational Patterns
 
-### Factory
+### 1. Factory
 
 Factory is used to create an object from instance of another class.  In Factory pattern, we create object without exposing the creation logic. This helps to deal with large and more complex programs. In this pattern, an interface is used for creating an object, but lets subclasses decide which class to instantiate. Creation process is done in run time.
 
@@ -200,7 +203,7 @@ Factory defines an interface for creating an object, but lets subclasses decide 
 You can see this example as a **Visual Studio App** in this repo:\
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
-### Abstract Factory
+### 2. Abstract Factory
 
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
 fig. 4 - Visualising Abstract Factory
@@ -211,7 +214,7 @@ Abstract factory is similar to factory but this time we will encapsulate all cla
 
 In the UML of the code we are about to write, we’ll create Abstract Factory that will spawn enemies and give them a specific weapon and armour.
 
-![Visualising Abstract Factory](images/abstract-uml.png)
+![Abstract Factory UML](images/abstract-uml.png)
 fig. 5 - Abstract Factory UML diagram
 
 #### Example - The Factory
@@ -343,12 +346,19 @@ static  void  Main(string[] args)
 ```
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
+
+### 3. Singleton
+
+Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
+
+Some programmer’s consider Singletons to be an anti-pattern
+**Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMT
-I3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEz
-OSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OT
-I2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQx
-MzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MC
-wtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIx
-MzA2NTk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTU1NDc2ODI2NCwtMTg1ODE5NDg3NCwtMT
+U1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgx
+OTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LD
+IxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQw
+MjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OT
+MsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkw
+ODQ2NTgxM119
 -->
