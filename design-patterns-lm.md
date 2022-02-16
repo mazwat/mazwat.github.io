@@ -89,11 +89,15 @@ Prototype|Flyweight|Memento
  | |Template
  | |Visitor
 
+### How to make use of Design Patterns
+
+- Design patterns are often **tacit knowledge** made **explicit**.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTM3NDk5NCwtMTQzOTQwMjM2MCwtOT
-M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
-ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
-wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
+eyJoaXN0b3J5IjpbNjU4MTEwMDM1LC0xNDM5NDAyMzYwLC05Mz
+YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
+Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
+0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
 -->
