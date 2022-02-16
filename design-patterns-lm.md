@@ -39,7 +39,16 @@ Design patterns establish consistency that helps developers build and modify cod
 - Using consistent methods to fix and to avoid issues. 
 - Having a shared language to understand common problems
 - Adhering to the SOLID principles of object-oriented programming.
+
+## Object Oriented Design Basics
+
+Design Patterns are intended for object orientated systems as they tend to exhibit recurring structures that promote:
+
+-   **Abstraction**
+-   **Flexibility**
+-   **Modularity**
+-   **Elegance**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NjQ4MzgyLDE5MDg0NjU4MTMsLTIwMj
+eyJoaXN0b3J5IjpbNDUzODMzNTcxLDE5MDg0NjU4MTMsLTIwMj
 gxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
