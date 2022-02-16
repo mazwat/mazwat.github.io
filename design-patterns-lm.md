@@ -73,7 +73,7 @@ Design patterns are divided into 3 principle types which relate to their role in
 ![Relationships between objects](images/dp-categories.svg)
 *Fig. 2 - The 3 main categories of Design Patterns*
 
-Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in ***bold***.
+Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subset which are highlighted below in ***bold***.
 
 **Creational**|**Structural**|**Behavioural**
 :-----:|:-----:|:-----:
@@ -344,11 +344,11 @@ static  void  Main(string[] args)
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mj
-g4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMy
-NiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mz
-k0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3
-OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LD
-E5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
-
+eyJoaXN0b3J5IjpbLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMT
+I3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEz
+OSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OT
+I2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQx
+MzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MC
+wtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIx
+MzA2NTk5NTVdfQ==
 -->
