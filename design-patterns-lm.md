@@ -251,25 +251,76 @@ class  Warrior : IEnemyFactory
 ```
 Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
 
+In next step we will create interface for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
+
 ```c#
 interface  IWeapon
-
 {
-
-string Item();
-
+	string Item();
 }
 
 interface  IArmour
+{
+	string Item();
+}
+```
+In Concrete classes methods will return string values CLICK that will be printed to the console.
+```c#
+class  Sword : IWeapon
 
 {
 
-string Item();
+public  string  Item()
+
+{
+
+return  "Iron Sword";
 
 }
-```
 
-```c#
+}
+
+class  Wand : IWeapon
+
+{
+
+public  string  Item()
+
+{
+
+return "Magic Wand";
+
+}
+
+}
+
+class  BodyArmour : IArmour
+
+{
+
+public  string  Item()
+
+{
+
+return  "Iron Body Armor";
+
+}
+
+}
+
+class  Cloak : IArmour
+
+{
+
+public  string  Item()
+
+{
+
+return  "Magic Cloak";
+
+}
+
+}
 ```
 
 ```c#
@@ -277,7 +328,7 @@ string Item();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NTk4OTM3LDM5Mjg4MTkxMywtODM5Mz
+eyJoaXN0b3J5IjpbLTk1OTU3MjQyLDM5Mjg4MTkxMywtODM5Mz
 k1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUx
 LDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNj
 IwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4Nzgy
