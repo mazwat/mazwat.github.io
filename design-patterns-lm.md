@@ -34,6 +34,9 @@ The following materials are derived from the *Design Patterns lecture*. The vide
 
 Design patterns was written in 1994 by the ‘Gang of Four’ - Erich Gamma, John Vlissides, Richard Helm &  Ralph Johnson. Design patterns are set of procedures or patterns that help to make OOP code more effective and reusable.
 
+![Relationships between objects](images/inventors.png)
+*Fig. 1 - The Gang of Four and their book*
+
 Design patterns establish consistency that helps developers build and modify code safely avoiding common architecting problems. 
 
 - Using consistent methods to fix and to avoid issues. 
@@ -351,11 +354,11 @@ Singleton is a basic design pattern is useful because it guarantees that there i
 Some programmer’s consider Singletons to be an anti-pattern
 **Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLT
-IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
-MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLD
-Q5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIw
-ODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4NzgyNz
-gsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0NjU4MTMsLTIw
-MjgxODI5NjJdfQ==
+eyJoaXN0b3J5IjpbLTU1NDc2ODI2NCwtMTg1ODE5NDg3NCwtMT
+U1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgx
+OTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LD
+IxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQw
+MjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OT
+MsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkw
+ODQ2NTgxM119
 -->
