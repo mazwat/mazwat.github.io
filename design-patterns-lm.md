@@ -135,25 +135,18 @@ public  class  EnemyType1 : IFactory
 
 public  class  EnemyType2 : IFactory
 {
-
-int _health = 200;
-
-public  void  Damage(int  dmg)
-
-{
-
-_health -= dmg;
-
-Console.WriteLine("EnemyType2 health:" + _health.ToString());
-
-}
-
+	int _health = 200;
+	public  void  Damage(int  dmg)
+	{
+		_health -= dmg;
+		Console.WriteLine("EnemyType2 health:" + _health.ToString());
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAwNjM2NTgsNDkwNTI1MzM5LDk5Mj
-Y5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEz
-NDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC
-02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEz
-MDY1OTk1NV19
+eyJoaXN0b3J5IjpbLTc3NTY0MDg2OCw0OTA1MjUzMzksOTkyNj
+kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
+MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
+Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
+NjU5OTU1XX0=
 -->
