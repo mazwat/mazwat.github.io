@@ -68,15 +68,19 @@ Design patterns have some basic similarities there is almost always a **client**
 
 ### The Design Pattern Categories
 
-Design patterns are divided into 3 principle types which relate to their role in a pra
+Design patterns are divided into 3 principle types which relate to their role in a process or application.
 
 ![Relationships between objects](images/dp-categories.svg)
 *Fig. 1 - The 3 main categories of Design Patterns*
 
+Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subsection which are in bold.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjczNDkzNiwtMTQzOTQwMjM2MCwtOT
+eyJoaXN0b3J5IjpbMTkzMDM1MTA3MSwtMTQzOTQwMjM2MCwtOT
 M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
 ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMTkwODQ2NTgxMy
 wtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
