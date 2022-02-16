@@ -120,7 +120,7 @@ public  interface  IFactory
 	void Damage(int dmg);
 }
 ```
-Now we need to create Classes that will inherit this interface. In the example this will be enemyType1 and 2.
+Now we need to create Classes that will inherit this interface. In the example this will be EnemyType1 and EnemyTy2.
   
 ```c#
 public  class  EnemyType1 : IFactory
@@ -146,6 +146,8 @@ public  class  EnemyType2 : IFactory
 
 #### Example - The Interface
 
+Next we need to create the Interface for factory itself.
+
 ```c#
 public  abstract  class  EnemyFactory
 {
@@ -166,14 +168,15 @@ public  class  InstantiateEnemyFactory : EnemyFactory
 				return new EnemyType2();
 			default:
 				throw  new  ApplicationException(string.Format("Wrong number"));
-			}
 		}
+	}
 }
 ```
+In The factory Class we override the method with `switch` statement that will return the objects based on the input number. As a return type we use interface `IFactory`, this way we can return any object that inherits from it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzg1MjcxMyw0OTA1MjUzMzksOTkyNj
-kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
-MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
-Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
-NjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTExNTAyMTE3NTMsNDkwNTI1MzM5LDk5Mj
+Y5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEz
+NDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC
+02NTgyNjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEz
+MDY1OTk1NV19
 -->
