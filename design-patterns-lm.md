@@ -197,7 +197,7 @@ The last step is to create the client that will use the factory class. Numbers d
 
 Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
-You can see this example as Visual Studio App in this repo:
+You can see this example as Visual Studio App in this repo:\
 [https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Factory-Example)
 
 ### Abstract Factory
@@ -212,10 +212,10 @@ fig. 4 - Visualising Abstract Factory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcyMTIyNzYsMjU2NzA3MTM5LC0xMj
-Q4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIx
-MywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLT
-IwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgy
-NjUyOTgsMTkwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OT
-k1NV19
+eyJoaXN0b3J5IjpbLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyND
+g1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNjkxMjEz
+LC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMj
+A3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2
+NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMwNjU5OT
+U1XX0=
 -->
