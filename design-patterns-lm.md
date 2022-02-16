@@ -97,10 +97,16 @@ Prototype|Flyweight|Memento
 - They will help you **communicate** and design in the future.
 - Additional research will be required as the **number of patterns greatly exceeds** those that can be covered in workshops.
 
+## Creational Patterns
+
+### Factory
+
+Factory is used to create an object from instance of another class.  In Factory pattern, we create object without exposing the creation logic. This helps to deal with large and more complex programs. In this pattern, an interface is used for creating an object, but lets subclasses decide which class to instantiate. Creation process is done in run time.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMTc3NzgyLC0xNDM5NDAyMzYwLC05Mz
+eyJoaXN0b3J5IjpbOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05Mz
 YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
 Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
 0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
