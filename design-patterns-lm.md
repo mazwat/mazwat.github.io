@@ -223,10 +223,8 @@ interface  IEnemyFactory
 	IArmor GetArmour();
 }
 ```
-
+The first thing is to create the interface for Factory, that will be used to specify the equipment of each enemy.
 ```c#
-  
-
 class  Mage : IEnemyFactory
 {
 	public  IWeapon  GetWeapon()
@@ -251,8 +249,24 @@ class  Warrior : IEnemyFactory
 	}
 }
 ```
+Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
 
 ```c#
+interface  IWeapon
+
+{
+
+string Item();
+
+}
+
+interface  IArmour
+
+{
+
+string Item();
+
+}
 ```
 
 ```c#
@@ -263,7 +277,7 @@ class  Warrior : IEnemyFactory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5OTY0NjU0LDM5Mjg4MTkxMywtODM5Mz
+eyJoaXN0b3J5IjpbNzI5NTk4OTM3LDM5Mjg4MTkxMywtODM5Mz
 k1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUx
 LDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNj
 IwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC05NzU4Nzgy
