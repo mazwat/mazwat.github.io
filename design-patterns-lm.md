@@ -172,6 +172,7 @@ public  class  InstantiateEnemyFactory : EnemyFactory
 	}
 }
 ```
+In The factory Class we override the method with `switch` statement that will return the objects based on the input number. As a return type we use interface `IFactory`, this way we can return any object that inherits from it.
 
 #### Example - The Client
 
@@ -192,14 +193,21 @@ class  Program{
 	}
 }
 ```
+The last step is to create the client that will use the factory class. Numbers don’t have to be random. I’m using random numbers to generate random enemies from the factory. In a real world example we would create a list of enemies rather than choosing name for each of them.
+
+This pattern is very simple and effective.
+
+Factory defines an interface for creating an object, but lets subclasses decide which class to instantiate. CLICK Factory Method lets a class defer instantiation to subclasses.
+
+
 ```c#
 ```
 
-In The factory Class we override the method with `switch` statement that will return the objects based on the input number. As a return type we use interface `IFactory`, this way we can return any object that inherits from it.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTQ2NzA3NCw0OTA1MjUzMzksOTkyNj
-kxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0
-MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLT
-Y1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4MTgyOTYyLC0yMTMw
-NjU5OTU1XX0=
+eyJoaXN0b3J5IjpbNzI5MDMwODQ3LDQ5MDUyNTMzOSw5OTI2OT
+EyMTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQy
+LC0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNj
+U4MjY1Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2
+NTk5NTVdfQ==
 -->
