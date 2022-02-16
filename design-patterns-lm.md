@@ -204,16 +204,17 @@ You can see this example as Visual Studio App here:
 
 Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
 
-
+![UML for Factory Example](images/factory-uml.png)
+fig. 4 - Visualising Abstract Factory
 
 ```c#
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OT
-A1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1
-NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC
-01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC0yMDI4
-MTgyOTYyLC0yMTMwNjU5OTU1XX0=
+eyJoaXN0b3J5IjpbLTI3NjQxNjEyNywtMTI0ODU4NzMyNiwyMT
+A3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIz
+NjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OTkzLC
+05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5MDg0
+NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
 -->
