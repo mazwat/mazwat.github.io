@@ -291,7 +291,7 @@ class  BodyArmour : IArmour
 {
 	public  string  Item()
 	{
-	return  "Iron Body Armor";
+		return  "Iron Body Armor";
 	}
 }
 
@@ -299,7 +299,7 @@ class  Cloak : IArmour
 {
 	public  string  Item()
 	{
-	return  "Magic Cloak";
+		return  "Magic Cloak";
 	}
 }
 ```
@@ -354,11 +354,11 @@ Singleton is a basic design pattern is useful because it guarantees that there i
 Some programmer’s consider Singletons to be an anti-pattern
 **Find out more** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA1NTg1MTIsLTE4NTgxOTQ4NzQsLT
-E1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4
-MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNi
-wyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0
-MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3OT
-kzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LDE5
-MDg0NjU4MTNdfQ==
+eyJoaXN0b3J5IjpbODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNT
+U5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5
+MTMsLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODczMjYsMj
+EwNzk0MDc1MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xNDM5NDAy
+MzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5My
+wtOTc1ODc4Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4
+NDY1ODEzXX0=
 -->
