@@ -92,11 +92,15 @@ Prototype|Flyweight|Memento
 ### How to make use of Design Patterns
 
 - Design patterns are often **tacit knowledge** made **explicit**.
+- You will develop tacit knowledge of patterns through **regular design practice**.
+- Engage in **constant research** & **reflection** when designing software to learn all these different patterns.
+- They will help you **communicate** and design in the future.
+- Additional research will be required as the **number of patterns greatly exceeds** those that can be covered in workshops.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MTEwMDM1LC0xNDM5NDAyMzYwLC05Mz
+eyJoaXN0b3J5IjpbMzgxMTc3NzgyLC0xNDM5NDAyMzYwLC05Mz
 YyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4
 Mjc4LC01MTM2MDk2NTAsLTY1ODI2NTI5OCwxOTA4NDY1ODEzLC
 0yMDI4MTgyOTYyLC0yMTMwNjU5OTU1XX0=
