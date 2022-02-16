@@ -104,14 +104,13 @@ Prototype|Flyweight|Memento
 Factory is used to create an object from instance of another class.  In Factory pattern, we create object without exposing the creation logic. This helps to deal with large and more complex programs. In this pattern, an interface is used for creating an object, but lets subclasses decide which class to instantiate. Creation process is done in run time.
 
 ![UML for Factory Example](images/factory-uml.png)
-fig. 3 - UML for Facotry Example 
+fig. 3 - UML for Factory Example 
 
-In this example UML from a typical game where Enemy object is created, and its type is based on random number. Object is created in run time.
+In this example UML from a typical game where Enemy object is created, and its type is based on random a number. Object is created in run time.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTAwMjE2MCw5OTI2OTEyMTMsLTE0Mz
-k0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMDc0NzQ3
-OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1Mjk4LD
-E5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NTVdfQ==
-
+eyJoaXN0b3J5IjpbNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOT
+QwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5
+OTMsLTk3NTg3ODI3OCwtNTEzNjA5NjUwLC02NTgyNjUyOTgsMT
+kwODQ2NTgxMywtMjAyODE4Mjk2MiwtMjEzMDY1OTk1NV19
 -->
