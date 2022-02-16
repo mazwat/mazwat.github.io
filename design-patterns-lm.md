@@ -68,13 +68,13 @@ Design patterns have some basic similarities there is almost always a **client**
 
 ### The Design Pattern Categories
 
-![Relationships between objects](images/objects-dp.svg)
-*Fig. 1 - Relationships between objects*
+![Relationships between objects](images/dp-categories.svg)
+*Fig. 1 - The 3 main categories of Design Patterns*
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTI3MzE1MiwtMzM4NzQxMzQyLC0yMD
+eyJoaXN0b3J5IjpbLTkzNjIwODU0MiwtMzM4NzQxMzQyLC0yMD
 c0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4MjY1
 Mjk4LDE5MDg0NjU4MTMsLTIwMjgxODI5NjIsLTIxMzA2NTk5NT
 VdfQ==
