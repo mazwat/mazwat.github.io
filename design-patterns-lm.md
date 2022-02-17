@@ -353,12 +353,32 @@ Singleton is a basic design pattern is useful because it guarantees that there i
 
 Some programmer’s consider Singletons to be an anti-pattern.
 **Find out more -** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
+
+```c#
+public  class  SingletonController : MonoBehaviour {
+public  static  SingletonController  instance;
+private  void  Awake() {
+if (instance != null) {
+
+Destroy(gameObject);
+
+} else {
+
+Instance = this;
+
+}
+
+}
+
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NT
-gxOTQ4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2
-NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMT
-I0ODU4NzMyNiwyMTA3OTQwNzUxLDQ5MDUyNTMzOSw5OTI2OTEy
-MTMsLTE0Mzk0MDIzNjAsLTkzNjIwODU0MiwtMzM4NzQxMzQyLC
-0yMDc0NzQ3OTkzLC05NzU4NzgyNzgsLTUxMzYwOTY1MCwtNjU4
-MjY1Mjk4XX0=
+eyJoaXN0b3J5IjpbLTcyMDI2MTkxLDEzOTEyNzM3MTEsODQ2Mz
+Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
+NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
+Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
+MzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLT
+MzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2
+MDk2NTBdfQ==
 -->
