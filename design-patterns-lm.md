@@ -66,7 +66,7 @@ Names and specifies the design structure explicitly and thereby distils design e
 Design patterns have some basic similarities there is almost always a **client** that requests something or makes use of the pattern. There is also a **subject** that is usually creating, producing, changing, observing or providing access to the object which is usually a **product** in the system or a game object on screen.
 
 ![Relationships between objects](images/objects-dp.svg)
-*Fig. 1 - Relationships between objects*
+*Fig. 2 - Relationships between objects*
 
 
 ### The Design Pattern Categories
@@ -74,7 +74,7 @@ Design patterns have some basic similarities there is almost always a **client**
 Design patterns are divided into 3 principle types which relate to their role in a process or application.
 
 ![Relationships between objects](images/dp-categories.svg)
-*Fig. 2 - The 3 main categories of Design Patterns*
+*Fig. 3 - The 3 main categories of Design Patterns*
 
 Within these categories are the patterns themselves. I have listed the principle ones below. In this lecture we are going to explore a small subset which are highlighted below in ***bold***.
 
@@ -109,7 +109,7 @@ Factory is used to create an object from instance of another class.  In Factory 
 #### UML
 
 ![UML for Factory Example](images/factory-uml.png)
-fig. 3 - UML for Factory Example 
+fig. 4 - UML for Factory Example 
 
 In this example UML from a typical game where Enemy object is created, and its type is based on random a number. Object is created in run time.
 
@@ -206,7 +206,7 @@ You can see this example as a **Visual Studio App** in this repo:\
 ### 2. Abstract Factory
 
 ![Visualising Abstract Factory](images/abstract-factory-pic.png)
-fig. 4 - Visualising Abstract Factory
+fig. 5 - Visualising Abstract Factory
 
 Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
 
@@ -381,11 +381,11 @@ The value of a static field is shared between instances, so if a new instance of
 This is only the simplest implementation of a singleton. I recommend looking at this article CLICK for a range of different approaches to common problems in unity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTc1NTYwNCwxMzkxMjczNzExLDg0Nj
-M0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0
-Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMj
-U2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1
-MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC
-0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEz
-NjA5NjUwXX0=
+eyJoaXN0b3J5IjpbMzExNDI3MDYyLDEzOTEyNzM3MTEsODQ2Mz
+Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
+NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
+Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
+MzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLT
+MzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2
+MDk2NTBdfQ==
 -->
