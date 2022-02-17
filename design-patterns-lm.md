@@ -273,23 +273,23 @@ In Concrete classes methods will return string values  that will be printed to t
 ```c#
 class  Sword : IWeapon
 {
-	public  string  Item()
+	public string Item()
 	{
 		return  "Iron Sword";
 	}
 }
 
-class  Wand : IWeapon
+class Wand : IWeapon
 {
-	public  string  Item()
+	public string Item()
 	{
 		return "Magic Wand";
 	}
 }
 
-class  BodyArmour : IArmour
+class BodyArmour : IArmour
 {
-	public  string  Item()
+	public string Item()
 	{
 		return  "Iron Body Armor";
 	}
@@ -310,8 +310,8 @@ Client is the last part is to create. Here we will create instance of the factor
 ```c#
 class  Client
 {
-	IEnemyFactory  factory = null;
-	public  void  SpawnEnemy(string  enemy)
+	IEnemyFactory factory = null;
+	public void SpawnEnemy(string  enemy)
 	{
 		if (enemy == "Warrior")
 		{
@@ -361,9 +361,9 @@ It is recommend using Singletons for things that do not need to be copied multip
 fig. 6 - Audio Manager in Unity Inspector
 
 ```c#
-public  class  SingletonController : MonoBehaviour {
-	public  static  SingletonController  instance;
-	private  void  Awake() {
+public class SingletonController : MonoBehaviour {
+	public static SingletonController instance;
+	private void Awake() {
 		if (instance != null)
 		{
 			Destroy(gameObject);
@@ -373,7 +373,7 @@ public  class  SingletonController : MonoBehaviour {
 	}
 }
 ```
-In this example, a private static instance of the class is declared at its beginning. 
+In this example, a puvlci static instance of the class is declared at its beginning.
 
   
 
@@ -384,7 +384,7 @@ The value of a static field is shared between instances, so if a new instance of
 This is only the simplest implementation of a singleton. I recommend looking at this article CLICK for a range of different approaches to common problems in unity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODg2OTA4OSwxMzkxMjczNzExLDg0Nj
+eyJoaXN0b3J5IjpbMTQ1MzgyOTk0NywxMzkxMjczNzExLDg0Nj
 M0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0
 Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMj
 U2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1
