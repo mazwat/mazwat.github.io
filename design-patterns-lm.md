@@ -351,9 +351,9 @@ Abstract Factory facilitates an interface for creating families of related or de
 
 Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
 
-Some programmer’s consider Singletons to be an anti-pattern.
-
-**Find out more -** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
+Some programmer’s consider Singletons to be an anti-pattern. Find out more at the link below
+{: .callout .callout--info}
+[https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 
 Classes implementing Singleton pattern will ensure that only one instance of the object ever exists at any one time.  
 It is recommend using Singletons for things that do not need to be copied multiple times during a game. This is great for controller classes like GameManager or AudioController.
@@ -379,12 +379,11 @@ In this example, a `public static` instance of the class is declared at its begi
 The value of a static field is shared between instances, so if a new instance of this class gets created the `if` will find a reference to the first Singleton object, destroying the new instance (or its game object).
   
 This is only the simplest implementation of a singleton. I recommend looking at the article below for a range of different approaches to common problems in Unity.
-{: .callout .callout--warning}
-
+{: .callout .callout--info}
 [http://www.unitygeek.com/unity_c_singleton](http://www.unitygeek.com/unity_c_singleton)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNjMyMzIyLDEzOTEyNzM3MTEsODQ2Mz
+eyJoaXN0b3J5IjpbNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2Mz
 Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
 NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
 Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
