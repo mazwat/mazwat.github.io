@@ -118,7 +118,7 @@ In this example UML from a typical game where Enemy object is created, and its t
 First let’s create Interface that will be shared between all enemies that can be created with Factory. This will be used by client.
 
 ```c#
-public  interface  IFactory
+public interface IFactory
 {
 	void Damage(int dmg);
 }
@@ -129,14 +129,14 @@ Now we need to create Classes that will inherit this interface. In the example t
 public  class  EnemyType1 : IFactory
 {
 	int  _health=100;
-	public  void  Damage(int  dmg)
+	public void  Damage(int  dmg)
 	{
 		_health -= dmg;
 		Console.WriteLine("EnemyType1 health:" + _health.ToString());
 	}
 }
 
-public  class  EnemyType2 : IFactory
+public class EnemyType2 : IFactory
 {
 	int _health = 200;
 	public  void  Damage(int  dmg)
@@ -152,16 +152,16 @@ public  class  EnemyType2 : IFactory
 Next we need to create the Interface for factory itself.
 
 ```c#
-public  abstract  class  EnemyFactory
+public abstract class EnemyFactory
 {
-	public  abstract  IFactory  InstantiateEnemy(int  type);
+	public abstract IFactory InstantiateEnemy(int type);
 }
 ```
 
 ```c#
-public  class  InstantiateEnemyFactory : EnemyFactory
+public class InstantiateEnemyFactory : EnemyFactory
 {
-	public  override  IFactory  InstantiateEnemy(int  type)
+	public override IFactory InstantiateEnemy(int  type)
 	{
 		switch (type)
 		{
@@ -181,7 +181,7 @@ In The factory Class we override the method with `switch` statement that will re
 
 ```c#
 class  Program{
-	static  void  Main(string[] args)
+	static void Main(string[] args)
 	{
 		//random number
 		int type = new Random().Next(1, 1000)% 2 + 1;
@@ -228,9 +228,9 @@ interface  IEnemyFactory
 ```
 The first thing is to create the interface for Factory, that will be used to specify the equipment of each enemy.
 ```c#
-class  Mage : IEnemyFactory
+class Mage : IEnemyFactory
 {
-	public  IWeapon  GetWeapon()
+	public IWeapon GetWeapon()
 	{
 		return new Wand();
 	}
@@ -240,9 +240,9 @@ class  Mage : IEnemyFactory
 	}
 }
 
-class  Warrior : IEnemyFactory
+class Warrior : IEnemyFactory
 {
-	public  IWeapon  GetWeapon()
+	public IWeapon GetWeapon()
 	{
 		return new Sword();
 	}
@@ -259,12 +259,12 @@ Concrete classes will be named as the type of enemy that will be created. In the
 In next step we will create interface for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
 
 ```c#
-interface  IWeapon
+interface IWeapon
 {
 	string Item();
 }
 
-interface  IArmour
+interface IArmour
 {
 	string Item();
 }
@@ -275,7 +275,7 @@ class  Sword : IWeapon
 {
 	public string Item()
 	{
-		return  "Iron Sword";
+		return "Iron Sword";
 	}
 }
 
@@ -291,15 +291,15 @@ class BodyArmour : IArmour
 {
 	public string Item()
 	{
-		return  "Iron Body Armor";
+		return "Iron Body Armor";
 	}
 }
 
-class  Cloak : IArmour
+class Cloak : IArmour
 {
-	public  string  Item()
+	public string Item()
 	{
-		return  "Magic Cloak";
+		return "Magic Cloak";
 	}
 }
 ```
@@ -384,7 +384,7 @@ The value of a static field is shared between instances, so if a new instance of
 This is only the simplest implementation of a singleton. I recommend looking at this article CLICK for a range of different approaches to common problems in unity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzgyOTk0NywxMzkxMjczNzExLDg0Nj
+eyJoaXN0b3J5IjpbMjAxOTAzOTkzNSwxMzkxMjczNzExLDg0Nj
 M0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0
 Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMj
 U2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1
