@@ -346,7 +346,6 @@ static  void  Main(string[] args)
 ```
 Abstract Factory facilitates an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is very useful but in large projects it may increase the complexity of the code.
 
-
 ### 3. Singleton
 
 Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
@@ -382,13 +381,20 @@ This is only the simplest implementation of a singleton. I recommend looking at 
 [http://www.unitygeek.com/unity_c_singleton](http://www.unitygeek.com/unity_c_singleton)
 {: .callout .callout--info}
 
+## Structural Patterns
+
+### 4. Decorator
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTUxNjg5MywtMTA1ODgyNDc5Miw2Mj
-Y0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2MzQ1MzEy
-LC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQzNzU0LD
-EyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNTY3MDcx
-MzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUzMzksOT
-kyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0
-MTM0Ml19
+eyJoaXN0b3J5IjpbMTIwMTc3OTM5MSwtODExNTE2ODkzLC0xMD
+U4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3Mzcx
+MSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLT
+IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
+MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMyNiwyMTA3OTQwNzUxLD
+Q5MDUyNTMzOSw5OTI2OTEyMTMsLTE0Mzk0MDIzNjAsLTkzNjIw
+ODU0Ml19
 -->
