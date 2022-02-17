@@ -383,14 +383,21 @@ This is only the simplest implementation of a singleton. I recommend looking at 
 
 ## Structural Patterns
 
-### 4. Decorator
+### 1. Decorator
+
+![UML for an Example Decorator Pattern](images/decorator-uml.png)
+fig. 7 - UML for an Example Decorator Pattern
+
+Decorator pattern allows modification an object dynamically. It simplifies the code by adding new functionality at runtime. Adding new functionality to the object doesn’t effect the initial class structure.
+
+Although I am loathe to use a gun as a model for the example this is a particularly effective diagram at explaining the decorator principle.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTc3OTM5MSwtODExNTE2ODkzLC0xMD
+eyJoaXN0b3J5IjpbMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMD
 U4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3Mzcx
 MSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLT
 IwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1
