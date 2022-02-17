@@ -354,31 +354,38 @@ Singleton is a basic design pattern is useful because it guarantees that there i
 Some programmer’s consider Singletons to be an anti-pattern.
 **Find out more -** [https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
 
+Classes implementing Singleton pattern will ensure that only one instance of the object ever exists at any one time.  
+It is recommend using Singletons for things that do not need to be copied multiple times during a game. This is great for controller classes like GameManager or AudioController. CLICK
+
 ```c#
 public  class  SingletonController : MonoBehaviour {
-public  static  SingletonController  instance;
-private  void  Awake() {
-if (instance != null) {
-
-Destroy(gameObject);
-
-} else {
-
-Instance = this;
-
-}
-
-}
-
+	public  static  SingletonController  instance;
+	private  void  Awake() {
+		if (instance != null)
+		{
+			Destroy(gameObject);
+		} else {
+			Instance = this;
+		}
+	}
 }
 ```
+In this example, a private static instance of the class is declared at its beginning. CLICK
+
+  
+
+The value of a static field is shared between instances, so if a new instance of this class gets created the if CLICK will find a reference to the first Singleton object, destroying the new instance (or its game object).CLICK
+
+  
+
+This is only the simplest implementation of a singleton. I recommend looking at this article CLICK for a range of different approaches to common problems in unity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDI2MTkxLDEzOTEyNzM3MTEsODQ2Mz
-Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
-NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
-Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
-MzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLT
-MzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2
-MDk2NTBdfQ==
+eyJoaXN0b3J5IjpbMTQ5NTc1NTYwNCwxMzkxMjczNzExLDg0Nj
+M0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0
+Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMj
+U2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1
+MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOTM2MjA4NTQyLC
+0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3ODI3OCwtNTEz
+NjA5NjUwXX0=
 -->
