@@ -375,14 +375,14 @@ public class SingletonController : MonoBehaviour {
 ```
 In this example, a `public static` instance of the class is declared at its beginning.
 
-The value of a static field is shared between instances, so if a new instance of this class gets created the if  will find a reference to the first Singleton object, destroying the new instance (or its game object).
+The value of a static field is shared between instances, so if a new instance of this class gets created the `if` will find a reference to the first Singleton object, destroying the new instance (or its game object).
   
 This is only the simplest implementation of a singleton. I recommend looking at the article below for a range of different approaches to common problems in Unity.
 
 http://www.unitygeek.com/unity_c_singleton
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODcxMTQ2OCwxMzkxMjczNzExLDg0Nj
+eyJoaXN0b3J5IjpbLTc1MjU0MDgwMiwxMzkxMjczNzExLDg0Nj
 M0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0
 Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMj
 U2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1
