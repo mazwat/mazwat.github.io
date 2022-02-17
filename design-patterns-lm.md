@@ -379,15 +379,15 @@ In this example, a `public static` instance of the class is declared at its begi
 The value of a static field is shared between instances, so if a new instance of this class gets created the `if` will find a reference to the first Singleton object, destroying the new instance (or its game object).
   
 This is only the simplest implementation of a singleton. I recommend looking at the article below for a range of different approaches to common problems in Unity.
-{: .callout .callout--info}
+{: .callout .callout}
 [http://www.unitygeek.com/unity_c_singleton](http://www.unitygeek.com/unity_c_singleton)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2Mz
-Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
-NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
-Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
-MzksOTkyNjkxMjEzLC0xNDM5NDAyMzYwLC05MzYyMDg1NDIsLT
-MzODc0MTM0MiwtMjA3NDc0Nzk5MywtOTc1ODc4Mjc4LC01MTM2
-MDk2NTBdfQ==
+eyJoaXN0b3J5IjpbNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
+czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
+MSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04Mz
+kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
+NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMTQzOTQwMjM2MCwtOT
+M2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3NDc5OTMsLTk3NTg3
+ODI3OF19
 -->
