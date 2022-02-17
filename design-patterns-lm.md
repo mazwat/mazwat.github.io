@@ -380,15 +380,15 @@ The value of a static field is shared between instances, so if a new instance of
   
 This is only the simplest implementation of a singleton. I recommend looking at the article below for a range of different approaches to common problems in Unity.
 [http://www.unitygeek.com/unity_c_singleton](http://www.unitygeek.com/unity_c_singleton)
-{: .callout .callout}
+{: .callout .callout--info}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTYyNjY1MCw2MjY0OTU1NTgsNjgzNj
-Q5MTcyLDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0
-LC0xNTU5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOT
-I4ODE5MTMsLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODcz
-MjYsMjEwNzk0MDc1MSw0OTA1MjUzMzksOTkyNjkxMjEzLC0xND
-M5NDAyMzYwLC05MzYyMDg1NDIsLTMzODc0MTM0MiwtMjA3NDc0
-Nzk5M119
+eyJoaXN0b3J5IjpbLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4Mz
+Y0OTE3MiwxMzkxMjczNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3
+NCwtMTU1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMz
+kyODgxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3
+MzI2LDIxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIxMywtMT
+QzOTQwMjM2MCwtOTM2MjA4NTQyLC0zMzg3NDEzNDIsLTIwNzQ3
+NDc5OTNdfQ==
 -->
