@@ -265,16 +265,16 @@ Many of the above options are freemium. You may have a limited number of diagram
 ## Video Lecture
 
 ### Lecture (Part 1) - UML
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Lecture (Part 2) - UML
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxODIxODM3LDEwNjU1OTQ5NzEsLTk4OT
-c4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2MzE4OTM3
-LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1MDcsMT
-U5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYsNzk0OTMy
-MDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4NzgwNzEzMSwtNT
-AwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNywxMjUzNzEy
-MDUwXX0=
+eyJoaXN0b3J5IjpbLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NT
+U5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAs
+LTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLT
+U5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2
+MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLD
+g3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4
+ODI3XX0=
 -->
