@@ -26,7 +26,7 @@ page_nav:
 
 ![Hero Banner Image](images/patterns-hero-banner.png)
 
-The following materials are derived from the *Design Patterns lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+The following materials are derived from the *Design Patterns lecture*. The video lecture is included at the bottom of the [**document**](#video-lecture).
 {: .callout .callout--warning}
 
 
@@ -350,9 +350,9 @@ Abstract Factory facilitates an interface for creating families of related or de
 
 Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
 
-Some programmer’s consider Singletons to be an anti-pattern. Find out more at the link below
+Some programmer’s consider Singletons to be an anti-pattern. Find out more here:
 {: .callout .callout--info}
-[https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern](http://www.apple.com/uk)
+[**https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern**](http://www.apple.com/uk)
 
 Classes implementing Singleton pattern will ensure that only one instance of the object ever exists at any one time.  
 It is recommend using Singletons for things that do not need to be copied multiple times during a game. This is great for controller classes like GameManager or AudioController.
@@ -377,7 +377,7 @@ In this example, a `public static` instance of the class is declared at its begi
 
 The value of a static field is shared between instances, so if a new instance of this class gets created the `if` will find a reference to the first Singleton object, destroying the new instance (or its game object).
   
-This is only the simplest implementation of a singleton. I recommend looking at **this article** for a range of different singleton approaches to common problems in Unity.
+This is only the simplest implementation of a singleton. I recommend looking at this article for a range of different singleton approaches to common problems in Unity.
 **[http://www.unitygeek.com/unity_c_singleton](http://www.unitygeek.com/unity_c_singleton)**
 {: .callout .callout--info}
 
@@ -400,11 +400,11 @@ fig. 8 - Example Decorator UML
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MT
-Y4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4
-LDY4MzY0OTE3MiwxMzkxMjczNzExLDg0NjM0NTMxMiwtMTg1OD
-E5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMjc5NzY3
-MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5LC0xMj
-Q4NTg3MzI2LDIxMDc5NDA3NTEsNDkwNTI1MzM5LDk5MjY5MTIx
-M119
+eyJoaXN0b3J5IjpbLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2Nz
+IwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5
+Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2Mz
+Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
+NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
+Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
+MzldfQ==
 -->
