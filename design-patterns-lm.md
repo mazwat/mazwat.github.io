@@ -434,81 +434,52 @@ Concrete classes will be named as the type of enemy that will be created. In the
 ```c#
 interface  IWeapon
 {
-
-string Item();
-
+	string Item();
 }
-
 interface  IArmour
-
 {
-
-string Item();
-
+	string Item();
 }
 ```
 In next step we will create interface CLICK for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
 
 ```c#
 class  Sword : IWeapon
-
-{
-
-public  string  Item()
-
-{
-
-return  "Iron Sword";
-
-}
-
+{	
+	public  string  Item()
+	{
+		return  "Iron Sword";
+	}
 }
 
 class  Wand : IWeapon
-
 {
-
-public  string  Item()
-
-{
-
-return "Magic Wand";
-
-}
-
+	public  string  Item()
+	{
+		return "Magic Wand";
+	}
 }
 
 class  BodyArmour : IArmour
-
 {
-
-public  string  Item()
-
-{
-
-return  "Iron Body Armor";
-
-}
-
+	public  string  Item()
+	{
+		return  "Iron Body Armor";
+	}
 }
 
 class  Cloak : IArmour
-
 {
-
-public  string  Item()
-
-{
-
-return  "Magic Cloak";
-
-}
+	public  string  Item()
+	{
+		return  "Magic Cloak";
+	}
 
 }
 ```
 In Concrete classes methods will return string values CLICK that will be printed to the console.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYzMDA4MywtNzMyNjM2NTIsMTQ1ND
+eyJoaXN0b3J5IjpbLTM1OTI0MTMwNSwtNzMyNjM2NTIsMTQ1ND
 Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
 NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
 gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEs
