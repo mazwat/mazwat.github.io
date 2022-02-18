@@ -400,7 +400,7 @@ fig. 8 - Example Decorator UML
 
 In the example we’ll simulate the process of enchanting an item in RPG game.
 
-### Example
+### Example - Component
 
 This interface will be used as base for decorator and concrete items. It contains methods that will return properties of an item - `IItem`.
 
@@ -425,6 +425,7 @@ class  Sword : IItem
 	}
 }
 ```
+### Example - Decorator
 
 Below is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an `Enchantment` of the item. Decorator will have a form of `abstract class` and will have a protected constructor.
 ```c#
@@ -459,7 +460,7 @@ class  Magic : Enchantment
 ```
 Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
 
-Last part of the application. Here the instance of an item is created and modified.CLICK In this example you can see how the values changed after adding the decorator.
+Last part of the application. Here the instance of an item is created and modified. In this example you can see how the values changed after adding the decorator.
 
 ```c#
 class  Program
@@ -471,19 +472,18 @@ class  Program
 		
 		newItem = new  Magic(newItem);
 		Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+		
 		Console.ReadLine();
-
-}
-
+	}
 }
 ```
-
+Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTE0MzE4NCwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
-MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
-k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
-M119
+eyJoaXN0b3J5IjpbLTE0NzI0NzIwNjAsLTU4MDAyMTE1MSwtNz
+MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
+NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
+UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
+LDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNT
+U5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5
+MTNdfQ==
 -->
