@@ -391,20 +391,31 @@ fig. 7 - Example Decorator Pattern
 Decorator pattern allows modification an object dynamically. It simplifies the code by adding new functionality at runtime. Adding new functionality to the object doesn’t effect the initial class structure.
 
 Although I am loathe to use a gun as a model for the example this is a particularly effective diagram at explaining the decorator principle.
+{: .callout .callout--info}
 
 ![UML for an Example Decorator Pattern](images/decorator-uml-enchant.png)
 fig. 8 - Example Decorator UML
 
+The first thing is to create the interface for Factory, CLICK that will be used to specify the equipment of each enemy.
+```c#
+interface  IEnemyFactory
+{
+	IWeapon GetWeapon();
+	IArmor GetArmour();
+}
+```
+Concrete classes will be named as the type of enemy that will be created. In the example there ar e two enemies Mage and Warrior.
 
+```c#
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyOD
-I0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMs
-LTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
-czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
-MSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04Mz
-kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
-NTFdfQ==
+eyJoaXN0b3J5IjpbODI5MDE5NzAxLC05NjM1OTE1NywtODA5NT
+YxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwt
+ODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2ND
+kxNzIsMTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQs
+LTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mj
+g4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEzOSwtMTI0ODU4NzMy
+Nl19
 -->
