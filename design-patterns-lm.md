@@ -487,12 +487,21 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 ### 1. Command
 
 ### 2. Observer
+
+
+## Video Lecture
+
+### Part 1
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/4519bcbc-c02f-4153-84f3-1b7917fdc939?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+### Part 2
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNj
-I2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMz
-LC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3Mj
-AxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0Nzky
-LDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3MzcxMSw4NDYzND
-UzMTIsLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3
-NTRdfQ==
+eyJoaXN0b3J5IjpbMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5Nj
+kzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUy
+LDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyOD
+I0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMs
+LTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
+czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
+MV19
 -->
