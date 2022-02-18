@@ -360,6 +360,7 @@ It is recommend using Singletons for things that do not need to be copied multip
 ![Audio Manager in Unity Inspector](images/manager-inspector.png)
 fig. 6 - Audio Manager in Unity Inspector
 
+### Example - Simple Implementation
 ```c#
 public class SingletonController : MonoBehaviour {
 	public static SingletonController instance;
@@ -460,6 +461,8 @@ class  Magic : Enchantment
 ```
 Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
 
+### Example - Client
+
 Last part of the application. Here the instance of an item is created and modified. In this example you can see how the values changed after adding the decorator.
 
 ```c#
@@ -479,7 +482,7 @@ class  Program
 ```
 Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI0NzIwNjAsLTU4MDAyMTE1MSwtNz
+eyJoaXN0b3J5IjpbLTIwMTIwNjI1NTUsLTU4MDAyMTE1MSwtNz
 MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
 NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
 UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
