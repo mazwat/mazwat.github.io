@@ -426,7 +426,7 @@ class  Sword : IItem
 }
 ```
 
-Below is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an Enchantment of the item. CLICK Decorator will have a form of abstract class and will have protected constructor 
+Below is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an `Enchantment` of the item. Decorator will have a form of `abstract class` and will have a protected constructor.
 ```c#
 abstract  class  Enchantment : IItem
 {
@@ -446,8 +446,7 @@ abstract  class  Enchantment : IItem
 	}
 }
 ```
-
-f you remember the lecture on OOP you will remember a protected member is accessible within its class and by derived class instances
+If you remember the lecture on OOP you will remember a protected member is accessible within its class and by derived class instances
 
 ```c#
 class  Magic : Enchantment
@@ -459,8 +458,32 @@ class  Magic : Enchantment
 }
 ```
 Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
+
+```c#
+class  Program
+
+{
+
+static  void  Main(string[] args)
+
+{
+
+IItem newItem = new Sword();
+
+Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+
+newItem = new  Magic(newItem);
+
+Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+
+Console.ReadLine();
+
+}
+
+}
+```c#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjcyODk3NSwtNTgwMDIxMTUxLC03Mz
+eyJoaXN0b3J5IjpbMjAwMTEwMjU4MywtNTgwMDIxMTUxLC03Mz
 I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
 LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
 E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
