@@ -426,13 +426,32 @@ class  Sword : IItem
 }
 ```
 
-This is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an Enchantment of the item. CLICK Decorator will have a form of abstract class and will have protected constructor CLICK
+Below is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an Enchantment of the item. CLICK Decorator will have a form of abstract class and will have protected constructor 
+```c#
+abstract  class  Enchantment : IItem
+{
+	IItem _item = null;
+	protected  int  _Value = 0;
+	protected  Enchantment(IItem  baseItem)
+	{
+		_item = baseItem;
+	}
+	public  string  GetName()
+	{
+		return (_item.GetName() +" +1 ");
+	}
+	public  int  GetValue()
+	{
+		return (_item.GetValue() + _Value);
+	}
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTQ4NTA3MiwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
-MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
-k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
-M119
+eyJoaXN0b3J5IjpbLTEyMzUwMDY4OTAsLTU4MDAyMTE1MSwtNz
+MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
+NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
+UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
+LDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNT
+U5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5
+MTNdfQ==
 -->
