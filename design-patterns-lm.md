@@ -411,32 +411,24 @@ public  interface  IItem
 	int GetValue();
 }
 ```
-Base Items like armour or Sword will implement this interface and return fixed values.
-
-
+Base Items like armour or `Sword` will implement this interface and return fixed values.
+```c#
 class  Sword : IItem
-
 {
-
-public  string  GetName()
-
-{
-
-return  "Iron Sword";
-
+	public  string  GetName()
+	{
+		return  "Iron Sword";
+	}
+	public  int  GetValue()
+	{
+		return 20;
+	}
 }
+```
 
-public  int  GetValue()
-
-{
-
-return 20;
-
-}
-
-}
+This is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an Enchantment of the item. CLICK Decorator will have a form of abstract class and will have protected constructor CLICK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDQ0ODA2OSwtNTgwMDIxMTUxLC03Mz
+eyJoaXN0b3J5IjpbLTM0OTQ4NTA3MiwtNTgwMDIxMTUxLC03Mz
 I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
 LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
 E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
