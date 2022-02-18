@@ -459,31 +459,27 @@ class  Magic : Enchantment
 ```
 Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
 
+Last part of the application. Here the instance of an item is created and modified.CLICK In this example you can see how the values changed after adding the decorator.
+
 ```c#
 class  Program
-
 {
-
-static  void  Main(string[] args)
-
-{
-
-IItem newItem = new Sword();
-
-Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
-
-newItem = new  Magic(newItem);
-
-Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
-
-Console.ReadLine();
+	static  void  Main(string[] args)
+	{
+		IItem newItem = new Sword();
+		Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+		
+		newItem = new  Magic(newItem);
+		Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+		Console.ReadLine();
 
 }
 
 }
-```c#
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTEwMjU4MywtNTgwMDIxMTUxLC03Mz
+eyJoaXN0b3J5IjpbMTY3MTE0MzE4NCwtNTgwMDIxMTUxLC03Mz
 I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
 LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
 E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
