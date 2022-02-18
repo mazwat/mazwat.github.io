@@ -402,16 +402,45 @@ In the example we’ll simulate the process of enchanting an item in RPG game.
 
 ### Example
 
-This interface will be used as base for decorator and concrete items. CLICK It contains methods that will return properties of an item.
+This interface will be used as base for decorator and concrete items. It contains methods that will return properties of an item - `IItem`.
 
 ```c#
+public  interface  IItem
+{
+	string GetName();
+	int GetValue();
+}
+```
+Base Items like armour or Sword will implement this interface and return fixed values.
 
+
+class  Sword : IItem
+
+{
+
+public  string  GetName()
+
+{
+
+return  "Iron Sword";
+
+}
+
+public  int  GetValue()
+
+{
+
+return 20;
+
+}
+
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
-Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
-NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
-gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEs
-ODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMD
-c3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEy
-NF19
+eyJoaXN0b3J5IjpbLTY0NDQ0ODA2OSwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
+MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
+k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
+M119
 -->
