@@ -351,8 +351,8 @@ Abstract Factory facilitates an interface for creating families of related or de
 Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
 
 Some programmer’s consider Singletons to be an anti-pattern. Find out more here:
+[**https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern**](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
 {: .callout .callout--info}
-[**https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern**](http://www.apple.com/uk)
 
 Classes implementing Singleton pattern will ensure that only one instance of the object ever exists at any one time.  
 It is recommend using Singletons for things that do not need to be copied multiple times during a game. This is great for controller classes like GameManager or AudioController.
@@ -488,11 +488,11 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 
 ### 2. Observer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMD
-IxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1Nywt
-ODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2OD
-kxOCwtODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2
-ODM2NDkxNzIsMTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOT
-Q4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2
-XX0=
+eyJoaXN0b3J5IjpbLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNj
+I2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMz
+LC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3Mj
+AxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0Nzky
+LDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3MzcxMSw4NDYzND
+UzMTIsLTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3
+NTRdfQ==
 -->
