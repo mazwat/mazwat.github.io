@@ -396,7 +396,7 @@ Although I am loathe to use a gun as a model for the example this is a particula
 ![UML for an Example Decorator Pattern](images/decorator-uml-enchant.png)
 fig. 8 - Example Decorator UML
 
-The first thing is to create the interface for Factory, CLICK that will be used to specify the equipment of each enemy.
+
 ```c#
 interface  IEnemyFactory
 {
@@ -404,7 +404,7 @@ interface  IEnemyFactory
 	IArmor GetArmour();
 }
 ```
-Concrete classes will be named as the type of enemy that will be created. In the example there ar e two enemies Mage and Warrior.
+The first thing is to create the `interface` for Factory, that will be used to specify the equipment of each enemy.
 
 ```c#
 class  Mage : IEnemyFactory
@@ -430,15 +430,16 @@ class  Warrior : IEnemyFactory
 	}
 }
 ```
+Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDM2NDc4NiwxNDU0NDQwMTMzLC05Nj
-M1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAs
-MTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNj
-Q5NTU1OCw2ODM2NDkxNzIsMTM5MTI3MzcxMSw4NDYzNDUzMTIs
-LTE4NTgxOTQ4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMT
-I3OTc2NzA2LDM5Mjg4MTkxMywtODM5Mzk1MTI0LDI1NjcwNzEz
-OV19
+eyJoaXN0b3J5IjpbLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2Mz
+U5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5NjcyMDE1MCwx
+NzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3OTIsNjI2ND
+k1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzExLDg0NjM0NTMxMiwt
+MTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMj
+c5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5
+XX0=
 -->
