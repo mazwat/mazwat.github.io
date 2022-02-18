@@ -483,12 +483,16 @@ class  Program
 Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
 
 ## Behavioural Patterns
+
+### 1. Command
+
+### 2. Observer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
-MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
-k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
-M119
+eyJoaXN0b3J5IjpbOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMD
+IxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1Nywt
+ODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2OD
+kxOCwtODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2
+ODM2NDkxNzIsMTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOT
+Q4NzQsLTE1NTk4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2
+XX0=
 -->
