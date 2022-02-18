@@ -446,12 +446,25 @@ abstract  class  Enchantment : IItem
 	}
 }
 ```
+
+f you remember the lecture on OOP you will remember a protected member is accessible within its class and by derived class instances
+
+```c#
+class  Magic : Enchantment
+{
+	public  Magic(IItem  baseComponent): base(baseComponent)
+	{
+		this._Value = 30;
+	}
+}
+```
+Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUwMDY4OTAsLTU4MDAyMTE1MSwtNz
-MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
-NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
-UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
-LDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNT
-U5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5
-MTNdfQ==
+eyJoaXN0b3J5IjpbMTY3MjcyODk3NSwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
+MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
+k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
+M119
 -->
