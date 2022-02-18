@@ -481,12 +481,14 @@ class  Program
 }
 ```
 Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
+
+## Behavioural Patterns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwNjI1NTUsLTU4MDAyMTE1MSwtNz
-MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
-NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
-UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
-LDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNT
-U5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIs
+MTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzQsLTE1NT
+k4NjE5MzEsLTIwNzcxNDM3NTQsMTI3OTc2NzA2LDM5Mjg4MTkx
+M119
 -->
