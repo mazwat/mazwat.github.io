@@ -424,23 +424,18 @@ class  Warrior : IEnemyFactory
 	public  IWeapon  GetWeapon()
 	{
 		return new Sword();
-		}
-
-public IArmor GetArmor()
-
-{
-
-return new BodyArmour();
-
-}
-
+	}		
+	public IArmor GetArmor()
+	{
+		return new BodyArmour();
+	}
 }
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNTYzMjA2LDE0NTQ0NDAxMzMsLTk2Mz
+eyJoaXN0b3J5IjpbNjk2NTY5NTc2LDE0NTQ0NDAxMzMsLTk2Mz
 U5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5NjcyMDE1MCwx
 NzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3OTIsNjI2ND
 k1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzExLDg0NjM0NTMxMiwt
