@@ -351,8 +351,8 @@ Abstract Factory facilitates an interface for creating families of related or de
 Singleton is a basic design pattern is useful because it guarantees that there is only **one instance of a class** and can be accessed globally. This is usually ’lazily’ initialised via a **static function** that satisfies the previous statement. It is used for **manager classes** which track some sort of global state. 
 
 Some programmer’s consider Singletons to be an anti-pattern. Find out more here:
+[**https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern**](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
 {: .callout .callout--info}
-[**https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern**](http://www.apple.com/uk)
 
 Classes implementing Singleton pattern will ensure that only one instance of the object ever exists at any one time.  
 It is recommend using Singletons for things that do not need to be copied multiple times during a game. This is great for controller classes like GameManager or AudioController.
@@ -360,6 +360,7 @@ It is recommend using Singletons for things that do not need to be copied multip
 ![Audio Manager in Unity Inspector](images/manager-inspector.png)
 fig. 6 - Audio Manager in Unity Inspector
 
+### Example - Simple Implementation
 ```c#
 public class SingletonController : MonoBehaviour {
 	public static SingletonController instance;
@@ -391,20 +392,116 @@ fig. 7 - Example Decorator Pattern
 Decorator pattern allows modification an object dynamically. It simplifies the code by adding new functionality at runtime. Adding new functionality to the object doesn’t effect the initial class structure.
 
 Although I am loathe to use a gun as a model for the example this is a particularly effective diagram at explaining the decorator principle.
+{: .callout .callout--info}
+
+### UML
 
 ![UML for an Example Decorator Pattern](images/decorator-uml-enchant.png)
 fig. 8 - Example Decorator UML
 
+In the example we’ll simulate the process of enchanting an item in RPG game.
+
+### Example - Component
+
+This interface will be used as base for decorator and concrete items. It contains methods that will return properties of an item - `IItem`.
+
+```c#
+public  interface  IItem
+{
+	string GetName();
+	int GetValue();
+}
+```
+Base Items like armour or `Sword` will implement this interface and return fixed values.
+```c#
+class  Sword : IItem
+{
+	public  string  GetName()
+	{
+		return  "Iron Sword";
+	}
+	public  int  GetValue()
+	{
+		return 20;
+	}
+}
+```
+### Example - Decorator
+
+Below is the key part of the pattern, it maintains a reference to a Component object and defines an interface that conforms to Component’s interface. In the example this will be represented as an `Enchantment` of the item. Decorator will have a form of `abstract class` and will have a protected constructor.
+```c#
+abstract  class  Enchantment : IItem
+{
+	IItem _item = null;
+	protected  int  _Value = 0;
+	protected  Enchantment(IItem  baseItem)
+	{
+		_item = baseItem;
+	}
+	public  string  GetName()
+	{
+		return (_item.GetName() +" +1 ");
+	}
+	public  int  GetValue()
+	{
+		return (_item.GetValue() + _Value);
+	}
+}
+```
+If you remember the lecture on OOP you will remember a protected member is accessible within its class and by derived class instances
+
+```c#
+class  Magic : Enchantment
+{
+	public  Magic(IItem  baseComponent): base(baseComponent)
+	{
+		this._Value = 30;
+	}
+}
+```
+Then we create a class that extends the Decorator that can change the protected values in parent to eventually change the return values.
+
+### Example - Client
+
+Last part of the application. Here the instance of an item is created and modified. In this example you can see how the values changed after adding the decorator.
+
+```c#
+class  Program
+{
+	static  void  Main(string[] args)
+	{
+		IItem newItem = new Sword();
+		Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+		
+		newItem = new  Magic(newItem);
+		Console.WriteLine(newItem.GetName() + " Value: " + newItem.GetValue().ToString());
+		
+		Console.ReadLine();
+	}
+}
+```
+Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
+
+## Behavioural Patterns
+
+### 1. Command
+
+### 2. Observer
 
 
+## Video Lecture
 
+### Part 1
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/4519bcbc-c02f-4153-84f3-1b7917fdc939?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+### Part 2
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyOD
-I0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMs
-LTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
-czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
-MSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04Mz
-kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
-NTFdfQ==
+eyJoaXN0b3J5IjpbOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNT
+M2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgs
+LTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNT
+kxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3
+NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5Miw2MjY0OT
+U1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2MzQ1MzEyXX0=
+
 -->

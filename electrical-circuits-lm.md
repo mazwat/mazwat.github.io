@@ -268,11 +268,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 ### Lecture - Understanding Electrical Circuits
  
-<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/8ef62deb-499e-43d6-8036-0d307200f7f5?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/8ef62deb-499e-43d6-8036-0d307200f7f5?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTc5MTUzNiwyNjU0MDE5MjksMjY1ND
+eyJoaXN0b3J5IjpbMTUxMDI4MDk0NCwyNjU0MDE5MjksMjY1ND
 AxOTI5LC0xMTYwMTIxMzkyLC0xOTUyMzY0OTMwLDExNjcwMTI5
 ODgsLTc2ODM3MTAzNiwtMjA5MzE4MDI2OSwtMjA0NzQ3NjQwMi
 wtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1NjU3OTk3LDE0

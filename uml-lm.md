@@ -79,7 +79,7 @@ The ones in bold are the diagrams we are going to explore during the lecture. Th
 
 Use Case diagrams typically details the user’s interaction with the system. In essence it details the **Use Case** of the **System** and the **Actors** which interact with the system
 
-– NB. These Actors could be other systems!
+**Note** - These Actors could be other systems!
 {: .callout .callout--info}
 
 - Created using terms that a layperson could understand
@@ -265,16 +265,16 @@ Many of the above options are freemium. You may have a limited number of diagram
 ## Video Lecture
 
 ### Lecture (Part 1) - UML
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/bb0a1d5b-fae6-499b-8252-59f2c418cb51?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Lecture (Part 2) - UML
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxODIxODM3LDEwNjU1OTQ5NzEsLTk4OT
-c4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2MzE4OTM3
-LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1MDcsMT
-U5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYsNzk0OTMy
-MDgsLTE4NzA1NzUyNTQsMTQzMTg5ODU0Miw4NzgwNzEzMSwtNT
-AwOTkyODMxLDE4MTk5NjAxMzgsMTM1MDg0ODgyNywxMjUzNzEy
-MDUwXX0=
+eyJoaXN0b3J5IjpbLTEwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNj
+E4MjE4MzcsMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1
+LC0zOTIwMDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLT
+EyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAx
+Mzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NC
+wxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2
+MDEzOF19
 -->

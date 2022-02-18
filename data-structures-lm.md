@@ -545,16 +545,16 @@ Here is some addtitional **reference** material to support this lecture:
 ## Video Lecture
 
 ### Part 1
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Part 2
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQwMjMxMjYsNTE1OTA1NTYwLDE2MT
-czMTA0MzAsLTY3MDAzNjU1MSwtMTI1NzM0NTE1MCwtMTQ1NDg0
-NDE2OSwxOTUxMTQzMDI4LC0xMTg3NTk0MDc3LDE5ODk2ODg1ND
-gsLTE2NTcwNDkxNzksOTg4Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMz
-MDkxMjQsMTY2NTQyMTMxNiwtMTcxNzY2MjY1Myw5ODkyMTQzMD
-EsMTE1MjAyODEyOSwtNjg5OTYwMjk4LDM5NjQ0NjEzOCwxNzYx
-MDg0MDQ4XX0=
+eyJoaXN0b3J5IjpbMTgzMzgyOTIyNCwtMTQxNDAyMzEyNiw1MT
+U5MDU1NjAsMTYxNzMxMDQzMCwtNjcwMDM2NTUxLC0xMjU3MzQ1
+MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1OTQwNz
+csMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3NzUsNjIy
+Mjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3NjYyNj
+UzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOTgsMzk2
+NDQ2MTM4XX0=
 -->

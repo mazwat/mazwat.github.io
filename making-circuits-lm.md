@@ -215,15 +215,15 @@ In this lecture I have explained how to user the simulation environment of Tinke
 ## Video Lecture
 
 ### Lecture - Making Circuits
-<iframe width="100%" height="480" src="https://web.microsoftstream.com/embed/video/ec6162e0-790d-4c88-b05a-ae27a5760597?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/ec6162e0-790d-4c88-b05a-ae27a5760597?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NzYwMzg1LC0xMzE1MzQzNDE1LDUxMT
-g5MTg2NiwtODgxNjAxNjgzLC04MDIxMDc3NTksMTcyOTQyNDcz
-MywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLTQ2MzU0MzkwOSwxNT
-k4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgy
-MjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzODUsLTIwOTUxMjY2Mj
-gsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2MDg5NjkyLC0xNzY2
-NzE1MjI4XX0=
+eyJoaXN0b3J5IjpbLTE5ODkxMzQ0MzEsNDQ1NzYwMzg1LC0xMz
+E1MzQzNDE1LDUxMTg5MTg2NiwtODgxNjAxNjgzLC04MDIxMDc3
+NTksMTcyOTQyNDczMywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLT
+Q2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIw
+MTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzOD
+UsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2
+MDg5NjkyXX0=
 -->

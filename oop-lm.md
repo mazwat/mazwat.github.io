@@ -776,13 +776,13 @@ OOP is like a skeleton or framework for the code that performs useful operations
 ## Video Lecture
 
 ### Lecture - OOP Part 1
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="640" height="370" src="https://web.microsoftstream.com/embed/video/555f6127-55e3-4951-80ff-21e3003d08b2?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Lecture - OOP Part 2
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="640" height="370" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njk0MjgyNCwtNTAwMjczNjQ5LC0xOT
+eyJoaXN0b3J5IjpbLTY4MzczMzc2OCwtNTAwMjczNjQ5LC0xOT
 MzNTM1NDg1LDM2NTM5Mjc4OCwtMTA0NjgzNTY3MiwzMzAyMDM2
 OTAsMTY4MjI3NjA4MCwtNzAwOTA2OTY1LDU5NDg3NTk4Nyw0Nz
 M3NzUzNjAsLTExNTM5NjM2OTQsLTE0MzU2OTE3ODgsMTM1MTU1
