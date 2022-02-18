@@ -396,94 +396,16 @@ Although I am loathe to use a gun as a model for the example this is a particula
 ![UML for an Example Decorator Pattern](images/decorator-uml-enchant.png)
 fig. 8 - Example Decorator UML
 
+In the example we’ll simulate the process of enchanting an item in RPG game. CLICK
 
 ```c#
-interface  IEnemyFactory
-{
-	IWeapon GetWeapon();
-	IArmor GetArmour();
-}
-```
-The first thing is to create the `interface` for Factory, that will be used to specify the equipment of each enemy.
 
-```c#
-class  Mage : IEnemyFactory
-{
-	public  IWeapon  GetWeapon()
-	{
-		return new Wand();
-	}
-	public IArmor GetArmor()
-	{
-		return new Cloak();
-	}
-}			
-class  Warrior : IEnemyFactory
-{
-	public  IWeapon  GetWeapon()
-	{
-		return new Sword();
-	}		
-	public IArmor GetArmor()
-	{
-		return new BodyArmour();
-	}
-}
-```
-Concrete classes will be named as the type of enemy that will be created. In the example there are two enemies `Mage` and `Warrior`.
-```c#
-interface  IWeapon
-{
-	string Item();
-}
-interface  IArmour
-{
-	string Item();
-}
-```
-In next step we will create interface CLICK for items that will be given to the enemies. Both types share the same types of equipment, weapon and armour. CLICK
-
-```c#
-class  Sword : IWeapon
-{	
-	public  string  Item()
-	{
-		return  "Iron Sword";
-	}
-}
-
-class  Wand : IWeapon
-{
-	public  string  Item()
-	{
-		return "Magic Wand";
-	}
-}
-
-class  BodyArmour : IArmour
-{
-	public  string  Item()
-	{
-		return  "Iron Body Armor";
-	}
-}
-
-class  Cloak : IArmour
-{
-	public  string  Item()
-	{
-		return  "Magic Cloak";
-	}
-
-}
-```
-In Concrete classes methods will return string values CLICK that will be printed to the console.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI0MTMwNSwtNzMyNjM2NTIsMTQ1ND
-Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
-NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
-gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEs
-ODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMD
-c3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEy
-NF19
+eyJoaXN0b3J5IjpbLTIwMzM5MzM0NjgsLTczMjYzNjUyLDE0NT
+Q0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUz
+LDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNT
+g4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzEx
+LDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMj
+A3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUx
+MjRdfQ==
 -->
