@@ -107,7 +107,7 @@ relationship is used to include optional behavior from an extending use case.  W
 In the above example *Barney* includes a **noise** when he **burps** but he can choose to extend the process by saying **"excuse me"**.
 
 ![Pokemon GO](images/pokemon-go.svg)
-*fig.5 - Pokemon GO Use Case*
+\*fig.5 - Pokemon GO Use Case*
 
 In this example which takes Pokemon GO as a starting point. We can see a the key features of the game but we can also see how a trapping is included in a Poke Stop but catching is an extension it is dependent on a set of certain parameters being met.
 
@@ -270,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQxNDk5NDQsLTEwNzY1NTg1MjUsLT
-YyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5NDk3MSwtOTg5Nzg0
-NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMTg5MzcsLT
-E5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4
-MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOC
-wtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5
-OTI4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTU4ODA2MzIsLTIwNzQxNDk5NDQsLT
+EwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5
+NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLT
+E2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5
+MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2Mz
+A5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLDg3
+ODA3MTMxXX0=
 -->
