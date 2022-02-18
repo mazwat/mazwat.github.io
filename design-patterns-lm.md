@@ -407,16 +407,44 @@ interface  IEnemyFactory
 Concrete classes will be named as the type of enemy that will be created. In the example there ar e two enemies Mage and Warrior.
 
 ```c#
+class  Mage : IEnemyFactory
+{
+	public  IWeapon  GetWeapon()
+	{
+		return new Wand();
+	}
+	public IArmor GetArmor()
+	{
+		return new Cloak();
+	}
+}
+
+class  Warrior : IEnemyFactory
+{
+	public  IWeapon  GetWeapon()
+	{
+		return new Sword();
+		}
+
+public IArmor GetArmor()
+
+{
+
+return new BodyArmour();
+
+}
+
+}
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOT
-U2MTgwNiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgs
-LTgxMTUxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNj
-Q5MTcyLDEzOTEyNzM3MTEsODQ2MzQ1MzEyLC0xODU4MTk0ODc0
-LC0xNTU5ODYxOTMxLC0yMDc3MTQzNzU0LDEyNzk3NjcwNiwzOT
-I4ODE5MTMsLTgzOTM5NTEyNCwyNTY3MDcxMzksLTEyNDg1ODcz
-MjZdfQ==
+eyJoaXN0b3J5IjpbNzYzNTYzMjA2LDE0NTQ0NDAxMzMsLTk2Mz
+U5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5NjcyMDE1MCwx
+NzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3OTIsNjI2ND
+k1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzExLDg0NjM0NTMxMiwt
+MTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMjA3NzE0Mzc1NCwxMj
+c5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUxMjQsMjU2NzA3MTM5
+XX0=
 -->
