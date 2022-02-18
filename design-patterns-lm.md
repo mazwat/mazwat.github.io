@@ -492,16 +492,16 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 ## Video Lecture
 
 ### Part 1
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/4519bcbc-c02f-4153-84f3-1b7917fdc939?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="380" src="https://web.microsoftstream.com/embed/video/4519bcbc-c02f-4153-84f3-1b7917fdc939?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Part 2
-<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="380" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5Nj
-kzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUy
-LDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyOD
-I0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMs
-LTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
-czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
-MV19
+eyJoaXN0b3J5IjpbLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1Nz
+E0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUx
+LC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NT
+YxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwt
+ODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2ND
+kxNzIsMTM5MTI3MzcxMSw4NDYzNDUzMTIsLTE4NTgxOTQ4NzRd
+fQ==
 -->
