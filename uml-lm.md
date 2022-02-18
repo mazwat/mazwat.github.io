@@ -79,7 +79,7 @@ The ones in bold are the diagrams we are going to explore during the lecture. Th
 
 Use Case diagrams typically details the user’s interaction with the system. In essence it details the **Use Case** of the **System** and the **Actors** which interact with the system
 
-– NB. These Actors could be other systems!
+**Note** - These Actors could be other systems!
 {: .callout .callout--info}
 
 - Created using terms that a layperson could understand
@@ -270,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NT
-U5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAs
-LTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLT
-U5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2
-MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NCwxNDMxODk4NTQyLD
-g3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2MDEzOCwxMzUwODQ4
-ODI3XX0=
+eyJoaXN0b3J5IjpbLTEwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNj
+E4MjE4MzcsMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1
+LC0zOTIwMDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLT
+EyOTI1NzEwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAx
+Mzc3MDQsLTcwOTQ2MzA5Niw3OTQ5MzIwOCwtMTg3MDU3NTI1NC
+wxNDMxODk4NTQyLDg3ODA3MTMxLC01MDA5OTI4MzEsMTgxOTk2
+MDEzOF19
 -->
