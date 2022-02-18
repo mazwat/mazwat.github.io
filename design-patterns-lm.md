@@ -205,7 +205,7 @@ You can see this example as a **Visual Studio App** in this repo:\
 
 ### 2. Abstract Factory
 
-![Visualising Abstract Factory](images/abstract-factory-pic.png)
+![Visualising Abstract Factory](images/abstract-diagram.svg)
 fig. 5 - Visualising Abstract Factory
 
 Abstract factory is similar to factory but this time we will encapsulate all classes, by removing the interfaces for Product and Factory. This pattern is also called a factory of factories, because this patterns acts as a super factory which creates other factories. Abstract factory pattern is useful when the client needs to create objects which are somehow related or similar, without specifying the concrete class.  With this pattern objects can interact with each other through common interfaces.
@@ -400,11 +400,11 @@ fig. 8 - Example Decorator UML
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2Nz
-IwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5
-Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2Mz
-Q1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMDc3MTQz
-NzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEyNCwyNT
-Y3MDcxMzksLTEyNDg1ODczMjYsMjEwNzk0MDc1MSw0OTA1MjUz
-MzldfQ==
+eyJoaXN0b3J5IjpbLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyOD
+I0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMs
+LTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMj
+czNzExLDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkz
+MSwtMjA3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04Mz
+kzOTUxMjQsMjU2NzA3MTM5LC0xMjQ4NTg3MzI2LDIxMDc5NDA3
+NTFdfQ==
 -->
