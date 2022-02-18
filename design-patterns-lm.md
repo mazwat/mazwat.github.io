@@ -393,19 +393,25 @@ Decorator pattern allows modification an object dynamically. It simplifies the c
 Although I am loathe to use a gun as a model for the example this is a particularly effective diagram at explaining the decorator principle.
 {: .callout .callout--info}
 
+### UML
+
 ![UML for an Example Decorator Pattern](images/decorator-uml-enchant.png)
 fig. 8 - Example Decorator UML
 
-In the example we’ll simulate the process of enchanting an item in RPG game. CLICK
+In the example we’ll simulate the process of enchanting an item in RPG game.
+
+### Example
+
+This interface will be used as base for decorator and concrete items. CLICK It contains methods that will return properties of an item.
 
 ```c#
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM5MzM0NjgsLTczMjYzNjUyLDE0NT
-Q0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUz
-LDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNT
-g4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzEx
-LDg0NjM0NTMxMiwtMTg1ODE5NDg3NCwtMTU1OTg2MTkzMSwtMj
-A3NzE0Mzc1NCwxMjc5NzY3MDYsMzkyODgxOTEzLC04MzkzOTUx
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
+Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
+NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
+gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEs
+ODQ2MzQ1MzEyLC0xODU4MTk0ODc0LC0xNTU5ODYxOTMxLC0yMD
+c3MTQzNzU0LDEyNzk3NjcwNiwzOTI4ODE5MTMsLTgzOTM5NTEy
+NF19
 -->
