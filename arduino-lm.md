@@ -26,7 +26,7 @@ page_nav:
         url: '../making-circuits-lm'
 ---
 
-# Arduino
+# 2. Arduino
 
 ![Hero Banner Image](images/arduino-hero-banner.png)
 
@@ -219,11 +219,11 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjY2NTE2Myw1MTMyNjUwMjcsLTI4Mz
-Q4OTk0OSwtODE1NTU0MDExLDIwMzE5NzUyMjUsLTQ3NTk4ODk2
-MSwtNDU2NjM1OTY3LDIxMjMyNTUzNzAsMTUyMjIyNDEwNiwxOD
-EzNjMwNTE0LDE5ODA5NDA1ODYsLTIxMDQ1NDY0NDYsMTQ1NDI2
-NTk1LC0xNDEzODI5MzMzLDY5NjQzMDU1Nyw1NzIwNjY0MDAsMT
-E3Mzc3MjE4MSw3OTU0MjgyNjIsOTE4OTkwNzczLDE3NjM0OTAw
-XX0=
+eyJoaXN0b3J5IjpbNjE3MTIyODkxLDUxMzI2NTAyNywtMjgzND
+g5OTQ5LC04MTU1NTQwMTEsMjAzMTk3NTIyNSwtNDc1OTg4OTYx
+LC00NTY2MzU5NjcsMjEyMzI1NTM3MCwxNTIyMjI0MTA2LDE4MT
+M2MzA1MTQsMTk4MDk0MDU4NiwtMjEwNDU0NjQ0NiwxNDU0MjY1
+OTUsLTE0MTM4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMT
+czNzcyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDBd
+fQ==
 -->
