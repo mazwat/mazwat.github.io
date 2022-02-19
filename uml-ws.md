@@ -53,19 +53,8 @@ You can do this by undergoing a Feedback Fruits Peer Review at this link:
 You will be working in pairs to complete this task.
 Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.com/ncnz3p9r6vdqcls1)
 
-You will crreate
+You will create **a UML diagram** of the **type** outlined in option below. You can choose to do any  that is of interest to you, but consider it's application to your subject area.
 
-Points to consider:
-- What diagram can be used to document the high-level usage of the system?
-- What diagram can be used to model the user’s interaction with the physical control system?
-- What diagram can be used to model the systems inside the experience or game?
-
-You should develop at least **3 diagrams** and one of them should be a Class diagram
-
-## Pair Work
-
-You will be working in pairs to complete this task.
-Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.com/ncnz3p9r6vdqcls1)
 
 ## Resources for Creating UML
 
@@ -82,7 +71,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgyNzU2MiwtMzg3NDE1ODQ1LC0xND
+eyJoaXN0b3J5IjpbMjAzOTc1OTc4NCwtMzg3NDE1ODQ1LC0xND
 QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
 MDMsLTE1MDExOTI5ODFdfQ==
 -->
