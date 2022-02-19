@@ -24,12 +24,16 @@ page_nav: false
 # Prepare your Poster
 
 
-Please watch this video by Dr Michael Scott outlining what you need to included in your poster and how to approach creating one.
+Please watch this video by Dr Michael Scott outlining what you needs to included in your poster and how to approach creating one.
 
-LATEX Beamer Templates (Portrait & Landscape)  
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/81855ba3-1807-4516-bd53-f30b79cb4f3a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+## Requirements Summary
+
+LaTeX Beamer Templates (Portrait & Landscape)  
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDIwODQ4Niw4MDYxMzIzMTgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcxNTk0MjY4NywtNzY0MjA4NDg2LDgwNj
+EzMjMxOCw3MzA5OTgxMTZdfQ==
 -->
