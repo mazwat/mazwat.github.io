@@ -20,9 +20,9 @@ page_nav:
     prev:
         content: OOP
         url: '../oop-lm'
-	next:
-		content: UML
-		url: '../uml-lm'
+    next:
+        content: UML
+        url: '../uml-lm'
 ---
 
 # Software Architecture
@@ -505,7 +505,7 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTcxNTUzMCwtMTYxNDgxNDIyOCwtMT
+eyJoaXN0b3J5IjpbMTQ1Nzk5MzQwNiwtMTYxNDgxNDIyOCwtMT
 k0NDk2Mzk2LC0xMjE0NTA2Njc4LC0zNjgyNjAzNzEsLTE1Mjkz
 NTI0MDQsMTA5NTY4ODcxOSw2MDQxMTMwMjIsMTQ1NTY4NTY0Ny
 wzMTQyMjQ1MjcsMTA4ODgyOTkzNSwtOTU2OTMwMzg0LDE0OTA2
