@@ -47,7 +47,7 @@ You can do this by undergoing a Feedback Fruits Peer Review at this link:\
 [**https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756**](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
 
 ## 2. UML Diagramming
-### UML Diagrams for Individual Creative Computing Project
+#### UML Diagrams for Individual Creative Computing Project
 
 ### Pair Work
 You will be working in pairs to complete this task.\
@@ -82,6 +82,7 @@ You will be randomly assigned a diagram to make during the workshop
 - Do your research to understand it's functionality
 
 ### 3. ACTIVITY Diagram for  Tetris
+
  - Consider the flow of bricks
  - How decision are made
  - What are the start and end points of the activity
@@ -92,7 +93,8 @@ You will be randomly assigned a diagram to make during the workshop
 - What the loops and the messaging within the system
 
 ### 5. STATE DIAGRAM
--   Watch this video: shorturl.at/gpyD8
+
+-   Watch this video: [**shorturl.at/gpyD8**](shorturl.at/gpyD8)
 -   Identify the **states** of the  Cathedral Grave Warden
 
 ## 3. Start work on your Poster
@@ -106,7 +108,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTUzMTM1MCwtMTQ3NTgzMzYxMywtMz
+eyJoaXN0b3J5IjpbMTI4NjMzOTE1OSwtMTQ3NTgzMzYxMywtMz
 g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
 OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
