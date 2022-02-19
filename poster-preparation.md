@@ -33,7 +33,10 @@ Please watch this video by Dr Michael Scott outlining what you needs to included
 LaTeX Beamer Templates (Portrait & Landscape)  
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
+
+
+https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTk0MjY4NywtNzY0MjA4NDg2LDgwNj
-EzMjMxOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTcxMzQ2MDE2NCwtNzE1OTQyNjg3LC03Nj
+QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
 -->
