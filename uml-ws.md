@@ -81,15 +81,15 @@ You will be randomly assigned a diagram to make during the workshop
 ### 3. ACTIVITY Diagram for  Tetris
 
  - Consider the flow of differeny bricks
- - How and why are decision are made
- - What are the start and end points of the activity
+ - How and why are decision are made?
+ - What are the start and end points of the activity?
 
 ### 4. SEQUENCE Diagram of Guitar Hero
 
 - Remember to consider the various ways that the actor interacts with the controller and the system.
-- What the loops and the messaging within the system
+- What are the loops and the messaging within the system?
 
-### 5. STATE DIAGRAM
+### 5. Dark STATE Diagram
 
 -   Watch this video: [**shorturl.at/gpyD8**](shorturl.at/gpyD8)
 -   Identify the **states** of the  Cathedral Grave Warden
@@ -105,7 +105,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODIzMTUxMywtMTQ3NTgzMzYxMywtMz
-g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
-OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjU0MDk4NjQsLTE0NzU4MzM2MTMsLT
+M4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIy
+OTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
 -->
