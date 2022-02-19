@@ -43,6 +43,8 @@ Creating diagrams can feel secondary to the main priority of building something,
 ### Mario Platformer Group Project
 
 Share your group game and assess how well it meets the criteria.
+You can do this by undergoing a Feedback Fruits Peer Review at this link:
+https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756
 
 ## EXERCISE 2
 ### UML Diagrams for Individual Creative Computing Project
@@ -79,7 +81,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NT
-E5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5NzAzLC0xNTAxMTky
-OTgxXX0=
+eyJoaXN0b3J5IjpbLTk2NTUxNjg2MywtMzg3NDE1ODQ1LC0xND
+QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
+MDMsLTE1MDExOTI5ODFdfQ==
 -->
