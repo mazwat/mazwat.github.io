@@ -28,6 +28,24 @@ Please watch this video by Dr Michael Scott outlining what you needs to included
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/81855ba3-1807-4516-bd53-f30b79cb4f3a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+## Purpose of a Poster
+
+Posters are widely used in the **academic community**, and most conferences include poster presentations in their program. Research posters **summarise** information or research concisely and attractively to help **publicise** it and generate **discussion**.
+
+The poster is usually a mixture of a **brief text** mixed with **tables**, **graphs**, **pictures**, and other presentation formats. At a conference, the researcher stands by the poster display while other participants can come and view the presentation and **interact** with the **author.**
+
+## What makes good poster content
+
+-   Important information should be **readable** from about **10 feet** away
+-   **Title** is **short** and draws interest
+-   Word count of about **300 to 800 words**
+-   Text is **clear** and **to the point**
+-   Use of **bullets**, **numbering**, and **headlines** make it easy to read
+-   Effective use of **graphics**, **colour** and **fonts**
+-   **Consistent** and **clean** layout
+-   Includes **acknowledgments**, your **name** and **institutional** affiliation
+-   **References** to main areas of research
+
 ## Requirements Summary
 
 The poster **must contain** the following:
@@ -42,7 +60,7 @@ This work is individual and will be assessed on a criterion-referenced basis. Pl
 ## Check the Assignment Brief
 
 Read the assignment brief to confirm all the requirements of the poster:\
-[https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
+[**https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
 
 ## Poster Templates
 
@@ -52,6 +70,6 @@ LaTeX Beamer Templates (Portrait & Landscape)
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3MjUzMjgsLTcxNTk0MjY4NywtNz
-Y0MjA4NDg2LDgwNjEzMjMxOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzIyODYwNiwtNzE1OTQyNjg3LC03Nj
+QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
 -->
