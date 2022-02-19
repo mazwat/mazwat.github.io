@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Data Structures
-description: COMP140 - Lecture Materials &
+description: COMP140 - Lecture Materials 7
 
 # Author box
 author:
@@ -26,7 +26,7 @@ page_nav:
         url: '../design-patterns-lm'
 ---
 
-# Data Structures
+# 7. Data Structures
 
 ![Hero Banner Image](images/data-hero-banner.png)
 
@@ -551,11 +551,11 @@ Here is some addtitional **reference** material to support this lecture:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTY3Mjc3LC0xNDE0MDIzMTI2LDUxNT
-kwNTU2MCwxNjE3MzEwNDMwLC02NzAwMzY1NTEsLTEyNTczNDUx
-NTAsLTE0NTQ4NDQxNjksMTk1MTE0MzAyOCwtMTE4NzU5NDA3Ny
-wxOTg5Njg4NTQ4LC0xNjU3MDQ5MTc5LDk4ODI4NTc3NSw2MjIy
-ODY0ODcsNDEzMzA5MTI0LDE2NjU0MjEzMTYsLTE3MTc2NjI2NT
-MsOTg5MjE0MzAxLDExNTIwMjgxMjksLTY4OTk2MDI5OCwzOTY0
-NDYxMzhdfQ==
+eyJoaXN0b3J5IjpbLTI4NTIxOTU5MywtMTQxNDAyMzEyNiw1MT
+U5MDU1NjAsMTYxNzMxMDQzMCwtNjcwMDM2NTUxLC0xMjU3MzQ1
+MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1OTQwNz
+csMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3NzUsNjIy
+Mjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3NjYyNj
+UzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOTgsMzk2
+NDQ2MTM4XX0=
 -->
