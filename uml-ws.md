@@ -79,6 +79,11 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 - Do your research to understand it's functionality
 
 ### 3. ACTIVITY Diagram for  Tetris
+ - Consider the 
+
+
+### 4. SEQUENCE Diagram of Guitar Hero
+- Rme
 
 ## LECTURE
 
@@ -87,7 +92,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjk5Nzg4MCwtMzg3NDE1ODQ1LC0xND
+eyJoaXN0b3J5IjpbLTczNDAxOTg1NCwtMzg3NDE1ODQ1LC0xND
 QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
 MDMsLTE1MDExOTI5ODFdfQ==
 -->
