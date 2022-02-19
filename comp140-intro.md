@@ -27,7 +27,7 @@ page_nav: false
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
 #### 3 - [Research Week](../research-week-ws "Research Week")
-<!---#### 3 - [Unified Markup Language (UML)](../uml-ws "UML")-->
+#### 3 - [Unified Markup Language (UML)](../uml-ws "UML")
 <!---#### 4 - [Data Structures](../data-ws "Data Structures") -->
 <!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
 
@@ -49,8 +49,8 @@ page_nav: false
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjA4NzE5LC03OTYxNDEyMDUsLTIwNj
-g2OTk0NzQsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAwOTUz
-MDc4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5NzcyMV
-19
+eyJoaXN0b3J5IjpbLTE5OTg1NjczMTksLTc5NjE0MTIwNSwtMj
+A2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5
+NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3Nz
+IxXX0=
 -->
