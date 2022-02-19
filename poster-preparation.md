@@ -19,13 +19,16 @@ micro_nav: true
 # Page navigation
 page_nav: false
 
+---
+
 # Prepare you Poster
 
 
+Please watch this video by Dr Michael Scott outlining how 
 
 LATEX Beamer Templates (Portrait & Landscape)  
- Portrait:   [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
-Landscaoe    [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
+ Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
+Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1OTcwMjc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzMxNDYyMDE2LDczMDk5ODExNl19
 -->
