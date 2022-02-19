@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 3
+title: Making Circuits
+description: COMP140 - Lecture Materials 3
 
 # Author box
 author:
@@ -219,11 +220,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkxMzQ0MzEsNDQ1NzYwMzg1LC0xMz
-E1MzQzNDE1LDUxMTg5MTg2NiwtODgxNjAxNjgzLC04MDIxMDc3
-NTksMTcyOTQyNDczMywxNjcwNTE4NTg3LC0xNDEyODk2MDMsLT
-Q2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgxOTE3NzMsMTQ2OTIw
-MTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2NDYsLTE3ODY1MDAzOD
-UsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0NDQzODI0ODMsMjc2
-MDg5NjkyXX0=
+eyJoaXN0b3J5IjpbNTA4MTkyNzIyLDQ0NTc2MDM4NSwtMTMxNT
+M0MzQxNSw1MTE4OTE4NjYsLTg4MTYwMTY4MywtODAyMTA3NzU5
+LDE3Mjk0MjQ3MzMsMTY3MDUxODU4NywtMTQxMjg5NjAzLC00Nj
+M1NDM5MDksMTU5ODQ4MTUwMiwxMjQ4MTkxNzczLDE0NjkyMDE2
+NDEsLTE1Mjk4MjI2MjcsNTk3NzQ1NjQ2LC0xNzg2NTAwMzg1LC
+0yMDk1MTI2NjI4LDE0MTA4MjEyNTAsNDQ0MzgyNDgzLDI3NjA4
+OTY5Ml19
 -->
