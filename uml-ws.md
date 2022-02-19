@@ -27,9 +27,9 @@ page_nav:
 
 # Unified Modelling Language
 
-![UML banner image](../images/uml-workshop-banner)
+## **UML** is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
 
-**UML**is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
+![UML banner image](../images/uml-workshop-banner)
 
 
 This week you should be thinking about the different parts of your experience and how it will
@@ -66,10 +66,10 @@ Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.
 
 ## Resources for Creating UML
 
-Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here:
+Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here in the documentation:
  [https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
  
- I have also supplied a **starter Overleaf template** to give you a starting point to begin creating diagrams programmatically:
+ I have also supplied a **Starter Overleaf template** as a starting point to begin creating diagrams programmatically:
 [https://www.overleaf.com/read/hsydszkbzmbd](https://www.overleaf.com/read/hsydszkbzmbd)
 
 ## LECTURE
@@ -79,6 +79,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMD
-MyMjk5MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbLTEwNTE0NTQ3NywtMTQ0MjE1ODg0LDQ3NT
+E5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5NzAzLC0xNTAxMTky
+OTgxXX0=
 -->
