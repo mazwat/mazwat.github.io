@@ -67,7 +67,12 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ## Choose an option for your diagram
 
-###  Use Case Diagram ofr
+### 1.  Use Case Diagram for Discord
+
+-   What are the key Use Cases for Discord?
+-  Define the high level overview of this popular VoIP, instant messaging and digital distribution platform
+
+### 2.  R
 
 ## LECTURE
 
@@ -76,7 +81,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mjc4MDA0LC0zODc0MTU4NDUsLTE0ND
-IxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2OTcw
-MywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbLTIwNDU1MDg2MjAsLTM4NzQxNTg0NSwtMT
+Q0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5
+NzAzLC0xNTAxMTkyOTgxXX0=
 -->
