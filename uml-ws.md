@@ -46,13 +46,12 @@ You can do this by undergoing a Feedback Fruits Peer Review at this link:\
 [**https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756**](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
 
 ## 2. UML Diagramming
-#### UML Diagrams for Individual Creative Computing Project
 
 ### Pair Work
 You will be working in pairs to complete this task.\
 Find your pair here: [**https://www.keamk.com/ncnz3p9r6vdqcls1**](https://www.keamk.com/ncnz3p9r6vdqcls1)
 
-You will create **a UML diagram** of the **type** outlined in option below. You can choose to do any  that is of interest to you, but consider it's application to your subject area.
+You will create **a UML diagram** of the **type** outlined in option below. It is important you don't develop your diagram based on assumption. Do your research to di
 
 
 ### Create UML in LaTeX
@@ -107,7 +106,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTgzOTI2MCwtMTQ3NTgzMzYxMywtMz
-g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
-OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbNDE2NjkwNDk1LC0xNDc1ODMzNjEzLC0zOD
+c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
+MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
 -->
