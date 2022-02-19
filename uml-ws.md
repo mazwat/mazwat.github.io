@@ -83,7 +83,8 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 
 ### 4. SEQUENCE Diagram of Guitar Hero
-- Rme
+
+- Remember to consider the various ways that a sequenc
 
 ## LECTURE
 
@@ -92,7 +93,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDAxOTg1NCwtMzg3NDE1ODQ1LC0xND
-QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
-MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbLTE0NzU4MzM2MTMsLTM4NzQxNTg0NSwtMT
+Q0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5
+NzAzLC0xNTAxMTkyOTgxXX0=
 -->
