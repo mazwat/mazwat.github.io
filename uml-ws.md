@@ -39,20 +39,21 @@ project from the high level interactions of the user with the features of your s
 Creating diagrams can feel secondary to the main priority of building something, but they play an essential role in defining the core structure and allowing you and team members to share key elements. In physical computing the sequence and order of events can play a critical part in how or whether something works as expected.
 
 
-## Recap and Work Sharing
-### Mario Platformer Group Project
+## 1. Recap and Work Sharing
+### Mario Platformer using SOLID - Group Project
 
 Share your group game and assess how well it meets the criteria.
 You can do this by undergoing a Feedback Fruits Peer Review at this link:
-https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756
+[https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
 
-## EXERCISE 2
+## 2. UML Diagramming
 ### UML Diagrams for Individual Creative Computing Project
 
-For this exercise you should use the appropriate UML Diagrams to create an initial design of your
-game and control system. Based on these 5 types of diagram: **Use Case, Activity, State, Sequence**
-and **Class**. Please note this will form part of Assignment 2, so please keep a copy of the diagrams
-you create.
+### Pair Work
+You will be working in pairs to complete this task.
+Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.com/ncnz3p9r6vdqcls1)
+
+You will crreate
 
 Points to consider:
 - What diagram can be used to document the high-level usage of the system?
@@ -81,7 +82,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTUxNjg2MywtMzg3NDE1ODQ1LC0xND
+eyJoaXN0b3J5IjpbLTE3MTgyNzU2MiwtMzg3NDE1ODQ1LC0xND
 QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
 MDMsLTE1MDExOTI5ODFdfQ==
 -->
