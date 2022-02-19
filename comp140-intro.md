@@ -36,6 +36,7 @@ page_nav: false
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
 #### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
+#### 4 - [Poster Preparation](../poster-preparation "Poster Preparation")
 
 # Lecture Materials
 
@@ -49,8 +50,8 @@ page_nav: false
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg1NjczMTksLTc5NjE0MTIwNSwtMj
-A2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5
-NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3Nz
-IxXX0=
+eyJoaXN0b3J5IjpbMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwtNz
+k2MTQxMjA1LC0yMDY4Njk5NDc0LC0zNTAyMzg3NjQsLTIyNDA3
+MDU1MSwtMTUwMDk1MzA3OCwtMjA2OTcwMTQyOSwtNjk1NzE4OD
+M5LC04ODM0OTc3MjFdfQ==
 -->
