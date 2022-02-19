@@ -30,6 +30,15 @@ Please watch this video by Dr Michael Scott outlining what you needs to included
 
 ## Requirements Summary
 
+The poster **must contain** the following:
+
+ 1. Detail the hardware of the control system
+ 2. Detail the design of the control system
+ 3. Detail the elements of the game/experience
+ 4. UML Diagram of the software architecture 
+
+This work is individual and will be assessed on a criterion-referenced basis. Please refer to the marking rubric at the end of this document for further detail.
+
 LaTeX Beamer Templates (Portrait & Landscape)  
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
@@ -39,6 +48,6 @@ Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read
 Read the assignment brief to confirm all the requirements of the poster:\
 [https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcxMzY0NjgsLTcxNTk0MjY4NywtNz
-Y0MjA4NDg2LDgwNjEzMjMxOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUyOTYwNzk5OSwtNzE1OTQyNjg3LC03Nj
+QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
 -->
