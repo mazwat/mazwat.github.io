@@ -80,12 +80,14 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ### 3. ACTIVITY Diagram for  Tetris
  - Consider the flow of bricks
- - 
+ - How decision are made
+ - What are the start and end points of the activity
 
 
 ### 4. SEQUENCE Diagram of Guitar Hero
 
 - Remember to consider the various ways that the actor interacts with the controller and the system.
+- Waht the loops anf 
 
 ## LECTURE
 
@@ -94,7 +96,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM3NDY2MDMsLTE0NzU4MzM2MTMsLT
-M4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIy
-OTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbLTE2MTc5NTIwMCwtMTQ3NTgzMzYxMywtMz
+g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
+OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
