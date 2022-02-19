@@ -64,7 +64,7 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ##  Choose your diagram
 
-You will be randomly assigned a diagram to make during the workshop
+You will be **randomly assigned** a diagram to make during the workshop
 {: .callout .callout--info}
 
 ### 1.  USE CASE Diagram for Discord
@@ -105,7 +105,8 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU0MDk4NjQsLTE0NzU4MzM2MTMsLT
-M4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIy
-OTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbMTA3NTU2OTU5MiwtMTMyNTQwOTg2NCwtMT
+Q3NTgzMzYxMywtMzg3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1
+NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5OD
+FdfQ==
 -->
