@@ -59,13 +59,15 @@ You will create **a UML diagram** of the **type** outlined in option below. You 
 ### Create UML in LaTeX
 
 Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here in the documentation:\
- [https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
+ [**https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf**](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
  
  I have also supplied a **Starter Overleaf template** as a starting point to begin creating diagrams programmatically:
-[https://www.overleaf.com/read/hsydszkbzmbd](https://www.overleaf.com/read/hsydszkbzmbd)
+[**https://www.overleaf.com/read/hsydszkbzmbd**](https://www.overleaf.com/read/hsydszkbzmbd)
 
 
-##  Choose the option assigned for your diagram
+##  Choose your diagram
+
+You will be randomly assigned a diagram to make
 
 ### 1.  USE CASE Diagram for Discord
 
@@ -99,7 +101,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjc4NTExNywtMTQ3NTgzMzYxMywtMz
-g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
-OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbMjE4MjA2MDksLTE0NzU4MzM2MTMsLTM4Nz
+QxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkx
+OSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
 -->
