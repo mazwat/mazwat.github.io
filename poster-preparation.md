@@ -21,7 +21,11 @@ page_nav: false
 
 # Prepare you Poster
 
-> Written with [StackEdit](https://stackedit.io/).
+
+
+LATEX Beamer Templates (Portrait & Landscape)  
+ Portrait:   [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
+Landscaoe    [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzY1ODQ2NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTM1OTcwMjc0LDczMDk5ODExNl19
 -->
