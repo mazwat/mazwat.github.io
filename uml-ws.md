@@ -38,12 +38,10 @@ elements. In physical computing the sequence and order of events can play a crit
 or whether something works as expected.
 
 
-## EXERCISE 1
-### UML Diagrams – Mario Platformer Group Project
+## Recap and Work Sharing
+### Mario Platformer Group Project
 
-For this exercise you should create a comprehensive **UML Class diagram** to document the design
-of your group project. You maybe doing this retrospectively but it gives you an opportunity to
-reflect on the formal structure you made in developing your game.
+Share your group game and assess how well it meets the criteria.
 
 ## EXERCISE 2
 ### UML Diagrams for Individual Creative Computing Project
@@ -75,5 +73,6 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbLTExMDMyMjk5MTksMTIyNDM2OTcwMywtMT
+UwMTE5Mjk4MV19
 -->
