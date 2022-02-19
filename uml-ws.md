@@ -61,7 +61,10 @@ Points to consider:
 You should develop at least **3 diagrams** and one of them should be a Class diagram
 
 
-Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the TikZ
+Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here:
+ [https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
+ I have also supplied a starter Overleaf template to help you understand how to create diagrams programmatically here:
+ https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf
 
 ## LECTURE
 
@@ -70,5 +73,6 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MDc0MjAxLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbLTEyMTg4MzEyNDUsLTE1MDExOTI5ODFdfQ
+==
 -->
