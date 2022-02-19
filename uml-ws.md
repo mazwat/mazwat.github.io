@@ -56,13 +56,18 @@ Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.
 You will create **a UML diagram** of the **type** outlined in option below. You can choose to do any  that is of interest to you, but consider it's application to your subject area.
 
 
-## Resources for Creating UML
+## Create UML in LaTeX
 
 Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here in the documentation:
  [https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
  
  I have also supplied a **Starter Overleaf template** as a starting point to begin creating diagrams programmatically:
 [https://www.overleaf.com/read/hsydszkbzmbd](https://www.overleaf.com/read/hsydszkbzmbd)
+
+
+## Choose an option for your diagram
+
+###  Use Case Diagram ofr
 
 ## LECTURE
 
@@ -71,7 +76,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTc1OTc4NCwtMzg3NDE1ODQ1LC0xND
-QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
-MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbLTU5Mjc4MDA0LC0zODc0MTU4NDUsLTE0ND
+IxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2OTcw
+MywtMTUwMTE5Mjk4MV19
 -->
