@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 8
+title: Design Pattterns
+description: COMP140 - Lecture Materials 8
 
 # Author box
 author:
@@ -497,11 +498,11 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNT
-M2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgs
-LTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNT
-kxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3
-NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5Miw2MjY0OT
-U1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTEsODQ2MzQ1MzEyXX0=
-
+eyJoaXN0b3J5IjpbLTEyMTE5NDcyMDgsOTc2NDIxMzkxLC03MD
+Y5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIw
+LC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
+Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
+NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
+gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTFd
+fQ==
 -->
