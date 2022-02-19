@@ -44,12 +44,13 @@ page_nav: false
 #### 3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
 #### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
 #### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
-<!---#### 6 - [Unified Markup Language](../uml-lm "UML Lecture Materials")-->
+#### 6 - [Unified Markup Language](../uml-lm "UML Lecture Materials")
 <!---#### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")-->
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMz
-UwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3
-MDE0MjksLTY5NTcxODgzOSwtODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbMTQxNjA4NzE5LC03OTYxNDEyMDUsLTIwNj
+g2OTk0NzQsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAwOTUz
+MDc4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5NzcyMV
+19
 -->
