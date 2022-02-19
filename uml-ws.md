@@ -88,6 +88,10 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 - Remember to consider the various ways that the actor interacts with the controller and the system.
 - Waht the loops and the messaging within the system
 
+## 3. Start work on your Poster
+
+If you have completed the above exercise please start work on your poster for the demo next week. **Find out more**
+
 ## LECTURE
 
 It is assumed that you have watched the video lecture before this workshop or read the [**materials**](uml-lm). If not you should find time to watch it during the week. 
@@ -95,7 +99,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI2OTg2MzMsLTE0NzU4MzM2MTMsLT
-M4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIy
-OTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbODg3MjE0NDY5LC0xNDc1ODMzNjEzLC0zOD
+c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
+MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
 -->
