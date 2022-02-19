@@ -59,8 +59,7 @@ This work is individual and will be assessed on a criterion-referenced basis. Pl
 
 ## Check the Assignment Brief
 
-Read the assignment brief to ascertain all the requirements of the poster:\
-[**https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
+Read the [**assignment brief**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)** to ascertain all the requirements of the poster.
 
 ## Poster Templates
 
@@ -72,6 +71,6 @@ Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read
 
 Overleaf provides a range of other templates you can use as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTAwMjY0MywtNzE1OTQyNjg3LC03Nj
-QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwMDg5NzU3NTYsLTcxNTk0MjY4NywtNz
+Y0MjA4NDg2LDgwNjEzMjMxOCw3MzA5OTgxMTZdfQ==
 -->
