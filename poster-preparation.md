@@ -34,9 +34,11 @@ LaTeX Beamer Templates (Portrait & Landscape)
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 
+## Check the Assignment Brief
 
-https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191
+Read the assignment brief to confirm all the requirements of the poster:\
+[https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzQ2MDE2NCwtNzE1OTQyNjg3LC03Nj
-QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwMTcxMzY0NjgsLTcxNTk0MjY4NywtNz
+Y0MjA4NDg2LDgwNjEzMjMxOCw3MzA5OTgxMTZdfQ==
 -->
