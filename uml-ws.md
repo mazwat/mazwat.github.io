@@ -60,6 +60,9 @@ Points to consider:
 
 You should develop at least **3 diagrams** and one of them should be a Class diagram
 
+
+Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the TikZ
+
 ## LECTURE
 
 It is assumed that you have watched the video lecture before this workshop or read the [materials](uml-lm). If not you should find time to watch it during the week. 
@@ -67,5 +70,5 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbMjY5MDc0MjAxLC0xNTAxMTkyOTgxXX0=
 -->
