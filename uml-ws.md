@@ -67,7 +67,8 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ##  Choose your diagram
 
-You will be randomly assigned a diagram to make
+You will be randomly assigned a diagram to make during the workshop
+{: .callout .callout--info}
 
 ### 1.  USE CASE Diagram for Discord
 
@@ -76,8 +77,8 @@ You will be randomly assigned a diagram to make
 
 ### 2.  STATE Diagram for a Robot 
 
--   Develop a **state diagram** for a Roomba vacuum cleaner robot
--   Remember to consider it’s charging phase alongside it various other states.
+-  Develop a **state diagram** for a Roomba vacuum cleaner robot
+-  Remember to consider it’s charging phase alongside it various other states.
 - Do your research to understand it's functionality
 
 ### 3. ACTIVITY Diagram for  Tetris
@@ -88,11 +89,11 @@ You will be randomly assigned a diagram to make
 ### 4. SEQUENCE Diagram of Guitar Hero
 
 - Remember to consider the various ways that the actor interacts with the controller and the system.
-- Waht the loops and the messaging within the system
+- What the loops and the messaging within the system
 
 ## 3. Start work on your Poster
 
-If you have completed the above exercise please start work on your poster for the demo next week. **[**Find out more**](poster-preparation.md)**
+If you have completed the above exercise please start work on your poster for the demo next week. **[Find out more](poster-preparation.md)**
 
 ## LECTURE
 
@@ -101,7 +102,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MjA2MDksLTE0NzU4MzM2MTMsLTM4Nz
-QxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkx
-OSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbMTkxNTc4NjQ0LC0xNDc1ODMzNjEzLC0zOD
+c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
+MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
 -->
