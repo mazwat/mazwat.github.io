@@ -23,7 +23,7 @@ page_nav:
         url: '../software-architecture-lm'
 ---
 
-# Unified Markup Language
+# 6. Unified Markup Language
 
 ![Hero Banner Image](images/uml-hero-banner.png)
 
@@ -268,11 +268,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDkyMDM3LC0xODI1NTQzMjczLDEzMz
-kwOTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQxNDk5NDQsLTEwNzY1
-NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5NDk3MS
-wtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYz
-MTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3Nj
-UwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3
-OTQ5MzIwOF19
+eyJoaXN0b3J5IjpbLTgwNzg4NDk2NSwtMTgyNTU0MzI3MywxMz
+M5MDk3NTQ0LC0xMjk1ODgwNjMyLC0yMDc0MTQ5OTQ0LC0xMDc2
+NTU4NTI1LC02MjIwMTc4NDUsMjYxODIxODM3LDEwNjU1OTQ5Nz
+EsLTk4OTc4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2
+MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0Nz
+Y1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYs
+Nzk0OTMyMDhdfQ==
 -->
