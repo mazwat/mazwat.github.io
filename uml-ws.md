@@ -90,16 +90,16 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ## 3. Start work on your Poster
 
-If you have completed the above exercise please start work on your poster for the demo next week. **Find out more**
+If you have completed the above exercise please start work on your poster for the demo next week. **[**Find out more**](poster-preparation.md)**
 
 ## LECTURE
 
-It is assumed that you have watched the video lecture before this workshop or read the [**materials**](uml-lm). If not you should find time to watch it during the week. 
+It is assumed that you have watched the video lecture before this workshop or read the [**materials**](uml-lm.md). If not you should find time to watch it during the week. 
 {: .callout .callout--warning}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MjE0NDY5LC0xNDc1ODMzNjEzLC0zOD
-c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
-MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbLTgzMjc4NTExNywtMTQ3NTgzMzYxMywtMz
+g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
+OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
