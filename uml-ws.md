@@ -27,15 +27,16 @@ page_nav:
 
 # Unified Modelling Language
 
+![UML banner image](../images/uml-workshop-banner)
+
+**UML**is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
+
+
 This week you should be thinking about the different parts of your experience and how it will
 interact with the user/player. UML is a useful method to breakdown all the key part of your
-project from the high level interactions of the user with the features of your system, to the order
-of events and all the way down to the fundamental relationship of classes and objects within your
-code.
-Creating diagrams can feel secondary to the main priority of building something, but they play an
-essential role in defining the core structure and allowing you and team members to share key
-elements. In physical computing the sequence and order of events can play a critical part in how
-or whether something works as expected.
+project from the high level interactions of the user with the features of your system, to the order of events and all the way down to the fundamental relationship of classes and objects within your code.
+
+Creating diagrams can feel secondary to the main priority of building something, but they play an essential role in defining the core structure and allowing you and team members to share key elements. In physical computing the sequence and order of events can play a critical part in how or whether something works as expected.
 
 
 ## Recap and Work Sharing
@@ -78,6 +79,6 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMj
-QzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMD
+MyMjk5MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
 -->
