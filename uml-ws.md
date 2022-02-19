@@ -29,8 +29,7 @@ page_nav:
 
 #### **UML** is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
 
-![UML banner image](../images/uml-workshop-banner)
-
+![UML banner image](../images/uml-workshop-banner.png)
 
 This week you should be thinking about the different parts of your experience and how it will
 interact with the user/player. UML is a useful method to breakdown all the key part of your
@@ -108,7 +107,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjMzOTE1OSwtMTQ3NTgzMzYxMywtMz
-g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
-OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTQ1NjI4LC0xNDc1ODMzNjEzLC0zOD
+c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
+MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
 -->
