@@ -43,29 +43,29 @@ Creating diagrams can feel secondary to the main priority of building something,
 ### Mario Platformer using SOLID - Group Project
 
 Share your group game and assess how well it meets the criteria.
-You can do this by undergoing a Feedback Fruits Peer Review at this link:
-[https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
+You can do this by undergoing a Feedback Fruits Peer Review at this link:\
+[**https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756**](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
 
 ## 2. UML Diagramming
 ### UML Diagrams for Individual Creative Computing Project
 
 ### Pair Work
-You will be working in pairs to complete this task.
-Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.com/ncnz3p9r6vdqcls1)
+You will be working in pairs to complete this task.\
+Find your pair here: [**https://www.keamk.com/ncnz3p9r6vdqcls1**](https://www.keamk.com/ncnz3p9r6vdqcls1)
 
 You will create **a UML diagram** of the **type** outlined in option below. You can choose to do any  that is of interest to you, but consider it's application to your subject area.
 
 
-## Create UML in LaTeX
+### Create UML in LaTeX
 
-Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here in the documentation:
+Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here in the documentation:\
  [https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf](https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf)
  
  I have also supplied a **Starter Overleaf template** as a starting point to begin creating diagrams programmatically:
 [https://www.overleaf.com/read/hsydszkbzmbd](https://www.overleaf.com/read/hsydszkbzmbd)
 
 
-## Choose an option for your diagram
+##  Choose the option assigned for your diagram
 
 ### 1.  USE CASE Diagram for Discord
 
@@ -90,12 +90,12 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 
 ## LECTURE
 
-It is assumed that you have watched the video lecture before this workshop or read the [materials](uml-lm). If not you should find time to watch it during the week. 
+It is assumed that you have watched the video lecture before this workshop or read the [**materials**](uml-lm). If not you should find time to watch it during the week. 
 {: .callout .callout--warning}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4MDQ5NzgsLTE0NzU4MzM2MTMsLT
+eyJoaXN0b3J5IjpbLTEzMTI2OTg2MzMsLTE0NzU4MzM2MTMsLT
 M4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIy
 OTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX0=
 -->
