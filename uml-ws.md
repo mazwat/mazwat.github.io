@@ -91,6 +91,10 @@ You will be randomly assigned a diagram to make during the workshop
 - Remember to consider the various ways that the actor interacts with the controller and the system.
 - What the loops and the messaging within the system
 
+### 5. STATE DIAGRAM
+-   Watch this video: shorturl.at/gpyD8
+-   Identify the **states** of the  Cathedral Grave Warden
+
 ## 3. Start work on your Poster
 
 If you have completed the above exercise please start work on your poster for the demo next week. **[Find out more](poster-preparation.md)**
@@ -102,7 +106,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTc4NjQ0LC0xNDc1ODMzNjEzLC0zOD
-c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
-MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbLTk5OTUzMTM1MCwtMTQ3NTgzMzYxMywtMz
+g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
+OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
