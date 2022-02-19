@@ -59,17 +59,19 @@ This work is individual and will be assessed on a criterion-referenced basis. Pl
 
 ## Check the Assignment Brief
 
-Read the assignment brief to assert all the requirements of the poster:\
+Read the assignment brief to ascertain all the requirements of the poster:\
 [**https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
 
 ## Poster Templates
 
-I have provided some poster templates which will give you an idea of the kind of content you could add to your poster.
+I have provided some poster templates which will give you an idea of the kind of content you could add to your poster. It also gives you a good idea about content.
 
 LaTeX Beamer Templates (Portrait & Landscape)  
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
+
+Overleaf provides a range of other templates you can use as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzI3MTU3OSwtNzE1OTQyNjg3LC03Nj
+eyJoaXN0b3J5IjpbMTAwOTAwMjY0MywtNzE1OTQyNjg3LC03Nj
 QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
 -->
