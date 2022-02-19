@@ -72,7 +72,13 @@ Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams
 -   What are the key Use Cases for Discord?
 -  Define the high level overview of this popular VoIP, instant messaging and digital distribution platform
 
-### 2.  R
+### 2.  STATE Diagram for a Robot 
+
+-   Develop a **state diagram** for a Roomba vacuum cleaner robot
+-   Remember to consider it’s charging phase alongside it various other states.
+- Do your research to understand it's functionality
+
+### 3. ACTIVITY Diagram for  Tetris
 
 ## LECTURE
 
@@ -81,7 +87,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU1MDg2MjAsLTM4NzQxNTg0NSwtMT
-Q0MjE1ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5
-NzAzLC0xNTAxMTkyOTgxXX0=
+eyJoaXN0b3J5IjpbMTMyMjk5Nzg4MCwtMzg3NDE1ODQ1LC0xND
+QyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3
+MDMsLTE1MDExOTI5ODFdfQ==
 -->
