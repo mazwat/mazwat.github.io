@@ -58,6 +58,11 @@ Points to consider:
 
 You should develop at least **3 diagrams** and one of them should be a Class diagram
 
+## Pair Work
+
+You will be working in pairs to complete this task.
+Find your pair here: [https://www.keamk.com/ncnz3p9r6vdqcls1](https://www.keamk.com/ncnz3p9r6vdqcls1)
+
 ## Resources for Creating UML
 
 Create your diagrams using. LaTeX and Overleaf. You can script your UML diagrams using the **TikZ-UML package** You can read about it here:
@@ -73,6 +78,6 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMyMjk5MTksMTIyNDM2OTcwMywtMT
-UwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbNDc1MTk1NTExLC0xMTAzMjI5OTE5LDEyMj
+QzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
