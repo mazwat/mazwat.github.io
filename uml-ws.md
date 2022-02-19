@@ -42,7 +42,7 @@ Creating diagrams can feel secondary to the main priority of building something,
 ### Mario Platformer using SOLID - Group Project
 
 Share your group game and assess how well it meets the criteria.
-You can do this by undergoing a Feedback Fruits Peer Review at this link:\
+You can do this by undergoing a **Feedback Fruits Peer Review** at this link:\
 [**https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756**](https://learningspace.falmouth.ac.uk/mod/lti/view.php?id=233756)
 
 ## 2. UML Diagramming
@@ -51,8 +51,7 @@ You can do this by undergoing a Feedback Fruits Peer Review at this link:\
 You will be working in pairs to complete this task.\
 Find your pair here: [**https://www.keamk.com/ncnz3p9r6vdqcls1**](https://www.keamk.com/ncnz3p9r6vdqcls1)
 
-You will create **a UML diagram** of the **type** outlined in option below. It is important you don't develop your diagram based on assumption. Do your research to di
-
+You will create **a UML diagram** of the **type** outlined in option below. It is important you don't develop your diagram based on assumption. Do your research to discover your given system works.
 
 ### Create UML in LaTeX
 
@@ -70,7 +69,7 @@ You will be randomly assigned a diagram to make during the workshop
 
 ### 1.  USE CASE Diagram for Discord
 
--   What are the key Use Cases for Discord?
+-   What are the key **Use Cases** for Discord?
 -  Define the high level overview of this popular VoIP, instant messaging and digital distribution platform
 
 ### 2.  STATE Diagram for a Robot 
@@ -81,8 +80,8 @@ You will be randomly assigned a diagram to make during the workshop
 
 ### 3. ACTIVITY Diagram for  Tetris
 
- - Consider the flow of bricks
- - How decision are made
+ - Consider the flow of differeny bricks
+ - How and why are decision are made
  - What are the start and end points of the activity
 
 ### 4. SEQUENCE Diagram of Guitar Hero
@@ -106,7 +105,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NjkwNDk1LC0xNDc1ODMzNjEzLC0zOD
-c0MTU4NDUsLTE0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5
-MTksMTIyNDM2OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbMTY3ODIzMTUxMywtMTQ3NTgzMzYxMywtMz
+g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
+OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
