@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Lecture Materials 6
+title: Unified Markup Language
+description: COMP140 - Lecture Materials 6
 
 # Author box
 author:
@@ -267,11 +268,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU1NDMyNzMsMTMzOTA5NzU0NCwtMT
-I5NTg4MDYzMiwtMjA3NDE0OTk0NCwtMTA3NjU1ODUyNSwtNjIy
-MDE3ODQ1LDI2MTgyMTgzNywxMDY1NTk0OTcxLC05ODk3ODQ1Mj
-ksNzY4MzY5MDUsLTM5MjAwMzQ2MCwtMTYwNjMxODkzNywtMTk2
-MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3LDE1OTgyNj
-c5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2LDc5NDkzMjA4LC0x
-ODcwNTc1MjU0XX0=
+eyJoaXN0b3J5IjpbMzQwMDkyMDM3LC0xODI1NTQzMjczLDEzMz
+kwOTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQxNDk5NDQsLTEwNzY1
+NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5NDk3MS
+wtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYz
+MTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3Nj
+UwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQsLTcwOTQ2MzA5Niw3
+OTQ5MzIwOF19
 -->
