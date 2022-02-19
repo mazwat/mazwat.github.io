@@ -23,7 +23,6 @@ page_nav: false
 
 # Prepare your Poster
 
-
 Please watch this video by Dr Michael Scott outlining what you needs to included in your poster and how to approach creating one.
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/81855ba3-1807-4516-bd53-f30b79cb4f3a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
@@ -46,20 +45,21 @@ The poster is usually a mixture of a **brief text** mixed with **tables**, **gra
 -   Includes **acknowledgments**, your **name** and **institutional** affiliation
 -   **References** to main areas of research
 
-## Requirements Summary
+## Brief Requirements Summary
 
 The poster **must contain** the following:
 
  1. Detail the hardware of the control system
  2. Detail the design of the control system
  3. Detail the elements of the game/experience
- 4. UML Diagram of the software architecture 
+ 4. UML Diagram of the software architecture
+ 5. Show relevance to your specific [**contract**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876) 
 
 This work is individual and will be assessed on a criterion-referenced basis. Please refer to the marking rubric at the end of this document for further detail.
 
 ## Check the Assignment Brief
 
-Read the assignment brief to confirm all the requirements of the poster:\
+Read the assignment brief to assert all the requirements of the poster:\
 [**https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)
 
 ## Poster Templates
@@ -70,6 +70,6 @@ LaTeX Beamer Templates (Portrait & Landscape)
  Portrait: [**www.overleaf.com/read/mhympctgkpbb**](http://www.overleaf.com/read/mhympctgkpbb)  
 Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read/cfyvbbvxprkf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzIyODYwNiwtNzE1OTQyNjg3LC03Nj
+eyJoaXN0b3J5IjpbMTc5NzI3MTU3OSwtNzE1OTQyNjg3LC03Nj
 QyMDg0ODYsODA2MTMyMzE4LDczMDk5ODExNl19
 -->
