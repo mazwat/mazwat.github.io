@@ -27,7 +27,7 @@ page_nav:
 
 # Unified Modelling Language
 
-## **UML** is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
+#### **UML** is a useful method to breakdown all the key parts of your project from the high level **interactions** of the **user** with the **features** of your **system**, to the **order** of **events** and all the way down to the fundamental relationship of **classes** and **objects** within your **algorithms**.
 
 ![UML banner image](../images/uml-workshop-banner)
 
@@ -79,7 +79,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE0NTQ3NywtMTQ0MjE1ODg0LDQ3NT
+eyJoaXN0b3J5IjpbLTM4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NT
 E5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5NzAzLC0xNTAxMTky
 OTgxXX0=
 -->
