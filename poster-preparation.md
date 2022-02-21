@@ -55,11 +55,11 @@ The poster **must contain** the following:
  4. UML Diagram of the software architecture
  5. Show relevance to your specific [**contract**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876) 
 
-This work is individual and will be assessed on a criterion-referenced basis. Please refer to the marking rubric at the end of this document for further detail.
+This work is individual and will be assessed on a criterion-referenced basis. Please refer to the marking rubric in the assignment brief for further detail.
 
 ## Check the Assignment Brief
 
-Read the [**assignment brief**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191)** to ascertain all the requirements of the poster.
+Read the [**assignment brief**](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228191) to ascertain all the requirements of the poster.
 
 ## Poster Templates
 
@@ -71,6 +71,7 @@ Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read
 
 Overleaf provides a range of other templates you can use as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg5NzU3NTYsLTcxNTk0MjY4NywtNz
-Y0MjA4NDg2LDgwNjEzMjMxOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTkzMjE3NTY2NCwtMjAwODk3NTc1NiwtNz
+E1OTQyNjg3LC03NjQyMDg0ODYsODA2MTMyMzE4LDczMDk5ODEx
+Nl19
 -->
