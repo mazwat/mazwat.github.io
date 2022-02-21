@@ -162,7 +162,9 @@ On of the classic uses for a state diagram is to plot the various **states** of 
 
 It is also an effective method of visualising **finite state machines** for **embedded systems.** We can manage the process flow of a system. A system where particular inputs cause particular changes in state can be represented using finite state machines. This example describes the various states of a turnstile. Inserting a coin into a turnstile will unlock it, and after the turnstile has been pushed, it locks again. Inserting a coin into an unlocked turnstile, or pushing against a locked turnstile will not change its state.
 
-![Finit State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)\
+![Finite State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)
+<br/>
+
 *fig.15 -Finite State Machine (image attribution: Wilipedia)*
 
 A state diagrams helps to represent the changes in the state of a washing machine.
@@ -269,11 +271,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjE2NjM1NywtMTAzNjQ0MTA5NSwtMT
-gyNTU0MzI3MywxMzM5MDk3NTQ0LC0xMjk1ODgwNjMyLC0yMDc0
-MTQ5OTQ0LC0xMDc2NTU4NTI1LC02MjIwMTc4NDUsMjYxODIxOD
-M3LDEwNjU1OTQ5NzEsLTk4OTc4NDUyOSw3NjgzNjkwNSwtMzky
-MDAzNDYwLC0xNjA2MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNT
-cxMDg3LC01OTA0NzY1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0
-LC03MDk0NjMwOTZdfQ==
+eyJoaXN0b3J5IjpbNTY1OTUyMzc3LC0xMDM2NDQxMDk1LC0xOD
+I1NTQzMjczLDEzMzkwOTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQx
+NDk5NDQsLTEwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4Mz
+csMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIw
+MDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1Nz
+EwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQs
+LTcwOTQ2MzA5Nl19
 -->
