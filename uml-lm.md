@@ -164,12 +164,11 @@ It is also an effective method of visualising **finite state machines** for **em
 
 ![Finite State Machine](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turnstile_state_machine_colored.svg/330px-Turnstile_state_machine_colored.svg.png)
 <br/>
-
 *fig.15 -Finite State Machine (image attribution: Wilipedia)*
 
 A state diagrams helps to represent the changes in the state of a washing machine.
 
-![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)\
+![enter image description here](https://sparxsystems.com/images/screenshots/uml2_tutorial/sm15.GIF)<br/>
 *fig.16 -State Machine for a Washing Machine (image attribution: www.sparxsystems.com)*
 
 ### 4. Sequence Diagrams
@@ -271,11 +270,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1OTUyMzc3LC0xMDM2NDQxMDk1LC0xOD
-I1NTQzMjczLDEzMzkwOTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQx
-NDk5NDQsLTEwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4Mz
-csMTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIw
-MDM0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1Nz
-EwODcsLTU5MDQ3NjUwNywxNTk4MjY3OTI4LC04NzAxMzc3MDQs
-LTcwOTQ2MzA5Nl19
+eyJoaXN0b3J5IjpbLTEwNDkyMTQ4ODIsLTEwMzY0NDEwOTUsLT
+E4MjU1NDMyNzMsMTMzOTA5NzU0NCwtMTI5NTg4MDYzMiwtMjA3
+NDE0OTk0NCwtMTA3NjU1ODUyNSwtNjIyMDE3ODQ1LDI2MTgyMT
+gzNywxMDY1NTk0OTcxLC05ODk3ODQ1MjksNzY4MzY5MDUsLTM5
+MjAwMzQ2MCwtMTYwNjMxODkzNywtMTk2MjUzMzg1NywtMTI5Mj
+U3MTA4NywtNTkwNDc2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcw
+NCwtNzA5NDYzMDk2XX0=
 -->
