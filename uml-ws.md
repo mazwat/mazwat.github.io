@@ -94,6 +94,8 @@ You will be **randomly assigned** a diagram to make during the workshop
 -   Watch this video: [**shorturl.at/gpyD8**](shorturl.at/gpyD8)
 -   Identify the **states** of the  Cathedral Grave Warden
 
+Once your diagram is **complete** please upload it here: [**https://padlet.com/mattwatkins/73w36gujb7ubbhmn**](https://padlet.com/mattwatkins/73w36gujb7ubbhmn)
+
 ## 3. Start work on your Poster
 
 If you have completed the above exercise please start work on your poster for the demo next week. **[Find out more](poster-preparation.md)**
@@ -105,8 +107,8 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTU2OTU5MiwtMTMyNTQwOTg2NCwtMT
-Q3NTgzMzYxMywtMzg3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1
-NTExLC0xMTAzMjI5OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5OD
-FdfQ==
+eyJoaXN0b3J5IjpbMzg5ODYyNTk3LDEwNzU1Njk1OTIsLTEzMj
+U0MDk4NjQsLTE0NzU4MzM2MTMsLTM4NzQxNTg0NSwtMTQ0MjE1
+ODg0LDQ3NTE5NTUxMSwtMTEwMzIyOTkxOSwxMjI0MzY5NzAzLC
+0xNTAxMTkyOTgxXX0=
 -->
