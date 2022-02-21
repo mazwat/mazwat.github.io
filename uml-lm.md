@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Unified Markup Language
+title: Unified Modelling Language
 description: COMP140 - Lecture Materials 6
 
 # Author box
@@ -23,7 +23,7 @@ page_nav:
         url: '../software-architecture-lm'
 ---
 
-# 6. Unified Markup Language
+# 6. Unified Modelling Language
 
 ![Hero Banner Image](images/uml-hero-banner.png)
 
@@ -268,11 +268,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzg4NDk2NSwtMTgyNTU0MzI3MywxMz
-M5MDk3NTQ0LC0xMjk1ODgwNjMyLC0yMDc0MTQ5OTQ0LC0xMDc2
-NTU4NTI1LC02MjIwMTc4NDUsMjYxODIxODM3LDEwNjU1OTQ5Nz
-EsLTk4OTc4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2
-MzE4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0Nz
-Y1MDcsMTU5ODI2NzkyOCwtODcwMTM3NzA0LC03MDk0NjMwOTYs
-Nzk0OTMyMDhdfQ==
+eyJoaXN0b3J5IjpbLTEwMzY0NDEwOTUsLTE4MjU1NDMyNzMsMT
+MzOTA5NzU0NCwtMTI5NTg4MDYzMiwtMjA3NDE0OTk0NCwtMTA3
+NjU1ODUyNSwtNjIyMDE3ODQ1LDI2MTgyMTgzNywxMDY1NTk0OT
+cxLC05ODk3ODQ1MjksNzY4MzY5MDUsLTM5MjAwMzQ2MCwtMTYw
+NjMxODkzNywtMTk2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwND
+c2NTA3LDE1OTgyNjc5MjgsLTg3MDEzNzcwNCwtNzA5NDYzMDk2
+LDc5NDkzMjA4XX0=
 -->
