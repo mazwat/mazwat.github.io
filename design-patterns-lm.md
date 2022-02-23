@@ -626,7 +626,7 @@ This is a very popular pattern and I have created an example repo in C# using Un
  The Observer Pattern is a pattern where the important objects are “observed” or **watched for changes.** This pattern is useful when we want to **pass messages** from one **object(subject)** to **multiple objects(observers)**. Observers are **not related to each other**, but every one of them needs to inherit from IObserver interface.
 
 ![Example Command UML](images/observer-uml.png)
-fig. 8 - Example Observer Pattern UML
+fig. 9 - Example Observer Pattern UML
 
 To demonstrate the implementation of the pattern we’ll use an Enemy Class CLICK sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.CLICK
 
@@ -675,6 +675,8 @@ I have created a simple example of the observer pattern being used in Arduino. I
 
 Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
+![Schematic for the Example](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/observer-wiring.png)
+
 ## Further Research
 
 -   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns](https://www.habrador.com/%20tutorials/programming-patterns/)
@@ -693,11 +695,11 @@ Be warned that what we are doing is not a fully–fledged observer design patter
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODAxMzk2MywtMTg2Njc2OTYwOCwxMD
-k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
-NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
-E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
-MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
-cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
-OTJdfQ==
+eyJoaXN0b3J5IjpbNjI3MzI5MDAwLC0xODY2NzY5NjA4LDEwOT
+gwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1
+NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MT
+YyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEz
+MywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2Nz
+IwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5
+Ml19
 -->
