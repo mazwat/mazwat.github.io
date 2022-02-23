@@ -611,14 +611,13 @@ static  void  Main()
 	invoker.SetCommand(command);
 	invoker.EnterField();
 	invoker.ExitField();
-
-Console.ReadKey();
+	Console.ReadKey();
 
 }
 ```
 
 
-This is the last part of the program that connects everything together. In this specific example I chose the situation when Enemy Goblin CLICK Enters the Field CLICK, that triggers the Heal command. After leaving the field Goblin Takes Damage. CLICK
+This is the last part of the program that connects everything together. In this specific example I chose the situation when Enemy Goblin `new Goblin()` enters the Field new `Field()`, that triggers the Heal command. After leaving the field Goblin Takes Damage. CLICK
 
 This was just a simple demonstration of the pattern, one way of extending the functionality of it is to store command in the generic list, this way we can undo multiple commands or execute command already executed in the past.
 
@@ -633,7 +632,7 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzI1NTUyMCwtMTAxOTU5NjE0Miw5Nz
+eyJoaXN0b3J5IjpbMTQ1NDkxNDE2NSwtMTAxOTU5NjE0Miw5Nz
 Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
 OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
 I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
