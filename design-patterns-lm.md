@@ -669,6 +669,8 @@ Console.WriteLine("Relation Updated");
 }
 ```
 
+## Design Patterns in Embedded Systems
+
 ## Further Research
 
 -   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns](https://www.habrador.com/%20tutorials/programming-patterns/)
@@ -687,11 +689,11 @@ Console.WriteLine("Relation Updated");
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMT
-AxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYz
-MzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNT
-gwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1
-NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2ND
-E2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1
-OF19
+eyJoaXN0b3J5IjpbMjA0MDYyODcxNCwtMTg2Njc2OTYwOCwxMD
+k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
+NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
+E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
+MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
+cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
+OTJdfQ==
 -->
