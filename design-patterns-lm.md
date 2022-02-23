@@ -628,6 +628,20 @@ This is a very popular pattern and I have created an example repo in C# using Un
 ![Example Command UML](images/observer-uml.png)
 fig. 8 - Example Observer Pattern UML
 
+To demonstrate the implementation of the pattern we’ll use an Enemy Class CLICK sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.CLICK
+
+```c#
+public  interface  IObserver
+
+{
+
+void Update();
+
+}
+```
+```c#
+
+```
 
 ## Video Lecture
 
@@ -637,11 +651,11 @@ fig. 8 - Example Observer Pattern UML
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5Nz
-Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
-OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
-fQ==
+eyJoaXN0b3J5IjpbLTExOTQ2OTI2MTYsMTA5ODA3NDQ5MSwtMT
+AxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYz
+MzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNT
+gwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1
+NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2ND
+E2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1
+OF19
 -->
