@@ -504,46 +504,28 @@ In the example a simulation is created where an enemy CLICK can enter the field 
 
 ```c#
 interface  IEnemy
-
 {
-
-string Damage();
-
-string Heal();
-
-string BuffON();
-
-string  BuffOFF();
-
+	string Damage();
+	string Heal();
+	string BuffON();
+	string  BuffOFF();
 }
 ```
 
 ```c#
 class  Goblin : IEnemy
-
 {
-
-public  string  BuffOFF()
-
-{
-
-return  "Goblin enters the field-Buff is ON";
-
-}
-
-public  string  BuffON()
-
-{
-
-return  "Goblin exits the field-Buff is OFF";
-
-}
-
-public  string  Damage()
-
-{
-
-return  "Goblin exits the field- takes damage";
+	public  string  BuffOFF()
+	{
+		return  "Goblin enters the field-Buff is ON";
+	}
+	public  string  BuffON()
+	{
+		return  "Goblin exits the field-Buff is OFF";
+	}
+	public  string  Damage()
+	{
+	return  "Goblin exits the field- takes damage";
 
 }
 
@@ -570,10 +552,8 @@ This shows the implementation of the interface for one of the Enemy Classes. The
 interface  ICommand
 
 {
-
-void  Execute();
-
-void UnDo();
+	void  Execute();
+	void UnDo();
 
 }
 ```
@@ -752,11 +732,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MD
-Y5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIw
-LC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
-Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
-NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
-gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTFd
-fQ==
+eyJoaXN0b3J5IjpbNzU5NTI2NzAyLC0xMDE5NTk2MTQyLDk3Nj
+QyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5
+NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMj
+YzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYs
+MzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MT
+Y4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3Ml19
+
 -->
