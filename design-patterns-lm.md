@@ -671,7 +671,9 @@ Console.WriteLine("Relation Updated");
 
 ## Design Patterns in Embedded Systems
 
-I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the 
+I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
+
+Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
 ## Further Research
 
@@ -691,7 +693,7 @@ I have created a simple example of the observer pattern being used in Arduino. I
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTM1ODUwOSwtMTg2Njc2OTYwOCwxMD
+eyJoaXN0b3J5IjpbMTg3ODAxMzk2MywtMTg2Njc2OTYwOCwxMD
 k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
 NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
 E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
