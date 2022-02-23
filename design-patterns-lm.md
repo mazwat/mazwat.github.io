@@ -539,48 +539,34 @@ Let's start by creating the interface for Enemies. Every enemy that implements t
 Each method will return a string with message about current status - `return "string"`
 
 This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
+{: .callout .callout--info}
 
 ```c#
 interface  ICommand
-
 {
 	void  Execute();
 	void UnDo();
-
 }
 ```
 
 ```c#
 class  Heal : ICommand
-
 {
-
-IEnemy  _receiver;
-
-// Constructor
-
-public  Heal(IEnemy  receiver)
-
-{
-
-_receiver = receiver;
-
-}
+	IEnemy  _receiver;
+	// Constructor
+	public  Heal(IEnemy  receiver)
+	{
+		_receiver = receiver;
+	}
 
 public  void  Execute()
-
 {
-
-Console.WriteLine(_receiver.Heal());
-
+	Console.WriteLine(_receiver.Heal());
 }
 
 public  void  UnDo()
-
 {
-
-Console.WriteLine(_receiver.Damage());
-
+	Console.WriteLine(_receiver.Damage());
 }
 
 }
@@ -724,11 +710,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjI5NzYzNSwtMTAxOTU5NjE0Miw5Nz
-Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
-OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
-fQ==
+eyJoaXN0b3J5IjpbMjYyODY0MSwtMTAxOTU5NjE0Miw5NzY0Mj
+EzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQs
+OTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2Mz
+Y1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1
+MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2OD
+kzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJdfQ==
+
 -->
