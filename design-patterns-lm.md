@@ -503,9 +503,59 @@ fig. 8 - Example Command Pattern UML
 In the example a simulation is created where an enemy CLICK can enter the field CLICK on the battlefield that can Heal CLICK her or it can add a Buff CLICK. I have two types of enemies Goblin CLICK and Dragon CLICK, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
 ```c#
+interface  IEnemy
+
+{
+
+string Damage();
+
+string Heal();
+
+string BuffON();
+
+string  BuffOFF();
+
+}
 ```
 
 ```c#
+class  Goblin : IEnemy
+
+{
+
+public  string  BuffOFF()
+
+{
+
+return  "Goblin enters the field-Buff is ON";
+
+}
+
+public  string  BuffON()
+
+{
+
+return  "Goblin exits the field-Buff is OFF";
+
+}
+
+public  string  Damage()
+
+{
+
+return  "Goblin exits the field- takes damage";
+
+}
+
+public  string  Heal()
+
+{
+
+return  "Goblin enters the field- heals";
+
+}
+
+}
 ```
 
 
@@ -569,12 +619,60 @@ This interface will specify how retriever will respond to execute() and undo() c
 implementation of this interface requires an instance of an IEnemy receiver, CLICK in class constructor we pass the receiver that will be manipulated by the command. CLICK Again I’m showing here just one of two Classes, because both are identical.
 
 ```c#
+interface  ICommand
+
+{
+
+void  Execute();
+
+void UnDo();
+
+}
 ```
 
 ```c#
+class  Heal : ICommand
+
+{
+
+IEnemy  _receiver;
+
+// Constructor
+
+public  Heal(IEnemy  receiver)
+
+{
+
+_receiver = receiver;
+
+}
+
+public  void  Execute()
+
+{
+
+Console.WriteLine(_receiver.Heal());
+
+}
+
+public  void  UnDo()
+
+{
+
+Console.WriteLine(_receiver.Damage());
+
+}
+
+}
 ```
 
 When an enemy enters the field on the map, CLICK that triggers the commands. CLICK In the invoker we pass an instance of command that we want to execute.
+
+```c#
+```
+This is the last part of the program that connects everything together. In this specific example I chose the situation when Enemy Goblin CLICK Enters the Field CLICK, that triggers the Heal command. After leaving the field Goblin Takes Damage. CLICK
+
+This was just a simple demonstration of the pattern, one way of extending the functionality of it is to store command in the generic list, this way we can undo multiple commands or execute command already executed in the past.
 
 ### 2. Observer
 
@@ -587,11 +685,11 @@ When an enemy enters the field on the map, CLICK that triggers the commands. CLI
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODk5ODI3LDk3NjQyMTM5MSwtNzA2OT
-M1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwt
-NTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0ND
-AxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5
-NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4Mj
-Q3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzExXX0=
-
+eyJoaXN0b3J5IjpbLTE3MTMxNTk1ODgsOTc2NDIxMzkxLC03MD
+Y5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIw
+LC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
+Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
+NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
+gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTFd
+fQ==
 -->
