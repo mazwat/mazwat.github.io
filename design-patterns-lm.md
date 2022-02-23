@@ -597,38 +597,22 @@ class Field
 }
 ```
 
-When an enemy enters the field `Field` on the map, that invokes the commands - `_command` In the invoker `EnterField()` we pass an instance of command that we want to execute.
+When an enemy enters the field `Field` on the map, that invokes the commands - `_command` In the invoker `EnterField()` we pass an instance of command that we want to occur - `Execute()` or `Undo()`.
 
 ```c#
-class  Field
-
+static  void  Main()
 {
+	// Create receiver, command, and invoker
+	IEnemy  receiver = new  Goblin();
+	ICommand  command = new  Heal(receiver);
+	Field invoker = new Field();
 
-private  ICommand  _command;
+	// Set and execute command
+	invoker.SetCommand(command);
+	invoker.EnterField();
+	invoker.ExitField();
 
-public  void  SetCommand(ICommand  command)
-
-{
-
-this._command = command;
-
-}
-
-public  void  EnterField()
-
-{
-
-_command.Execute();
-
-}
-
-public  void  ExitField()
-
-{
-
-_command.UnDo();
-
-}
+Console.ReadKey();
 
 }
 ```
@@ -649,11 +633,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk3NDM5NzIsLTEwMTk1OTYxNDIsOT
-c2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDky
-Njk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNz
-MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
-NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
-UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
-XX0=
+eyJoaXN0b3J5IjpbMTY4NzI1NTUyMCwtMTAxOTU5NjE0Miw5Nz
+Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
+OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
+fQ==
 -->
