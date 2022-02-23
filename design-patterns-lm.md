@@ -621,6 +621,10 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 
 ### 2. Observer
 
+-   the Observer Pattern is a pattern where the important objects are “observed” or **watched for changes.**
+-   This pattern is useful when we want to **pass messages** from one **object(subject)** to **multiple objects(observers)**.
+-   Observers are **not related to each other**, but every one of them needs to inherit from IObserver interface.
+
 
 ## Video Lecture
 
@@ -630,11 +634,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ2ODU1MTcsLTEwMTk1OTYxNDIsOT
-c2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDky
-Njk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNz
-MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
-NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
-UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
-XX0=
+eyJoaXN0b3J5IjpbLTY1NzkyNDgyNCwtMTAxOTU5NjE0Miw5Nz
+Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
+OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
+fQ==
 -->
