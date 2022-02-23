@@ -502,6 +502,23 @@ fig. 8 - Example Command Pattern UML
 
 In the example a simulation is created where an enemy CLICK can enter the field CLICK on the battlefield that can Heal CLICK her or it can add a Buff CLICK. I have two types of enemies Goblin CLICK and Dragon CLICK, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
+```c#
+```
+
+```c#
+```
+
+
+Let's start by creating the interface for Enemies. Every enemy that implements this interface can either take damage, heal, and Turn Buff OFF and ON.CLICK
+  
+
+Each method will return a string with massage about current status.CLICK
+
+This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
+
+```c#
+```
+
 ### 2. Observer
 
 
@@ -513,11 +530,11 @@ In the example a simulation is created where an enemy CLICK can enter the field 
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk0ODIxODcsOTc2NDIxMzkxLC03MD
-Y5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIw
-LC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1ND
-Q0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMs
-NDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1OD
-gyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcyLDEzOTEyNzM3MTFd
-fQ==
+eyJoaXN0b3J5IjpbMTU5ODQ5OTc1Miw5NzY0MjEzOTEsLTcwNj
+kzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAs
+LTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0ND
+QwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0
+OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4OD
+I0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3MzcxMV19
+
 -->
