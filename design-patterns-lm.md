@@ -534,10 +534,9 @@ class  Goblin : IEnemy
 }
 ```
 
-Let's start by creating the interface for Enemies. Every enemy that implements this interface can either take damage - Damage() , heal - Heal(), and turn buff OFF and ON - BuffOfF() BuffON()
+Let's start by creating the interface for Enemies. Every enemy that implements this interface can either take damage - `Damage()` , heal - `Heal()`, and turn buff off and on - `BuffOfF()` `BuffON()`
   
-
-Each method will return a string with massage about current status.CLICK
+Each method will return a string with message about current status - `return "string"`
 
 This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
 
@@ -725,7 +724,7 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjkxMTI1OSwtMTAxOTU5NjE0Miw5Nz
+eyJoaXN0b3J5IjpbMTI4MjI5NzYzNSwtMTAxOTU5NjE0Miw5Nz
 Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
 OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
 I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
