@@ -672,14 +672,14 @@ Console.WriteLine("Relation Updated");
 ## Design Patterns in Embedded Systems
 
 ![enter image description here](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
-fig. 10 - Schematic for the Observer Pattern. Using a Distance Sensor
+fig. 10 - Set up for the Observer pattern example
 
 I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
 
 Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
 ![Schematic for the Example](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/observer-wiring.png)
-fig. 10 - Schematic for the Observer Pattern. Using a Distance Sensor
+fig. 10 - Schematic using a Distance Sensor
 
 
 
@@ -701,11 +701,11 @@ fig. 10 - Schematic for the Observer Pattern. Using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMDQwODY3LC0xODY2NzY5NjA4LDEwOT
-gwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1
-NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MT
-YyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEz
-MywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2Nz
-IwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5MywtMTA1ODgyNDc5
-Ml19
+eyJoaXN0b3J5IjpbMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMD
+k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
+NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
+E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
+MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
+cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
+OTJdfQ==
 -->
