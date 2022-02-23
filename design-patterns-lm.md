@@ -558,23 +558,23 @@ class  Heal : ICommand
 	{
 		_receiver = receiver;
 	}
+	public  void  Execute()
+	{
+		Console.WriteLine(_receiver.Heal());
+	}
 
-public  void  Execute()
-{
-	Console.WriteLine(_receiver.Heal());
-}
-
-public  void  UnDo()
-{
-	Console.WriteLine(_receiver.Damage());
-}
-
+	public  void  Undo()
+	{
+		Console.WriteLine(_receiver.Damage());
+	}
 }
 ```
 
-This interface will specify how retriever will respond to execute() and undo() commands. CLICK
+This interface will specify how `_reciever` will respond to `Execute()` and `Undo()` commands. CLICK
 
-implementation of this interface requires an instance of an IEnemy receiver, CLICK in class constructor we pass the receiver that will be manipulated by the command. CLICK Again I’m showing here just one of two Classes, because both are identical.
+implementation of this interface requires an instance of an IEnemy receiver, in class constructor we pass the receiver that will be manipulated by the command. 
+
+Again I’m showing here just one of two Classes, because both are identical.
 
 ```c#
 interface  ICommand
@@ -710,11 +710,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyODY0MSwtMTAxOTU5NjE0Miw5NzY0Mj
-EzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQs
-OTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2Mz
-Y1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1
-MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2OD
-kzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJdfQ==
+eyJoaXN0b3J5IjpbODcyODg1NDQzLC0xMDE5NTk2MTQyLDk3Nj
+QyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5
+NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMj
+YzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYs
+MzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MT
+Y4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3Ml19
 
 -->
