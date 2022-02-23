@@ -577,51 +577,14 @@ implementation of this interface requires an instance of an IEnemy receiver, in 
 Again I’m showing here just one of two Classes, because both are identical.
 {: .callout .callout--info}
 
-```c#
-interface ICommand
-{
-	void Execute();
-	void UnDo();
-}
-```
 
 ```c#
-class Heal : ICommand
+class Field
 {
-	IEnemy  _receiver;
-	// Constructor
-	public  Heal(IEnemy  receiver)
+	private ICommand _command;
+	public void SetCommand(ICommand  command)
 	{
-		_receiver = receiver;
-	}
-	public  void  Execute()
-	{
-		Console.WriteLine(_receiver.Heal());
-	}
-
-public  void  UnDo()
-
-{
-
-Console.WriteLine(_receiver.Damage());
-
-}
-
-}
-```
-
-```c#
-class  Field
-
-{
-
-private  ICommand  _command;
-
-public  void  SetCommand(ICommand  command)
-
-{
-
-this._command = command;
+		this._command = command;
 
 }
 
@@ -696,11 +659,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MzQ5NDk5LC0xMDE5NTk2MTQyLDk3Nj
-QyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5
-NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMj
-YzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYs
-MzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MT
-Y4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3Ml19
-
+eyJoaXN0b3J5IjpbLTIwMjExODk5NDQsLTEwMTk1OTYxNDIsOT
+c2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDky
+Njk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNz
+MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
+NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
+UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
+XX0=
 -->
