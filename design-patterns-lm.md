@@ -640,8 +640,44 @@ void Update();
 }
 ```
 ```c#
+public  class  UserInterface : IObserver
 
+{
+
+public  void  Update()
+
+{
+
+Console.WriteLine("Interface Updated");
+
+}
+
+}
+
+public  class  DifferentUnit : IObserver
+
+{
+
+public  void  Update()
+
+{
+
+Console.WriteLine("Relation Updated");
+
+}
+
+}
 ```
+
+## Further Research
+
+-   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns/](https://www.habrador.com/%20tutorials/programming-patterns/)
+-   **Game Programming Patterns** - [http://gameprogrammingpatterns.com/contents.html](http://gameprogrammingpatterns.com/contents.html)
+-   **What Design Patterns are useful for games** - [https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development](https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development)
+-   **Singleton** - http://wiki.unity3d.com/index.php/Singleton
+-   **State Pattern** - https://www.raywenderlich.com/ 6034380-state-pattern-using-unity
+-   **Observer Pattern** - https://www.habrador.com/tutorials/ programming-patterns/3-observer-pattern/
+-   **Indie Dev Art** - https://indiedevart.wordpress.com/
 
 ## Video Lecture
 
@@ -651,7 +687,7 @@ void Update();
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ2OTI2MTYsMTA5ODA3NDQ5MSwtMT
+eyJoaXN0b3J5IjpbLTE2MTMzNjUwODQsMTA5ODA3NDQ5MSwtMT
 AxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYz
 MzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNT
 gwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1
