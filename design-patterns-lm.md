@@ -600,11 +600,11 @@ class Field
 When an enemy enters the field `Field` on the map, that invokes the commands - `_command` In the invoker `EnterField()` we pass an instance of command that we want to occur - `Execute()` or `Undo()`.
 
 ```c#
-static  void  Main()
+static void Main()
 {
 	// Create receiver, command, and invoker
-	IEnemy  receiver = new  Goblin();
-	ICommand  command = new  Heal(receiver);
+	IEnemy receiver = new Goblin();
+	ICommand command = new Heal(receiver);
 	Field invoker = new Field();
 
 	// Set and execute command
@@ -615,9 +615,7 @@ static  void  Main()
 
 }
 ```
-
-
-This is the last part of the program that connects everything together. In this specific example I chose the situation when Enemy Goblin `new Goblin()` enters the Field new `Field()`, that triggers the Heal command. After leaving the field Goblin Takes Damage. CLICK
+This is the last part of the program that connects everything together. In this specific example I chose the situation when Enemy Goblin `new Goblin()` enters the Field new `Field()`, that triggers the Heal command - `new Heal(receiver)`. After leaving the field `invoker.ExitField()` Goblin Takes Damage. CLICK
 
 This was just a simple demonstration of the pattern, one way of extending the functionality of it is to store command in the generic list, this way we can undo multiple commands or execute command already executed in the past.
 
@@ -632,11 +630,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDkxNDE2NSwtMTAxOTU5NjE0Miw5Nz
-Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
-OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
-I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
-LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
-E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
-fQ==
+eyJoaXN0b3J5IjpbLTE4ODQ2ODU1MTcsLTEwMTk1OTYxNDIsOT
+c2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDky
+Njk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNz
+MyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgw
+NiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMT
+UxNjg5MywtMTA1ODgyNDc5Miw2MjY0OTU1NTgsNjgzNjQ5MTcy
+XX0=
 -->
