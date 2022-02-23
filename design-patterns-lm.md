@@ -500,7 +500,7 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 ![Example Command UML](images/command-uml.png)
 fig. 8 - Example Command Pattern UML
 
-In the example a simulation is created where an enemy `IEnemy` can enter the `Field` on the battlefield that can `Heal` her or it can add a `Buff`. I have two types of enemies `Goblin` and `Dragon` CLICK, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
+In the example a simulation is created where an enemy `IEnemy` can enter the `Field` on the battlefield that can `Heal` her or it can add a `Buff`. I have two types of enemies `Goblin` and `Dragon`, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
 ```c#
 interface  IEnemy
@@ -534,8 +534,7 @@ class  Goblin : IEnemy
 }
 ```
 
-
-Let's start by creating the interface for Enemies. Every enemy that implements this interface can either take damage, heal, and Turn Buff OFF and ON.CLICK
+Let's start by creating the interface for Enemies. Every enemy that implements this interface can either take damage - Damage() , heal - Heal(), and turn buff OFF and ON - BuffOfF() BuffON()
   
 
 Each method will return a string with massage about current status.CLICK
@@ -726,11 +725,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2OTk4MDc5LC0xMDE5NTk2MTQyLDk3Nj
-QyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5
-NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMj
-YzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYs
-MzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MT
-Y4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3Ml19
-
+eyJoaXN0b3J5IjpbLTk1NjkxMTI1OSwtMTAxOTU5NjE0Miw5Nz
+Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
+OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
+fQ==
 -->
