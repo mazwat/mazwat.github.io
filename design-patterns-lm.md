@@ -487,6 +487,20 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 
 ### 1. Command
 
+-   **Command pattern** allows you to store list of code that is executed **many times** or at a **later time.**
+-   Gives you easy way to implement **Undo()** that can have a opposite effect or undo multiple commands if commands are stored in list.
+-   This pattern is supports **encapsulation**
+-   Command involves **multiple classes**
+
+-   **Receiver** – performs the Action associated with the request.
+-   **Invoker** – asks the command to carry out the request
+-   **Command** – an interface which specifies the Execute and/or Undo operation.
+-   **Client** – creates instance of an invoker, command and receiver and connects them.
+
+
+
+In the example a simulation is created where an enemy CLICK can enter the field CLICK on the battlefield that can Heal CLICK her or it can add a Buff CLICK. I have two types of enemies Goblin CLICK and Dragon CLICK, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
+
 ### 2. Observer
 
 
@@ -498,7 +512,7 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzU2NDQzNCw5NzY0MjEzOTEsLTcwNj
+eyJoaXN0b3J5IjpbMTc1NDEzMjA0MCw5NzY0MjEzOTEsLTcwNj
 kzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAs
 LTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0ND
 QwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0
