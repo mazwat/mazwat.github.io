@@ -487,8 +487,7 @@ Decorator can attach additional responsibilities to an object dynamically. Decor
 
 ### 1. Command
 
--   **Command pattern** allows you to store list of code that is executed **many times** or at a **later time.**
--   Gives you easy way to implement **Undo()** that can have a opposite effect or undo multiple commands if commands are stored in list.
+**Command pattern** allows you to store list of code that is executed **many times** or at a **later time.** Gives you easy way to implement **Undo()** that can have a opposite effect or undo multiple commands if commands are stored in list.
 -   This pattern is supports **encapsulation**
 -   Command involves **multiple classes**
 
@@ -513,21 +512,21 @@ interface  IEnemy
 ```
 
 ```c#
-class  Goblin : IEnemy
+class Goblin : IEnemy
 {
-	public  string  BuffOFF()
+	public string BuffOFF()
 	{
 		return  "Goblin enters the field-Buff is ON";
 	}
-	public  string  BuffON()
+	public string BuffON()
 	{
 		return  "Goblin exits the field-Buff is OFF";
 	}
-	public  string  Damage()
+	public string Damage()
 	{
 		return  "Goblin exits the field- takes damage";
 	}
-	public  string  Heal()
+	public string Heal()
 	{
 		return  "Goblin enters the field- heals";
 	}
@@ -542,28 +541,28 @@ This shows the implementation of the interface for one of the Enemy Classes. The
 {: .callout .callout--info}
 
 ```c#
-interface  ICommand
+interface ICommand
 {
-	void  Execute();
+	void Execute();
 	void UnDo();
 }
 ```
 
 ```c#
-class  Heal : ICommand
+class Heal : ICommand
 {
-	IEnemy  _receiver;
+	IEnemy _receiver;
 	// Constructor
-	public  Heal(IEnemy  receiver)
+	public Heal(IEnemy receiver)
 	{
 		_receiver = receiver;
 	}
-	public  void  Execute()
+	public void Execute()
 	{
 		Console.WriteLine(_receiver.Heal());
 	}
 
-	public  void  Undo()
+	public void Undo()
 	{
 		Console.WriteLine(_receiver.Damage());
 	}
@@ -575,6 +574,7 @@ This interface will specify how `_reciever` will respond to `Execute()` and `Und
 implementation of this interface requires an instance of an IEnemy receiver, in class constructor we pass the receiver that will be manipulated by the command. 
 
 Again I’m showing here just one of two Classes, because both are identical.
+{: .callout .callout--info}
 
 ```c#
 interface  ICommand
@@ -710,11 +710,11 @@ This was just a simple demonstration of the pattern, one way of extending the fu
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyODg1NDQzLC0xMDE5NTk2MTQyLDk3Nj
-QyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5
-NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMj
-YzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYs
-MzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MT
-Y4OTMsLTEwNTg4MjQ3OTIsNjI2NDk1NTU4LDY4MzY0OTE3Ml19
-
+eyJoaXN0b3J5IjpbMTQ5MjQ4MDU1MywtMTAxOTU5NjE0Miw5Nz
+Y0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2
+OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03Mz
+I2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2
+LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNT
+E2ODkzLC0xMDU4ODI0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzJd
+fQ==
 -->
