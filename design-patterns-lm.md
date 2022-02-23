@@ -671,6 +671,8 @@ Console.WriteLine("Relation Updated");
 
 ## Design Patterns in Embedded Systems
 
+I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining
+
 ## Further Research
 
 -   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns](https://www.habrador.com/%20tutorials/programming-patterns/)
@@ -689,11 +691,11 @@ Console.WriteLine("Relation Updated");
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDYyODcxNCwtMTg2Njc2OTYwOCwxMD
-k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
-NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
-E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
-MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
-cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQxNDAxNTIsLTE4NjY3Njk2MDgsMT
+A5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkz
+NTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLT
+UxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQw
+MTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OT
+Y3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4ODI0
+NzkyXX0=
 -->
