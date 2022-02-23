@@ -517,7 +517,64 @@ Each method will return a string with massage about current status.CLICK
 This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
 
 ```c#
+interface  ICommand
+
+{
+
+void  Execute();
+
+void UnDo();
+
+}
 ```
+
+```c#
+class  Heal : ICommand
+
+{
+
+IEnemy  _receiver;
+
+// Constructor
+
+public  Heal(IEnemy  receiver)
+
+{
+
+_receiver = receiver;
+
+}
+
+public  void  Execute()
+
+{
+
+Console.WriteLine(_receiver.Heal());
+
+}
+
+public  void  UnDo()
+
+{
+
+Console.WriteLine(_receiver.Damage());
+
+}
+
+}
+```
+
+This interface will specify how retriever will respond to execute() and undo() commands. CLICK
+
+implementation of this interface requires an instance of an IEnemy receiver, CLICK in class constructor we pass the receiver that will be manipulated by the command. CLICK Again I’m showing here just one of two Classes, because both are identical.
+
+```c#
+```
+
+```c#
+```
+
+When an enemy enters the field on the map, CLICK that triggers the commands. CLICK In the invoker we pass an instance of command that we want to execute.
 
 ### 2. Observer
 
@@ -530,11 +587,11 @@ This shows the implementation of the interface for one of the Enemy Classes. The
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODQ5OTc1Miw5NzY0MjEzOTEsLTcwNj
-kzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAs
-LTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0ND
-QwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0
-OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkzLC0xMDU4OD
-I0NzkyLDYyNjQ5NTU1OCw2ODM2NDkxNzIsMTM5MTI3MzcxMV19
+eyJoaXN0b3J5IjpbNDYyODk5ODI3LDk3NjQyMTM5MSwtNzA2OT
+M1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwt
+NTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0ND
+AxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5
+NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4Mj
+Q3OTIsNjI2NDk1NTU4LDY4MzY0OTE3MiwxMzkxMjczNzExXX0=
 
 -->
