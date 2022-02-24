@@ -43,7 +43,7 @@ This week is your opportunity to start developing your individual creative compu
 {: .callout .callout--info}
 
 
-## ACTIVITY
+## Activity for the Week
 
  
 **Build a basic prototype**
@@ -58,6 +58,6 @@ You should be building on the foundations of your programming skills. After you 
 In **week 7** we will be expecting to see a basic prototype in your seminar groups.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTIzNTkxLDEyNjk5MTQwNDUsNDc0Mj
+eyJoaXN0b3J5IjpbNDYwNDQ0ODc5LDEyNjk5MTQwNDUsNDc0Mj
 Q3ODk4LC01NzUwMDE5MzJdfQ==
 -->
