@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Research 3
-description: 
+title: Research (Part 2)
+description: COMP140 - Week 2
 
 # Author box
 author:
@@ -70,8 +70,8 @@ Even if you have already developed your idea, you will find these approaches inv
 
 **Note:** Please ensure you read the **assignment briefs, both 1 and 2** as well as the **contracts** to be sure you have understood all the expectations of the project and it’s deliverable elements. If you have questions about any aspect of COMP140, don’t hesitate to contact me or your programming tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjI3NTI4LDIwOTY1Mzc5NzgsMTA1MD
-k2MDM2OCwtMTA1Mjc0NTYxNiwxMjM2NTgzMzA0LC03NTY4MTI2
-OTAsMTA1NTk4OTQwOCwxMTMzNzA3Mzc0LC01NDE1NzUyMzRdfQ
-==
+eyJoaXN0b3J5IjpbOTA2NDc2NDA5LDE4MTIyNzUyOCwyMDk2NT
+M3OTc4LDEwNTA5NjAzNjgsLTEwNTI3NDU2MTYsMTIzNjU4MzMw
+NCwtNzU2ODEyNjkwLDEwNTU5ODk0MDgsMTEzMzcwNzM3NCwtNT
+QxNTc1MjM0XX0=
 -->
