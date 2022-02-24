@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Research 2
-description: 
+title: Research (Part 1)
+description: COMP140 - Week 1
 
 # Author box
 author:
@@ -44,5 +44,5 @@ Write a **1 page proposal** for a novel game/experience and control system:
 
   **Please have a draft idea ready to share with your tutor in your seminar session.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkyOTg5NDddfQ==
+eyJoaXN0b3J5IjpbMjA4MjAxNzUxOV19
 -->
