@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Poster Preparation
-description: 
+title: Rapid Prototyping
+description: COMP140 - Week 6
 
 # Author box
 author:
@@ -56,5 +56,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQwMTM5NDldfQ==
+eyJoaXN0b3J5IjpbMTMwMjIyNTU4Nl19
 -->
