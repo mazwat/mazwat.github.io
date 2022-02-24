@@ -34,6 +34,9 @@ This week is your opportunity to start developing your individual creative compu
 -   Do **virtual components** react in a way that **feels meaningful** as you manipulate your control system?
 -   What does the **user experience** feel like?
 -   If the **feel isn't right**, consider what needs to be done to improve the interface.
+-  How is your experience going to be housed? Have you thought about enclosures or 3D printed elements.*
+
+*This week you will be doing a workshop in Fusion 360
 
 ACTIVITY
 
@@ -56,5 +59,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDg1NjQ4Ml19
+eyJoaXN0b3J5IjpbLTE2MzU4NTU4MTNdfQ==
 -->
