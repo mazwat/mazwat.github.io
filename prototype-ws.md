@@ -55,9 +55,9 @@ You should be building on the foundations of your programming skills. After you 
 3.  **Feedback** - a user should be able to receive ongoing feedback as a result of their actions.
 4.  **Update your documentation** as your system adapts to the results of your research.
 
-In **week 7** we will be expecting to see a basic prototype in your seminar groups.
-{: .callout .callout--warning}
+In **week 7** we will be expecting to see a **basic prototype** in your seminar groups.
+{: .callout .callout--danger}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNDQ0ODc5LDEyNjk5MTQwNDUsNDc0Mj
+eyJoaXN0b3J5IjpbODI2MjQxNDgyLDEyNjk5MTQwNDUsNDc0Mj
 Q3ODk4LC01NzUwMDE5MzJdfQ==
 -->
