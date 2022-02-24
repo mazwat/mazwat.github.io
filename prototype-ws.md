@@ -25,10 +25,10 @@ page_nav: false
 
 This week is your opportunity to start developing your individual creative computing project.
 
-Focus on the most difficult aspects of your build:
+**Focus on the most difficult aspects of your build**:
 
--   Ordering the relevant electronics, sensors, and modules you need. If you still have questions about components ask me, Andy or your programming tutor.
--   Do a rough test of your control system. Wire it up using Arduino/Uduino/Unity. Does it work?
+-  Order the relevant electronics, sensors, and modules you need. If you still have questions about components ask me (Matt), Ben or your programming tutor.
+-   Do a r**ough working model** of your control system. Wire it up using Arduino/Uduino/Unity. Does it work?
 -   Does it interact with your Unity (or other) interface as expected? Move some game objects around using some digital or analogue input
 -   Is the data mapping correctly?
 -   Do virtual components react in a way that feels meaningful as you manipulate your control system?
@@ -56,5 +56,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjIyNTU4Nl19
+eyJoaXN0b3J5IjpbLTc2ODA4ODMzNF19
 -->
