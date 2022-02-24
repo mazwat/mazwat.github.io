@@ -23,7 +23,8 @@ page_nav: false
 
 # Rapid Prototyping
 
-![Hit Me!](images/prototype.png)
+![Prototype banner](images/prototype.jpg)
+*fig. 1 - Image Attribution - Photo by [Tom Claes](https://unsplash.com/@tomspentys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@tomspentys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 This week is your opportunity to start developing your individual creative computing project.
 
@@ -63,5 +64,6 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MjQ3ODk4LC01NzUwMDE5MzJdfQ==
+eyJoaXN0b3J5IjpbMTI2OTkxNDA0NSw0NzQyNDc4OTgsLTU3NT
+AwMTkzMl19
 -->
