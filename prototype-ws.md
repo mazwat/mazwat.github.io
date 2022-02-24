@@ -52,15 +52,12 @@ You should be building on the foundations of your programming skills. After you 
 
 1.  A **control system** - you can input values into your game/experience from some custom control system composed of sensors that responds to user actions.
 2.  An **interface** - your inputs are reflected as outputs to the screen or to some other output or actuator.
-3.  Feedback - a user should be able to receive ongoing feedback as a result of their actions.
-4.  Update your diagrams as your system adapts to the results of your research.
+3.  **Feedback** - a user should be able to receive ongoing feedback as a result of their actions.
+4.  **Update your documentation** as your system adapts to the results of your research.
 
-  
-
-In week 7 we will be expecting to see a basic prototype in your seminar groups.
-
-> Written with [StackEdit](https://stackedit.io/).
+In **week 7** we will be expecting to see a basic prototype in your seminar groups.
+{: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NTgyMDIzLDEyNjk5MTQwNDUsNDc0Mj
+eyJoaXN0b3J5IjpbODY5MTIzNTkxLDEyNjk5MTQwNDUsNDc0Mj
 Q3ODk4LC01NzUwMDE5MzJdfQ==
 -->
