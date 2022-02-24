@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Poster Preparation
-description: 
+title: Poster Preparation
+description: COMP140 - Week 3 
 
 # Author box
 author:
@@ -71,7 +71,7 @@ Landscape: [**www.overleaf.com/read/cfyvbbvxprkf**](http://www.overleaf.com/read
 
 Overleaf provides a range of other templates you can use as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjE3NTY2NCwtMjAwODk3NTc1NiwtNz
-E1OTQyNjg3LC03NjQyMDg0ODYsODA2MTMyMzE4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTk2NjUxODIwMywxOTMyMTc1NjY0LC0yMD
+A4OTc1NzU2LC03MTU5NDI2ODcsLTc2NDIwODQ4Niw4MDYxMzIz
+MTgsNzMwOTk4MTE2XX0=
 -->
