@@ -20,6 +20,9 @@ micro_nav: true
 page_nav: false
 
 ---
+
+# Rapid Prototyping
+
 This week is your opportunity to start developing your individual creative computing project.
 
 Focus on the most difficult aspects of your build:
@@ -53,5 +56,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM0MTUxODFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQwMTM5NDldfQ==
 -->
