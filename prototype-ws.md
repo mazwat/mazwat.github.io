@@ -23,6 +23,8 @@ page_nav: false
 
 # Rapid Prototyping
 
+![Hit Me!](images/prototype.png)
+
 This week is your opportunity to start developing your individual creative computing project.
 
 **Focus on the most difficult aspects of your build**:
@@ -61,5 +63,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTAwMTkzMl19
+eyJoaXN0b3J5IjpbNDc0MjQ3ODk4LC01NzUwMDE5MzJdfQ==
 -->
