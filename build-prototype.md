@@ -17,7 +17,26 @@ Focus on the most difficult aspects of your build:
 
   
 
-  
+  ---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: COMP140 - Research 1
+description: 
+
+# Author box
+author:
+    title: Matt Watkins
+    description: Lecturer in Computing at Falmouth University
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+page_nav: false
 
 ACTIVITY
 
@@ -40,5 +59,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyMDkxODFdfQ==
+eyJoaXN0b3J5IjpbLTY4NzEwNjM0NF19
 -->
