@@ -36,7 +36,9 @@ This week is your opportunity to start developing your individual creative compu
 -   If the **feel isn't right**, consider what needs to be done to improve the interface.
 -  How is your experience going to be housed? Have you thought about enclosures or 3D printed elements.*
 
-*This week you will be doing a workshop in Fusion 360. Do give you a basic understanding of how to use software to create 3D physical objects.
+*This week you will be doing a workshop in **Fusion 360** to give you a basic understanding of how to use software to create 3D physical objects that you can 3D print or even laser cut.
+{: .callout .callout--info}
+
 
 ACTIVITY
 
@@ -59,5 +61,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTk3MzE5Nl19
+eyJoaXN0b3J5IjpbLTU3NTAwMTkzMl19
 -->
