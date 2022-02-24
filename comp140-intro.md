@@ -28,7 +28,7 @@ page_nav: false
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
 #### 3 - [Research Week](../research-week-ws "Research Week")
 #### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
-#### 5 - [Build Prototype](../build-prototype "Data Structures") -->
+#### 5 - [Build Prototype](../build-prototype "Buid Prototype") -->
 <!---#### 4 - [Data Structures](../data-ws "Data Structures") -->
 <!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
 
@@ -51,9 +51,9 @@ page_nav: false
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjE3MjIxLC02MDQ1ODAxNTEsOTA3Nz
-k3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLTc5NjE0MTIw
-NSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLT
-E1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwtODgz
-NDk3NzIxXX0=
+eyJoaXN0b3J5IjpbLTEzOTU1NzQ4MzcsLTYwNDU4MDE1MSw5MD
+c3OTc3MjgsMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwtNzk2MTQx
+MjA1LC0yMDY4Njk5NDc0LC0zNTAyMzg3NjQsLTIyNDA3MDU1MS
+wtMTUwMDk1MzA3OCwtMjA2OTcwMTQyOSwtNjk1NzE4ODM5LC04
+ODM0OTc3MjFdfQ==
 -->
