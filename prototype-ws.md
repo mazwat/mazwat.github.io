@@ -1,30 +1,11 @@
-
-This week is your opportunity to start developing your individual creative computing project.
-
-Focus on the most difficult aspects of your build:
-
--   Ordering the relevant electronics, sensors, and modules you need. If you still have questions about components ask me, Andy or your programming tutor.
--   Do a rough test of your control system. Wire it up using Arduino/Uduino/Unity. Does it work?
--   Does it interact with your Unity (or other) interface as expected? Move some game objects around using some digital or analogue input
--   Is the data mapping correctly?
--   Do virtual components react in a way that feels meaningful as you manipulate your control system?
--   What does the user experience feel like?
--   If the feel isn't right, consider what needs to be done to improve the interface.
-
-  
-
-  
-
-  
-
-  ---
+---
 # Page settings
 layout: default
 keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Research 1
+title: COMP140 - Poster Preparation
 description: 
 
 # Author box
@@ -37,6 +18,19 @@ micro_nav: true
 
 # Page navigation
 page_nav: false
+
+---
+This week is your opportunity to start developing your individual creative computing project.
+
+Focus on the most difficult aspects of your build:
+
+-   Ordering the relevant electronics, sensors, and modules you need. If you still have questions about components ask me, Andy or your programming tutor.
+-   Do a rough test of your control system. Wire it up using Arduino/Uduino/Unity. Does it work?
+-   Does it interact with your Unity (or other) interface as expected? Move some game objects around using some digital or analogue input
+-   Is the data mapping correctly?
+-   Do virtual components react in a way that feels meaningful as you manipulate your control system?
+-   What does the user experience feel like?
+-   If the feel isn't right, consider what needs to be done to improve the interface.
 
 ACTIVITY
 
@@ -59,5 +53,5 @@ In week 7 we will be expecting to see a basic prototype in your seminar groups.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzEwNjM0NF19
+eyJoaXN0b3J5IjpbLTE5OTM0MTUxODFdfQ==
 -->
