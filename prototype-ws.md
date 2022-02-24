@@ -56,8 +56,8 @@ You should be building on the foundations of your programming skills. After you 
 4.  **Updated documentation**  - change these as your system progresses as a result of your research.
 
 In **week 7** we will be expecting to see a **basic prototype** in your seminar groups.
-{: .callout .callout--danger}
+{: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDIzMjg3OSwxMjY5OTE0MDQ1LDQ3ND
-I0Nzg5OCwtNTc1MDAxOTMyXX0=
+eyJoaXN0b3J5IjpbLTEzMTYzMTM4MTYsMTI2OTkxNDA0NSw0Nz
+QyNDc4OTgsLTU3NTAwMTkzMl19
 -->
