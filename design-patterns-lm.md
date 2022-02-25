@@ -632,46 +632,32 @@ To demonstrate the implementation of the pattern we’ll use an Enemy Class CLIC
 
 ```c#
 public  interface  IObserver
-
 {
-
-void Update();
-
+	void Update();
 }
 ```
 ```c#
 public  class  UserInterface : IObserver
-
 {
-
-public  void  Update()
-
-{
-
-Console.WriteLine("Interface Updated");
-
-}
-
+	public  void  Update()
+	{
+		Console.WriteLine("Interface Updated");
+	}
 }
 
 public  class  DifferentUnit : IObserver
-
 {
-
-public  void  Update()
-
-{
-
-Console.WriteLine("Relation Updated");
-
-}
+	public  void  Update()
+	{
+		Console.WriteLine("Relation Updated");
+	]
 
 }
 ```
 
 ## Design Patterns in Embedded Systems
 
-![Observer set-up](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
+![Observer set-up](http://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
 fig. 10 - Set up for the Observer pattern example
 
 I have created a simple example of the **Observer pattern** being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
@@ -701,7 +687,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjY5NjU0OCwxMjQ3NTM4MjA1LC0xOD
+eyJoaXN0b3J5IjpbMTU2OTUwODIxMywxMjQ3NTM4MjA1LC0xOD
 Y2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIx
 MzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LD
 k2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2
