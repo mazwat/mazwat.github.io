@@ -669,30 +669,27 @@ public  class  Enemy : IEnemy
 	private  List<IObserver> observers = new List<IObserver>();
 	private  int  _health = 10;
 	public  int  Health
-{
-	get { return _health; }
-	set
 	{
-		_health = value;
-		Notify();
+		get { return _health; }
+		set
+		{
+			_health = value;
+			Notify();
+		}
 	}
-}
 
-public  void  Notify()
-{
-	observers.ForEach(x => x.Update());
-}
-public  void  Subscribe(IObserver  observer)
-{
-	observers.Add(observer);
-}
-public  void  Unsubscribe(IObserver  observer)
-{
-
-observers.Remove(observer);
-
-}
-
+	public  void  Notify()
+	{
+		observers.ForEach(x => x.Update());
+	}
+	public  void  Subscribe(IObserver  observer)
+	{
+		observers.Add(observer);
+	}
+	public  void  Unsubscribe(IObserver  observer)
+	{
+		observers.Remove(observer);
+	}
 }
 ```
 
@@ -732,11 +729,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzI0NjM2LDEyNDc1MzgyMDUsLTE4Nj
-Y3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEz
-OTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOT
-Y5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1
-MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1Mj
-gyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkz
-XX0=
+eyJoaXN0b3J5IjpbLTE1NjYwODA0NTQsMTI0NzUzODIwNSwtMT
+g2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQy
+MTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NC
+w5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYz
+NjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMz
+UyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4
+OTNdfQ==
 -->
