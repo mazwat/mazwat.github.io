@@ -628,6 +628,8 @@ This is a very popular pattern and I have created an example repo in C# using Un
 ![Example Command UML](images/observer-uml.png)
 fig. 9 - Example Observer Pattern UML
 
+
+
 ```c#
 public  interface  IObserver
 {
@@ -651,7 +653,73 @@ public  class  DifferentUnit : IObserver
 	}
 }
 ```
+To demonstrate the implementation of the pattern we’ll use an Enemy Class CLICK sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.CLICK
+```c#
+interface  IEnemy
+{
+
+void  Subscribe(IObserver  observer);
+
+void  Unsubscribe(IObserver  observer);
+
+void Notify();
+
+}	
+```
 So now let’s look at the subject. Subject interface need methods for subscribing and unsubscribing Observers. CLICK And a method for Notifying the Listeners about the change.
+```c#
+public  class  Enemy : IEnemy
+
+{
+
+private  List<IObserver> observers = new  List<IObserver>();
+
+private  int  _health = 10;
+
+public  int  Health
+
+{
+
+get { return _health; }
+
+set
+
+{
+
+_health = value;
+
+Notify();
+
+}
+
+}
+
+public  void  Notify()
+
+{
+
+observers.ForEach(x => x.Update());
+
+}
+
+public  void  Subscribe(IObserver  observer)
+
+{
+
+observers.Add(observer);
+
+}
+
+public  void  Unsubscribe(IObserver  observer)
+
+{
+
+observers.Remove(observer);
+
+}
+
+}
+```
 
 Enemy class inherits from IEnemy interface. CLICK It contains generic list of Observers, CLICK using interface as an object CLICK allows you to store objects of any class that inherits from IObserver interface.  
 Notify() is called whenever health value is changing. A Lambda expression is used to determine the change at each position in the list with the Update. CLICK  
@@ -689,11 +757,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQyMTk3MDgsMTI0NzUzODIwNSwtMT
-g2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQy
-MTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NC
-w5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYz
-NjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMz
-UyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTg1NjkxNTI1NiwxMjQ3NTM4MjA1LC0xOD
+Y2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIx
+MzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LD
+k2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2
+NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNT
+I4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5
+M119
 -->
