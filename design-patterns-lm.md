@@ -671,10 +671,10 @@ Console.WriteLine("Relation Updated");
 
 ## Design Patterns in Embedded Systems
 
-![Observer st](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
+![Observer set-up](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
 fig. 10 - Set up for the Observer pattern example
 
-I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
+I have created a simple example of the **Observer pattern** being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
 
 Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
@@ -701,11 +701,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA3Njk4NTcsMTI0NzUzODIwNSwtMT
-g2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQy
-MTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NC
-w5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYz
-NjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMz
-UyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMjA4MjY5NjU0OCwxMjQ3NTM4MjA1LC0xOD
+Y2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIx
+MzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LD
+k2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2
+NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNT
+I4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5
+M119
 -->
