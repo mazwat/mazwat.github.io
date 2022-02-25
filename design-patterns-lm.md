@@ -671,7 +671,7 @@ Console.WriteLine("Relation Updated");
 
 ## Design Patterns in Embedded Systems
 
-![enter image description here](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
+![Observer st](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
 fig. 10 - Set up for the Observer pattern example
 
 I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
@@ -701,11 +701,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMD
-k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
-NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
-E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
-MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
-cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTA3Njk4NTcsMTI0NzUzODIwNSwtMT
+g2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQy
+MTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NC
+w5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYz
+NjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMz
+UyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4
+OTNdfQ==
 -->
