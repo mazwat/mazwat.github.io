@@ -657,61 +657,36 @@ To demonstrate the implementation of the pattern we’ll use an Enemy Class CLIC
 ```c#
 interface  IEnemy
 {
-
-void  Subscribe(IObserver  observer);
-
-void  Unsubscribe(IObserver  observer);
-
-void Notify();
-
+	void  Subscribe(IObserver  observer);
+	void  Unsubscribe(IObserver  observer);
+	void Notify();
 }	
 ```
 So now let’s look at the subject. Subject interface need methods for subscribing and unsubscribing Observers. CLICK And a method for Notifying the Listeners about the change.
 ```c#
 public  class  Enemy : IEnemy
-
 {
-
-private  List<IObserver> observers = new  List<IObserver>();
-
-private  int  _health = 10;
-
-public  int  Health
-
+	private  List<IObserver> observers = new List<IObserver>();
+	private  int  _health = 10;
+	public  int  Health
 {
-
-get { return _health; }
-
-set
-
-{
-
-_health = value;
-
-Notify();
-
-}
-
+	get { return _health; }
+	set
+	{
+		_health = value;
+		Notify();
+	}
 }
 
 public  void  Notify()
-
 {
-
-observers.ForEach(x => x.Update());
-
+	observers.ForEach(x => x.Update());
 }
-
 public  void  Subscribe(IObserver  observer)
-
 {
-
-observers.Add(observer);
-
+	observers.Add(observer);
 }
-
 public  void  Unsubscribe(IObserver  observer)
-
 {
 
 observers.Remove(observer);
@@ -757,11 +732,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjkxNTI1NiwxMjQ3NTM4MjA1LC0xOD
-Y2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIx
-MzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LD
-k2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2
-NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNT
-I4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5MTgsLTgxMTUxNjg5
-M119
+eyJoaXN0b3J5IjpbLTk5NzI0NjM2LDEyNDc1MzgyMDUsLTE4Nj
+Y3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEz
+OTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOT
+Y5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1
+MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1Mj
+gyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkxOCwtODExNTE2ODkz
+XX0=
 -->
