@@ -842,6 +842,16 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 	return pulseIn(echoPin, HIGH);
 }
 ```
+Observer
+```c++
+#include "Observer.h"
+#include "Subject.h"
+
+void Observer::attachSubject(Subject * subject) 
+{
+	subject->registerObserver(this);
+}
+```
 
 ### Example - Repo
 
@@ -866,7 +876,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTMyODIxNywxNjI0NTI3ODc0LC0xNj
+eyJoaXN0b3J5IjpbLTY5Mjk1NTY0OCwxNjI0NTI3ODc0LC0xNj
 cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
 ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
 kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
