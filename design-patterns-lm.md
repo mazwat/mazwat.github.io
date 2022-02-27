@@ -831,27 +831,18 @@ void loop()
 // Measure time difference between trigger and echo on the Ultrasonic sensor
 
 long readUltrasonicDistance(int triggerPin, int echoPin)
-
 {
-
-pinMode(triggerPin, OUTPUT); // Clear the trigger
-
-digitalWrite(triggerPin, LOW);
-
-delayMicroseconds(2);
-
-digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
-
-delayMicroseconds(10);
-
-digitalWrite(triggerPin, LOW);
-
-pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
-
-return pulseIn(echoPin, HIGH);
-
+	pinMode(triggerPin, OUTPUT); // Clear the trigger
+	digitalWrite(triggerPin, LOW);
+	delayMicroseconds(2);
+	digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
+	delayMicroseconds(10);
+	digitalWrite(triggerPin, LOW);
+	pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
+	return pulseIn(echoPin, HIGH);
 }
 ```
+
 ### Example - Repo
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
@@ -875,7 +866,7 @@ return pulseIn(echoPin, HIGH);
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjU4OTIxNSwxNjI0NTI3ODc0LC0xNj
+eyJoaXN0b3J5IjpbLTMxMTMyODIxNywxNjI0NTI3ODc0LC0xNj
 cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
 ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
 kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
