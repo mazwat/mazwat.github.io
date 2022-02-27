@@ -750,8 +750,11 @@ I have created a simple example of the **Observer pattern** being used in Arduin
 
 Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
-![Schematic for the Example](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/observer-wiring.png)
-fig. 10 - Schematic using a Distance Sensor
+![Schematic for the Example](images/observer-wiring.png)
+fig. 11 - Schematic using a Distance Sensor
+
+![Schematic for the Example](images/obs-class-diagram.png)
+fig. 12 - Class Diagram
 
 ### Example - Repo
 
@@ -777,7 +780,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ5MTkxNiwtMTY3MDY3NDMyMywtMj
+eyJoaXN0b3J5IjpbMTYyNDUyNzg3NCwtMTY3MDY3NDMyMywtMj
 AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
 MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
 E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
