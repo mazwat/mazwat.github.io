@@ -664,9 +664,9 @@ interface  IEnemy
 ```
 So now let’s look at the subject. Subject interface need methods for subscribing and unsubscribing Observers. CLICK And a method for Notifying the Listeners about the change.
 ```c#
-public  class  Enemy : IEnemy
+public class Enemy : IEnemy
 {
-	private  List<IObserver> observers = new List<IObserver>();
+	private List<IObserver> observers = new List<IObserver>();
 	private  int  _health = 10;
 	public  int  Health
 	{
@@ -678,22 +678,22 @@ public  class  Enemy : IEnemy
 		}
 	}
 
-	public  void  Notify()
+	public void Notify()
 	{
 		observers.ForEach(x => x.Update());
 	}
-	public  void  Subscribe(IObserver  observer)
+	public void Subscribe(IObserver  observer)
 	{
 		observers.Add(observer);
 	}
-	public  void  Unsubscribe(IObserver  observer)
+	public void Unsubscribe(IObserver  observer)
 	{
 		observers.Remove(observer);
 	}
 }
 ```
 
-Enemy class inherits from IEnemy interface. CLICK It contains generic list of Observers, CLICK using interface as an object CLICK allows you to store objects of any class that inherits from IObserver interface.  
+Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object CLICK allows you to store objects of any class that inherits from IObserver interface.  
 Notify() is called whenever health value is changing. A Lambda expression is used to determine the change at each position in the list with the Update. CLICK  
 Subscribe and Unsubscribe methods are using methods from List library CLICK
 
@@ -729,11 +729,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzYxODA4LC0xNTY2MDgwNDU0LDEyND
-c1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5
-NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLT
-E1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIx
-MTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtOD
-A5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkx
-OF19
+eyJoaXN0b3J5IjpbMTc2ODE3MjIzMiwtMTU2NjA4MDQ1NCwxMj
+Q3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1
+OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC
+0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAy
+MTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLT
+gwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIwMTUwLDE3NjQxNjg5
+MThdfQ==
 -->
