@@ -733,11 +733,11 @@ Here you can see that two Concrete Classes are added to the Observer List by cal
 
 To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its **dependants** are **notified** and **updated automatically**.
 
-## Unity Implementations of Design Patterns.
+## Design Patterns in Unity
 
-In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:
+In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:\
 **Repo**
-[https://github.com/Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
+[https://github.com/Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)\
 **Documentation Site**
 [https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/](https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/)
 
@@ -773,11 +773,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMT
-ExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2
-NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMz
-kxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2
-OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NT
-IsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4
-MjQ5NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzE3NjExMCwtMTY3MDY3NDMyMywtMj
+AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
+MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
+E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
+NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMT
+UxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5
+NTYxODA2XX0=
 -->
