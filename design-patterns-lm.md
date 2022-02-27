@@ -761,15 +761,11 @@ fig. 12 - Class Diagram
 #### Client
 ```c++  
 #include "ObserverTester.h"
-
 #include "Observer.h"
-
 #include "Subject.h"
 
 Subject subject;
-
 ObserverTester observerTester;
-
 int cm = 0;
 
 const int sensorMin = 0; // sensor minimum, discovered through experiment
@@ -777,40 +773,24 @@ const int sensorMin = 0; // sensor minimum, discovered through experiment
 const int sensorMax = 30;
 
 void setup()
-
 {
-
-Serial.begin(9600);
-
-observerTester.attachSubject(&subject);
-
+	Serial.begin(9600);
+	observerTester.attachSubject(&subject);
 }
 
 void loop()
-
 {
-
-// measure the ping time in cm
-
-cm = 0.01723 * readUltrasonicDistance(7, 6);
-
-delay(100); // Wait for 100 millisecond(s)
-
-// determine ranges in the distance measurement using some mapping
-
-int range = map(cm, sensorMin, sensorMax, 0, 6);
-
-// Adds the distance and the specfic bark line to a set of switch cases. These are attached to the Subject class
-
-switch (range) {
-
-case 0:
-
-subject.setVal(cm);
-
-subject.setStatus("Boiling");
-
-break;
+	// measure the ping time in cm
+	cm = 0.01723 * readUltrasonicDistance(7, 6);
+	delay(100); // Wait for 100 millisecond(s)
+	// determine ranges in the distance measurement using some mapping
+	int range = map(cm, sensorMin, sensorMax, 0, 6);
+	// Adds the distance and the specfic bark line to a set of switch cases. These are attached to the Subject class
+	switch (range) {
+		case 0:
+			subject.setVal(cm);
+		subject.setStatus("Boiling");
+		break;
 
 case 1:
 
@@ -925,11 +905,11 @@ return pulseIn(echoPin, HIGH);
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMTEyNjksMTYyNDUyNzg3NCwtMTY3MD
-Y3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgw
-NDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MS
-wtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1
-MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOC
-wtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1
-OTE1N119
+eyJoaXN0b3J5IjpbLTEzMDE3MTczOTUsMTYyNDUyNzg3NCwtMT
+Y3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2
+MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3ND
+Q5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIw
+MjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2Nz
+IwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05
+NjM1OTE1N119
 -->
