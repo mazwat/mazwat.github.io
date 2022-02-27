@@ -723,7 +723,13 @@ class Program
 	}
 }
 ```
+Last part of implementation contains Client Class that will be used to create instances of Enemy Class - `Enemy subject` and to display the final output.
 
+Here you can see that two Concrete Classes are added to the Observer List by calling subscription method - subject.Subscribe(observer1). CChanging health value causes Notify() method that prints the values to the console. Later I unsubscribe one item from Observer and I’m changing the value once again, this time by decrementing the health value.CLICK
+
+  
+
+To conclude, Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependants are notified and updated automatically.
 
 ## Design Patterns in Embedded Systems
 
@@ -757,11 +763,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcwOTc5MjcsLTExMTcyMTY5OTgsLT
-E1NjYwODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4
-MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NT
-UsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2
-MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMz
-MsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Njcy
-MDE1MF19
+eyJoaXN0b3J5IjpbNTQzNTk4NTEyLC0xMTE3MjE2OTk4LC0xNT
+Y2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3
+NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LD
+IwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2
+NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC
+05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAx
+NTBdfQ==
 -->
