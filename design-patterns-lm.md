@@ -812,29 +812,20 @@ void loop()
 			subject.setStatus("Very Cold");
 			break;
 		case 6:
-
-subject.setVal(cm);
-
-subject.setStatus("Freezing");
-
-break;
-
-}
+			subject.setVal(cm);
+			subject.setStatus("Freezing");
+			break;
+	}
 
 // Register or unregister the observer if an object is in/out range of the sensor
 
-if (cm > sensorMin && cm < sensorMax) {
-
-subject.registerObserver(&observerTester);
-
-} else {
-
-subject.unregisterObserver();
-
-Serial.println("Stop Observing");
-
-}
-
+	if (cm > sensorMin && cm < sensorMax) 
+	{
+		subject.registerObserver(&observerTester);
+	} else {
+		subject.unregisterObserver();
+		Serial.println("Stop Observing");
+	}
 }
 
 // Measure time difference between trigger and echo on the Ultrasonic sensor
@@ -884,7 +875,7 @@ return pulseIn(echoPin, HIGH);
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjY1NTI2MSwxNjI0NTI3ODc0LC0xNj
+eyJoaXN0b3J5IjpbLTI3MjU4OTIxNSwxNjI0NTI3ODc0LC0xNj
 cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
 ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
 kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
