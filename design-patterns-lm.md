@@ -503,12 +503,12 @@ fig. 8 - Example Command Pattern UML
 In the example a simulation is created where an enemy `IEnemy` can enter the `Field` on the battlefield that can `Heal` her or it can add a `Buff`. I have two types of enemies `Goblin` and `Dragon`, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
 ```c#
-interface  IEnemy
+interface IEnemy
 {
 	string Damage();
 	string Heal();
 	string BuffON();
-	string  BuffOFF();
+	string BuffOFF();
 }
 ```
 
@@ -729,11 +729,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYwODA0NTQsMTI0NzUzODIwNSwtMT
-g2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQy
-MTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NC
-w5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAwMjExNTEsLTczMjYz
-NjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMz
-UyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTQ1MzYxODA4LC0xNTY2MDgwNDU0LDEyND
+c1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5
+NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLT
+E1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIx
+MTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtOD
+A5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkx
+OF19
 -->
