@@ -671,7 +671,7 @@ interface  IEnemy
 	void Notify();
 }	
 ```
-So now let’s look at the subject. Subject interface need methods for subscribing and unsubscribing Observers. CLICK And a method for Notifying the Listeners about the change.
+So now let’s look at the subject. Subject interface need methods for **subscribing** and **unsubscribing** Observers. And a method for **Notifying** the Listeners about the change.
 ```c#
 public class Enemy : IEnemy
 {
@@ -702,8 +702,8 @@ public class Enemy : IEnemy
 }
 ```
 
-Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object CLICK allows you to store objects of any class that inherits from IObserver interface.  
-Notify() is called whenever health value is changing. A Lambda expression is used to determine the change at each position in the list with the Update. CLICK  
+Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object -`Enemy : IEnemy` allows you to store objects of any class that inherits from IObserver interface.  
+`Notify()` is called whenever health value is changing. A Lambda expression is used to determine the change at each position in the list with the Update. CLICK  
 Subscribe and Unsubscribe methods are using methods from List library CLICK
 
 ## Design Patterns in Embedded Systems
@@ -738,11 +738,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcyMTY5OTgsLTE1NjYwODA0NTQsMT
-I0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5
-NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNy
-wtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAw
-MjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC
-04MDk1NjE4MDYsMzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4
-OTE4XX0=
+eyJoaXN0b3J5IjpbLTIwMDk0MTYzOTQsLTExMTcyMTY5OTgsLT
+E1NjYwODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4
+MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NT
+UsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2
+MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMz
+MsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Njcy
+MDE1MF19
 -->
