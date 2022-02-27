@@ -599,6 +599,8 @@ class Field
 
 When an enemy enters the field `Field` on the map, that invokes the commands - `_command` In the invoker `EnterField()` we pass an instance of command that we want to occur - `Execute()` or `Undo()`.
 
+#### Example - Client
+
 ```c#
 static void Main()
 {
@@ -727,7 +729,7 @@ Last part of implementation contains Client Class that will be used to create in
 
 Here you can see that two Concrete Classes are added to the Observer List by calling subscription method - `subject.Subscribe(observer1)`. Changing health value causes `Notify()` method that prints the values to the console. Later we unsubscribe one item from Observer and I’m changing the value once again, this time by decrementing the health value - `subject.Health--`.
 
-To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its dependants are notified and updated automatically.
+To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its **dependants** are **notified** and **updated automatically**.
 
 ## Design Patterns in Embedded Systems
 
@@ -761,7 +763,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjkzOTk2MywtMTExNzIxNjk5OCwtMT
+eyJoaXN0b3J5IjpbMTc3Mjg4MjEwNywtMTExNzIxNjk5OCwtMT
 U2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgw
 NzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NS
 wyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYy
