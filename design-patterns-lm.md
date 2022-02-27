@@ -626,7 +626,9 @@ This is a very popular pattern and I have created an example repo in C# using Un
  The Observer Pattern is a pattern where the important objects are “observed” or **watched for changes.** This pattern is useful when we want to **pass messages** from one **object(subject)** to **multiple objects(observers)**. Observers are **not related to each other**, but every one of them needs to inherit from IObserver interface.
 
 ![Example Command UML](images/observer-uml.png)
-fig. 9 - Example Observer Pattern 
+fig. 9 - Example Observer Pattern UML
+
+#### Example - Observer 
 
 ```c#
 public  interface  IObserver
@@ -651,7 +653,9 @@ public  class  DifferentUnit : IObserver
 	}
 }
 ```
-To demonstrate the implementation of the pattern we’ll use an Enemy Class  sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.CLICK
+To demonstrate the implementation of the pattern we’ll use an Enemy Class  sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.
+
+#### Example - Subject 
 ```c#
 interface  IEnemy
 {
@@ -727,7 +731,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTI5OTM3NiwtMTU2NjA4MDQ1NCwxMj
+eyJoaXN0b3J5IjpbMTU0NjIwNTE1MCwtMTU2NjA4MDQ1NCwxMj
 Q3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1
 OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC
 0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAy
