@@ -735,7 +735,10 @@ To conclude, Observer pattern defines a **one-to-many dependency** between objec
 
 ## Unity Implementations of Design Patterns.
 
-In this extensive repo de
+In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:
+**Repo**
+https://github.com/Habrador/Unity-Programming-Patterns
+Documentation Site
 
 ## Design Patterns in Embedded Systems
 
@@ -769,11 +772,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTkzMDA4OSwtMjAyNTg3ODc4LC0xMT
-E3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3
-Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOT
-EsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5
-MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1Mi
-wxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1Mjgy
-NDk1M119
+eyJoaXN0b3J5IjpbLTE2MTYyMzExMjIsLTIwMjU4Nzg3OCwtMT
+ExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2
+NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMz
+kxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2
+OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NT
+IsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4
+MjQ5NTNdfQ==
 -->
