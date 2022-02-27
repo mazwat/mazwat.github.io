@@ -733,6 +733,10 @@ Here you can see that two Concrete Classes are added to the Observer List by cal
 
 To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its **dependants** are **notified** and **updated automatically**.
 
+## Unity Implementations of Design Patterns.
+
+In this extensive repo de
+
 ## Design Patterns in Embedded Systems
 
 ![Observer set-up](http://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
@@ -765,11 +769,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMT
-U2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgw
-NzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NS
-wyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYy
-NjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMy
-wtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIw
-MTUwXX0=
+eyJoaXN0b3J5IjpbLTIzOTkzMDA4OSwtMjAyNTg3ODc4LC0xMT
+E3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3
+Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOT
+EsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5
+MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1Mi
+wxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5NTYxODA2LDM1Mjgy
+NDk1M119
 -->
