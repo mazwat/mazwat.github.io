@@ -502,6 +502,7 @@ fig. 8 - Example Command Pattern UML
 
 In the example a simulation is created where an enemy `IEnemy` can enter the `Field` on the battlefield that can `Heal` her or it can add a `Buff`. I have two types of enemies `Goblin` and `Dragon`, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
+#### Example - Receiver
 ```c#
 interface IEnemy
 {
@@ -541,6 +542,7 @@ Each method will return a string with message about current status - `return "st
 This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
 {: .callout .callout--info}
 
+#### Example - Command
 ```c#
 interface ICommand
 {
@@ -577,7 +579,7 @@ implementation of this interface requires an instance of an IEnemy receiver, in 
 Again I’m showing here just one of two Classes, because both are identical.
 {: .callout .callout--info}
 
-
+#### Example - Invoker
 ```c#
 class Field
 {
@@ -763,7 +765,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjg4MjEwNywtMTExNzIxNjk5OCwtMT
+eyJoaXN0b3J5IjpbLTIwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMT
 U2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgw
 NzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NS
 wyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYy
