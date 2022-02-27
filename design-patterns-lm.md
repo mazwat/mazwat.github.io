@@ -756,121 +756,7 @@ fig. 11 - Schematic using a Distance Sensor
 ![Schematic for the Example](images/obs-class-diagram.png)
 fig. 12 - Class Diagram
 
-### Code
 
-#### Client
-```c++  
-#include "ObserverTester.h"
-#include "Observer.h"
-#include "Subject.h"
-
-Subject subject;
-ObserverTester observerTester;
-int cm = 0;
-
-const int sensorMin = 0; // sensor minimum, discovered through experiment
-
-const int sensorMax = 30;
-
-void setup()
-{
-	Serial.begin(9600);
-	observerTester.attachSubject(&subject);
-}
-
-void loop()
-{
-	// measure the ping time in cm
-	cm = 0.01723 * readUltrasonicDistance(7, 6);
-	delay(100); // Wait for 100 millisecond(s)
-	// determine ranges in the distance measurement using some mapping
-	int range = map(cm, sensorMin, sensorMax, 0, 6);
-	// Adds the distance and the specfic bark line to a set of switch cases. These are attached to the Subject class
-	switch (range) {
-		case 0:
-			subject.setVal(cm);
-			subject.setStatus("Boiling");
-			break;
-		case 1:
-			subject.setVal(cm);
-			subject.setStatus("Very Hot");
-			break;
-		case 2:
-			subject.setVal(cm);
-			subject.setStatus("Hot");
-			break;
-		case 3:
-			subject.setVal(cm);
-			subject.setStatus("Lukewarm");
-			break;
-		case 4:
-			subject.setVal(cm);
-			subject.setStatus("Cold");
-			break;
-		case 5:
-			subject.setVal(cm);
-			subject.setStatus("Very Cold");
-			break;
-		case 6:
-			subject.setVal(cm);
-			subject.setStatus("Freezing");
-			break;
-	}
-
-// Register or unregister the observer if an object is in/out range of the sensor
-
-	if (cm > sensorMin && cm < sensorMax) 
-	{
-		subject.registerObserver(&observerTester);
-	} else {
-		subject.unregisterObserver();
-		Serial.println("Stop Observing");
-	}
-}
-
-// Measure time difference between trigger and echo on the Ultrasonic sensor
-
-long readUltrasonicDistance(int triggerPin, int echoPin)
-{
-	pinMode(triggerPin, OUTPUT); // Clear the trigger
-	digitalWrite(triggerPin, LOW);
-	delayMicroseconds(2);
-	digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
-	delayMicroseconds(10);
-	digitalWrite(triggerPin, LOW);
-	pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
-	return pulseIn(echoPin, HIGH);
-}
-```
-Observer
-```c++
-#include "Observer.h"
-#include "Subject.h"
-
-void Observer::attachSubject(Subject * subject) 
-{
-	subject->registerObserver(this);
-}
-```
-
-  
-```c++
-
-#ifndef _OBSERVER_h
-#define _OBSERVER_h
-#if defined(ARDUINO) && ARDUINO >= 100
-	#include "arduino.h"
-#else
-	#include "WProgram.h"
-#endif
-class Subject;
-class Observer {
-	public:
-		virtual void onReceivedDataFromSubject(const Subject*) = 0;
-		void attachSubject(Subject *subject);
-};
-#endif
-```
 ### Example - Repo
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
@@ -883,7 +769,6 @@ class Observer {
 -   **What Design Patterns are useful for games** - [https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development](https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development)
 -   **Singleton** - [http://wiki.unity3d.com/index.php/Singleton](http://wiki.unity3d.com/index.php/Singleton)
 -   **State Pattern** - [https://www.raywenderlich.com/ 6034380-state-pattern-using-unity](https://www.raywenderlich.com/%206034380-state-pattern-using-unity)
--   **Observer Pattern** - [https://www.habrador.com/tutorials/ programming-patterns/3-observer-pattern](https://www.habrador.com/tutorials/%20programming-patterns/3-observer-pattern/)
 -   **Indie Dev Art** - [https://indiedevart.wordpress.com](https://indiedevart.wordpress.com/)
 
 ## Video Lecture
@@ -894,11 +779,11 @@ class Observer {
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEwNzQ1NTgsMTYyNDUyNzg3NCwtMT
-Y3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2
-MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3ND
-Q5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIw
-MjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2Nz
-IwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05
-NjM1OTE1N119
+eyJoaXN0b3J5IjpbLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyND
+UyNzg3NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2
+OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MD
+gsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcw
+NjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMj
+AsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0
+NDQwMTMzXX0=
 -->
