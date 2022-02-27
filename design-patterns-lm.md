@@ -725,11 +725,9 @@ class Program
 ```
 Last part of implementation contains Client Class that will be used to create instances of Enemy Class - `Enemy subject` and to display the final output.
 
-Here you can see that two Concrete Classes are added to the Observer List by calling subscription method - subject.Subscribe(observer1). CChanging health value causes Notify() method that prints the values to the console. Later I unsubscribe one item from Observer and I’m changing the value once again, this time by decrementing the health value.CLICK
+Here you can see that two Concrete Classes are added to the Observer List by calling subscription method - `subject.Subscribe(observer1)`. Changing health value causes `Notify()` method that prints the values to the console. Later we unsubscribe one item from Observer and I’m changing the value once again, this time by decrementing the health value - `subject.Health--`.
 
-  
-
-To conclude, Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependants are notified and updated automatically.
+To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its dependants are notified and updated automatically.
 
 ## Design Patterns in Embedded Systems
 
@@ -763,11 +761,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNTk4NTEyLC0xMTE3MjE2OTk4LC0xNT
-Y2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3
-NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LD
-IwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2
-NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC
-05NjM1OTE1NywtODA5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAx
-NTBdfQ==
+eyJoaXN0b3J5IjpbMjA3MjkzOTk2MywtMTExNzIxNjk5OCwtMT
+U2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgw
+NzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NS
+wyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYy
+NjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMy
+wtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIw
+MTUwXX0=
 -->
