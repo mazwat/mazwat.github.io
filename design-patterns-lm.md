@@ -853,6 +853,27 @@ void Observer::attachSubject(Subject * subject)
 }
 ```
 
+  
+```c++
+
+#ifndef _OBSERVER_h
+#define _OBSERVER_h
+#if defined(ARDUINO) && ARDUINO >= 100
+	#include "arduino.h"
+#else
+	#include "WProgram.h"
+#endif
+
+class Subject;
+class Observer {
+	public:
+		virtual void onReceivedDataFromSubject(const Subject*) = 0;
+		void attachSubject(Subject *subject);
+
+};
+
+#endif
+```
 ### Example - Repo
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
@@ -876,11 +897,11 @@ void Observer::attachSubject(Subject * subject)
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjk1NTY0OCwxNjI0NTI3ODc0LC0xNj
-cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
-ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
-kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
-MzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2MjY3Mj
-A4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2
-MzU5MTU3XX0=
+eyJoaXN0b3J5IjpbLTE3Nzk1OTU2NjQsMTYyNDUyNzg3NCwtMT
+Y3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2
+MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3ND
+Q5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIw
+MjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2Nz
+IwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05
+NjM1OTE1N119
 -->
