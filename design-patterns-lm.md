@@ -743,7 +743,7 @@ In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a ran
 
 ## Design Patterns in Embedded Systems
 
-![Observer set-up](http://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
+![Observer set-up](images/set-up-img.png)
 fig. 10 - Set up for the Observer pattern example
 
 I have created a simple example of the **Observer pattern** being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
@@ -753,7 +753,9 @@ Be warned that what we are doing is not a fully–fledged observer design patter
 ![Schematic for the Example](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/observer-wiring.png)
 fig. 10 - Schematic using a Distance Sensor
 
-##
+### Example - Repo
+
+[https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
 
 
 
@@ -775,11 +777,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU3NDQyMzQsLTE2NzA2NzQzMjMsLT
-IwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3
-NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OT
-YxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0x
-NTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4MDAyMT
-E1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMywtOTYzNTkxNTcsLTgw
-OTU2MTgwNl19
+eyJoaXN0b3J5IjpbLTE4NTQ5MTkxNiwtMTY3MDY3NDMyMywtMj
+AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
+MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
+E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
+NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMT
+UxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5
+NTYxODA2XX0=
 -->
