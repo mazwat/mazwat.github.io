@@ -756,6 +756,152 @@ fig. 11 - Schematic using a Distance Sensor
 ![Schematic for the Example](images/obs-class-diagram.png)
 fig. 12 - Class Diagram
 
+### Code
+
+#### Client
+```c++  
+#include "ObserverTester.h"
+
+#include "Observer.h"
+
+#include "Subject.h"
+
+Subject subject;
+
+ObserverTester observerTester;
+
+int cm = 0;
+
+const int sensorMin = 0; // sensor minimum, discovered through experiment
+
+const int sensorMax = 30;
+
+void setup()
+
+{
+
+Serial.begin(9600);
+
+observerTester.attachSubject(&subject);
+
+}
+
+void loop()
+
+{
+
+// measure the ping time in cm
+
+cm = 0.01723 * readUltrasonicDistance(7, 6);
+
+delay(100); // Wait for 100 millisecond(s)
+
+// determine ranges in the distance measurement using some mapping
+
+int range = map(cm, sensorMin, sensorMax, 0, 6);
+
+// Adds the distance and the specfic bark line to a set of switch cases. These are attached to the Subject class
+
+switch (range) {
+
+case 0:
+
+subject.setVal(cm);
+
+subject.setStatus("Boiling");
+
+break;
+
+case 1:
+
+subject.setVal(cm);
+
+subject.setStatus("Very Hot");
+
+break;
+
+case 2:
+
+subject.setVal(cm);
+
+subject.setStatus("Hot");
+
+break;
+
+case 3:
+
+subject.setVal(cm);
+
+subject.setStatus("Lukewarm");
+
+break;
+
+case 4:
+
+subject.setVal(cm);
+
+subject.setStatus("Cold");
+
+break;
+
+case 5:
+
+subject.setVal(cm);
+
+subject.setStatus("Very Cold");
+
+break;
+
+case 6:
+
+subject.setVal(cm);
+
+subject.setStatus("Freezing");
+
+break;
+
+}
+
+// Register or unregister the observer if an object is in/out range of the sensor
+
+if (cm > sensorMin && cm < sensorMax) {
+
+subject.registerObserver(&observerTester);
+
+} else {
+
+subject.unregisterObserver();
+
+Serial.println("Stop Observing");
+
+}
+
+}
+
+// Measure time difference between trigger and echo on the Ultrasonic sensor
+
+long readUltrasonicDistance(int triggerPin, int echoPin)
+
+{
+
+pinMode(triggerPin, OUTPUT); // Clear the trigger
+
+digitalWrite(triggerPin, LOW);
+
+delayMicroseconds(2);
+
+digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
+
+delayMicroseconds(10);
+
+digitalWrite(triggerPin, LOW);
+
+pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
+
+return pulseIn(echoPin, HIGH);
+
+}
+```
 ### Example - Repo
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
@@ -779,11 +925,11 @@ fig. 12 - Class Diagram
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDYxMzA3MiwxNjI0NTI3ODc0LC0xNj
-cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
-ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
-kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
-MzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2MjY3Mj
-A4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2
-MzU5MTU3XX0=
+eyJoaXN0b3J5IjpbNTkxMTEyNjksMTYyNDUyNzg3NCwtMTY3MD
+Y3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgw
+NDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MS
+wtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1
+MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOC
+wtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1
+OTE1N119
 -->
