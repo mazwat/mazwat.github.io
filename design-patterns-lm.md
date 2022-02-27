@@ -654,11 +654,12 @@ public  class  DifferentUnit : IObserver
 }
 ```
 
-First we need to create `IObserver` Interface that will be used as a base for Concrete Classes - `UserInterface : IObserver` .
+First we need to create `IObserver` Interface that will be used as a base for Concrete Classes, e.g - `UserInterface : IObserver` .
 
 Simple as that. Next we need to write implementation of this Interface in Concrete Classes.
 
-  In this example we don’t need any extra parameters, just implementation of an Update() method.
+In this example we don’t need any extra parameters, just implementation of an `Update()` method.
+
 To demonstrate the implementation of the pattern we’ll use an Enemy Class  sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.
 
 #### Example - Subject 
@@ -737,11 +738,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzE0MTQ2LC0xNTY2MDgwNDU0LDEyND
-c1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5
-NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLT
-E1NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIx
-MTUxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtOD
-A5NTYxODA2LDM1MjgyNDk1Myw0OTY3MjAxNTAsMTc2NDE2ODkx
-OF19
+eyJoaXN0b3J5IjpbLTExMTcyMTY5OTgsLTE1NjYwODA0NTQsMT
+I0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5
+NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAyMzUzNjMzNy
+wtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2MjY3MjA4LC01ODAw
+MjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2MzU5MTU3LC
+04MDk1NjE4MDYsMzUyODI0OTUzLDQ5NjcyMDE1MCwxNzY0MTY4
+OTE4XX0=
 -->
