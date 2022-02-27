@@ -502,13 +502,14 @@ fig. 8 - Example Command Pattern UML
 
 In the example a simulation is created where an enemy `IEnemy` can enter the `Field` on the battlefield that can `Heal` her or it can add a `Buff`. I have two types of enemies `Goblin` and `Dragon`, just to demonstrate the example of multiple receivers. When enemy exits the field the opposite action is triggered.
 
+#### Example - Receiver
 ```c#
-interface  IEnemy
+interface IEnemy
 {
 	string Damage();
 	string Heal();
 	string BuffON();
-	string  BuffOFF();
+	string BuffOFF();
 }
 ```
 
@@ -541,6 +542,7 @@ Each method will return a string with message about current status - `return "st
 This shows the implementation of the interface for one of the Enemy Classes. The second one for Dragon is very similar, but we won’t go into it here.
 {: .callout .callout--info}
 
+#### Example - Command
 ```c#
 interface ICommand
 {
@@ -577,7 +579,7 @@ implementation of this interface requires an instance of an IEnemy receiver, in 
 Again I’m showing here just one of two Classes, because both are identical.
 {: .callout .callout--info}
 
-
+#### Example - Invoker
 ```c#
 class Field
 {
@@ -598,6 +600,8 @@ class Field
 ```
 
 When an enemy enters the field `Field` on the map, that invokes the commands - `_command` In the invoker `EnterField()` we pass an instance of command that we want to occur - `Execute()` or `Undo()`.
+
+#### Example - Client
 
 ```c#
 static void Main()
@@ -628,58 +632,130 @@ This is a very popular pattern and I have created an example repo in C# using Un
 ![Example Command UML](images/observer-uml.png)
 fig. 9 - Example Observer Pattern UML
 
-To demonstrate the implementation of the pattern we’ll use an Enemy Class CLICK sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.CLICK
+#### Example - Observer 
 
 ```c#
 public  interface  IObserver
-
 {
-
-void Update();
-
+	void Update();
 }
 ```
 ```c#
 public  class  UserInterface : IObserver
-
 {
-
-public  void  Update()
-
-{
-
-Console.WriteLine("Interface Updated");
-
-}
-
+	public  void  Update()
+	{
+		Console.WriteLine("Interface Updated");
+	}
 }
 
 public  class  DifferentUnit : IObserver
-
 {
-
-public  void  Update()
-
-{
-
-Console.WriteLine("Relation Updated");
-
-}
-
+	public  void  Update()
+	{
+		Console.WriteLine("Relation Updated");
+	}
 }
 ```
 
+First we need to create `IObserver` Interface that will be used as a base for Concrete Classes, e.g - `UserInterface : IObserver` .
+
+Simple as that. Next we need to write implementation of this Interface in Concrete Classes.
+
+In this example we don’t need any extra parameters, just implementation of an `Update()` method.
+
+To demonstrate the implementation of the pattern we’ll use an Enemy Class  sending message to Subscriber CLICK when health is changed. The message will be sent to UserInterface and DifferentUnit Classes.
+
+#### Example - Subject 
+```c#
+interface  IEnemy
+{
+	void Subscribe(IObserver observer);
+	void Unsubscribe(IObserver observer);
+	void Notify();
+}	
+```
+So now let’s look at the subject. Subject interface need methods for **subscribing** and **unsubscribing** Observers. And a method for **Notifying** the Listeners about the change.
+```c#
+public class Enemy : IEnemy
+{
+	private List<IObserver> observers = new List<IObserver>();
+	private  int  _health = 10;
+	public  int  Health
+	{
+		get { return _health; }
+		set
+		{
+			_health = value;
+			Notify();
+		}
+	}
+
+	public void Notify()
+	{
+		observers.ForEach(x => x.Update());
+	}
+	public void Subscribe(IObserver observer)
+	{
+		observers.Add(observer);
+	}
+	public void Unsubscribe(IObserver observer)
+	{
+		observers.Remove(observer);
+	}
+}
+```
+Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object -`Enemy : IEnemy` allows you to store objects of any class that inherits from IObserver interface.  
+`Notify()` is called whenever health value is changing. A Lambda (`=>`) expression is used to determine the change at each position in the list with the `Update`.
+Subscribe and Unsubscribe methods are using methods from `List` library - `Add` and `Remove`.
+
+#### Example - Client
+```c#
+class Program
+{
+	static void Main(string[] args)
+	{
+		Enemy subject = new Enemy();
+		IObserver observer1 = new UserInterface();
+		subject.Subscribe(observer1);
+		subject.Subscribe(new  DifferentUnit());
+		subject.Health++;
+		Console.WriteLine("--------------------");
+		subject.Unsubscribe(observer1);
+		subject.Health--;
+		Console.ReadLine();
+	}
+}
+```
+Last part of implementation contains Client Class that will be used to create instances of Enemy Class - `Enemy subject` and to display the final output.
+
+Here you can see that two Concrete Classes are added to the Observer List by calling subscription method - `subject.Subscribe(observer1)`. Changing health value causes `Notify()` method that prints the values to the console. Later we unsubscribe one item from Observer and I’m changing the value once again, this time by decrementing the health value - `subject.Health--`.
+
+To conclude, Observer pattern defines a **one-to-many dependency** between objects so that when one object changes state, all its **dependants** are **notified** and **updated automatically**.
+
+## Design Patterns in Unity
+
+In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:\
+**Repo**
+[https://github.com/Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)\
+**Documentation Site**
+[https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/](https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/)
+
 ## Design Patterns in Embedded Systems
 
-![enter image description here](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/set-up-img.png)
+![Observer set-up](images/set-up-img.png)
 fig. 10 - Set up for the Observer pattern example
 
-I have created a simple example of the observer pattern being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
+I have created a simple example of the **Observer pattern** being used in Arduino. It is especially useful for determining the threshold of a sensor and to map whether it is within range of something
 
 Be warned that what we are doing is not a fully–fledged observer design pattern. We can’t assign multiple observers for this code. We can only assign only one observer for now. We are not going to add multiple observers here to make the observer pattern as simple as possible. However, adding/removing multiple observers can be done using object array and proper tracking of objects.
 
 ![Schematic for the Example](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern/raw/master/observer-wiring.png)
 fig. 10 - Schematic using a Distance Sensor
+
+### Example - Repo
+
+[https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
 
 
 
@@ -701,11 +777,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMD
-k4MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1
-NTUsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNT
-E2MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAx
-MzMsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Nj
-cyMDE1MCwxNzY0MTY4OTE4LC04MTE1MTY4OTMsLTEwNTg4MjQ3
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTQ5MTkxNiwtMTY3MDY3NDMyMywtMj
+AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
+MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
+E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
+NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMT
+UxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5
+NTYxODA2XX0=
 -->
