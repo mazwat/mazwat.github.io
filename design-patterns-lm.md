@@ -761,7 +761,6 @@ fig. 12 - Class Diagram
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
 
 
-
 ## Further Research
 
 -   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns](https://www.habrador.com/%20tutorials/programming-patterns/)
@@ -780,11 +779,11 @@ fig. 12 - Class Diagram
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDUyNzg3NCwtMTY3MDY3NDMyMywtMj
-AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
-MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
-E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
-NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMT
-UxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5
-NTYxODA2XX0=
+eyJoaXN0b3J5IjpbLTc2MDYxMzA3MiwxNjI0NTI3ODc0LC0xNj
+cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
+ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
+kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
+MzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2MjY3Mj
+A4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMzMsLTk2
+MzU5MTU3XX0=
 -->
