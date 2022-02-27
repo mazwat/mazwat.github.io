@@ -701,40 +701,29 @@ public class Enemy : IEnemy
 	}
 }
 ```
-#### Example - Client
-```c#
-class  Program
-{
-
-static  void  Main(string[] args)
-
-{
-
-Enemy subject = new Enemy();
-
-IObserver  observer1 = new  UserInterface();
-
-subject.Subscribe(observer1);
-
-subject.Subscribe(new  DifferentUnit());
-
-subject.Health++;
-
-Console.WriteLine("--------------------");
-
-subject.Unsubscribe(observer1);
-
-subject.Health--;
-
-Console.ReadLine();
-
-}
-
-}
-```
 Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object -`Enemy : IEnemy` allows you to store objects of any class that inherits from IObserver interface.  
 `Notify()` is called whenever health value is changing. A Lambda (`=>`) expression is used to determine the change at each position in the list with the `Update`.
 Subscribe and Unsubscribe methods are using methods from `List` library - `Add` and `Remove`.
+
+#### Example - Client
+```c#
+class Program
+{
+	static void Main(string[] args)
+	{
+		Enemy subject = new Enemy();
+		IObserver observer1 = new UserInterface();
+		subject.Subscribe(observer1);
+		subject.Subscribe(new  DifferentUnit());
+		subject.Health++;
+		Console.WriteLine("--------------------");
+		subject.Unsubscribe(observer1);
+		subject.Health--;
+		Console.ReadLine();
+	}
+}
+```
+
 
 ## Design Patterns in Embedded Systems
 
@@ -768,7 +757,7 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE1MDM2NTUsLTExMTcyMTY5OTgsLT
+eyJoaXN0b3J5IjpbLTE3NDcwOTc5MjcsLTExMTcyMTY5OTgsLT
 E1NjYwODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4
 MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NT
 UsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2
