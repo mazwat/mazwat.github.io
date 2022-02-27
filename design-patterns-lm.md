@@ -703,8 +703,8 @@ public class Enemy : IEnemy
 ```
 
 Enemy class inherits from IEnemy interface. It contains generic list of Observers - `List<IObserver>`,  using interface as an object -`Enemy : IEnemy` allows you to store objects of any class that inherits from IObserver interface.  
-`Notify()` is called whenever health value is changing. A Lambda expression is used to determine the change at each position in the list with the Update. CLICK  
-Subscribe and Unsubscribe methods are using methods from List library CLICK
+`Notify()` is called whenever health value is changing. A Lambda (`=>`) expression is used to determine the change at each position in the list with the `Update`.
+Subscribe and Unsubscribe methods are using methods from `List` library CLICK
 
 ## Design Patterns in Embedded Systems
 
@@ -738,11 +738,11 @@ fig. 10 - Schematic using a Distance Sensor
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk0MTYzOTQsLTExMTcyMTY5OTgsLT
-E1NjYwODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4
-MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NT
-UsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2
-MjY3MjA4LC01ODAwMjExNTEsLTczMjYzNjUyLDE0NTQ0NDAxMz
-MsLTk2MzU5MTU3LC04MDk1NjE4MDYsMzUyODI0OTUzLDQ5Njcy
-MDE1MF19
+eyJoaXN0b3J5IjpbLTUyNjg1NjU0OCwtMTExNzIxNjk5OCwtMT
+U2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgw
+NzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NS
+wyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYy
+NjcyMDgsLTU4MDAyMTE1MSwtNzMyNjM2NTIsMTQ1NDQ0MDEzMy
+wtOTYzNTkxNTcsLTgwOTU2MTgwNiwzNTI4MjQ5NTMsNDk2NzIw
+MTUwXX0=
 -->
