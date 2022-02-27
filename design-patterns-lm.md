@@ -863,15 +863,12 @@ void Observer::attachSubject(Subject * subject)
 #else
 	#include "WProgram.h"
 #endif
-
 class Subject;
 class Observer {
 	public:
 		virtual void onReceivedDataFromSubject(const Subject*) = 0;
 		void attachSubject(Subject *subject);
-
 };
-
 #endif
 ```
 ### Example - Repo
@@ -897,7 +894,7 @@ class Observer {
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk1OTU2NjQsMTYyNDUyNzg3NCwtMT
+eyJoaXN0b3J5IjpbLTE5NjEwNzQ1NTgsMTYyNDUyNzg3NCwtMT
 Y3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2
 MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3ND
 Q5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIw
