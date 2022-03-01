@@ -735,9 +735,11 @@ To conclude, Observer pattern defines a **one-to-many dependency** between objec
 
 ## Design Patterns in Unity
 
-In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:\
+In this extensive repo desgined by Erik Nordeus (aka Habrador), he explores a range of Design Patterns and how they can be applied to different contexts in Unity:\
+
 **Repo**
 [https://github.com/Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)\
+
 **Documentation Site**
 [https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/](https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/)
 
@@ -779,11 +781,11 @@ fig. 12 - Class Diagram
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyND
-UyNzg3NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2
-OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MD
-gsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcw
-NjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMj
-AsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03MzI2MzY1MiwxNDU0
-NDQwMTMzXX0=
+eyJoaXN0b3J5IjpbLTEyNjM0MjU0NTMsLTQ4NjAxODksLTE5Nj
+EwNzQ1NTgsMTYyNDUyNzg3NCwtMTY3MDY3NDMyMywtMjAyNTg3
+ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMD
+UsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5
+NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OT
+I2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03
+MzI2MzY1Ml19
 -->
