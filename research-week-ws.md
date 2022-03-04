@@ -22,8 +22,8 @@ page_nav:
         content: Software Architecture
         url: '../software-architecture-ws'
     next:
-        content: Data Structures
-        url: '../data-structures-ws'
+        content: UML
+        url: '../uml-ws'
 ---
 
 # Research Week
@@ -78,7 +78,7 @@ Archie Andrews has provided this **video** to cover the elements we didn't get r
 For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjE3Njc4OCwxMjAyMjIxMjM1LC0xNj
+eyJoaXN0b3J5IjpbMTk4NDExMDI2OSwxMjAyMjIxMjM1LC0xNj
 M2MjYzMjM2LDE5OTYyODA1MDcsLTYwMjU5MTAwNCwtMjA2NjY3
 NzkxOCwtMjA3NDAwNzAzOSwtNjM3NTUyMjAyXX0=
 -->
