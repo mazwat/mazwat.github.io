@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 2. Software Architecture
+title: 6. Software Architecture
 description: COMP140 - Worksheet 6
 
 # Author box
@@ -19,7 +19,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: OOP
+        content: Research Week
         url: '../oop-ws'
     next:
         content: Research Week
@@ -71,6 +71,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzOTQ2MjgsLTE2Njk1NDEzNzgsMTAyMz
-M1ODg5Nyw5NTI5ODk2NzhdfQ==
+eyJoaXN0b3J5IjpbLTI1OTQ4Mjg4OSw2ODM5NDYyOCwtMTY2OT
+U0MTM3OCwxMDIzMzU4ODk3LDk1Mjk4OTY3OF19
 -->
