@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Design Pattterns
+title: 8. Design Pattterns
 description: COMP140 - Lecture Materials 8
 
 # Author box
@@ -781,11 +781,11 @@ fig. 12 - Class Diagram
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM0MjU0NTMsLTQ4NjAxODksLTE5Nj
-EwNzQ1NTgsMTYyNDUyNzg3NCwtMTY3MDY3NDMyMywtMjAyNTg3
-ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMD
-UsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5
-NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1NzE0OT
-I2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMTUxLC03
-MzI2MzY1Ml19
+eyJoaXN0b3J5IjpbMjY2NjY4MjIxLC0xMjYzNDI1NDUzLC00OD
+YwMTg5LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4NzQsLTE2NzA2NzQz
+MjMsLTIwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2NjA4MDQ1NC
+wxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEw
+MTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2Mz
+M3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4
+MDAyMTE1MV19
 -->
