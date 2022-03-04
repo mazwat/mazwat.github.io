@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 2. Software Architecture
+title: 5. Software Architecture
 description: COMP140 - Lecture Materials 5
 
 # Author box
@@ -506,7 +506,7 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODMwOTE1MSw4MDk5MDU4OTEsLTgyMT
+eyJoaXN0b3J5IjpbMTcxOTMwMTc1Niw4MDk5MDU4OTEsLTgyMT
 M4NjEzMCwxNDU3OTkzNDA2LC0xNjE0ODE0MjI4LC0xOTQ0OTYz
 OTYsLTEyMTQ1MDY2NzgsLTM2ODI2MDM3MSwtMTUyOTM1MjQwNC
 wxMDk1Njg4NzE5LDYwNDExMzAyMiwxNDU1Njg1NjQ3LDMxNDIy
