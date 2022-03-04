@@ -19,10 +19,10 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Previous page
+        content: Software Architecture
         url: '../software-architecture-ws'
     next:
-        content: Next page
+        content: Data Structures
         url: '../data-structures-ws'
 ---
 
@@ -109,9 +109,9 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTU2Njk0NywtMTc0NjQ0NjgyNywtND
-k1OTQ4MzIsMTA3NTU2OTU5MiwtMTMyNTQwOTg2NCwtMTQ3NTgz
-MzYxMywtMzg3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC
-0xMTAzMjI5OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
-
+eyJoaXN0b3J5IjpbMTQ3ODAxNjIwMSwxMTg1NTY2OTQ3LC0xNz
+Q2NDQ2ODI3LC00OTU5NDgzMiwxMDc1NTY5NTkyLC0xMzI1NDA5
+ODY0LC0xNDc1ODMzNjEzLC0zODc0MTU4NDUsLTE0NDIxNTg4NC
+w0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2OTcwMywtMTUw
+MTE5Mjk4MV19
 -->
