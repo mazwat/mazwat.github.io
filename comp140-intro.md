@@ -29,7 +29,7 @@ page_nav: false
 #### 3 - [Research Week](../research-week-ws "Research Week")
 #### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
-#### 4 - [Data Structures](../data-ws "Data Structures")
+#### 4 - [Data Structures](../data-structures-ws "Data Structures")
 <!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
 # Submission Planning
 
@@ -52,9 +52,10 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMj
-k4NjU4NjExLC02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1
-NzMsLTE5OTg1NjczMTksLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NC
-wtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIw
-Njk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbLTE4Njg0NDU3LC0yOTUwNDQ1OTgsLTIxND
+ExMDM1MzcsLTI5ODY1ODYxMSwtNjA0NTgwMTUxLDkwNzc5Nzcy
+OCwxMjY2NDU0NTczLC0xOTk4NTY3MzE5LC03OTYxNDEyMDUsLT
+IwNjg2OTk0NzQsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAw
+OTUzMDc4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5Nz
+cyMV19
 -->
