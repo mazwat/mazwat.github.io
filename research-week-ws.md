@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Research Week
-description: COMP140 - Worksheet 4
+description: COMP140 - Worksheet 3
 
 # Author box
 author:
@@ -75,7 +75,7 @@ Archie Andrews has provided this **video** to cover the elements we didn't get r
 For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0MzMyMjAsLTE2MzYyNjMyMzYsMT
+eyJoaXN0b3J5IjpbLTEzOTM1NjQ5OTcsLTE2MzYyNjMyMzYsMT
 k5NjI4MDUwNywtNjAyNTkxMDA0LC0yMDY2Njc3OTE4LC0yMDc0
 MDA3MDM5LC02Mzc1NTIyMDJdfQ==
 -->
