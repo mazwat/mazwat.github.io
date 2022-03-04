@@ -35,7 +35,7 @@ page_nav:
 3. Add at least 20 additional items to the collection
 4. Display these to the screen
 
-![Start point for Exercise 2](images/net.jpg)
+![Start point for Exercise 2](images/unity-sort.png)
 *Screenshot of Collections Exercise - Start Point*
 
 ## EXERCISE 2
@@ -70,5 +70,5 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDg0NDY2NiwtMTAxMzA2MzA3OV19
+eyJoaXN0b3J5IjpbNjQ0NTI5MzkxLC0xMDEzMDYzMDc5XX0=
 -->
