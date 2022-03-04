@@ -47,13 +47,13 @@ page_nav: false
 #### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
 #### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
 #### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
-<!---#### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")-->
+#### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDExMDM1MzcsLTI5ODY1ODYxMSwtNj
-A0NTgwMTUxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4NTY3
-MzE5LC03OTYxNDEyMDUsLTIwNjg2OTk0NzQsLTM1MDIzODc2NC
-wtMjI0MDcwNTUxLC0xNTAwOTUzMDc4LC0yMDY5NzAxNDI5LC02
-OTU3MTg4MzksLTg4MzQ5NzcyMV19
+eyJoaXN0b3J5IjpbLTc4NjA5MTA5MywtMjE0MTEwMzUzNywtMj
+k4NjU4NjExLC02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1
+NzMsLTE5OTg1NjczMTksLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NC
+wtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIw
+Njk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3NzIxXX0=
 -->
