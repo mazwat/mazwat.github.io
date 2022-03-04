@@ -19,7 +19,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Research Week
+        content: OOP
         url: '../oop-ws'
     next:
         content: Research Week
@@ -71,6 +71,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTQ4Mjg4OSw2ODM5NDYyOCwtMTY2OT
-U0MTM3OCwxMDIzMzU4ODk3LDk1Mjk4OTY3OF19
+eyJoaXN0b3J5IjpbMTQyNzY5MTUyLDY4Mzk0NjI4LC0xNjY5NT
+QxMzc4LDEwMjMzNTg4OTcsOTUyOTg5Njc4XX0=
 -->
