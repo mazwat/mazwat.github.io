@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Design Pattterns
+title: 8. Design Pattterns
 description: COMP140 - Lecture Materials 8
 
 # Author box
@@ -735,9 +735,11 @@ To conclude, Observer pattern defines a **one-to-many dependency** between objec
 
 ## Design Patterns in Unity
 
-In this extensive repo desgined by Erik Nordeus (aka Habrador), he eplores a range of Deisgn Patterns and how they can be applied to different contexts in Unity:\
+In this extensive repo desgined by Erik Nordeus (aka Habrador), he explores a range of Design Patterns and how they can be applied to different contexts in Unity:\
+
 **Repo**
 [https://github.com/Habrador/Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)\
+
 **Documentation Site**
 [https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/](https://www.habrador.com/tutorials/programming-patterns/3-observer-pattern/)
 
@@ -756,10 +758,10 @@ fig. 11 - Schematic using a Distance Sensor
 ![Schematic for the Example](images/obs-class-diagram.png)
 fig. 12 - Class Diagram
 
+
 ### Example - Repo
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
-
 
 
 ## Further Research
@@ -769,7 +771,6 @@ fig. 12 - Class Diagram
 -   **What Design Patterns are useful for games** - [https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development](https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development)
 -   **Singleton** - [http://wiki.unity3d.com/index.php/Singleton](http://wiki.unity3d.com/index.php/Singleton)
 -   **State Pattern** - [https://www.raywenderlich.com/ 6034380-state-pattern-using-unity](https://www.raywenderlich.com/%206034380-state-pattern-using-unity)
--   **Observer Pattern** - [https://www.habrador.com/tutorials/ programming-patterns/3-observer-pattern](https://www.habrador.com/tutorials/%20programming-patterns/3-observer-pattern/)
 -   **Indie Dev Art** - [https://indiedevart.wordpress.com](https://indiedevart.wordpress.com/)
 
 ## Video Lecture
@@ -780,11 +781,11 @@ fig. 12 - Class Diagram
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDUyNzg3NCwtMTY3MDY3NDMyMywtMj
-AyNTg3ODc4LC0xMTE3MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1
-MzgyMDUsLTE4NjY3Njk2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5Nj
-E0Miw5NzY0MjEzOTEsLTcwNjkzNTU1LDIwMjM1MzYzMzcsLTE1
-NzE0OTI2OTQsOTY5MzAyMjAsLTUxNjI2NzIwOCwtNTgwMDIxMT
-UxLC03MzI2MzY1MiwxNDU0NDQwMTMzLC05NjM1OTE1NywtODA5
-NTYxODA2XX0=
+eyJoaXN0b3J5IjpbMjY2NjY4MjIxLC0xMjYzNDI1NDUzLC00OD
+YwMTg5LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4NzQsLTE2NzA2NzQz
+MjMsLTIwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2NjA4MDQ1NC
+wxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEw
+MTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2Mz
+M3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01MTYyNjcyMDgsLTU4
+MDAyMTE1MV19
 -->

@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Object Oriented Programming
+title: 4. OOP
 description: COMP140 - Lecture Materials 4
 
 # Author box
@@ -783,11 +783,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="370" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQyOTkwODAsMTI0NTIyNDI2NiwtNT
-AwMjczNjQ5LC0xOTMzNTM1NDg1LDM2NTM5Mjc4OCwtMTA0Njgz
-NTY3MiwzMzAyMDM2OTAsMTY4MjI3NjA4MCwtNzAwOTA2OTY1LD
-U5NDg3NTk4Nyw0NzM3NzUzNjAsLTExNTM5NjM2OTQsLTE0MzU2
-OTE3ODgsMTM1MTU1NTEyNCwxODE1MDUwNjkxLDE0OTgwNzczMj
-MsLTE1OTEzNTI0MTQsMTQyNDAwNjM1Miw4OTg4MzQ4NSwtMTIy
-NjMzOTg0N119
+eyJoaXN0b3J5IjpbMTA0MzgwOTE3NiwtMTI2NDI5OTA4MCwxMj
+Q1MjI0MjY2LC01MDAyNzM2NDksLTE5MzM1MzU0ODUsMzY1Mzky
+Nzg4LC0xMDQ2ODM1NjcyLDMzMDIwMzY5MCwxNjgyMjc2MDgwLC
+03MDA5MDY5NjUsNTk0ODc1OTg3LDQ3Mzc3NTM2MCwtMTE1Mzk2
+MzY5NCwtMTQzNTY5MTc4OCwxMzUxNTU1MTI0LDE4MTUwNTA2OT
+EsMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwxNDI0MDA2MzUyLDg5
+ODgzNDg1XX0=
 -->

@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Arduino
+title: 2. Arduino
 description: COMP140 - Lecture Materials 2
 
 # Author box
@@ -219,11 +219,11 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MTIyODkxLDUxMzI2NTAyNywtMjgzND
-g5OTQ5LC04MTU1NTQwMTEsMjAzMTk3NTIyNSwtNDc1OTg4OTYx
-LC00NTY2MzU5NjcsMjEyMzI1NTM3MCwxNTIyMjI0MTA2LDE4MT
-M2MzA1MTQsMTk4MDk0MDU4NiwtMjEwNDU0NjQ0NiwxNDU0MjY1
-OTUsLTE0MTM4MjkzMzMsNjk2NDMwNTU3LDU3MjA2NjQwMCwxMT
-czNzcyMTgxLDc5NTQyODI2Miw5MTg5OTA3NzMsMTc2MzQ5MDBd
-fQ==
+eyJoaXN0b3J5IjpbLTU2ODkzMjYxMyw2MTcxMjI4OTEsNTEzMj
+Y1MDI3LC0yODM0ODk5NDksLTgxNTU1NDAxMSwyMDMxOTc1MjI1
+LC00NzU5ODg5NjEsLTQ1NjYzNTk2NywyMTIzMjU1MzcwLDE1Mj
+IyMjQxMDYsMTgxMzYzMDUxNCwxOTgwOTQwNTg2LC0yMTA0NTQ2
+NDQ2LDE0NTQyNjU5NSwtMTQxMzgyOTMzMyw2OTY0MzA1NTcsNT
+cyMDY2NDAwLDExNzM3NzIxODEsNzk1NDI4MjYyLDkxODk5MDc3
+M119
 -->

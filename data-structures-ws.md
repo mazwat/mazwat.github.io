@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Data Structures Worksheet - Week 7
+title: Data Structures
+description: COMP140 Data Structures Worksheet - Week 7
 
 # Author box
 author:
@@ -29,8 +30,8 @@ page_nav:
 
 ## EXERCISE 1
 ### Collections
-1. Fork the following **[repo](https://gamesgit.falmouth.ac.uk/projects/COMP140-WORKSHOPS/repos/data-structures)**
-2. Open CollectionsExercise in Unity
+1. Fork the following **[repo](https://github.falmouth.ac.uk/Games-Academy/COMP140-DataStructures-Exercise)**
+2. Open the **main** scene in Unity
 3. Add at least 20 additional items to the collection
 4. Display these to the screen
 
@@ -69,5 +70,5 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMwNjMwNzldfQ==
+eyJoaXN0b3J5IjpbMTEwMDg0NDY2NiwtMTAxMzA2MzA3OV19
 -->

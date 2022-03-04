@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Worksheet - Week 4
+title: 5. Research Week
+description: COMP140 - Worksheet 5
 
 # Author box
 author:
@@ -19,7 +20,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Software Architecture
-        url: '../software-architecture-ws'
+	        url: '../software-architecture-ws'
+    next:
+        content: Data Structures
+        url: '../data-structures-ws'
 ---
 
 # Research Week
@@ -74,7 +78,7 @@ Archie Andrews has provided this **video** to cover the elements we didn't get r
 For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYyNjMyMzYsMTk5NjI4MDUwNywtNj
-AyNTkxMDA0LC0yMDY2Njc3OTE4LC0yMDc0MDA3MDM5LC02Mzc1
-NTIyMDJdfQ==
+eyJoaXN0b3J5IjpbNTgyMDU1MzY0LDEyMDIyMjEyMzUsLTE2Mz
+YyNjMyMzYsMTk5NjI4MDUwNywtNjAyNTkxMDA0LC0yMDY2Njc3
+OTE4LC0yMDc0MDA3MDM5LC02Mzc1NTIyMDJdfQ==
 -->

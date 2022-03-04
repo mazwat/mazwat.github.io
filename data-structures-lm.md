@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Data Structures
+title: 7. Data Structures
 description: COMP140 - Lecture Materials 7
 
 # Author box
@@ -551,11 +551,11 @@ Here is some addtitional **reference** material to support this lecture:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTIxOTU5MywtMTQxNDAyMzEyNiw1MT
-U5MDU1NjAsMTYxNzMxMDQzMCwtNjcwMDM2NTUxLC0xMjU3MzQ1
-MTUwLC0xNDU0ODQ0MTY5LDE5NTExNDMwMjgsLTExODc1OTQwNz
-csMTk4OTY4ODU0OCwtMTY1NzA0OTE3OSw5ODgyODU3NzUsNjIy
-Mjg2NDg3LDQxMzMwOTEyNCwxNjY1NDIxMzE2LC0xNzE3NjYyNj
-UzLDk4OTIxNDMwMSwxMTUyMDI4MTI5LC02ODk5NjAyOTgsMzk2
-NDQ2MTM4XX0=
+eyJoaXN0b3J5IjpbMjA0OTU5NzQ2LC0yODUyMTk1OTMsLTE0MT
+QwMjMxMjYsNTE1OTA1NTYwLDE2MTczMTA0MzAsLTY3MDAzNjU1
+MSwtMTI1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC
+0xMTg3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4
+Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNi
+wtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5
+OTYwMjk4XX0=
 -->
