@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: 3. UML
-description: COMP140 - Worksheet 3
+title: 4. UML
+description: COMP140 - Worksheet 4
 
 # Author box
 author:
@@ -109,7 +109,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODAxNjIwMSwxMTg1NTY2OTQ3LC0xNz
+eyJoaXN0b3J5IjpbMjA4NTI1OTc1MywxMTg1NTY2OTQ3LC0xNz
 Q2NDQ2ODI3LC00OTU5NDgzMiwxMDc1NTY5NTkyLC0xMzI1NDA5
 ODY0LC0xNDc1ODMzNjEzLC0zODc0MTU4NDUsLTE0NDIxNTg4NC
 w0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2OTcwMywtMTUw
