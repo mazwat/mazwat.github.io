@@ -43,11 +43,10 @@ page_nav:
 4. Write another sort, to sort by **age**, trigger this with a different key press
 
 ## EXERCISE 3
-### Searchin
+### Searching
 5.  Investigate how to search for items in collections    
-6.  Add code to search for specific items in the collections
-    
-7.  Add visual representation to show that the search has completed, this could be a colour change or just displaying the found item elsewhere on the screen
+6.  Add code to search for specific items in the collections   
+7.  Add visual representation to show that the search has completed, this could be a colour change or just displaying the found item elsewhere on the screen.
 
 ## Tasks for the rest of the week
 Consider your individual project and implement a data structure class in your code that processes
@@ -74,6 +73,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTA1OTQ0MCw5NTU4OTU3NDgsLTEwMT
-MwNjMwNzldfQ==
+eyJoaXN0b3J5IjpbLTE4MTMxMzgzODUsOTU1ODk1NzQ4LC0xMD
+EzMDYzMDc5XX0=
 -->
