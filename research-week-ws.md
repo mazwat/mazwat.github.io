@@ -20,7 +20,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Software Architecture
-        url: '../software-architecture-ws'
+	        url: '../software-architecture-ws'
+        next:
+        content: Data Structures
+        url: '../data-structures-ws'
 ---
 
 # Research Week
@@ -75,7 +78,7 @@ Archie Andrews has provided this **video** to cover the elements we didn't get r
 For the majority of you Uduino will play a vital role in your project so familiarsing yourself with it's methods at this stage is essential.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM1NjQ5OTcsLTE2MzYyNjMyMzYsMT
-k5NjI4MDUwNywtNjAyNTkxMDA0LC0yMDY2Njc3OTE4LC0yMDc0
-MDA3MDM5LC02Mzc1NTIyMDJdfQ==
+eyJoaXN0b3J5IjpbMTIwMjIyMTIzNSwtMTYzNjI2MzIzNiwxOT
+k2MjgwNTA3LC02MDI1OTEwMDQsLTIwNjY2Nzc5MTgsLTIwNzQw
+MDcwMzksLTYzNzU1MjIwMl19
 -->
