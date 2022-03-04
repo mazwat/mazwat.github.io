@@ -49,11 +49,13 @@ page_nav: false
 #### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
 #### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
 <!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
+<!---#### 9 - [Cybernetics](../cybernetics-lm "Cybernetics Lecture Materials")-->
+<!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEzMzY4NzEsLTIxNDExMDM1MzcsLT
-I5ODY1ODYxMSwtNjA0NTgwMTUxLDkwNzc5NzcyOCwxMjY2NDU0
-NTczLC0xOTk4NTY3MzE5LC03OTYxNDEyMDUsLTIwNjg2OTk0Nz
-QsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAwOTUzMDc4LC0y
-MDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5NzcyMV19
+eyJoaXN0b3J5IjpbNzY0MTkyMjk2LC0yMTQxMTAzNTM3LC0yOT
+g2NTg2MTEsLTYwNDU4MDE1MSw5MDc3OTc3MjgsMTI2NjQ1NDU3
+MywtMTk5ODU2NzMxOSwtNzk2MTQxMjA1LC0yMDY4Njk5NDc0LC
+0zNTAyMzg3NjQsLTIyNDA3MDU1MSwtMTUwMDk1MzA3OCwtMjA2
+OTcwMTQyOSwtNjk1NzE4ODM5LC04ODM0OTc3MjFdfQ==
 -->
