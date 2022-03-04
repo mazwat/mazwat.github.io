@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Software Architecture
-description: COMP140 - Worksheet 3
+description: COMP140 - Worksheet 6
 
 # Author box
 author:
@@ -71,6 +71,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMTA3NzI5LC0xNjY5NTQxMzc4LDEwMj
-MzNTg4OTcsOTUyOTg5Njc4XX0=
+eyJoaXN0b3J5IjpbLTkwMzM2NzcyNCwtMTY2OTU0MTM3OCwxMD
+IzMzU4ODk3LDk1Mjk4OTY3OF19
 -->
