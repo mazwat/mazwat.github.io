@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title:  Software Architecture
+title: 2. Software Architecture
 description: COMP140 - Lecture Materials 5
 
 # Author box
@@ -506,11 +506,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5OTA1ODkxLC04MjEzODYxMzAsMTQ1Nz
-k5MzQwNiwtMTYxNDgxNDIyOCwtMTk0NDk2Mzk2LC0xMjE0NTA2
-Njc4LC0zNjgyNjAzNzEsLTE1MjkzNTI0MDQsMTA5NTY4ODcxOS
-w2MDQxMTMwMjIsMTQ1NTY4NTY0NywzMTQyMjQ1MjcsMTA4ODgy
-OTkzNSwtOTU2OTMwMzg0LDE0OTA2MzI2NzYsLTE5MjkzNDI0Nz
-MsLTIxMzAyMTQ5NjAsNTE3OTg1Nzg1LC05ODI4MDg4MzYsOTcz
-MjUwMTY1XX0=
+eyJoaXN0b3J5IjpbMTQyODMwOTE1MSw4MDk5MDU4OTEsLTgyMT
+M4NjEzMCwxNDU3OTkzNDA2LC0xNjE0ODE0MjI4LC0xOTQ0OTYz
+OTYsLTEyMTQ1MDY2NzgsLTM2ODI2MDM3MSwtMTUyOTM1MjQwNC
+wxMDk1Njg4NzE5LDYwNDExMzAyMiwxNDU1Njg1NjQ3LDMxNDIy
+NDUyNywxMDg4ODI5OTM1LC05NTY5MzAzODQsMTQ5MDYzMjY3Ni
+wtMTkyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5ODU3ODUsLTk4
+MjgwODgzNl19
 -->
