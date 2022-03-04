@@ -31,14 +31,13 @@ page_nav: false
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 4 - [Data Structures](../data-ws "Data Structures")
 <!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
-
-# Proposal Planning
+# Submission Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
 #### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
 #### 4 - [Poster Preparation](../poster-preparation "Poster Preparation")
-
+<!---#### 4 - [Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")-->
 # Lecture Materials
 
 #### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
@@ -53,9 +52,9 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MTkyMjk2LC0yMTQxMTAzNTM3LC0yOT
-g2NTg2MTEsLTYwNDU4MDE1MSw5MDc3OTc3MjgsMTI2NjQ1NDU3
-MywtMTk5ODU2NzMxOSwtNzk2MTQxMjA1LC0yMDY4Njk5NDc0LC
-0zNTAyMzg3NjQsLTIyNDA3MDU1MSwtMTUwMDk1MzA3OCwtMjA2
-OTcwMTQyOSwtNjk1NzE4ODM5LC04ODM0OTc3MjFdfQ==
+eyJoaXN0b3J5IjpbLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMj
+k4NjU4NjExLC02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1
+NzMsLTE5OTg1NjczMTksLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NC
+wtMzUwMjM4NzY0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIw
+Njk3MDE0MjksLTY5NTcxODgzOSwtODgzNDk3NzIxXX0=
 -->
