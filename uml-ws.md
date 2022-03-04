@@ -19,8 +19,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Software Architecture
-        url: '../software-architecture-ws'
+        content: Research Week
+        url: '../research-week-ws'
     next:
         content: Data Structures
         url: '../data-structures-ws'
@@ -109,7 +109,7 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTI1OTc1MywxMTg1NTY2OTQ3LC0xNz
+eyJoaXN0b3J5IjpbMTIyMDkxNzgzOSwxMTg1NTY2OTQ3LC0xNz
 Q2NDQ2ODI3LC00OTU5NDgzMiwxMDc1NTY5NTkyLC0xMzI1NDA5
 ODY0LC0xNDc1ODMzNjEzLC0zODc0MTU4NDUsLTE0NDIxNTg4NC
 w0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2OTcwMywtMTUw
