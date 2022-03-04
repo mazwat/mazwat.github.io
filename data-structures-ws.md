@@ -19,11 +19,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: UML
-        url: '../uml-ws'
-    next:
-        content: Design Patterns
-        url: '../design-patterns-ws'
+        content: Research Week
+        url: '../research-week-ws'
 ---
 
 # Data Structures
@@ -70,5 +67,5 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NTI5MzkxLC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
 -->
