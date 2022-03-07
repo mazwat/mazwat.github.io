@@ -338,7 +338,7 @@ If you need to visit items in a certain order (e.g front to back). Examples of t
 #### The Solution - Queue
 
 -   In C# we have the `Queue` class
--   This is **First-In-Last-Out** (FILO) data structure
+-   This is **First-In-First-Out** (FIFO) data structure
 -   You add elements to the end of the queue and you remove elements from the start
 
 #### Use Case
@@ -551,11 +551,11 @@ Here is some addtitional **reference** material to support this lecture:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTU5NzQ2LC0yODUyMTk1OTMsLTE0MT
-QwMjMxMjYsNTE1OTA1NTYwLDE2MTczMTA0MzAsLTY3MDAzNjU1
-MSwtMTI1NzM0NTE1MCwtMTQ1NDg0NDE2OSwxOTUxMTQzMDI4LC
-0xMTg3NTk0MDc3LDE5ODk2ODg1NDgsLTE2NTcwNDkxNzksOTg4
-Mjg1Nzc1LDYyMjI4NjQ4Nyw0MTMzMDkxMjQsMTY2NTQyMTMxNi
-wtMTcxNzY2MjY1Myw5ODkyMTQzMDEsMTE1MjAyODEyOSwtNjg5
-OTYwMjk4XX0=
+eyJoaXN0b3J5IjpbMTUyMDAxMTYzMCwyMDQ5NTk3NDYsLTI4NT
+IxOTU5MywtMTQxNDAyMzEyNiw1MTU5MDU1NjAsMTYxNzMxMDQz
+MCwtNjcwMDM2NTUxLC0xMjU3MzQ1MTUwLC0xNDU0ODQ0MTY5LD
+E5NTExNDMwMjgsLTExODc1OTQwNzcsMTk4OTY4ODU0OCwtMTY1
+NzA0OTE3OSw5ODgyODU3NzUsNjIyMjg2NDg3LDQxMzMwOTEyNC
+wxNjY1NDIxMzE2LC0xNzE3NjYyNjUzLDk4OTIxNDMwMSwxMTUy
+MDI4MTI5XX0=
 -->
