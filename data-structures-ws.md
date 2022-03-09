@@ -48,7 +48,8 @@ page_nav:
 6.  Add code to search for **specific items** in the collections   
 7.  Add **visual representation** to show that the search has completed, this could be a colour change or just displaying the found item elsewhere on the screen.
 
-## STRETCH GOAL - ICompare & IComparable
+## STRETCH GOAL
+### ICompare & IComparable
 
 8. Using this **[data](https://falmouthac-my.sharepoint.com/:x:/g/personal/matt_watkins_falmouth_ac_uk/EewqOswxQWhFrI3gRrhNR8cBoTOgn16HfE4bYFTWkTCl0g?e=FMdSYG)** set in CSV format.
 9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or **VS Console App**
@@ -56,8 +57,8 @@ page_nav:
 11.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
 12. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
 
-You may find these articles useful. Find out more:\[https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)\
-[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
+You may find these articles useful. Find out more:\[**https://dev.to/digionix/icomparable-vs-icomparer-274f**](https://dev.to/digionix/icomparable-vs-icomparer-274f)\
+[**https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries**](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
 {: .callout .callout--info}
 
 ## Tasks for the rest of the week
@@ -87,7 +88,7 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk2MjM4MzYsLTEwMjM5MjYwMzAsLT
-E0ODQ0NTI0NDYsMzY4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYz
-MDc5XX0=
+eyJoaXN0b3J5IjpbNDkxMDI2MDE2LC0xMDIzOTI2MDMwLC0xND
+g0NDUyNDQ2LDM2ODEwMzA1LDk1NTg5NTc0OCwtMTAxMzA2MzA3
+OV19
 -->
