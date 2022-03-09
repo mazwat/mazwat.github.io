@@ -53,7 +53,7 @@ page_nav:
 
 8. Using this **[data set](https://falmouthac-my.sharepoint.com/:x:/g/personal/matt_watkins_falmouth_ac_uk/EewqOswxQWhFrI3gRrhNR8cBoTOgn16HfE4bYFTWkTCl0g?e=FMdSYG)** which is in CSV format.
 9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or a **VS Console App**.
-10. If your using a Unity here's a clue for parsing the data:
+10. If your using a Unity here's a clue for parsing the data. It reads all the contents of a file into a single string, splits that string into an array of lines, take the first line and splits it on commas, and converts the first value in the split array to a string.:
 ```c#
      var fileData : String  = System.IO.File.ReadAllText(path)
      var lines : String[] = fileData.Split("\n"[0]);
@@ -95,9 +95,9 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzc3ODg0MSwxNjA1NzI2OTU3LC02Nz
-E1NDc1MTQsLTQ4Nzc5MjIwMCwxMTYwNTM1NzM2LC0zMTIzODU0
-ODAsLTIyNzU4MDA5LC0yMjc1ODAwOSwtMTAyMzkyNjAzMCwtMT
-Q4NDQ1MjQ0NiwzNjgxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMw
-NzldfQ==
+eyJoaXN0b3J5IjpbLTIwNTkwNjEzMDMsMTYwNTcyNjk1NywtNj
+cxNTQ3NTE0LC00ODc3OTIyMDAsMTE2MDUzNTczNiwtMzEyMzg1
+NDgwLC0yMjc1ODAwOSwtMjI3NTgwMDksLTEwMjM5MjYwMzAsLT
+E0ODQ0NTI0NDYsMzY4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYz
+MDc5XX0=
 -->
