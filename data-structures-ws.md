@@ -61,7 +61,7 @@ page_nav:
      var name : String;
      string.TryParse(recordData[0], name);
 ```
-This may also help: https://www.youtube.com/watch?v=xwnL4meq-j8
+This may also help: [https://www.youtube.com/watch?v=xwnL4meq-j8](https://www.youtube.com/watch?v=xwnL4meq-j8)
 11. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**.
 12.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
 13. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
@@ -92,15 +92,15 @@ It is assumed that you have watched the video lecture before this workshop. If n
 {: .callout .callout--warning}
 
 ### Lecture - Data Structures Part 1
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/8f8786c7-82bb-4d21-a5d8-17c7088c0fcc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Lecture - Data Structures Part 2
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY5NzE1NDksLTIwNTkwNjEzMDMsMT
-YwNTcyNjk1NywtNjcxNTQ3NTE0LC00ODc3OTIyMDAsMTE2MDUz
-NTczNiwtMzEyMzg1NDgwLC0yMjc1ODAwOSwtMjI3NTgwMDksLT
-EwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMzY4MTAzMDUsOTU1ODk1
-NzQ4LC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbLTEwMjM0Nzg2MDUsLTE1NjY5NzE1NDksLT
+IwNTkwNjEzMDMsMTYwNTcyNjk1NywtNjcxNTQ3NTE0LC00ODc3
+OTIyMDAsMTE2MDUzNTczNiwtMzEyMzg1NDgwLC0yMjc1ODAwOS
+wtMjI3NTgwMDksLTEwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMzY4
+MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
 -->
