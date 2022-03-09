@@ -57,8 +57,8 @@ page_nav:
 11.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
 12. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
 
-You may find these articles useful. Find out more:\[https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)
-\[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
+You may find these articles useful. Find out more:\**[https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)**
+\**[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)**
 {: .callout .callout--info}
 
 ## Tasks for the rest of the week
@@ -89,7 +89,8 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDUzNTczNiwtMzEyMzg1NDgwLC0yMj
-c1ODAwOSwtMjI3NTgwMDksLTEwMjM5MjYwMzAsLTE0ODQ0NTI0
-NDYsMzY4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbLTQ4Nzc5MjIwMCwxMTYwNTM1NzM2LC0zMT
+IzODU0ODAsLTIyNzU4MDA5LC0yMjc1ODAwOSwtMTAyMzkyNjAz
+MCwtMTQ4NDQ1MjQ0NiwzNjgxMDMwNSw5NTU4OTU3NDgsLTEwMT
+MwNjMwNzldfQ==
 -->
