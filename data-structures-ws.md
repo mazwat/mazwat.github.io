@@ -53,9 +53,10 @@ page_nav:
 
 8. Using this **[data set](https://falmouthac-my.sharepoint.com/:x:/g/personal/matt_watkins_falmouth_ac_uk/EewqOswxQWhFrI3gRrhNR8cBoTOgn16HfE4bYFTWkTCl0g?e=FMdSYG)** which is in CSV format.
 9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or a **VS Console App**.
-10. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**.
-11.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
-12. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
+10. If your using a Un 
+11. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**.
+12.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
+13. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
 
 You may find these articles useful. Find out more: **[https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)**
 **\[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)**
@@ -89,8 +90,9 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTcyNjk1NywtNjcxNTQ3NTE0LC00OD
-c3OTIyMDAsMTE2MDUzNTczNiwtMzEyMzg1NDgwLC0yMjc1ODAw
-OSwtMjI3NTgwMDksLTEwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMz
-Y4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbLTMzMzE5NjUzMywxNjA1NzI2OTU3LC02Nz
+E1NDc1MTQsLTQ4Nzc5MjIwMCwxMTYwNTM1NzM2LC0zMTIzODU0
+ODAsLTIyNzU4MDA5LC0yMjc1ODAwOSwtMTAyMzkyNjAzMCwtMT
+Q4NDQ1MjQ0NiwzNjgxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMw
+NzldfQ==
 -->
