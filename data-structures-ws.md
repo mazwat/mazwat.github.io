@@ -59,7 +59,6 @@ You may find these articles useful. Find out more: [https://dev.to/digionix/icom
 [https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
 {: .callout .callout--info}
 
-
 ## Tasks for the rest of the week
 Consider your individual project and implement a data structure class in your code that processes
 a feature of your game/experience. 
@@ -87,6 +86,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Mjk1OTk3LC0xNDg0NDUyNDQ2LDM2OD
-EwMzA1LDk1NTg5NTc0OCwtMTAxMzA2MzA3OV19
+eyJoaXN0b3J5IjpbMTM0MzcyMjYwMywtMTQ4NDQ1MjQ0NiwzNj
+gxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMwNzldfQ==
 -->
