@@ -53,11 +53,13 @@ page_nav:
 
 8. Using this **[data set](https://falmouthac-my.sharepoint.com/:x:/g/personal/matt_watkins_falmouth_ac_uk/EewqOswxQWhFrI3gRrhNR8cBoTOgn16HfE4bYFTWkTCl0g?e=FMdSYG)** which is in CSV format.
 9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or a **VS Console App**.
-10. If your using a Unity here's a clue for parsing the data. It reads all the contents of a file into a single string, splits that string into an array of lines, take the first line and splits it on commas, and converts the first value in the split array to a string.:
+10. If your using a Unity here's a clue for parsing the data. It reads all the contents of a file into a single string, splits that string into an array of records, take the first line and splits it on commas, and converts the first value in the split array to a string.:
 ```c#
      var fileData : String  = System.IO.File.ReadAllText(path)
-     var lines : String[] = fileData.Split("\n"[0]);
-     var lineData : String[] = (lines[0].Trim()).Split(","[0]);
+     var records : String[] = fileData.Split("\n"[0]);
+     var recordData : String[] = (records[0].Trim()).Split(","[0]);
+     var name : String;
+     string.TryParse(recordData[0], name);
 ```
 11. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**.
 12.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
@@ -95,9 +97,9 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY2Mjg5MTksLTIwNTkwNjEzMDMsMT
-YwNTcyNjk1NywtNjcxNTQ3NTE0LC00ODc3OTIyMDAsMTE2MDUz
-NTczNiwtMzEyMzg1NDgwLC0yMjc1ODAwOSwtMjI3NTgwMDksLT
-EwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMzY4MTAzMDUsOTU1ODk1
-NzQ4LC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbMTE5Mjg3MTM1NCwtMjA1OTA2MTMwMywxNj
+A1NzI2OTU3LC02NzE1NDc1MTQsLTQ4Nzc5MjIwMCwxMTYwNTM1
+NzM2LC0zMTIzODU0ODAsLTIyNzU4MDA5LC0yMjc1ODAwOSwtMT
+AyMzkyNjAzMCwtMTQ4NDQ1MjQ0NiwzNjgxMDMwNSw5NTU4OTU3
+NDgsLTEwMTMwNjMwNzldfQ==
 -->
