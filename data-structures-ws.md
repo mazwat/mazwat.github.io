@@ -51,9 +51,9 @@ page_nav:
 ## STRETCH GOAL - ICompare & IComparable
 
 8. Using this **data** set in CSV format.
-9. Develop a method to parse the data in the file using a struct into either Unity of VS Console App
-10. Create a highscore table that sorts the data to only show the first 20 records with the highest scores
-11.  Create a button or text input instruction to remove all players that are not members.
+9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or **VS Console App**
+10. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**
+11.  Create a button or text input instruction to remove all players that are not members from the highscore.
 
 You may find these articles useful. Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)
 [https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
@@ -86,6 +86,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzcyMjYwMywtMTQ4NDQ1MjQ0NiwzNj
-gxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMwNzldfQ==
+eyJoaXN0b3J5IjpbLTEwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMz
+Y4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
 -->
