@@ -48,12 +48,12 @@ page_nav:
 6.  Add code to search for **specific items** in the collections   
 7.  Add **visual representation** to show that the search has completed, this could be a colour change or just displaying the found item elsewhere on the screen.
 
-### STRETCH GOAL - ICompare & IComparable
+## 4. STRETCH GOAL - ICompare & IComparable
 
-8. Using this data set in CSV format.
-9. Develop a method to parse the data in the file using a struct.
+8. Using this **data** set in CSV format.
+9. Develop a method to parse the data in the file using a struct into either unity of VS Console App
 10. Create a highscore table that sorts the data to only show the first 20 records with the highest scores
-11.  Exlude data that is 
+11.  Create a button or text input instruction to remove all players that are not members.
 
 
 
@@ -84,6 +84,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjY3NzkxNSwtMTQ4NDQ1MjQ0NiwzNj
+eyJoaXN0b3J5IjpbLTc1NjE2OTE4MCwtMTQ4NDQ1MjQ0NiwzNj
 gxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMwNzldfQ==
 -->
