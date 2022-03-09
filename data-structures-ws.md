@@ -55,8 +55,9 @@ page_nav:
 10. Create a highscore table that sorts the data to only show the first 20 records with the highest scores
 11.  Create a button or text input instruction to remove all players that are not members.
 
-You may find this article useful: Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)
-
+You may find these articles useful. Find out more: [https://dev.to/digionix/icomparable-vs-icomparer-274f](https://dev.to/digionix/icomparable-vs-icomparer-274f)
+[https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries](https://unity3d.com/learn/tutorials/modules/intermediate/scripting/lists-and-dictionaries)
+{: .callout .callout--info}
 
 
 ## Tasks for the rest of the week
@@ -86,6 +87,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY1ODM0MzIsLTE0ODQ0NTI0NDYsMz
-Y4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
+eyJoaXN0b3J5IjpbNDI1Mjk1OTk3LC0xNDg0NDUyNDQ2LDM2OD
+EwMzA1LDk1NTg5NTc0OCwtMTAxMzA2MzA3OV19
 -->
