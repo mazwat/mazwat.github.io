@@ -70,6 +70,7 @@ For example, you could use them to process:
 - score
 - bullets
 - resource management
+- pick-ups
 
 Please use at least one of these: **Lists, LinkedList, Stack, Queue** or **Dictionary**
 Please bring your code to discuss with your programming tutor in your seminar group.
@@ -88,7 +89,7 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU3ODQzOSwtMjI3NTgwMDksLTIyNz
+eyJoaXN0b3J5IjpbLTMxMjM4NTQ4MCwtMjI3NTgwMDksLTIyNz
 U4MDA5LC0xMDIzOTI2MDMwLC0xNDg0NDUyNDQ2LDM2ODEwMzA1
 LDk1NTg5NTc0OCwtMTAxMzA2MzA3OV19
 -->
