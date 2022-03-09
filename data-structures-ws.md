@@ -48,7 +48,9 @@ page_nav:
 6.  Add code to search for **specific items** in the collections   
 7.  Add **visual representation** to show that the search has completed, this could be a colour change or just displaying the found item elsewhere on the screen.
 
-Stretch Goal - Using interfaces - ICompare & ICom
+STRETCH GOAL - Using interfaces - ICompare & IComparable
+
+
 
 ## Tasks for the rest of the week
 Consider your individual project and implement a data structure class in your code that processes
@@ -77,6 +79,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTcwMjc1LDM2ODEwMzA1LDk1NTg5NT
-c0OCwtMTAxMzA2MzA3OV19
+eyJoaXN0b3J5IjpbLTE0ODQ0NTI0NDYsMzY4MTAzMDUsOTU1OD
+k1NzQ4LC0xMDEzMDYzMDc5XX0=
 -->
