@@ -52,7 +52,7 @@ page_nav:
 ### ICompare & IComparable
 
 8. Using this **[data set](https://falmouthac-my.sharepoint.com/:x:/g/personal/matt_watkins_falmouth_ac_uk/EewqOswxQWhFrI3gRrhNR8cBoTOgn16HfE4bYFTWkTCl0g?e=FMdSYG)** which is in CSV format.
-9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or **VS Console App**.
+9. Develop a method to **parse** the data in the file using a **struct** into either **Unity** or a **VS Console App**.
 10. Create a highscore table that sorts the data to only show the first **20 records** with the **highest scores**.
 11.  Create a button or text input instruction to **remove** all players that are **not members** from the highscore table.
 12. **Extra stretch** - Add a sort that shows the **20 most recent** high scores in the table.
@@ -89,7 +89,7 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjMyODgxMiwtNjcxNTQ3NTE0LC00OD
+eyJoaXN0b3J5IjpbMTYwNTcyNjk1NywtNjcxNTQ3NTE0LC00OD
 c3OTIyMDAsMTE2MDUzNTczNiwtMzEyMzg1NDgwLC0yMjc1ODAw
 OSwtMjI3NTgwMDksLTEwMjM5MjYwMzAsLTE0ODQ0NTI0NDYsMz
 Y4MTAzMDUsOTU1ODk1NzQ4LC0xMDEzMDYzMDc5XX0=
