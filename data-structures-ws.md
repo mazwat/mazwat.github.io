@@ -52,7 +52,8 @@ page_nav:
 
 8. Using this data set in CSV format.
 9. Develop a method to parse the data in the file using a struct.
-10.  
+10. Create a highscore table that sorts the data to only show the first 20 records with the highest scores
+11.  Exlude data that is 
 
 
 
@@ -83,6 +84,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjc2MTgyNCwtMTQ4NDQ1MjQ0NiwzNj
+eyJoaXN0b3J5IjpbMTIwNjY3NzkxNSwtMTQ4NDQ1MjQ0NiwzNj
 gxMDMwNSw5NTU4OTU3NDgsLTEwMTMwNjMwNzldfQ==
 -->
