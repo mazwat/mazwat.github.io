@@ -481,6 +481,12 @@ class  Program
 	}
 }
 ```
+The output will be:
+```
+Iron Sword Value: 20  
+Iron Sword +1 Value: 50
+```
+
 Decorator can attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub-classing for extending functionality.
 
 ## Behavioural Patterns
@@ -863,11 +869,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNjI1MjgyLC01NzA3MTgyNTcsMjY2Nj
-Y4MjIxLC0xMjYzNDI1NDUzLC00ODYwMTg5LC0xOTYxMDc0NTU4
-LDE2MjQ1Mjc4NzQsLTE2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMT
-ExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2
-NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMz
-kxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2
-OTMwMjIwXX0=
+eyJoaXN0b3J5IjpbLTExMzQ3NjA2NTIsNzMzNjI1MjgyLC01Nz
+A3MTgyNTcsMjY2NjY4MjIxLC0xMjYzNDI1NDUzLC00ODYwMTg5
+LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4NzQsLTE2NzA2NzQzMjMsLT
+IwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3
+NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OT
+YxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0x
+NTcxNDkyNjk0XX0=
 -->
