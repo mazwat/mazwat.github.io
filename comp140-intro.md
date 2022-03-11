@@ -30,7 +30,8 @@ page_nav: false
 #### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 4 - [Data Structures](../data-structures-ws "Data Structures")
-<!---#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->  
+#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->
+#### 5 - [Design Patterns](../patterns-ws "Design Patterns")-->   
 # Submission Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
@@ -52,10 +53,10 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjI0MDQ3OSwtMTg2ODQ0NTcsLTI5NT
-A0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAx
-NTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLT
-c5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQw
-NzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxOD
-gzOSwtODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbNTgyMjYzNzQ3LC0xODY4NDQ1NywtMjk1MD
+Q0NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MTEsLTYwNDU4MDE1
+MSw5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwtNz
+k2MTQxMjA1LC0yMDY4Njk5NDc0LC0zNTAyMzg3NjQsLTIyNDA3
+MDU1MSwtMTUwMDk1MzA3OCwtMjA2OTcwMTQyOSwtNjk1NzE4OD
+M5LC04ODM0OTc3MjFdfQ==
 -->
