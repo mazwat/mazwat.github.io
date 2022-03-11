@@ -761,7 +761,7 @@ fig. 12 - Class Diagram
 
 ### Example - Repo
 
-The example using the observer pattern to instantiate an **observer** everytime the distance sensor passes a threshold and and to collect data through the **subject**. I have only included the *ino* file here. This makes use of the Check out the full library of **Oberver** and **Subject** which includes their *header* and *cpp* files in the repo below.
+The example using the observer pattern to instantiate an **observer** everytime the distance sensor passes a threshold and and to collect data through the **subject**. I have only included the *ino* file here. This makes use of the observer pattern through `#include` to  reference them as a library. Check out the full library of **Oberver** and **Subject** which includes their *header* and *cpp* files in the repo below.
 
 ```c++
 #include "ObserverTester.h"
@@ -842,6 +842,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 	return pulseIn(echoPin, HIGH);
 }
 ```
+See the full repo here:
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
 
 
@@ -862,7 +863,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODg5MjQ3OCwyNjY2NjgyMjEsLTEyNj
+eyJoaXN0b3J5IjpbLTU3MDcxODI1NywyNjY2NjgyMjEsLTEyNj
 M0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyNDUyNzg3
 NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC
 0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5
