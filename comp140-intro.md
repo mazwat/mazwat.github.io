@@ -30,8 +30,8 @@ page_nav: false
 #### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
-#### 7 - [Design Patterns](../patterns-ws "Design Patterns")
-<!---#### 8 - [Cybernetics](../cyberentics-ws "Cybernetics")--> 
+#### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
+<!---#### 8 - [Cybernetics](../cybernetics-ws "Cybernetics")--> 
 <!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->    
 # Submission Planning
 
@@ -54,7 +54,7 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODQwMzI2OSwtMTg2ODQ0NTcsLTI5NT
+eyJoaXN0b3J5IjpbLTU0NTI0OTgzMiwtMTg2ODQ0NTcsLTI5NT
 A0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAx
 NTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLT
 c5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQw
