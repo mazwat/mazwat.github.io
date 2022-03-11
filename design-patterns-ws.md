@@ -28,7 +28,7 @@ page_nav:
 ### Research a design pattern
 
 1. Define its key elements
-2. Design a poster as PDF that explains the patterns key features:
+2. Design a poster as PDF that explains the patterns key features.
 3. Define the purpose and use case of the pattern
 4. Explain its principle classes, interfaces and implementations
 5. Use Code Examples
@@ -55,5 +55,5 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYwODMyNDNdfQ==
+eyJoaXN0b3J5IjpbLTU3NDc3MDcxOV19
 -->
