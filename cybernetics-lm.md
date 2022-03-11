@@ -19,17 +19,17 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: UML
-        url: '../uml-lm'
-    next:
         content: Design Patterns
         url: '../design-patterns-lm'
+    next:
+        content: Optimisation
+        url: '../optimisation-lm'
 ---
 
-# 7. Data Structures
+# 7. Cybernetics
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTcxNzgzNV19
+eyJoaXN0b3J5IjpbLTExNDQ0NjMwMDJdfQ==
 -->
