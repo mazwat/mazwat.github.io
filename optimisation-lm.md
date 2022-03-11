@@ -24,11 +24,11 @@ page_nav:
         url: '../cybernetics-lm'
 ---
 
-# 10. Optimisation
+# 10. Optimisation & Performance
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMjU5MTA2XX0=
+eyJoaXN0b3J5IjpbLTE0OTk4NTIzMDhdfQ==
 -->
