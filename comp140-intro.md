@@ -47,15 +47,15 @@ page_nav: false
 #### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
 #### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
 #### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
-<!---#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")-->
+#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
 <!---#### 9 - [Cybernetics](../cybernetics-lm "Cybernetics Lecture Materials")-->
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg0NDU3LC0yOTUwNDQ1OTgsLTIxND
-ExMDM1MzcsLTI5ODY1ODYxMSwtNjA0NTgwMTUxLDkwNzc5Nzcy
-OCwxMjY2NDU0NTczLC0xOTk4NTY3MzE5LC03OTYxNDEyMDUsLT
-IwNjg2OTk0NzQsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAw
-OTUzMDc4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5Nz
-cyMV19
+eyJoaXN0b3J5IjpbMTM1NjI0MDQ3OSwtMTg2ODQ0NTcsLTI5NT
+A0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAx
+NTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLT
+c5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQw
+NzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxOD
+gzOSwtODgzNDk3NzIxXX0=
 -->
