@@ -24,6 +24,8 @@ page_nav:
 
 # Design Patterns
 
+Note - Please don't start the task until the begining of mondays workshop as the task will be done in groups.
+
 ## EXERCISE 1
 ### Research a design pattern
 
@@ -55,5 +57,5 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbMTYyMjgzMDg2NSwtNTc0NzcwNzE5XX0=
 -->
