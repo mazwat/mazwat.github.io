@@ -761,7 +761,7 @@ fig. 12 - Class Diagram
 
 ### Example - Repo
 
-The example using the observer pattern to instantiate a subject everytime the distance sensor de
+The example using the observer pattern to instantiate a subject everytime the distance sensor detects a change and to observe
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
 
@@ -783,11 +783,11 @@ The example using the observer pattern to instantiate a subject everytime the di
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNjE3MTkyLDI2NjY2ODIyMSwtMTI2Mz
-QyNTQ1MywtNDg2MDE4OSwtMTk2MTA3NDU1OCwxNjI0NTI3ODc0
-LC0xNjcwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLT
-E1NjYwODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4
-MDc0NDkxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NT
-UsMjAyMzUzNjMzNywtMTU3MTQ5MjY5NCw5NjkzMDIyMCwtNTE2
-MjY3MjA4XX0=
+eyJoaXN0b3J5IjpbLTg2NDQzODUyOCwyNjY2NjgyMjEsLTEyNj
+M0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyNDUyNzg3
+NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC
+0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5
+ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNT
+U1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUx
+NjI2NzIwOF19
 -->
