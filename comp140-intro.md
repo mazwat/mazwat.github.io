@@ -32,7 +32,7 @@ page_nav: false
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
 #### 7 - [Design Patterns](../patterns-ws "Design Patterns")
 <!---#### 8 - [Cybernetics](../cyberentics-ws "Cybernetics")--> 
-<!---#### 9 - [Optimisation](../cyberentics-ws "Cybernetics")-->    
+<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->    
 # Submission Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
@@ -54,10 +54,10 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4MTIyMzksLTE4Njg0NDU3LC0yOT
-UwNDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMSwtNjA0NTgw
-MTUxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4NTY3MzE5LC
-03OTYxNDEyMDUsLTIwNjg2OTk0NzQsLTM1MDIzODc2NCwtMjI0
-MDcwNTUxLC0xNTAwOTUzMDc4LC0yMDY5NzAxNDI5LC02OTU3MT
-g4MzksLTg4MzQ5NzcyMV19
+eyJoaXN0b3J5IjpbMTc5ODQwMzI2OSwtMTg2ODQ0NTcsLTI5NT
+A0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAx
+NTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLT
+c5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQw
+NzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxOD
+gzOSwtODgzNDk3NzIxXX0=
 -->
