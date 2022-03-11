@@ -761,7 +761,7 @@ fig. 12 - Class Diagram
 
 ### Example - Repo
 
-The example using the observer pattern to instantiate a subject everytime the distance sensor detects a change and to observe
+The example using the observer pattern to instantiate a **subject** everytime the distance sensor passes a threshold and to observe and collect data through the subje
 ```c++
 #include "ObserverTester.h"
 #include "Observer.h"
@@ -829,27 +829,16 @@ void loop()
 }
 
 // Measure time difference between trigger and echo on the Ultrasonic sensor
-
 long readUltrasonicDistance(int triggerPin, int echoPin)
-
 {
-
-pinMode(triggerPin, OUTPUT); // Clear the trigger
-
-digitalWrite(triggerPin, LOW);
-
-delayMicroseconds(2);
-
-digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
-
-delayMicroseconds(10);
-
-digitalWrite(triggerPin, LOW);
-
-pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
-
-return pulseIn(echoPin, HIGH);
-
+	pinMode(triggerPin, OUTPUT); // Clear the trigger
+	digitalWrite(triggerPin, LOW);
+	delayMicroseconds(2);
+	digitalWrite(triggerPin, HIGH); // Sets the trigger pin to HIGH state for 10 microseconds
+	delayMicroseconds(10);
+	digitalWrite(triggerPin, LOW);
+	pinMode(echoPin, INPUT); // Reads the echo pin, and returns the sound wave travel time in microseconds
+	return pulseIn(echoPin, HIGH);
 }
 ```
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-Observer-Pattern)
@@ -872,7 +861,7 @@ return pulseIn(echoPin, HIGH);
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTAxNzY5MCwyNjY2NjgyMjEsLTEyNj
+eyJoaXN0b3J5IjpbLTcyMDk2MTY0OCwyNjY2NjgyMjEsLTEyNj
 M0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyNDUyNzg3
 NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC
 0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5
