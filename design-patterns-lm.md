@@ -759,7 +759,7 @@ fig. 11 - Schematic using a Distance Sensor
 fig. 12 - Class Diagram
 
 
-### Example - Repo
+### Example Repo
 
 The example using the observer pattern to instantiate an **observer** everytime the distance sensor passes a threshold and and to collect data through the **subject**. I have only included the *ino* file here. This makes use of the observer pattern through `#include` to  reference them as a library. Check out the full library of **Oberver** and **Subject** which includes their *header* and *cpp* files in the repo below.
 
@@ -863,11 +863,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDcxODI1NywyNjY2NjgyMjEsLTEyNj
-M0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyNDUyNzg3
-NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC
-0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5
-ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNT
-U1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUx
-NjI2NzIwOF19
+eyJoaXN0b3J5IjpbNzMzNjI1MjgyLC01NzA3MTgyNTcsMjY2Nj
+Y4MjIxLC0xMjYzNDI1NDUzLC00ODYwMTg5LC0xOTYxMDc0NTU4
+LDE2MjQ1Mjc4NzQsLTE2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMT
+ExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2
+NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMz
+kxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2
+OTMwMjIwXX0=
 -->
