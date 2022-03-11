@@ -6,8 +6,8 @@ keywords:
 comments: false
 
 # Hero section
-title: 9. Cybernetics
-description: COMP140 - Lecture Materials 9
+title: 10. Cybernetics
+description: COMP140 - Lecture Materials 10
 
 # Author box
 author:
@@ -20,18 +20,15 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Design Patterns
-        url: '../design-patterns-lm'
-    next:
-        content: Optimisation
-        url: '../optimisation-lm'
+        content: Cybernetics
+        url: '../cybernetics-lm'
 ---
 
-# 7. Optimisation
+# 10. Optimisation
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDMwMzc5M119
+eyJoaXN0b3J5IjpbNDEyMjU5MTA2XX0=
 -->
