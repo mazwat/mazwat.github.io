@@ -761,7 +761,7 @@ fig. 12 - Class Diagram
 
 ### Example - Repo
 
-The example using the observer pattern to instantiate an **observer** everytime the distance sensor passes a threshold and and to collect data through the **subject**. I have only included the ino file here. Check out the full library of Oberver and Subject w
+The example using the observer pattern to instantiate an **observer** everytime the distance sensor passes a threshold and and to collect data through the **subject**. I have only included the *ino* file here. This makes use of the Check out the full library of **Oberver** and **Subject** which includes their *header* and *cpp* files in the repo below.
 
 ```c++
 #include "ObserverTester.h"
@@ -862,11 +862,11 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY2NTk5MDQsMjY2NjY4MjIxLC0xMj
-YzNDI1NDUzLC00ODYwMTg5LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4
-NzQsLTE2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMTExNzIxNjk5OC
-wtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4LDEw
-OTgwNzQ0OTEsLTEwMTk1OTYxNDIsOTc2NDIxMzkxLC03MDY5Mz
-U1NSwyMDIzNTM2MzM3LC0xNTcxNDkyNjk0LDk2OTMwMjIwLC01
-MTYyNjcyMDhdfQ==
+eyJoaXN0b3J5IjpbMTEyODg5MjQ3OCwyNjY2NjgyMjEsLTEyNj
+M0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMTYyNDUyNzg3
+NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3MjE2OTk4LC
+0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Njk2MDgsMTA5
+ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEsLTcwNjkzNT
+U1LDIwMjM1MzYzMzcsLTE1NzE0OTI2OTQsOTY5MzAyMjAsLTUx
+NjI2NzIwOF19
 -->
