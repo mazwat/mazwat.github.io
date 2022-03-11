@@ -22,14 +22,14 @@ page_nav:
         content: Design Patterns
         url: '../design-patterns-lm'
     next:
-        content: Optimisation
+        content: Optimisation & Performance
         url: '../optimisation-lm'
 ---
 
-# 7. Cybernetics
+# 9. Cybernetics
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ0NjMwMDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTIzNzA1MTBdfQ==
 -->
