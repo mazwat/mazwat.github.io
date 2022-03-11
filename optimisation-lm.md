@@ -26,9 +26,6 @@ page_nav:
 
 # 10. Optimisation & Performance
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk4NTIzMDhdfQ==
+eyJoaXN0b3J5IjpbNTMwNTQwMDUyXX0=
 -->
