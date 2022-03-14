@@ -24,7 +24,7 @@ page_nav:
 
 # Design Patterns
 
-Note - Please **don't start the exercises** below until the begining of mondays workshop as the task will be done in groups.
+Note - Please **don't start the exercises** below until the begining of mondays workshop as the task will be done in groups and may change in the run up to the session.
 {: .callout .callout--info}
 
 You will be assigned a specific pattern in pairs in todays session. Once you have a pattern to research.
@@ -57,6 +57,7 @@ It is assumed that you have watched the **video lecture** and viewed the [**mate
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MzMxNDA1LC02NDc5NjIxODgsLTE4Nj
-A3MTk2OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbLTMyODM0MDIzLDUwOTMzMTQwNSwtNjQ3OT
+YyMTg4LC0xODYwNzE5Njk0LC0xMzQwOTU4NTYyLC01NzQ3NzA3
+MTldfQ==
 -->
