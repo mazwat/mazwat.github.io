@@ -36,12 +36,16 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 2. **Fork** this [repo](https://github.falmouth.ac.uk/Matt-Watkins/COMP140-Design-Patterns) and add a folder referring to pattern you are researching. I have put an example repo of the Observer pattern that contains a unity project and a readme as an indicative approach.
 3. In your repo use the **readme.md** to explains the patterns key features.
 	3. Define the purpose and use case of the pattern
-	4. Explain its principle classes, interfaces and implementations
-4. Using the design pattern you researched, implement an example that uses Unity and changes or alters game objects in some way.
-5. Demonstrate your approach with well structured and commented code.
-6. Be prepared to explain how this solves a key problem.
-7. You can apply it to your own Individual game project if this gives you a problem that the pattern may solve,
-8. You can make use of existing code samples but please demonstrate how you customised the example to meet your own needs.
+	4. Explain its principle **classes, interfaces and implementations**
+4. Using the design pattern you researched, **implement an example** that uses **Unity** and changes or alters **game objects** in some way.
+5. Demonstrate your approach with **well structured and commented code**.
+6. Be prepared to explain how this **solves a key problem**.
+7. You can make use of existing code samples but please demonstrate how you customised the example to meet your own needs.
+
+
+## Rest of the Week
+
+
 
 
 ## VIDEO LECTURE
@@ -56,6 +60,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Nzk2MjE4OCwtMTg2MDcxOTY5NCwtMT
-M0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
+eyJoaXN0b3J5IjpbMzU0MjMwNzM2LC02NDc5NjIxODgsLTE4Nj
+A3MTk2OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
 -->
