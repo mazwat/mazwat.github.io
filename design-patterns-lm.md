@@ -860,7 +860,7 @@ See the full repo here:
 -   **Singleton** - [http://wiki.unity3d.com/index.php/Singleton](http://wiki.unity3d.com/index.php/Singleton)
 -   **State Pattern** - [https://www.raywenderlich.com/6034380-state-pattern-using-unity](https://www.raywenderlich.com/%206034380-state-pattern-using-unity)
 -   **Indie Dev Art - Design Patterns** - [https://indiedevart.wordpress.com/category/design-patterns/](https://indiedevart.wordpress.com/)
-- **Refactoring** - [https://refactoring.guru/design-patterns/csharp](https://refactoring.guru/design-patterns/csharp)
+- **Refactoring Guru - Design Patterns in C#** - [https://refactoring.guru/design-patterns/csharp](https://refactoring.guru/design-patterns/csharp)
 
 ## Video Lecture
 
@@ -870,7 +870,7 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgyNjg1NDgsLTExMzQ3NjA2NTIsNz
+eyJoaXN0b3J5IjpbLTIxMTU1NzgwMDQsLTExMzQ3NjA2NTIsNz
 MzNjI1MjgyLC01NzA3MTgyNTcsMjY2NjY4MjIxLC0xMjYzNDI1
 NDUzLC00ODYwMTg5LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4NzQsLT
 E2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2
