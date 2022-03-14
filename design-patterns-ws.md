@@ -45,12 +45,13 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 
 ## Rest of the Week
 
-
+7. Demonstrate a design pattern in your own Individual game project if this gives you a problem that the pattern may solve.
+8. 
 
 
 ## VIDEO LECTURE
 
-It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week.
+It is assumed that you have watched the video lecture and viewd the materials before this workshop. If not you should find time to watch them during the week.
 {: .callout .callout--warning}
 
 ### Lecture - Design Patterns Part 1
@@ -60,6 +61,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MjMwNzM2LC02NDc5NjIxODgsLTE4Nj
-A3MTk2OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbLTIwNDA0MDg5NjEsLTY0Nzk2MjE4OCwtMT
+g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
 -->
