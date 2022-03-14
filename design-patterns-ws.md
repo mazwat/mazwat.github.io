@@ -51,10 +51,10 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 
 ## LECTURE
 
-It is assumed that you have watched the video lecture and viewd the [materials](design-patterns-lm) before this workshop. If not you should find time to watch them during the week.
+It is assumed that you have watched the video lecture and viewedd the [materials](design-patterns-lm) before this workshop. If not you should find time to watch them during the week. 
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTczODE2NSwtNjQ3OTYyMTg4LC0xOD
-YwNzE5Njk0LC0xMzQwOTU4NTYyLC01NzQ3NzA3MTldfQ==
+eyJoaXN0b3J5IjpbLTEzNjA0ODY3MzAsLTY0Nzk2MjE4OCwtMT
+g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
 -->
