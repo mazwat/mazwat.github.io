@@ -854,7 +854,7 @@ See the full repo here:
 
 ## Further Research
 
--   **Design Patterns Unity** - [https://www.habrador.com/ tutorials/programming-patterns](https://www.habrador.com/%20tutorials/programming-patterns/)
+-   **Design Patterns Unity** - [https://www.habrador.com/tutorials/programming-patterns/](https://www.habrador.com/tutorials/programming-patterns/)
 -   **Game Programming Patterns** - [http://gameprogrammingpatterns.com/contents.html](http://gameprogrammingpatterns.com/contents.html)
 -   **What Design Patterns are useful for games** - [https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development](https://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development)
 -   **Singleton** - [http://wiki.unity3d.com/index.php/Singleton](http://wiki.unity3d.com/index.php/Singleton)
@@ -869,11 +869,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ3NjA2NTIsNzMzNjI1MjgyLC01Nz
-A3MTgyNTcsMjY2NjY4MjIxLC0xMjYzNDI1NDUzLC00ODYwMTg5
-LC0xOTYxMDc0NTU4LDE2MjQ1Mjc4NzQsLTE2NzA2NzQzMjMsLT
-IwMjU4Nzg3OCwtMTExNzIxNjk5OCwtMTU2NjA4MDQ1NCwxMjQ3
-NTM4MjA1LC0xODY2NzY5NjA4LDEwOTgwNzQ0OTEsLTEwMTk1OT
-YxNDIsOTc2NDIxMzkxLC03MDY5MzU1NSwyMDIzNTM2MzM3LC0x
-NTcxNDkyNjk0XX0=
+eyJoaXN0b3J5IjpbNzcyMjQyNDU2LC0xMTM0NzYwNjUyLDczMz
+YyNTI4MiwtNTcwNzE4MjU3LDI2NjY2ODIyMSwtMTI2MzQyNTQ1
+MywtNDg2MDE4OSwtMTk2MTA3NDU1OCwxNjI0NTI3ODc0LC0xNj
+cwNjc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYw
+ODA0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0ND
+kxLC0xMDE5NTk2MTQyLDk3NjQyMTM5MSwtNzA2OTM1NTUsMjAy
+MzUzNjMzN119
 -->
