@@ -37,7 +37,7 @@ You will be assigned a specific pattern in pairs in todays session. Once you hav
 3. In your repo use the **readme.md** to explains the patterns key features.
 	3. Define the purpose and use case of the pattern
 	4. Explain its principle **classes, interfaces and implementations**
-4. Using the design pattern you researched, **implement an example** that uses **Unity** and changes or alters **game objects** in some way.
+4. Using the design pattern you researched, **implement an example** that uses **Unity**  or a **VS Console app** and changes or alters **game objects** in some way.
 5. Demonstrate your approach with **well structured and commented code**.
 6. Be prepared to explain how this **solves a key problem**.
 7. You can make use of existing code samples but please demonstrate how you customised the example to meet your own needs.
@@ -57,7 +57,7 @@ It is assumed that you have watched the **video lecture** and viewed the [**mate
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODM0MDIzLDUwOTMzMTQwNSwtNjQ3OT
-YyMTg4LC0xODYwNzE5Njk0LC0xMzQwOTU4NTYyLC01NzQ3NzA3
-MTldfQ==
+eyJoaXN0b3J5IjpbMTk1NzM1ODY3OCwtMzI4MzQwMjMsNTA5Mz
+MxNDA1LC02NDc5NjIxODgsLTE4NjA3MTk2OTQsLTEzNDA5NTg1
+NjIsLTU3NDc3MDcxOV19
 -->
