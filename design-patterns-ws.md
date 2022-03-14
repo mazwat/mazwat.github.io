@@ -39,11 +39,13 @@ Note - Please **don't start the exercises** below until the begining of mondays 
 ## EXERCISE 2
 ### Implement a design pattern in code
 
-1. Using the design pattern you researched, implement an example that uses Unity and changes or alters game objects in some way.
-2. Demonstrate your approach with well structured and commented code.
-3. Be prepared to explain how this solves a key problem.
-4. You can apply it to your own Individual game project if this gives you a problem that the pattern may solve,
-5. You can make use of existing code samples but please demonstrate how you customised the example to meet your own needs.
+1. Define its key elements and research how it is implemented
+2. Create a repo and use the readme.md to expli
+3. Using the design pattern you researched, implement an example that uses Unity and changes or alters game objects in some way.
+4. Demonstrate your approach with well structured and commented code.
+5. Be prepared to explain how this solves a key problem.
+6. You can apply it to your own Individual game project if this gives you a problem that the pattern may solve,
+7. You can make use of existing code samples but please demonstrate how you customised the example to meet your own needs.
 
 
 ## VIDEO LECTURE
@@ -58,5 +60,6 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbLTkzNTkxMDYxOSwtMTM0MDk1ODU2MiwtNT
+c0NzcwNzE5XX0=
 -->
