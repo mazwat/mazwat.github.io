@@ -25,7 +25,7 @@ page_nav:
 # Design Patterns
 
 Note - Please **don't start the exercises** below until the begining of mondays workshop as the task will be done in groups.
-{: .callout .callout--warning}
+{: .callout .callout--info}
 
 You will be assigned a specific pattern in pairs in todays session. ONce you have a pattern to research 
 
@@ -49,18 +49,12 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 8. 
 
 
-## VIDEO LECTURE
+## LECTURE
 
-It is assumed that you have watched the video lecture and viewd the materials before this workshop. If not you should find time to watch them during the week.
+It is assumed that you have watched the video lecture and viewd the [materials](design-patterns-lm) before this workshop. If not you should find time to watch them during the week.
 {: .callout .callout--warning}
 
-### Lecture - Design Patterns Part 1
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/4519bcbc-c02f-4153-84f3-1b7917fdc939?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
-### Lecture - Design Patterns Part 2
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA0MDg5NjEsLTY0Nzk2MjE4OCwtMT
-g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
+eyJoaXN0b3J5IjpbMTkxMTczODE2NSwtNjQ3OTYyMTg4LC0xOD
+YwNzE5Njk0LC0xMzQwOTU4NTYyLC01NzQ3NzA3MTldfQ==
 -->
