@@ -29,7 +29,7 @@ Note - Please **don't start the exercises** below until the begining of mondays 
 
 You will be assigned a specific pattern in pairs in todays session. ONce you have a pattern to research 
 
-## EXERCISE 2
+## EXERCISE
 ### Research and Implement a design pattern in code
 
 1. Define its key elements and research how it is implemented
@@ -45,12 +45,10 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 
 ## Rest of the Week
 
-7. Demonstrate a design pattern in your own Individual game project if this gives you a problem that the pattern may solve.
+7. Demonstrate a **design pattern/s** in your **own Individual project** if this gives you a problem that the pattern may solve.
 8. For reference the highest grade in the rubric is awarded to projects that exhibit:
-Significant insight into the software architecture. There is significant evidence  
-of software design. There is synergy between data structure and design pattern selection.  The selection of data  
-structures  and  design  
-patterns  are  well  justified
+*Significant insight into the software architecture. There is significant evidence  
+of software design. There is synergy between data structure and design pattern selection.  The selection of data structures and design patterns are well justified.*
 
 
 ## LECTURE
@@ -59,6 +57,6 @@ It is assumed that you have watched the video lecture and viewedd the [materials
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI1MjU0NDQsLTY0Nzk2MjE4OCwtMT
+eyJoaXN0b3J5IjpbLTEyNzg5ODk3NzAsLTY0Nzk2MjE4OCwtMT
 g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
 -->
