@@ -48,16 +48,15 @@ You will be assigned a specific pattern in pairs in todays session. Once you hav
 7. Complete the above exercise.
 8. Demonstrate a **design pattern/s** in your **own Individual project** if this gives you a problem that the pattern may solve.
 9. For reference the highest grade in the rubric is awarded to projects that exhibit:
-#### *Significant insight into the software architecture. There is significant evidence  
-of software design. There is synergy between data structure and design pattern selection.  The selection of data structures and design patterns are well justified.*
+#### *Significant insight into the software architecture. There is significant evidence of software design. There is synergy between data structure and design pattern selection.  The selection of data structures and design patterns are well justified.*
 
 
 ## LECTURE
 
-It is assumed that you have watched the video lecture and viewedd the [materials](design-patterns-lm) before this workshop. If not you should find time to watch them during the week. 
+It is assumed that you have watched the **video lecture** and viewed the [**materials**](design-patterns-lm) before this workshop. If not you should find time to watch them during the week. 
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzU0ODMxOCwtNjQ3OTYyMTg4LC0xOD
-YwNzE5Njk0LC0xMzQwOTU4NTYyLC01NzQ3NzA3MTldfQ==
+eyJoaXN0b3J5IjpbLTIwMTc0NzUyNjgsLTY0Nzk2MjE4OCwtMT
+g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
 -->
