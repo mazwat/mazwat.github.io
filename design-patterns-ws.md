@@ -46,14 +46,9 @@ You will be assigned a specific pattern in pairs in todays session. ONce you hav
 ## Rest of the Week
 
 7. Demonstrate a design pattern in your own Individual game project if this gives you a problem that the pattern may solve.
-8. For reference the hgioSignificant  insight  into  the  
-software  architecture.  
-There  is  significant  evidence  
-of  software  design  
-There  is  synergy  between  
-data  structure  and  design  
-pattern  selection.  
-The  selection  of  data  
+8. For reference the highest grade in the rubric is awarded to projects that exhibit:
+Significant insight into the software architecture. There is significant evidence  
+of software design. There is synergy between data structure and design pattern selection.  The selection of data  
 structures  and  design  
 patterns  are  well  justified
 
@@ -64,6 +59,6 @@ It is assumed that you have watched the video lecture and viewedd the [materials
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyOTc1NzM4LC02NDc5NjIxODgsLTE4Nj
-A3MTk2OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbLTE3MDI1MjU0NDQsLTY0Nzk2MjE4OCwtMT
+g2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
 -->
