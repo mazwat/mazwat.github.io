@@ -38,8 +38,9 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 
+### State Machine Example
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM0NTA2ODIsMTAxMzQ1OTUzNCwtOT
-Q0ODc1MDIwXX0=
+eyJoaXN0b3J5IjpbLTE5ODM1NzM2NzMsLTE2NDM0NTA2ODIsMT
+AxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
 -->
