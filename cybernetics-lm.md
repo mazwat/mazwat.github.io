@@ -34,12 +34,12 @@ In the meantime please refer to my slide notes **[here](documents/states-slide-n
 
 I have also provided links to **repos** and **TinkerCAD** examples in the lecture here:
 
-Logic Gate Example:
+### Logic Gate Example
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcwNTgyMjksMTAxMzQ1OTUzNCwtOT
+eyJoaXN0b3J5IjpbLTE5ODk4MDcyNDgsMTAxMzQ1OTUzNCwtOT
 Q0ODc1MDIwXX0=
 -->
