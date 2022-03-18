@@ -40,7 +40,9 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 ### State Machine Example
 
+[https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0](https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1NzM2NzMsLTE2NDM0NTA2ODIsMT
-AxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
+eyJoaXN0b3J5IjpbNjk0ODA1NzQ4LC0xNjQzNDUwNjgyLDEwMT
+M0NTk1MzQsLTk0NDg3NTAyMF19
 -->
