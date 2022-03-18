@@ -29,7 +29,8 @@ page_nav:
 # 9. States & Transitions
 ## An Introduction to Cybernetics
 
-I will be providing full doc
+I will be providing full documentation for this lecture throughout the week.
+In the meantime please refer to my slide notes here:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzIxMTA1NV19
+eyJoaXN0b3J5IjpbLTM4NzE4NzI2M119
 -->
