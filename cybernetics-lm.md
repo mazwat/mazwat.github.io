@@ -29,7 +29,7 @@ page_nav:
 # 9. States & Transitions
 ## An Introduction to Cybernetics
 
-![Header Image](images/state-header.jpg)
+![Header Image](images/states-header.jpg)
 
 I will be providing full documentation for this lecture throughout the week. In the meantime please refer to my slide notes **[here](documents/states-slide-notes.pdf)**  if you want an overview of the lecture.
 {: .callout .callout--info}
@@ -49,6 +49,7 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 [https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDQ2NTAxMSwyNDA4ODA4NzYsLTE2ND
-M0NTA2ODIsMTAxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
+eyJoaXN0b3J5IjpbLTcyMTE3MzcxOCwxNzQwNDY1MDExLDI0MD
+g4MDg3NiwtMTY0MzQ1MDY4MiwxMDEzNDU5NTM0LC05NDQ4NzUw
+MjBdfQ==
 -->
