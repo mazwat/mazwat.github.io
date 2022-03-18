@@ -26,10 +26,10 @@ page_nav:
         url: '../optimisation-lm'
 ---
 
-# 9. Cybernetics
+# 9. States & Transitions
+## An Introduction to Cybernetics
 
-
-> Written with [StackEdit](https://stackedit.io/).
+I will be providing full doc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzNzA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTIzNzIxMTA1NV19
 -->
