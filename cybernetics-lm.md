@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 9. Cybernetics
+title: 9. States & Transitions
 description: COMP140 - Lecture Materials 9
 
 # Author box
@@ -32,5 +32,5 @@ page_nav:
 I will be providing full documentation for this lecture throughout the week.
 In the meantime please refer to my slide notes here:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzE4NzI2M119
+eyJoaXN0b3J5IjpbLTk0NDg3NTAyMF19
 -->
