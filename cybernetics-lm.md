@@ -29,8 +29,8 @@ page_nav:
 # 9. States & Transitions
 ## An Introduction to Cybernetics
 
-I will be providing full documentation for this lecture throughout the week.
-In the meantime please refer to my slide notes **[here](documents/states-slide-notes.pdf)**  if you want an overview of the lecture.
+I will be providing full documentation for this lecture throughout the week. In the meantime please refer to my slide notes **[here](documents/states-slide-notes.pdf)**  if you want an overview of the lecture.
+{: .callout .callout--info}
 
 I have also provided links to **repos** and **TinkerCAD** examples in the lecture here:
 
@@ -40,6 +40,6 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk4MDcyNDgsMTAxMzQ1OTUzNCwtOT
+eyJoaXN0b3J5IjpbLTE2NDM0NTA2ODIsMTAxMzQ1OTUzNCwtOT
 Q0ODc1MDIwXX0=
 -->
