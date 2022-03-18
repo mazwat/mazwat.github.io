@@ -34,19 +34,19 @@ I will be providing full documentation for this lecture throughout the week. In 
 
 I have also provided links to **repos** and **TinkerCAD** examples in the lecture here:
 
-### Logic Gate Example
+### Logic Gate Circuits Example
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 
-### State Machine Example
+### Finite State Machine Arduino Example
 
 [https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0](https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0)
 
-### Transistor and LDR Dimmer
+### Transistor and LDR Dimmer Circuit
 
 [https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjU5ODMwOCwtMTY0MzQ1MDY4MiwxMD
-EzNDU5NTM0LC05NDQ4NzUwMjBdfQ==
+eyJoaXN0b3J5IjpbMjQwODgwODc2LC0xNjQzNDUwNjgyLDEwMT
+M0NTk1MzQsLTk0NDg3NTAyMF19
 -->
