@@ -19,8 +19,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: UML
-        url: '../date-structures-lm'
+        content: Data Structures
+        url: '../data-structures-lm'
     next:
         content: States & Transitions
         url: '../cybernetics-lm'
@@ -873,11 +873,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTQ3NjY5NywtMjExNTU3ODAwNCwtMT
-EzNDc2MDY1Miw3MzM2MjUyODIsLTU3MDcxODI1NywyNjY2Njgy
-MjEsLTEyNjM0MjU0NTMsLTQ4NjAxODksLTE5NjEwNzQ1NTgsMT
-YyNDUyNzg3NCwtMTY3MDY3NDMyMywtMjAyNTg3ODc4LC0xMTE3
-MjE2OTk4LC0xNTY2MDgwNDU0LDEyNDc1MzgyMDUsLTE4NjY3Nj
-k2MDgsMTA5ODA3NDQ5MSwtMTAxOTU5NjE0Miw5NzY0MjEzOTEs
-LTcwNjkzNTU1XX0=
+eyJoaXN0b3J5IjpbLTM3OTQzMDI1OSwtODA1NDc2Njk3LC0yMT
+E1NTc4MDA0LC0xMTM0NzYwNjUyLDczMzYyNTI4MiwtNTcwNzE4
+MjU3LDI2NjY2ODIyMSwtMTI2MzQyNTQ1MywtNDg2MDE4OSwtMT
+k2MTA3NDU1OCwxNjI0NTI3ODc0LC0xNjcwNjc0MzIzLC0yMDI1
+ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYwODA0NTQsMTI0NzUzOD
+IwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQy
+LDk3NjQyMTM5MV19
 -->
