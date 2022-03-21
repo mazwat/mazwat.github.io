@@ -30,7 +30,15 @@ The theme for the week is intended as supporting material for the development of
 
 ## Finite State Machines
 
-One of the key areas where realtime applications fall down whether it's a computer game or an automous robot is handling the concurrent states and transitions. When to know when to trigger 
+One of the key areas where realtime applications fall down whether it's a computer game or an automous robot is handling the concurrent states and transitions. It's vital to identify different states in the system:
+
+ - Button ON
+ - Button OFF
+ - Character IDLE
+ - Motor FORWARD
+ - Motor BACK
+ - Led BLINKIF
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjE5MTQxNCwxMDY2MDA3ODE4XX0=
+eyJoaXN0b3J5IjpbNjMxODU4NjY4LDEwNjYwMDc4MThdfQ==
 -->
