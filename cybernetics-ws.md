@@ -24,8 +24,9 @@ page_nav:
 
 # States & Transistions
 
+This week your primary focus for the workshop should be on your project and your specific needs and requirements.
 
-> Written with [StackEdit](https://stackedit.io/).
+The theme for the week is intended as a su
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTA3MDg1NV19
+eyJoaXN0b3J5IjpbLTIxMjc0NzQxNTBdfQ==
 -->
