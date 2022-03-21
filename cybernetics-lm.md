@@ -50,9 +50,9 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 ### Finite State Machine - Repo
 
-
+[https://github.falmouth.ac.uk/Matt-Watkins/Arduino-State-Machine](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-State-Machine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTExMjUzNSwtNzIxMTczNzE4LDE3ND
+eyJoaXN0b3J5IjpbLTU5NzgwOTQ3NiwtNzIxMTczNzE4LDE3ND
 A0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLDEwMTM0NTk1
 MzQsLTk0NDg3NTAyMF19
 -->
