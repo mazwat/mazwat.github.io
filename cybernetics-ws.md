@@ -43,8 +43,12 @@ One of the key areas where realtime applications fall down whether it's a comput
 
 There are numerous states in a system and often these are monitored in relatively naive ways. Using an `if` statement or  a `switch case` nested in an `update` or a `loop`. We may still deploy these to detect thresholds but nonetheless we can use more advanced programming techniques to manage and transition effectively avoiding **ambiguity**, **memory leaks** and **continuous calibration**.
 
+## Suggested Tasks
+
+ 1. Identify what the states in your system?
+ 2. Develop a state diagr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzMyODkxMSwxMDY2MDA3ODE4XX0=
+eyJoaXN0b3J5IjpbLTE3NDU4MzY1ODAsMTA2NjAwNzgxOF19
 -->
