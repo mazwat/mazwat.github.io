@@ -41,10 +41,10 @@ One of the key areas where realtime applications fall down whether it's a comput
  - Audio PLAYING
  - Enemy IN RANGE
 
-There are numerous states in a system and often these are monitored in relatively naive ways. Using an `if` statement or  a `switch case` nested in an `update` or a `loop`. We may still deploy these to detect thresholds but nonetheless we can use more advanced to 
+There are numerous states in a system and often these are monitored in relatively naive ways. Using an `if` statement or  a `switch case` nested in an `update` or a `loop`. We may still deploy these to detect thresholds but nonetheless we can use more advanced programming techniques to manage and transition effectively avoiding ambiguity, memory leaks and continuousl calibrati
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ4MDcyMjUsMTA2NjAwNzgxOF19
+eyJoaXN0b3J5IjpbLTEwODYzNDcyMzYsMTA2NjAwNzgxOF19
 -->
