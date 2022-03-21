@@ -31,7 +31,7 @@ page_nav: false
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
 #### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
-<!---#### 8 - [Cybernetics](../cybernetics-ws "Cybernetics")--> 
+#### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
 <!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->    
 # Submission Planning
 
@@ -54,11 +54,11 @@ page_nav: false
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzM3MTkyNywxNzc5NDY0OTgwLC01ND
-UyNDk4MzIsLTE4Njg0NDU3LC0yOTUwNDQ1OTgsLTIxNDExMDM1
-MzcsLTI5ODY1ODYxMSwtNjA0NTgwMTUxLDkwNzc5NzcyOCwxMj
-Y2NDU0NTczLC0xOTk4NTY3MzE5LC03OTYxNDEyMDUsLTIwNjg2
-OTk0NzQsLTM1MDIzODc2NCwtMjI0MDcwNTUxLC0xNTAwOTUzMD
-c4LC0yMDY5NzAxNDI5LC02OTU3MTg4MzksLTg4MzQ5NzcyMV19
-
+eyJoaXN0b3J5IjpbMTk4ODIyMDM0OSwtMzM3MzcxOTI3LDE3Nz
+k0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0NTcsLTI5NTA0NDU5
+OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAxNTEsOT
+A3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLTc5NjE0
+MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQwNzA1NT
+EsLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwt
+ODgzNDk3NzIxXX0=
 -->
