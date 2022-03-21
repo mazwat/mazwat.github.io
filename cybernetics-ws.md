@@ -39,11 +39,12 @@ One of the key areas where realtime applications fall down whether it's a comput
  - Motor REVERSE
  - Led BLINKING
  - Note DURATION
+ - Enemy IN RANGE
 
-There are numerous states in a system and often these are monitored in relatively naive ways. Using an iff
+There are numerous states in a system and often these are monitored in relatively naive ways. Using an if statement or switches nested in an update or a loop. We may still deploy these to detect thresh
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODIzMzUzMCwxMDY2MDA3ODE4XX0=
+eyJoaXN0b3J5IjpbLTIwMzU3MDQ0NTQsMTA2NjAwNzgxOF19
 -->
