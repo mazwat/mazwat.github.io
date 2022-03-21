@@ -36,6 +36,9 @@ I will be providing full documentation for this lecture throughout the week. In 
 
 I have also provided links to **repos** and **TinkerCAD** examples in the lecture here:
 
+### Simple Inverse Kinematics Repo
+https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics
+
 ### Logic Gate Circuits Example
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
@@ -52,7 +55,7 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 [https://github.falmouth.ac.uk/Matt-Watkins/Arduino-State-Machine](https://github.falmouth.ac.uk/Matt-Watkins/Arduino-State-Machine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzgwOTQ3NiwtNzIxMTczNzE4LDE3ND
-A0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLDEwMTM0NTk1
-MzQsLTk0NDg3NTAyMF19
+eyJoaXN0b3J5IjpbLTQwMDc0MTY1NSwtNTk3ODA5NDc2LC03Mj
+ExNzM3MTgsMTc0MDQ2NTAxMSwyNDA4ODA4NzYsLTE2NDM0NTA2
+ODIsMTAxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
 -->
