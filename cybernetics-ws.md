@@ -48,7 +48,7 @@ There are numerous states in a system and often these are monitored in relativel
  1. Identify what the **states in your system**?
  *Pay specific attention to the hardware/embedded software aspect. Have a method to measure when LED's are on or off, for example*
   2. Develop a **state diagram** to describe them and the transitions associated with them
-3. Consider refactoring your code around the state design pattern. The State pattern suggests that you create new classes for all possible states of an object and extract all state-specific behaviors into these classes.
+3. Consider refactoring your code around the **state design pattern**. The State pattern suggests that you create new classes for all possible states of an object and extract all state-specific behaviors into these classes.
 
 ## Supporting Materials
 
@@ -56,10 +56,13 @@ Refactoring Guru - State Design Pattern
 https://refactoring.guru/design-patterns/state
 
 My Arduino State Pattern Example Repo
+[https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0](https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0)
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM3OTg0NDcsLTE0NTI5MDcyMTYsMT
-Q1Mzg4NTQ4OCwxMDY2MDA3ODE4XX0=
+eyJoaXN0b3J5IjpbLTk4NTcwNjcyNCwtMTI0Mzc5ODQ0NywtMT
+Q1MjkwNzIxNiwxNDUzODg1NDg4LDEwNjYwMDc4MThdfQ==
 -->
