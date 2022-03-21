@@ -48,9 +48,10 @@ There are numerous states in a system and often these are monitored in relativel
  1. Identify what the **states in your system**?
  *Pay specific attention to the hardware/embedded software aspect. Have a method to measure when LED's are on or off, for example*
   2. Develop a **state diagram** to describe them and the transitions associated with them
-3. Consid
+3. Consider refactoring your code around the state design pattern. The State pattern suggests that you create new classes for all possible states of an object and extract all state-specific behaviors into these classes.
+4
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDAyMjEyOSwtMTQ1MjkwNzIxNiwxND
+eyJoaXN0b3J5IjpbLTg0ODYxNDk3OSwtMTQ1MjkwNzIxNiwxND
 UzODg1NDg4LDEwNjYwMDc4MThdfQ==
 -->
