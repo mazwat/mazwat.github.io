@@ -45,10 +45,11 @@ There are numerous states in a system and often these are monitored in relativel
 
 ## Suggested Tasks
 
- 1. Identify what the states in your system?
- 2. Develop a state diagr
+ 1. Identify what the **states in your system**?
+ *Pay specific attention to the hardware/embedded software aspect. Have a method to measure when LED's are on or off.*
+  2. Develop a state diagram to describe them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU4MzY1ODAsMTA2NjAwNzgxOF19
+eyJoaXN0b3J5IjpbNTIxOTE4MzEsMTA2NjAwNzgxOF19
 -->
