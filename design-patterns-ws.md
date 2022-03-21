@@ -21,8 +21,8 @@ page_nav:
         content: Data Structures
         url: '../data-structures-ws'
     next:
-        content: States 
-        url: '../optimisation-lm'
+        content: States & Transitions
+        url: '../cybernetics-lm'
 ---
 
 # Design Patterns
@@ -60,7 +60,7 @@ It is assumed that you have watched the **video lecture** and viewed the [**mate
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDY5ODYyOCwxOTU3MzU4Njc4LC0zMj
-gzNDAyMyw1MDkzMzE0MDUsLTY0Nzk2MjE4OCwtMTg2MDcxOTY5
-NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX0=
+eyJoaXN0b3J5IjpbLTE4NjY5ODgxMzksMTk1NzM1ODY3OCwtMz
+I4MzQwMjMsNTA5MzMxNDA1LC02NDc5NjIxODgsLTE4NjA3MTk2
+OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
 -->
