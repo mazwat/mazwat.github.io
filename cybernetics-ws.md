@@ -26,7 +26,7 @@ page_nav:
 
 This week your primary focus for the workshop should be on your project and your specific needs and requirements.
 
-The theme for the week is intended as supporting material for the development of your final product. One of the key elements of the lecture was implementing finite state machines.
+The theme for the week is intended as supporting material for the development of your final product. One of the key elements of the lecture was implementing **finite state machines**.
 
 ## Finite State Machines
 
@@ -46,10 +46,10 @@ There are numerous states in a system and often these are monitored in relativel
 ## Suggested Tasks
 
  1. Identify what the **states in your system**?
- *Pay specific attention to the hardware/embedded software aspect. Have a method to measure when LED's are on or off.*
-  2. Develop a state diagram to describe them
+ *Pay specific attention to the hardware/embedded software aspect. Have a method to measure when LED's are on or off, for example*
+  2. Develop a state diagram to describe them and the transitions associated with them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxOTE4MzEsMTA2NjAwNzgxOF19
+eyJoaXN0b3J5IjpbMTQ1Mzg4NTQ4OCwxMDY2MDA3ODE4XX0=
 -->
