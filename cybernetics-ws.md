@@ -36,9 +36,14 @@ One of the key areas where realtime applications fall down whether it's a comput
  - Button OFF
  - Character IDLE
  - Motor FORWARD
- - Motor BACK
- - Led BLINKIF
+ - Motor REVERSE
+ - Led BLINKING
+ - Note DURATION
+
+There are numerous states in a system and often these are monitored in relatively naive ways. Using an iff
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxODU4NjY4LDEwNjYwMDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTIzODIzMzUzMCwxMDY2MDA3ODE4XX0=
 -->
