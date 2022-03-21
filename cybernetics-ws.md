@@ -26,7 +26,7 @@ page_nav:
 
 This week your primary focus for the workshop should be on your project and your specific needs and requirements.
 
-The theme for the week is intended as a su
+The theme for the week is intended as a sup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc0NzQxNTBdfQ==
+eyJoaXN0b3J5IjpbMTA2NjAwNzgxOF19
 -->
