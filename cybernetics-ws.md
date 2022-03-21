@@ -53,9 +53,9 @@ There are numerous states in a system and often these are monitored in relativel
 ## Supporting Materials
 
 Refactoring Guru - State Design Pattern
-https://refactoring.guru/design-patterns/state
+[https://refactoring.guru/design-patterns/state](https://refactoring.guru/design-patterns/state)
 
-My Arduino State Pattern Example Repo
+Arduino State Pattern Example Repo
 [https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0](https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0)
 
 
@@ -63,6 +63,6 @@ My Arduino State Pattern Example Repo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTcwNjcyNCwtMTI0Mzc5ODQ0NywtMT
-Q1MjkwNzIxNiwxNDUzODg1NDg4LDEwNjYwMDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTc0MjI4NjQ2LC0xMjQzNzk4NDQ3LC0xND
+UyOTA3MjE2LDE0NTM4ODU0ODgsMTA2NjAwNzgxOF19
 -->
