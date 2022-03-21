@@ -48,8 +48,11 @@ I have also provided links to **repos** and **TinkerCAD** examples in the lectur
 
 [https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
 
+### Finite State Machine - Repo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTE3MzcxOCwxNzQwNDY1MDExLDI0MD
-g4MDg3NiwtMTY0MzQ1MDY4MiwxMDEzNDU5NTM0LC05NDQ4NzUw
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTExMjUzNSwtNzIxMTczNzE4LDE3ND
+A0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLDEwMTM0NTk1
+MzQsLTk0NDg3NTAyMF19
 -->
