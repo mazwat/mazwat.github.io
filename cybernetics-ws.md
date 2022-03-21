@@ -32,19 +32,19 @@ The theme for the week is intended as supporting material for the development of
 
 One of the key areas where realtime applications fall down whether it's a computer game or an automous robot is handling the concurrent states and transitions. It's vital to identify different states in the system:
 
- - Button ON
- - Button OFF
- - Character IDLE
- - Motor FORWARD
- - Motor REVERSE
- - Led BLINKING
- - Audio PLAYING
- - Enemy IN RANGE
+ - *Button ON*
+ - *Button OFF*
+ - *Character IDLE*
+ - *Motor FORWARD*
+ - *Motor REVERSE*
+ - *Led BLINKING*
+ - *Audio PLAYING*
+ - *Enemy IN RANGE*
 
-There are numerous states in a system and often these are monitored in relatively naive ways. Using an `if` statement or  a `switch case` nested in an `update` or a `loop`. We may still deploy these to detect thresholds but nonetheless we can use more advanced programming techniques to manage and transition effectively avoiding ambiguity, memory leaks and continuousl calibrati
+There are numerous states in a system and often these are monitored in relatively naive ways. Using an `if` statement or  a `switch case` nested in an `update` or a `loop`. We may still deploy these to detect thresholds but nonetheless we can use more advanced programming techniques to manage and transition effectively avoiding **ambiguity**, **memory leaks** and **continuous calibration**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYzNDcyMzYsMTA2NjAwNzgxOF19
+eyJoaXN0b3J5IjpbLTM4NzMyODkxMSwxMDY2MDA3ODE4XX0=
 -->
