@@ -130,13 +130,16 @@ $$\begin{matrix}
  R_{3} & b & a & d\\
 \end{matrix}
 $$
-
-    enter code here
+```c#
+Vector3  movementMonster = new  Vector3(-4, 9, 0);
+monster1.transform.Translate(movementMonster);
+monster1.transform.Translate(movementMonster * Time.deltaTime);
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MzYzMTcwLC00NjA3NzM0ODQsMTQyMj
-I0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4
-LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMD
-Y0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3
-MzI2XX0=
+eyJoaXN0b3J5IjpbLTExNDE2NjYxMjcsLTQ2MDc3MzQ4NCwxND
+IyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2
+NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLT
+IwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2
+ODczMjZdfQ==
 -->
