@@ -53,6 +53,10 @@ _“Cybernetics is the study of human/machine interaction guided by the principl
 Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman_’ and relates to the principle of controlling or directing of a system. The ancient Greeks dominance of the classical world was in part due to their mastery of machines. Specifically fast fighting ships, packed with Spartan warriors. Consequently the **kybernetes** who steered them throughout the Mediterranean sea had a very important role to play.
 
 
+
+The seminal text on the subject is Cybernetics or Control and Communication in the Animal and the Machine
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
 -->
