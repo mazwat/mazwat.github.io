@@ -110,11 +110,19 @@ Cybernetics is concerned with the concept of determinate machines. Maths and phy
 
 In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
 
+### Calculating Transformations
+
+It is an important function of cybernetics to calculate the transformations in states. In this example we have a single operand - doubling and this behaves in a linear procedural way.
+
+
+
+But what if we have multiple operands?
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMj
-MzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0
-NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLT
-EzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTY4MTQ2MDA5OSwxNDIyMjQ2MDMxLDk1OD
+E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
+NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
+AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
 -->
