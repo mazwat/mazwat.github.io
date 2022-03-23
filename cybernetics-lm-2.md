@@ -56,9 +56,9 @@ Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman
 
 The seminal text on the subject is *Cybernetics or Control and Communication in the Animal and the Machine* By Norbert Weiner who is considered the father of cybernetics.
 
-Wiener described the field like this: CLICK READ
+Wiener described the field like this: 
 
-_Control and communication in the animal and the machine_
+*"Control and communication in the animal and the machine"*
 
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
@@ -73,6 +73,6 @@ This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEzMDkwODIsLTEzNTMzOTYxODQsMz
-k0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbMjA4MDQwOTI5MCwtMTM1MzM5NjE4NCwzOT
+Q2ODczMjZdfQ==
 -->
