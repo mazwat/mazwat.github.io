@@ -81,8 +81,10 @@ In its early years in the 1920s and 30s cybernetics was concerned with the probl
 
 Weiner’s work on measuring natural systems with time series data lead the scientist James Lovelock to propose The Gaia hypothesis which posits that the Earth is a self-regulating complex system involving the biosphere, the atmosphere, the hydrospheres and the pedosphere, tightly coupled as an evolving system. The hypothesis contends that this system as a whole, called Gaia, seeks a physical and chemical environment optimal for contemporary life. Cybernetics can be used to measure all life as we know it.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU1NzgzOTAsLTQ1MTc4MzMzMywtMj
-A2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4
-NzMyNl19
+eyJoaXN0b3J5IjpbLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMD
+Y0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3
+MzI2XX0=
 -->
