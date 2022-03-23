@@ -54,9 +54,20 @@ Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman
 
 
 
-The seminal text on the subject is Cybernetics or Control and Communication in the Animal and the Machine
+The seminal text on the subject is *Cybernetics or Control and Communication in the Animal and the Machine* By Norbert Weiner who is considered the father of cybernetics.
+
+Wiener described the field like this: CLICK READ
+
+_Control and communication in the animal and the machine_
+
+Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
+
+We are used to associating robots with the imitation of humanoid behaviour but sometimes a simpler form of perambulation like, that we see in lemurs overcomes some of the complexity of attempting to move through an environment. If a robot can constantly jump it resolves the need to have complex feet or wheels, springs and differentials to adapt to changing terrain. When it hits any surface it jumps, if it is suitably well balanced it can stay mobile. 
+
+This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an animal jumping process can help to develop better robotic locomotion and navigation. We will return to this idea of mimicry later, but first let’s address some fundamentals
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTIwMDE3Mjc5MDMsLTEzNTMzOTYxODQsMz
+k0Njg3MzI2XX0=
 -->
