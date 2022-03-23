@@ -63,8 +63,8 @@ Wiener described the field like this:
 
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
-![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)
-\*fig. 3 - Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)*
+![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)\
+*fig. 3 - Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)*
 
 We are used to associating robots with the imitation of humanoid behaviour but sometimes a simpler form of perambulation like, that we see in lemurs overcomes some of the complexity of attempting to move through an environment. If a robot can constantly jump it resolves the need to have complex feet or wheels, springs and differentials to adapt to changing terrain. When it hits any surface it jumps, if it is suitably well balanced it can stay mobile. 
 
@@ -105,8 +105,8 @@ If we return to our steersman in Ancient Greece.  We can see that the **goal** i
 
 Cybernetics is concerned with the concept of determinate machines. Maths and physics is chiefly concerned with systems that are continuous and linear, but most natural systems are not linear and often not continuous and sometimes not even metrical ie not expressible in numbers. Therefore in order to understand these complex systems we have to define their states and the transformations and operands that occur between these states. A determinate machine is a simplification of a natural systems.
 
- ![enter image description here](images/insect.svg)
-*fig. 9 - Insects behaviour*
+ ![Insect Behaviour](images/insect.svg)
+*fig. 9 - Insect mating behaviour*
 
 In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
 
@@ -125,8 +125,8 @@ Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkzMjI0NTUsMTQyMjI0NjAzMSw5NT
-gxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEw
-OTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLT
-EwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1OD
+E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
+NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
+AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
 -->
