@@ -96,15 +96,15 @@ Weiner’s work on measuring natural systems with time series data lead the scie
 
 Cybernetics explains how circular causal systems work or what we call single loops. So as well as defining the inputs and outputs we also need to factor in the goal of the **actor** and how factors in the **environment** can cause **disturbances** to the achievement of that **goal**.
 
-![enter image description here](images/causal-loop.svg)
-*fig. 8 - S*
+![enter image description here](images/steer.gif)
+*fig. 8 - Steering a ship into port*
 
 If we return to our steersman in Ancient Greece.  We can see that the **goal** is to reach a safe port, and the input of rowing and wind in the sails should push the boat along its course. But the tide or wind of a real system like the sea can disturb the smooth procession of the vessel. The steersman has to measure the **disturbance** and apply a **correction** to overcome the error created by the **environment**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkyNTU1NzUsMTUyMjMzMDgyNywxNz
+eyJoaXN0b3J5IjpbLTE4MTc2NjkzMzYsMTUyMjMzMDgyNywxNz
 MyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgz
 MzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxOD
 QsMzk0Njg3MzI2XX0=
