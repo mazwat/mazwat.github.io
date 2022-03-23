@@ -79,15 +79,15 @@ This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an 
 
 In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data, presented an early glimpse of the strategies that would define cybernetics.
 
-![Photo of the Earth](https://unsplash.com/photos/vhSz50AaFAs)
-*Photo by [NASA](images/earth.png on [Unsplash](https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+![Photo of the Earth](images/earth.png)
+*Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 Weiner’s work on measuring natural systems with time series data lead the scientist James Lovelock to propose The Gaia hypothesis which posits that the Earth is a self-regulating complex system involving the biosphere, the atmosphere, the hydrospheres and the pedosphere, tightly coupled as an evolving system. The hypothesis contends that this system as a whole, called Gaia, seeks a physical and chemical environment optimal for contemporary life. Cybernetics can be used to measure all life as we know it.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMwNzY0MzQsLTgwMzkzNTU0NiwtND
-UxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMz
-OTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NT
+E3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5
+NjE4NCwzOTQ2ODczMjZdfQ==
 -->
