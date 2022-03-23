@@ -64,7 +64,7 @@ Wiener described the field like this:
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
 ![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)
-\Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)
+\ Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)
 
 We are used to associating robots with the imitation of humanoid behaviour but sometimes a simpler form of perambulation like, that we see in lemurs overcomes some of the complexity of attempting to move through an environment. If a robot can constantly jump it resolves the need to have complex feet or wheels, springs and differentials to adapt to changing terrain. When it hits any surface it jumps, if it is suitably well balanced it can stay mobile. 
 
@@ -78,6 +78,6 @@ In its early years in the 1920s and 30s cybernetics was concerned with the probl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDgyNTg5NSwtMjA2NDQyOTcyLC0xMD
+eyJoaXN0b3J5IjpbLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMD
 A3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
