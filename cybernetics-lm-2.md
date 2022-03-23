@@ -48,7 +48,7 @@ This can be useful in thinking about both the physical and virtual components of
 _“Cybernetics is the study of human/machine interaction guided by the principle that numerous different types of systems can be studied according to principles of feedback, control, and communications. The field has a quantitative component, inherited from feedback control and information theory, but is primarily a qualitative, analytical tool – one might even say a philosophy of technology.”_ - David A Mindell - MIT
 
 ![Greek Ship](images/greek-ship.jpg)
-*Fig. 1 - Greek Fighting Ship*
+*Fig. 1 - Greek Fighting Ship and tablet from circa 800 BC*
 
 Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman_’ and relates to the principle of controlling or directing of a system. The ancient Greeks dominance of the classical world was in part due to their mastery of machines. Specifically fast fighting ships, packed with Spartan warriors. Consequently the **kybernetes** who steered them throughout the Mediterranean sea had a very important role to play.
 
@@ -78,6 +78,6 @@ In its early years in the 1920s and 30s cybernetics was concerned with the probl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjExNzQyMSwtMjA2NDQyOTcyLC0xMD
+eyJoaXN0b3J5IjpbMTEyMDgyNTg5NSwtMjA2NDQyOTcyLC0xMD
 A3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
