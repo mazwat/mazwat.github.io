@@ -74,6 +74,9 @@ This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an 
 
 ## Early Cybernetics
 
+![enter image description here](https://www.arshake.com/wp-content/uploads/2014/02/wiener-cart-corner-1-500x4611.jpg)
+*Image Attribution: [Arshake]*(https://www.arshake.com/en/norbert-wiener/)
+
 In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data, presented an early glimpse of the strategies that would define cybernetics.
 
 ![Photo of the Earth](https://unsplash.com/photos/vhSz50AaFAs)
@@ -84,7 +87,7 @@ Weiner’s work on measuring natural systems with time series data lead the scie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMD
-Y0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3
-MzI2XX0=
+eyJoaXN0b3J5IjpbMTM3NzMxMTgxNSwtODAzOTM1NTQ2LC00NT
+E3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5
+NjE4NCwzOTQ2ODczMjZdfQ==
 -->
