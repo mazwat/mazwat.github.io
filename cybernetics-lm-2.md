@@ -52,7 +52,7 @@ _“Cybernetics is the study of human/machine interaction guided by the principl
 
 Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman_’ and relates to the principle of controlling or directing of a system. The ancient Greeks dominance of the classical world was in part due to their mastery of machines. Specifically fast fighting ships, packed with Spartan warriors. Consequently the **kybernetes** who steered them throughout the Mediterranean sea had a very important role to play.
 
-
+![enter image description here](images/cyber-book.png)
 
 The seminal text on the subject is *Cybernetics or Control and Communication in the Animal and the Machine* By Norbert Weiner who is considered the father of cybernetics.
 
@@ -71,12 +71,12 @@ We are used to associating robots with the imitation of humanoid behaviour but s
 
 This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an animal jumping process can help to develop better robotic locomotion and navigation. We will return to this idea of mimicry later, but first let’s address some fundamentals.
 
-£
+## Early Cybernetics
 
-In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. CLICK Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing CLICK. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data CLICK. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data CLICK, presented an early glimpse of the strategies that would define cybernetics.
+In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data, presented an early glimpse of the strategies that would define cybernetics.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDQ1Mjk3NywtMjA2NDQyOTcyLC0xMD
+eyJoaXN0b3J5IjpbMTEzMTE3NDMzMCwtMjA2NDQyOTcyLC0xMD
 A3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
