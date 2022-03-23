@@ -124,17 +124,17 @@ Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cy
 
 $$\begin{matrix}
  \downarrow & a & b & c\\
-
- \overline{R_{1} & b & a & d\\
+\hline
+ R_{1} & b & a & d\\
  R_{2} & c & d & d\\
  R_{3} & b & a & d\\
 \end{matrix}
 $$
 
-
+    enter code here
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NjY0MTI4LC00NjA3NzM0ODQsMTQyMj
+eyJoaXN0b3J5IjpbNjQ3MzYzMTcwLC00NjA3NzM0ODQsMTQyMj
 I0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4
 LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMD
 Y0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3
