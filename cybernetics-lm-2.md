@@ -120,13 +120,22 @@ It is an important function of cybernetics to calculate the transformations in s
 
 But what if we have multiple operands?
 
-Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking. CLICK
+Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
+
+$$\begin{matrix}
+ \downarrow & a & b & c\\
+ R_{1} & b & a & d\\
+ R_{2} & c & d & d\\
+ R_{3} & b & a & d\\
+\end{matrix}
+$$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1OD
-E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
-NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
-AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyODM2MDUxNDUsLTQ2MDc3MzQ4NCwxND
+IyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2
+NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLT
+IwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2
+ODczMjZdfQ==
 -->
