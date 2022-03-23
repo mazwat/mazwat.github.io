@@ -86,8 +86,12 @@ Weiner’s work on measuring natural systems with time series data lead the scie
 
 
 
+CLICK Sensing, Controlling, Actuating. Any computational system that is effected by the real world must have a way to sense it in some way CLICK, maybe it’s a button, a camera, a microphone, or a light sensor. The data from the sensor is then measured and processed by the controller this is usually a computer but it can be simpler (as we well address later) and depending on the how the data is interpreted an actuator is started. CLICK This could be a motor turning a wheel, a pump or even moving a virtual object in a game or storing data point in a database. This process is a continuous feedback loop, CLICK The actuation may well effect the state of the sensor data, and so the process returns to the start to begin all over again. CLICK Cybernetics is also highly relevant to thinking about control scheme’s and player feedback in games.CLICK In games design one of the fundamental principles is the game feedback loop which is derived from Cybernetic principles.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDAwMzA0LC0zNTgwNDEwOTYsLTgwMz
-kzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4
-MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbMjA4MTk0MjQ1OCwtMzU4MDQxMDk2LC04MD
+M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
+ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
