@@ -120,7 +120,7 @@ It is an important function of cybernetics to calculate the transformations in s
 
 But what if we have multiple operands?
 
-Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. 
+Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this:\
 $$\begin{matrix}
  \downarrow & a & b & c\\
 \hline
@@ -138,9 +138,9 @@ This logical thinking underpins the way we manage transitions in matrices in com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0Mj
-IyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2
-OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMj
-A2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4
-NzMyNl19
+eyJoaXN0b3J5IjpbMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00Nj
+A3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgy
+NywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtND
+UxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMz
+OTYxODQsMzk0Njg3MzI2XX0=
 -->
