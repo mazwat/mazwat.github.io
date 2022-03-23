@@ -69,10 +69,14 @@ We are used to associating robots with the imitation of humanoid behaviour but s
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xvIk39rkkiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an animal jumping process can help to develop better robotic locomotion and navigation. We will return to this idea of mimicry later, but first let’s address some fundamentals
+This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an animal jumping process can help to develop better robotic locomotion and navigation. We will return to this idea of mimicry later, but first let’s address some fundamentals.
+
+£
+
+In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. CLICK Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing CLICK. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data CLICK. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data CLICK, presented an early glimpse of the strategies that would define cybernetics.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMT
-M1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbLTU5NDQ1Mjk3NywtMjA2NDQyOTcyLC0xMD
+A3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
