@@ -1,4 +1,3 @@
-
 ---
 # Page settings
 layout: default
@@ -32,7 +31,7 @@ page_nav:
 
 ![Header Image](images/states-header.jpg)
 
-In this lecture I plan to outline some key theories but also their application in the field of Cybernetics. Cybernetics is commonly applied to robotics but its applications are relevant to all areas of computing and design adn especially realime systems like computer games.
+In this lecture I plan to outline some key theories but also their application in the field of Cybernetics. Cybernetics is commonly applied to robotics but its applications are relevant to all areas of computing and design and especially realtime systems like computer games where we are dealing with the transformations between the states of a system.
 
 This can be useful in thinking about both the physical and virtual components of your system but also the human interface with the experience you intend to develop.
 
@@ -55,5 +54,5 @@ Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAzODkxNzJdfQ==
+eyJoaXN0b3J5IjpbMzk0Njg3MzI2XX0=
 -->
