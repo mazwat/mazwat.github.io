@@ -43,7 +43,7 @@ This can be useful in thinking about both the physical and virtual components of
 -   Identify uses of **signal processing** in embedded systems
 -   Apply cybernetics to electronics projects in the form of **finite state machines**
 
-## What is Cybernetics?
+### What is Cybernetics?
 
 _“Cybernetics is the study of human/machine interaction guided by the principle that numerous different types of systems can be studied according to principles of feedback, control, and communications. The field has a quantitative component, inherited from feedback control and information theory, but is primarily a qualitative, analytical tool – one might even say a philosophy of technology.”_ - David A Mindell - MIT
 
@@ -72,7 +72,7 @@ We are used to associating robots with the imitation of humanoid behaviour but s
 
 This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an animal jumping process can help to develop better robotic locomotion and navigation. We will return to this idea of mimicry later, but first let’s address some fundamentals.
 
-## Early Cybernetics
+### Early Cybernetics
 
 ![enter image description here](https://www.arshake.com/wp-content/uploads/2014/02/wiener-cart-corner-1-500x4611.jpg)
 *fig. 4 - Norbert Wiener - Image Attribution: [Arshake](https://www.arshake.com/en/norbert-wiener/)*
@@ -80,21 +80,67 @@ This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an 
 In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data, presented an early glimpse of the strategies that would define cybernetics.
 
 ![Photo of the Earth](images/earth.png)
-*Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+*fig. 5 - Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 Weiner’s work on measuring natural systems with time series data lead the scientist James Lovelock to propose The Gaia hypothesis which posits that the Earth is a self-regulating complex system involving the biosphere, the atmosphere, the hydrospheres and the pedosphere, tightly coupled as an evolving system. The hypothesis contends that this system as a whole, called Gaia, seeks a physical and chemical environment optimal for contemporary life. Cybernetics can be used to measure all life as we know it.
 
-## The Cybernetics Loop
+### The Cybernetics Loop
 
-![enter image description here](images/cybernetic-loop.svg)
-fi
+![Cybernetics Loop](images/cybernetic-loop.svg)
+*fig. 6 - Cybernetic Loop*
 
-Sensing, Controlling, Actuating. Any computational system that is effected by the real world must have a way to sense it in some way, maybe it’s a button, a camera, a microphone, or a light sensor. The data from the sensor is then measured and processed by the controller this is usually a computer but it can be simpler (as we well address later) and depending on the how the data is interpreted an actuator is started. This could be a motor turning a wheel, a pump or even moving a virtual object in a game or storing data point in a database. This process is a continuous feedback loop, The actuation may well effect the state of the sensor data, and so the process returns to the start to begin all over again.  Cybernetics is also highly relevant to thinking about control scheme’s and player feedback in games. In games design one of the fundamental principles is the game feedback loop which is derived from Cybernetic principles.
+**Sensing**, **Controlling** and **Actuating**. Any computational system that is effected by the real world must have a way to sense it in some way, maybe it’s a button, a camera, a microphone, or a light sensor. The data from the sensor is then measured and processed by the controller this is usually a computer but it can be simpler (as we well address later) and depending on the how the data is interpreted an actuator is started. This could be a motor turning a wheel, a pump or even moving a virtual object in a game or storing data point in a database. This process is a continuous feedback loop, The actuation may well effect the state of the sensor data, and so the process returns to the start to begin all over again.  Cybernetics is also highly relevant to thinking about control scheme’s and player feedback in games. In games design one of the fundamental principles is the game feedback loop which is derived from Cybernetic principles.
 
+![enter image description here](images/causal-loop.svg)
+*fig. 7 - Causal Systems*
+
+Cybernetics explains how circular causal systems work or what we call single loops. So as well as defining the inputs and outputs we also need to factor in the goal of the **actor** and how factors in the **environment** can cause **disturbances** to the achievement of that **goal**.
+
+![enter image description here](images/steer.gif)
+*fig. 8 - Steering a ship into port*
+
+If we return to our steersman in Ancient Greece.  We can see that the **goal** is to reach a safe port, and the input of rowing and wind in the sails should push the boat along its course. But the tide or wind of a real system like the sea can disturb the smooth procession of the vessel. The steersman has to measure the **disturbance** and apply a **correction** to overcome the error created by the **environment**.
+
+### The Determinate Machine
+
+Cybernetics is concerned with the concept of determinate machines. Maths and physics is chiefly concerned with systems that are continuous and linear, but most natural systems are not linear and often not continuous and sometimes not even metrical ie not expressible in numbers. Therefore in order to understand these complex systems we have to define their states and the transformations and operands that occur between these states. A determinate machine is a simplification of a natural systems.
+
+ ![Insect Behaviour](images/insect.svg)
+*fig. 9 - Insect mating behaviour*
+
+In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
+
+### Calculating Transformations
+
+It is an important function of cybernetics to calculate the transformations in states. In this example we have a single operand - doubling and this behaves in a linear procedural way.
+
+*A culture medium is inoculated with a thousand bacteria. Their number doubles every 30 minutes. How do we express corresponding transformations?*
+
+**$$n' = 2n$$**
+
+But what if we have multiple operands?
+
+Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. 
+$$\begin{matrix}
+ \downarrow & a & b & c\\
+\hline
+ R_{1} & b & a & d\\
+ R_{2} & c & d & d\\
+ R_{3} & b & a & d\\
+\end{matrix}
+$$
+```c#
+Vector3  movementMonster = new  Vector3(-4, 9, 0);
+monster1.transform.Translate(movementMonster);
+monster1.transform.Translate(movementMonster * Time.deltaTime);
+```
+This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MD
-M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
-ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0Mj
+IyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2
+OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMj
+A2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4
+NzMyNl19
 -->
