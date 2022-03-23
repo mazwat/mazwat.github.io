@@ -43,7 +43,7 @@ This can be useful in thinking about both the physical and virtual components of
 -   Identify uses of **signal processing** in embedded systems
 -   Apply cybernetics to electronics projects in the form of **finite state machines**
 
-## What is Cybernetics?
+### What is Cybernetics?
 
 _“Cybernetics is the study of human/machine interaction guided by the principle that numerous different types of systems can be studied according to principles of feedback, control, and communications. The field has a quantitative component, inherited from feedback control and information theory, but is primarily a qualitative, analytical tool – one might even say a philosophy of technology.”_ - David A Mindell - MIT
 
@@ -125,8 +125,8 @@ Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDYwNzgwOCwxNDIyMjQ2MDMxLDk1OD
-E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
-NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
-AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTkzMjI0NTUsMTQyMjI0NjAzMSw5NT
+gxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEw
+OTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLT
+EwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
 -->
