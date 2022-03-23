@@ -63,7 +63,7 @@ Wiener described the field like this:
 
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
-![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)\
+![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)
 *fig. 3 - Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)*
 
 We are used to associating robots with the imitation of humanoid behaviour but sometimes a simpler form of perambulation like, that we see in lemurs overcomes some of the complexity of attempting to move through an environment. If a robot can constantly jump it resolves the need to have complex feet or wheels, springs and differentials to adapt to changing terrain. When it hits any surface it jumps, if it is suitably well balanced it can stay mobile. 
@@ -87,14 +87,15 @@ Weiner’s work on measuring natural systems with time series data lead the scie
 ## The Cybernetics Loop
 
 ![enter image description here](images/cybernetic-loop.svg)
-fi
+*Fig. 1 - Cybernetic Loop*
 
 Sensing, Controlling, Actuating. Any computational system that is effected by the real world must have a way to sense it in some way, maybe it’s a button, a camera, a microphone, or a light sensor. The data from the sensor is then measured and processed by the controller this is usually a computer but it can be simpler (as we well address later) and depending on the how the data is interpreted an actuator is started. This could be a motor turning a wheel, a pump or even moving a virtual object in a game or storing data point in a database. This process is a continuous feedback loop, The actuation may well effect the state of the sensor data, and so the process returns to the start to begin all over again.  Cybernetics is also highly relevant to thinking about control scheme’s and player feedback in games. In games design one of the fundamental principles is the game feedback loop which is derived from Cybernetic principles.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MD
-M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
-ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbLTE1OTQ4MDg1MDksMTczMjUzMTY2OCwtMz
+U4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQy
+OTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl
+19
 -->
