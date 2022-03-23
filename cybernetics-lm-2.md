@@ -120,8 +120,7 @@ It is an important function of cybernetics to calculate the transformations in s
 
 But what if we have multiple operands?
 
-Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
-
+Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. 
 $$\begin{matrix}
  \downarrow & a & b & c\\
 \hline
@@ -135,11 +134,13 @@ Vector3  movementMonster = new  Vector3(-4, 9, 0);
 monster1.transform.Translate(movementMonster);
 monster1.transform.Translate(movementMonster * Time.deltaTime);
 ```
+This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE2NjYxMjcsLTQ2MDc3MzQ4NCwxND
-IyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2
-NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLT
-IwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2
-ODczMjZdfQ==
+eyJoaXN0b3J5IjpbMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0Mj
+IyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2
+OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMj
+A2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4
+NzMyNl19
 -->
