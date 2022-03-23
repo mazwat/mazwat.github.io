@@ -114,6 +114,8 @@ In this example of a study of insect mating behaviour one state proceeds to the 
 
 It is an important function of cybernetics to calculate the transformations in states. In this example we have a single operand - doubling and this behaves in a linear procedural way.
 
+*A culture medium is inoculated with a thousand bacteria. Their number doubles every 30 minutes. How do we express corresponding transformations?*
+
 
 
 But what if we have multiple operands?
@@ -121,7 +123,7 @@ But what if we have multiple operands?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTQ2MDA5OSwxNDIyMjQ2MDMxLDk1OD
+eyJoaXN0b3J5IjpbLTY1MzQ5NTYwOCwxNDIyMjQ2MDMxLDk1OD
 E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
 NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
 AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
