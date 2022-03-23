@@ -116,15 +116,17 @@ It is an important function of cybernetics to calculate the transformations in s
 
 *A culture medium is inoculated with a thousand bacteria. Their number doubles every 30 minutes. How do we express corresponding transformations?*
 
-
+**$$n' = 2n$$**
 
 But what if we have multiple operands?
+
+Ross Ashby another key figure in Cybernetics whose book - An introduction to Cybernetics in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions CLICK we can have transformations R1, R2 and R3 and they change the states of a machine from a to b or c or d they can be measured in a table like this. This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking. CLICK
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzQ5NTYwOCwxNDIyMjQ2MDMxLDk1OD
-E3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5
-NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMT
-AwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbNzU5NDg3NzkwLDE0MjIyNDYwMzEsOTU4MT
+c3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2
+LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMD
+A3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
