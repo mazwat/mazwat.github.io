@@ -101,11 +101,19 @@ Cybernetics explains how circular causal systems work or what we call single loo
 
 If we return to our steersman in Ancient Greece.  We can see that the **goal** is to reach a safe port, and the input of rowing and wind in the sails should push the boat along its course. But the tide or wind of a real system like the sea can disturb the smooth procession of the vessel. The steersman has to measure the **disturbance** and apply a **correction** to overcome the error created by the **environment**.
 
+### The Determinate Machine
+
+Cybernetics is concerned with the concept of determinate machines. Maths and physics is chiefly concerned with systems that are continuous and linear, but most natural systems are not linear and often not continuous and sometimes not even metrical ie not expressible in numbers. Therefore in order to understand these complex systems we have to define their states and the transformations and operands that occur between these states. A determinate machine is a simplification of a natural systems.
+
+  
+
+In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc2NjkzMzYsMTUyMjMzMDgyNywxNz
-MyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgz
-MzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxOD
-QsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMj
+UzMTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMz
+MywtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LD
+M5NDY4NzMyNl19
 -->
