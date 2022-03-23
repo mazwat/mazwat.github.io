@@ -91,15 +91,15 @@ Weiner’s work on measuring natural systems with time series data lead the scie
 
 **Sensing**, **Controlling** and **Actuating**. Any computational system that is effected by the real world must have a way to sense it in some way, maybe it’s a button, a camera, a microphone, or a light sensor. The data from the sensor is then measured and processed by the controller this is usually a computer but it can be simpler (as we well address later) and depending on the how the data is interpreted an actuator is started. This could be a motor turning a wheel, a pump or even moving a virtual object in a game or storing data point in a database. This process is a continuous feedback loop, The actuation may well effect the state of the sensor data, and so the process returns to the start to begin all over again.  Cybernetics is also highly relevant to thinking about control scheme’s and player feedback in games. In games design one of the fundamental principles is the game feedback loop which is derived from Cybernetic principles.
 
-![enter image description here](images/cybernetic-loop.svg)
+![enter image description here](images/causal-loop.svg)
 *fig. 7 - Causal Systems*
 
-cybernetics explains how circular causal systems work or what we call single loops. So as well as defining the inputs CLICK and outputs we also need to factor in the goal CLICK of the actor and how factors in the environment can cause disturbances CLICK to the achievement of that goal.
+Cybernetics explains how circular causal systems work or what we call single loops. So as well as defining the inputs and outputs we also need to factor in the goal of the **actor** and how factors in the **environment** can cause **disturbances** to the achievement of that **goal**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTI2MjU4MSwxNTIyMzMwODI3LDE3Mz
+eyJoaXN0b3J5IjpbMTk3MzkyODgyMiwxNTIyMzMwODI3LDE3Mz
 I1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMz
 MzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NC
 wzOTQ2ODczMjZdfQ==
