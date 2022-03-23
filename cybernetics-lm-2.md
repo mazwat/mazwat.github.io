@@ -64,7 +64,7 @@ Wiener described the field like this:
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
 ![Lemur Jumping](http://38.media.tumblr.com/85a4d3868504f9df624084ed91d6c8ca/tumblr_nbf6a2C26U1s391qwo1_500.gif)
-fig. 3Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)
+*\fig. 3 - Attribution Source: [www.9fail.com](http://www.9fail.com/post/96689672071/lemur-gif)*
 
 We are used to associating robots with the imitation of humanoid behaviour but sometimes a simpler form of perambulation like, that we see in lemurs overcomes some of the complexity of attempting to move through an environment. If a robot can constantly jump it resolves the need to have complex feet or wheels, springs and differentials to adapt to changing terrain. When it hits any surface it jumps, if it is suitably well balanced it can stay mobile. 
 
@@ -75,7 +75,7 @@ This example ‘Salto’ by USC Berkeley’s robotics lab shows how study of an 
 ## Early Cybernetics
 
 ![enter image description here](https://www.arshake.com/wp-content/uploads/2014/02/wiener-cart-corner-1-500x4611.jpg)
-*fig. 3 - Norbert Wiener - Image Attribution: [Arshake](https://www.arshake.com/en/norbert-wiener/)*
+*fig. 4 - Norbert Wiener - Image Attribution: [Arshake](https://www.arshake.com/en/norbert-wiener/)*
 
 In its early years in the 1920s and 30s cybernetics was concerned with the problem of tracking targets (optically and then with radar), predicting their future positions, calculating ballistics, and directing guns to fire to destroy the targets. Norbert Wiener, a brilliant but eccentric MIT mathematician, already had a successful career in which he made numerous contributions to mathematics particularly to fields like harmonic (Fourier) analysis and stochastic processes. However Wiener’s work proved to have little application to wartime problems (it generated ponderous, complex solutions) but it did lead him to produce an important paper that paved the way for the modern theories of optimal estimation and signal processing. He created a general theory of smoothing and predicting any problem expressed as a discrete series of data. This generalization, from a specific human/machine problem to any aspect of the world that can be expressed as time-series data, presented an early glimpse of the strategies that would define cybernetics.
 
@@ -94,7 +94,7 @@ Sensing, Controlling, Actuating. Any computational system that is effected by th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTQyNDczOCwtMzU4MDQxMDk2LC04MD
-M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
-ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbODM0Nzc3MTYsLTM1ODA0MTA5NiwtODAzOT
+M1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgz
+MCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
 -->
