@@ -322,7 +322,7 @@ It’s other use is as a switch. A tiny electric current flowing through one par
 ![Transistors](images/transistor-layers.png)
 *Fig.15 -Layers of silicon in a transistor*
 
-A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, CLICK the p-type has holes where electrons should be. CLICK The layers have pins attached to them that are called the emitter, the base and the collector. CLICK Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
+A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, the p-type has holes where electrons should be. The layers have pins attached to them that are called the emitter, the base and the collector. Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
 
  ![Transistors](images/transistor-on-off.png)
 *Fig.15 - Transistor in On and Off state* 
@@ -330,12 +330,20 @@ A transistor is comprised of 3 layers of silicon in a sandwich. The layers are c
 A transistor works when the electrons and the holes start moving across the two junctions between the n-type and p-type silicon. If we connect the transistor up to some power. CLICK and we attach a small positive voltage to the base, make the emitter negatively charged, and make the collector positively charged. Electrons are pulled from the emitter into the base through these holes—and then from the base into the collector. And the transistor switches to its "on" state:
 
 When there is no current to the base, little or no current flows between the collector and the emitter. Turn on the base current and a big current flows. So the base current switches the whole transistor on and off. So then we have a binary switch
+
+If a transistor acts as an electronic automated switch or a single neuron we can use them in concert with more transistors to create more states in the machine. Effectively by having a range of different gates - AND, OR  and NOT we can control more complex states, like what part of seven segmented digital display is on simply by feeding a binary number sequence like 1,1,1,0.
+
+I won’t go into great detail as you have already touched on the theory of this in COMP110 with the application of truth tables. Let’s look at a practical example in TinkerCAD.
+
+### Logic Gate Circuits Example
+
+[https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MzAzMTUxLDI1OTAzNTUyNSwtMjA0ND
-czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
-MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLD
-g4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3
-MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LD
-E3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3
-ODMzMzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
+Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
+NjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3Nz
+MsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYw
+NzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4Mj
+csMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1
+MTc4MzMzM119
 -->
