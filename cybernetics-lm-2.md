@@ -194,8 +194,11 @@ By replicating the same logic, we can derive the equation for P_2:
 And finally, the general equation:
 
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
+
+![Inverse Joints](images/inverse-joints.png)
+*Fig.14 - Two De*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI3Mjg1MDMsMjAxMTcyNjUyNiwtMj
+eyJoaXN0b3J5IjpbLTE0MzY4NTg0NDEsMjAxMTcyNjUyNiwtMj
 AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
 NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
 E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
