@@ -195,6 +195,9 @@ And finally, the general equation:
 
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 
+### INverse Kinematics
+#### Two Degrees of Free
+
 ![Inverse Joints](images/inverse-joints.png)
 *Fig.15 - Two Degress of Freedom*
 
@@ -211,13 +214,16 @@ We can model this in Unity. The concept of “joints” is not something that Un
 		 - Bone 1
 		 - Hand
 
-I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects
+I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects.
+
+![Basic IK Rig](images/unity-arm.png)
+*Fig.15 - Basic rig for IK in Unity*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTU0NDg2MSwyMDExNzI2NTI2LC0yMD
-EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
-MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
-QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
-NjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC
-0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0
-Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTIwMTUwMDEyNzQsMjAxMTcyNjUyNiwtMj
+AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
+NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
+E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
+MTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMy
+wtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5
+NDY4NzMyNl19
 -->
