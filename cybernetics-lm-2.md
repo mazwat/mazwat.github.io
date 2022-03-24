@@ -156,6 +156,8 @@ This process of moving around a joint is called Forward Kinematics when it is di
 
 In this example of a game Rainworld. The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 
+### Forward Kinematics
+
 ![Angles in Robot Arm](images/arm.svg)
 *Fig.13 -Joints and end effector of a robot arm*
 
@@ -173,10 +175,10 @@ Let’s see how this is calculated with just two joints. Once solved for two, we
 In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
 This means that, simply:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzQ3MDg5NiwtODAxNDU3MjExLDE2Nz
-Q1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYx
-MywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1Mj
-IzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1
-NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC
-0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbNzU1NzcyMDM4LC04MDE0NTcyMTEsMTY3ND
+U0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEz
+LC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMj
+MzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0
+NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLT
+EzNTMzOTYxODQsMzk0Njg3MzI2XX0=
 -->
