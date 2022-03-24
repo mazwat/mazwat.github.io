@@ -229,123 +229,103 @@ I have modelled an arm using various cubes. You can see how I have named them an
 You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
 
 The code used in the example above is this:
+
 ```c#
-public  class  SimpleIK2D : MonoBehaviour
+public class SimpleIK2D : MonoBehaviour
 {
-	struct  IKResult
-	{
-		public float Angle0;
-		public float Angle1;
-	}
-	
-	[Header("Joints")]
-	public  Transform  Joint0;
-	public  Transform  Joint1;
-	public  Transform  Hand;
-	
-	Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
-	
-	[Header("Target")]
-	public  Transform  Target;
-	// Update is called once per frame
-...
-	void Update()
-	{
-		IKResult result;
-		IK(out result);
-	{
-	Vector3  Euler0 = Joint0.transform.localEulerAngles;
+    struct IKResult
+    {
+        public float Angle0;
+        public float Angle1;
+    }
 
-Euler0.z = result.Angle0;
+    [Header("Joints")]
+    public Transform Joint0;
+    public Transform Joint1;
+    public Transform Hand;
 
-Joint0.transform.localEulerAngles = Euler0;
+    [Header("Target")]
+    public Transform Target;
 
-  
+    // Update is called once per frame
+    void Update()
+    {
+        IKResult result;
+        IK(out result);
+        {
+            Vector3 Euler0 = Joint0.transform.localEulerAngles;
+            Euler0.z = result.Angle0;
+            Joint0.transform.localEulerAngles = Euler0;
 
-Vector3  Euler1 = Joint1.transform.localEulerAngles;
+            Vector3 Euler1 = Joint1.transform.localEulerAngles;
+            Euler1.z = result.Angle1;
+            Joint1.transform.localEulerAngles = Euler1;
+        }
+    }
 
-Euler1.z = result.Angle1;
+    private bool IK (out IKResult result)
+    {
+        float length0 = Vector2.Distance(Joint0.position, Joint1.position);
+        float length1 = Vector2.Distance(Joint1.position, Hand.position);
+        float length2 = Vector2.Distance(Joint0.position, Target.position);
 
-Joint1.transform.localEulerAngles = Euler1;
+        // Angle from Joint0 and Target
+        Vector2 diff = Target.position - Joint0.position;
+        float atan = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
 
-}
+        result = new IKResult();
+            
+        // Is the target reachable?
+        // If not, we stretch as far as possible
+        if (length0 + length1 < length2)
+        {
+            result.Angle0 = atan;
+            result.Angle1 = 0f;
+            return false;
+        }
+          
+        float cosAngle0 = ((length2 * length2) + (length0 * length0) - (length1 * length1)) / (2 * length2 * length0);
+        float angle0 = Mathf.Acos(cosAngle0) * Mathf.Rad2Deg;
 
-}
+        float cosAngle1 = ((length1 * length1) + (length0 * length0) - (length2 * length2)) / (2 * length1 * length0);
+        float angle1 = Mathf.Acos(cosAngle1) * Mathf.Rad2Deg;
 
-  
+        // So they work in Unity reference frame
+        result.Angle0 = atan + angle0;
+        result.Angle1 = 180f + angle1;
 
-private  bool  IK (out  IKResult  result)
-
-{
-
-float  length0 = Vector2.Distance(Joint0.position, Joint1.position);
-
-float  length1 = Vector2.Distance(Joint1.position, Hand.position);
-
-float  length2 = Vector2.Distance(Joint0.position, Target.position);
-
-  
-
-// Angle from Joint0 and Target
-
-Vector2  diff = Target.position - Joint0.position;
-
-float  atan = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
-
-  
-
-result = new IKResult();
-
-// Is the target reachable?
-
-// If not, we stretch as far as possible
-
-if (length0 + length1 < length2)
-
-{
-
-result.Angle0 = atan;
-
-result.Angle1 = 0f;
-
-return false;
-
-}
-
-  
-
-float  cosAngle0 = ((length2 * length2) + (length0 * length0) - (length1 * length1)) / (2 * length2 * length0);
-
-float  angle0 = Mathf.Acos(cosAngle0) * Mathf.Rad2Deg;
-
-  
-
-float  cosAngle1 = ((length1 * length1) + (length0 * length0) - (length2 * length2)) / (2 * length1 * length0);
-
-float  angle1 = Mathf.Acos(cosAngle1) * Mathf.Rad2Deg;
-
-  
-
-// So they work in Unity reference frame
-
-result.Angle0 = atan + angle0;
-
-result.Angle1 = 180f + angle1;
-
-  
-
-return true;
-
-}
-
+        return true;
+    }
 }
 ```
+
+In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a struct to contain the angle values of the 2 joints. 
+
+The joints are rotated by accessing the localEulerAngles property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
+
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length_ CLICK
+
+  
+
+What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. CLICK
+
+  
+
+Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions cos^{-1} and tan^{-1} are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
+
+  
+
+———-
+
+  
+
+The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIxODE0NjEsLTg3MTEwMjI5MywyMD
-ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
-Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
-00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
-MDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0Ni
-wtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEz
-NTMzOTYxODRdfQ==
+eyJoaXN0b3J5IjpbLTYzOTk3ODc2OCwtODcxMTAyMjkzLDIwMT
+E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
+NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
+Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
+ODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC
+00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1
+MzM5NjE4NF19
 -->
