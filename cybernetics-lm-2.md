@@ -175,7 +175,7 @@ Let’s see how this is calculated with just two joints. Once solved for two, we
 ![Angles and positions of nested objects](images/forward-angles.png)
 *Fig.14 - Angles and positions of nested objects*
 
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK $$\alpha_0=0$$, like in the following diagram:
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $\alpha_0=0$, like in the following diagram:
 This means that, simply:
 
 
@@ -185,43 +185,28 @@ Let’s see how this is calculated with just two joints. Once solved for two, we
 
 In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
 
-This means that, simply: CLICK
-
-  
+This means that, simply: 
 
 $$  P_1 = P_0 + D_1$$
-
-  
 
 When \alpha_0 is not zero, what we have to do is rotate the distance vector at rest D_1 around P_0 by \alpha_0 degrees:
 
 Mathematically we can write this as:CLICK
 
-  
-
 $$P_1 = P_0 + rotate\left(D_1, P_0, \alpha_0\right)$$
-
-  
 
 By replicating the same logic, we can derive the equation for P_2:
 
-  
-
-$$P_2 = P_1 + rotate\left(D_2, P_1, \alpha_0 + \alpha_1\right)$$
-
-  
+ $$P_2 = P_1 + rotate\left(D_2, P_1, \alpha_0 + \alpha_1\right)$$
 
 And finally, the general equation:
 
-  
-
-&&P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
+$$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM2MjA0MjMsLTIwMTA1MTA5ODEsLT
-gwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIz
-NTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLD
-k1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0
-MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3Mi
-wtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
-
+eyJoaXN0b3J5IjpbMTM2NzA5ODk3OSwtMjAxMDUxMDk4MSwtOD
+AxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1
+OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOT
+U4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQx
+MDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC
+0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
