@@ -57,9 +57,7 @@ Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman
 
 The seminal text on the subject is *Cybernetics or Control and Communication in the Animal and the Machine* By Norbert Weiner who is considered the father of cybernetics.
 
-Wiener described the field like this: 
-
-*"Control and communication in the animal and the machine"*
+Wiener described the field like this:  *"Control and communication in the animal and the machine"*
 
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
@@ -108,7 +106,7 @@ Cybernetics is concerned with the concept of determinate machines. Maths and phy
  ![Insect Behaviour](images/insect.svg)
 *fig. 9 - Insect mating behaviour*
 
-In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
+In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour may vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
 
 ### Calculating Transformations
 
@@ -208,7 +206,7 @@ The length of the arms, lower case **c** and **a**, is a known. If the point we 
 *Equation A.*
 $$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
 *Equation B.*
-$$\begin{equation*}  B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}} \end{equation*}$$
+$$B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}}$$
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
 
@@ -226,9 +224,9 @@ I have modelled an arm using various cubes. You can see how I have named them an
 
 #### IK Example in Unity
 
-You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
+You can see the repo for this example here: **[https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)**
 
-The code used in the example above is this:
+Let's break down the code used in the example above:
 
 ```c#
 public class SimpleIK2D : MonoBehaviour
@@ -298,29 +296,54 @@ public class SimpleIK2D : MonoBehaviour
 }
 ```
 
-In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a struct to contain the angle values of the 2 joints. 
+In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a `struct` to contain the angle values of the two joints. 
 
-The joints are rotated by accessing the localEulerAngles property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
+The joints are rotated by accessing the `localEulerAngles` property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
 
-The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the `floats _length`
 
  What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. 
 
-Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
+Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called `Mathf.Acos` and `Mathf.Atan2` in Unity. Also, the final angles are converted to degrees using `Mathf.Rad2Deg`, since the Transform component accepts degrees, instead of radians.
 
-  
+The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how it is relevant both to robotics students because it's about moving physical objects and how they move in three dimensional or two dimensional space. In the next section we will explore the states of a system and how they can be controlled.
 
-———-
+## The Transistor
 
-  
+![Transistors](images/transistors.png)
+*Fig.14 - Modern PNP and MOSFET transistor and a 1930 vacuum transistor*
 
-The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
+The digital revolution owes its success to one small component which is standard in all electronic devices - the transistor. The first Transistors were made in glass vacuum tubes in 1907(the above example is from the 1930s) however the first solid state transistor was not invented until 1947.
+
+A transistor is a miniature electronic component that can do two different jobs. (CLICK) It can work either as an amplifier or a switch. As an amplifier, it takes in a tiny electric current at one end (an input current) and produces a much bigger electric current (an output current) at the other. In other words, it's a kind of current booster. That comes in really useful in things like radios where a small sound signal needs boosting. In the 50s and 60s radios were often referred to as ‘transistors’.
+
+It’s other use is as a switch. A tiny electric current flowing through one part of a transistor can make a much bigger current flow through another part of it. In other words, the small current switches on the larger one. Another way of imagining this is to say we use electrical current rather than a finger to flick a switch. A modern memory chip contains hundreds of millions or even billions of transistors, each of which can be switched on or off individually. Since each transistor can be in two distinct states, it can store two different numbers, zero and one. If something can be in 2 states it is like a very small very primitive brain.
+
+![Transistors](images/transistor-layers.png)
+*Fig.15 -Layers of silicon in a transistor*
+
+A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, the p-type has holes where electrons should be. The layers have pins attached to them that are called the emitter, the base and the collector. Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
+
+ ![Transistors](images/transistor-on-off.png)
+*Fig.15 - Transistor in On and Off state* 
+
+A transistor works when the electrons and the holes start moving across the two junctions between the n-type and p-type silicon. If we connect the transistor up to some power. CLICK and we attach a small positive voltage to the base, make the emitter negatively charged, and make the collector positively charged. Electrons are pulled from the emitter into the base through these holes—and then from the base into the collector. And the transistor switches to its "on" state:
+
+When there is no current to the base, little or no current flows between the collector and the emitter. Turn on the base current and a big current flows. So the base current switches the whole transistor on and off. So then we have a binary switch
+
+If a transistor acts as an electronic automated switch or a single neuron we can use them in concert with more transistors to create more states in the machine. Effectively by having a range of different gates - AND, OR  and NOT we can control more complex states, like what part of seven segmented digital display is on simply by feeding a binary number sequence like 1,1,1,0.
+
+I won’t go into great detail as you have already touched on the theory of this in COMP110 with the application of truth tables. Let’s look at a practical example in TinkerCAD.
+
+### Logic Gate Circuits Example
+
+[https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3MTc5ODMsLTExMTg0MjQ1OTMsLT
-g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
-NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
-wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
-Nzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOT
-YsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEw
-MDcwMjc4MzBdfQ==
+eyJoaXN0b3J5IjpbMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNT
+kwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEw
+MjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMT
+EsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2
+MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0OD
+ksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgw
+MzkzNTU0Nl19
 -->
