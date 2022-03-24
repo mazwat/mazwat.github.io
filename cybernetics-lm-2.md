@@ -254,8 +254,7 @@ public  class  SimpleIK2D : MonoBehaviour
 		IKResult result;
 		IK(out result);
 	{
-
-Vector3  Euler0 = Joint0.transform.localEulerAngles;
+	Vector3  Euler0 = Joint0.transform.localEulerAngles;
 
 Euler0.z = result.Angle0;
 
@@ -342,11 +341,11 @@ return true;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTExOTg4NywtODcxMTAyMjkzLDIwMT
-E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
-NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
-Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
-ODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC
-00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1
-MzM5NjE4NF19
+eyJoaXN0b3J5IjpbLTEwNTIxODE0NjEsLTg3MTEwMjI5MywyMD
+ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
+Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
+00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
+MDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0Ni
+wtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEz
+NTMzOTYxODRdfQ==
 -->
