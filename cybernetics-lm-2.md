@@ -359,15 +359,23 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 [https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
 
-To c
+To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
+
+I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
+
+
+
+What the Braitenburg vehicle demonstrates is that you can have an autonomous agent that can orient itself in space based on a simple set of sensors, a simple controller (2 transistors) that allows for variance in the output of it’s motors that translates directly from the input to it’s sensors. As humans we immediately assign animal like qualities to it’s behaviour. In this instance the robot is aggressive because it is always moving towards the light if we switch the polarity of the motors the robot will interpret less light to mean more power, this will produce a shy behaviour moving away from the light.
+
+  This demonstrates how simple sensing, controlling and actuating can produce complex intriguing behaviour.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODkxOTEsMTYwMzQxMTMyOSwtMTQyMD
-U2NzQwNywyNTkwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1
-OTMsLTg3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC
-04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYy
-MzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMS
-w5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgw
-NDEwOTZdfQ==
+eyJoaXN0b3J5IjpbMTA4MzIxOTYxMywxNjAzNDExMzI5LC0xND
+IwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQy
+NDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5OD
+EsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkz
+NjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MD
+MxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1
+ODA0MTA5Nl19
 -->
