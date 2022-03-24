@@ -205,9 +205,9 @@ In this scenario, we have a robot arm with 2 degrees of freedom. We are going to
 
 The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
 
-*Equation 1.*
+*Equation A.*
 $$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
-*Equation 2.*
+*Equation B.*
 $$\begin{equation*}  B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}} \end{equation*}$$
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
@@ -304,11 +304,9 @@ The joints are rotated by accessing the localEulerAngles property of the joints�
 
 The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length
 
- What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. CLICK
+ What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. 
 
-  
-
-Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions cos^{-1} and tan^{-1} are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
+Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
 
   
 
@@ -318,11 +316,11 @@ Finally we have to calculate the angles. If we translate equations (A) and (B) d
 
 The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
-ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
-Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
-00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
-MDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0Ni
-wtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEz
-NTMzOTYxODRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzU3MTc5ODMsLTExMTg0MjQ1OTMsLT
+g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
+NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
+wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
+Nzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOT
+YsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEw
+MDcwMjc4MzBdfQ==
 -->
