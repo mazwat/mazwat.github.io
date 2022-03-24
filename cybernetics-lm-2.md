@@ -308,13 +308,23 @@ The equations derived from knowing the length of the first two bones (called c a
 
 Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called `Mathf.Acos` and `Mathf.Atan2` in Unity. Also, the final angles are converted to degrees using `Mathf.Rad2Deg`, since the Transform component accepts degrees, instead of radians.
 
-The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how	
+The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how it is relevant both to robotics students because it's about moving physical objects and how they move in three dimensional or two dimensional space. In the next section we will explore the states of a system and how they can be controlled.
+
+## The Transistor
+
+The digital revolution owes its success to one small component which is standard in all electronic devices - the transistor. CLICK The first Transistors were made in glass vacuum tubes in 1907(the above example is from the 1930s) however the first solid state transistor was not invented until 1947.
+
+A transistor is a miniature electronic component that can do two different jobs. (CLICK) It can work either as an amplifier or a switch. As an amplifier, it takes in a tiny electric current at one end (an input current) and produces a much bigger electric current (an output current) at the other. In other words, it's a kind of current booster. That comes in really useful in things like radios where a small sound signal needs boosting. In the 50s and 60s radios were often referred to as ‘transistors’.
+
+  
+
+It’s other use is as a switch. A tiny electric current flowing through one part of a transistor can make a much bigger current flow through another part of it. In other words, the small current switches on the larger one. Another way of imagining this is to say we use electrical current rather than a finger to flick a switch. A modern memory chip contains hundreds of millions or even billions of transistors, each of which can be switched on or off individually. Since each transistor can be in two distinct states, it can store two different numbers, zero and one. If something can be in 2 states it is like a very small very primitive brain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLT
-g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
-NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
-wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
-Nzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOT
-YsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEw
-MDcwMjc4MzBdfQ==
+eyJoaXN0b3J5IjpbMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMT
+E4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUx
+MDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LD
+E2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIy
+NDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OC
+wtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMjA2
+NDQyOTcyXX0=
 -->
