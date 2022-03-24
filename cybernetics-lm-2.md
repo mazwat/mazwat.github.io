@@ -200,11 +200,19 @@ $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 
 In this scenario, we have a robot arm with 2 degrees of freedom.
 
-The length of the arms, lower case c and a, is a known.CLICK If the point we have to reach is C, CLICK then the configuration becomes a triangle in which all sides are known. CLICK
+The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
 
-We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints. CLICK
+We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
+
+ - Root
+	 - Joint 0
+	 - Bone 0
+		 - Joint 1
+		 - 
+
+I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM2MTI2NTgsMjAxMTcyNjUyNiwtMj
+eyJoaXN0b3J5IjpbLTIwMzk0NDU1NjAsMjAxMTcyNjUyNiwtMj
 AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
 NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
 E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
