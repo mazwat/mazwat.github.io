@@ -172,7 +172,7 @@ From the previous diagrams it should be clear to solve the problem of forward ki
 
 Let’s see how this is calculated with just **two joints**. Once solved for two, we can just replicate it in sequence to solve chains of any length.
 
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $\alpha_0=0$, like in the following diagram.
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $$\alpha_0=0$$, like in the following diagram.
 
 ![Angles and positions of nested objects](images/forward-angles.png)
 *Fig.14 - Angles and positions of nested objects*
@@ -181,7 +181,7 @@ This means that, simply:
 
 $$ P_1 = P_0 + D_1$$
 
-When $\alpha_0=0$ is not zero, what we have to do is rotate the distance vector at rest $D1$ around $P0$ by $\alpha_0$ degrees:
+When $\alpha_0=0$ is not zero, what we have to do is rotate the distance vector at rest $$D1$$ around $P0$ by $\alpha_0$ degrees:
 
 Mathematically we can write this as:CLICK
 
@@ -196,9 +196,15 @@ And finally, the general equation:
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 
 ![Inverse Joints](images/inverse-joints.png)
-*Fig.14 - Two De*
+*Fig.15 - Two Degress of Freedom*
+
+In this scenario, we have a robot arm with 2 degrees of freedom.
+
+The length of the arms, lower case c and a, is a known.CLICK If the point we have to reach is C, CLICK then the configuration becomes a triangle in which all sides are known. CLICK
+
+We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints. CLICK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY4NTg0NDEsMjAxMTcyNjUyNiwtMj
+eyJoaXN0b3J5IjpbLTEyMzM2MTI2NTgsMjAxMTcyNjUyNiwtMj
 AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
 NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
 E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
