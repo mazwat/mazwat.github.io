@@ -137,13 +137,17 @@ monster1.transform.Translate(movementMonster * Time.deltaTime);
 ```
 This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
 
+## Applying Cybernetics
+
+### Kinematics & Inverse Kinematics
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMzMjU4NTksMTY5MzYyMzU5OSwyMD
-U2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0
-ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLT
-gwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcw
-Mjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTY2MDU3OTI3LDE2OTM2MjM1OTksMjA1Nj
+EyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5
+LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MD
+M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
+ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
