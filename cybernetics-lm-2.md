@@ -275,8 +275,7 @@ public class SimpleIK2D : MonoBehaviour
 
         result = new IKResult();
             
-        // Is the target reachable?
-        // If not, we stretch as far as possible
+        // Is the target reachable? If not, we stretch as far as possible
         if (length0 + length1 < length2)
         {
             result.Angle0 = atan;
@@ -303,11 +302,9 @@ In the first part of the script we assign the joints, hands and target as variab
 
 The joints are rotated by accessing the localEulerAngles property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
 
-The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length_ CLICK
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length
 
-  
-
-What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. CLICK
+ What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. CLICK
 
   
 
@@ -321,11 +318,11 @@ Finally we have to calculate the angles. If we translate equations (A) and (B) d
 
 The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTk3ODc2OCwtODcxMTAyMjkzLDIwMT
-E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
-NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
-Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
-ODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC
-00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1
-MzM5NjE4NF19
+eyJoaXN0b3J5IjpbLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
+ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
+Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
+00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
+MDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0Ni
+wtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEz
+NTMzOTYxODRdfQ==
 -->
