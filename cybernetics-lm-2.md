@@ -201,7 +201,7 @@ $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 ![Inverse Joints](images/inverse-joints.png)
 *Fig.15 - Two Degress of Freedom*
 
-In this scenario, we have a robot arm with 2 degrees of freedom.
+In this scenario, we have a robot arm with 2 degrees of freedom. We are going to create simple 2D inverse kinematics implementation.
 
 The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
 
@@ -228,13 +228,146 @@ I have modelled an arm using various cubes. You can see how I have named them an
 
 You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
 
-The code use
+The code used in the example above is this:
+```c#
+{
+
+struct  IKResult
+
+{
+
+public float Angle0;
+
+public float Angle1;
+
+}
+
+  
+
+[Header("Joints")]
+
+public  Transform  Joint0;
+
+public  Transform  Joint1;
+
+public  Transform  Hand;
+
+  
+
+Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
+
+  
+
+[Header("Target")]
+
+public  Transform  Target;
+
+  
+
+// Update is called once per frame
+
+void Update()
+
+{
+
+IKResult result;
+
+IK(out result);
+
+{
+
+Vector3  Euler0 = Joint0.transform.localEulerAngles;
+
+Euler0.z = result.Angle0;
+
+Joint0.transform.localEulerAngles = Euler0;
+
+  
+
+Vector3  Euler1 = Joint1.transform.localEulerAngles;
+
+Euler1.z = result.Angle1;
+
+Joint1.transform.localEulerAngles = Euler1;
+
+}
+
+}
+
+  
+
+private  bool  IK (out  IKResult  result)
+
+{
+
+float  length0 = Vector2.Distance(Joint0.position, Joint1.position);
+
+float  length1 = Vector2.Distance(Joint1.position, Hand.position);
+
+float  length2 = Vector2.Distance(Joint0.position, Target.position);
+
+  
+
+// Angle from Joint0 and Target
+
+Vector2  diff = Target.position - Joint0.position;
+
+float  atan = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+
+  
+
+result = new IKResult();
+
+// Is the target reachable?
+
+// If not, we stretch as far as possible
+
+if (length0 + length1 < length2)
+
+{
+
+result.Angle0 = atan;
+
+result.Angle1 = 0f;
+
+return false;
+
+}
+
+  
+
+float  cosAngle0 = ((length2 * length2) + (length0 * length0) - (length1 * length1)) / (2 * length2 * length0);
+
+float  angle0 = Mathf.Acos(cosAngle0) * Mathf.Rad2Deg;
+
+  
+
+float  cosAngle1 = ((length1 * length1) + (length0 * length0) - (length2 * length2)) / (2 * length1 * length0);
+
+float  angle1 = Mathf.Acos(cosAngle1) * Mathf.Rad2Deg;
+
+  
+
+// So they work in Unity reference frame
+
+result.Angle0 = atan + angle0;
+
+result.Angle1 = 180f + angle1;
+
+  
+
+return true;
+
+}
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTI1OTYzMSwyMDExNzI2NTI2LC0yMD
-EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
-MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
-QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
-NjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC
-0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0
-Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTEyMzMyMTg3ODYsMjAxMTcyNjUyNiwtMj
+AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
+NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
+E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
+MTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMy
+wtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5
+NDY4NzMyNl19
 -->
