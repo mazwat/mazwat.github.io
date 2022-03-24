@@ -157,24 +157,26 @@ This process of moving around a joint is called Forward Kinematics when it is di
 In this example of a game Rainworld. The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 
 ![Angles in Robot Arm](images/arm.svg)
-*Fig.13 - Angles and Rotations of a Robot Arm
+*Fig.13 -Joints and end effector of a robot arm*
 
 I am going to briefly touch on the maths and some code we apply to machines in order to make them move realistically.
 A robot arm may have 3 joints and an end effector (this is the name used to describe the claw or gripper on the end).
 If the arm moves around it’s joints we have to calculate the movement and rotations between each bone and it’s joint.
+
+![Angles in Robot Arm](images/arm2.svg)
+*Fig.14 - Angles and Rotations of a Robot Arm*
 
 From the previous diagrams it should be clear to solve the problem of forward kinematics, we need to be able to calculate the position of nested objects due to their rotation.
 
 Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
 
 In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
-
 This means that, simply:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MD
-Y5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4
-NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3Mz
-I1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMz
-MzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NC
-wzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbMTEyMzQ3MDg5NiwtODAxNDU3MjExLDE2Nz
+Q1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYx
+MywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1Mj
+IzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1
+NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC
+0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
 -->
