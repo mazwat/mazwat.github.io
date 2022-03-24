@@ -141,11 +141,15 @@ This logical thinking underpins the way we manage transitions in matrices in com
 
 ### Kinematics & Inverse Kinematics
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6E0Ajxm2q4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+When we want to transform from one state to the next we need to apply some maths and physics to make things move effectively. Many robots and a lot of games are trying to mimic the movement of real world creatures. Most animals have joints and their movement is based on the rotation of numerous bones around various joints.
 
+ This process of moving around a joint is called Forward Kinematics when it is directly moving a joint to a position or inverse kinematics when the joint is being moved based on it’s relationship to the end effector. IN the example above the end effector is the characters hand.
 
+In this example of a game Rainworld. CLICK The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU3OTI3LDE2OTM2MjM1OTksMjA1Nj
+eyJoaXN0b3J5IjpbODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1Nj
 EyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5
 LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MD
 M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
