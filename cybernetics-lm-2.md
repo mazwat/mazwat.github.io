@@ -155,11 +155,21 @@ This process of moving around a joint is called Forward Kinematics when it is di
 *Fig. 12 - Rain World | Videocult (2017)*
 
 In this example of a game Rainworld. The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
+
+![Angles in Robot Arm](images/arm.svg)
+*Fig.13 - Angles and 
+
+I am going to briefly touch on the maths and some code we apply to machines in order to make them move realistically.
+
+A robot arm may have 3 joints CLICK and an end effector CLICK (this is the name used to describe the claw or gripper on the end.
+
+If the arm moves around it’s joints we have to calculate the movement and rotations between each bone and it’s joint. CLICK, CLICK, CLICK*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5Mz
-YyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAz
-MSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNT
-gwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5
-NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX
-0=
+eyJoaXN0b3J5IjpbMTU3NjI1MjQ4MiwxNjc0NTQyNzczLDg4MD
+Y5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4
+NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3Mz
+I1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMz
+MzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NC
+wzOTQ2ODczMjZdfQ==
 -->
