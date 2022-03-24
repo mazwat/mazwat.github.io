@@ -333,17 +333,33 @@ When there is no current to the base, little or no current flows between the col
 
 If a transistor acts as an electronic automated switch or a single neuron we can use them in concert with more transistors to create more states in the machine. Effectively by having a range of different gates - AND, OR  and NOT we can control more complex states, like what part of seven segmented digital display is on simply by feeding a binary number sequence like 1,1,1,0.
 
-I won’t go into great detail as you have already touched on the theory of this in COMP110 with the application of truth tables. Let’s look at a practical example in TinkerCAD.
+I won’t go into great detail as you have already touched on the theory of this in COMP110 with the application of truth tables. Let’s look at a practical example in **TinkerCAD**:
 
 ### Logic Gate Circuits Example
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
+
+### Braitenburg Vehicles
+
+In the middle of the last century, Valentino Braitenberg proposed a form of robot with simple neurons. Born in Italy, Braitenberg was a neuroscientist and cyberneticist who became the director of the Max Planck Institute for Biological Cybernetics in Tübingen, Germany. He is most famous for his thought experiment the Braitenberg vehicle. A Braitenburg vehicle has:
+
+-   Simple ‘eyes’ sensitive to light
+-   These are connected to neurons which respond to the eyes
+-   Which are connected to motors which drive the robot’s wheels
+
+The vehicles are put in an environment with lights. The robot’s behaviour is set by how the neurons are connected.
+
+  -  The robot can be a ‘light seeker’
+-   Or a ‘light phobe’ (avoids light)
+-   Each behaviour can be considered  ‘aggressive’ or ‘shy’
+
+Let’s return to TinkerCAD and look at how we might build a simple robot like this. We’re going to look at the light seeker example.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNT
-kwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEw
-MjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMT
-EsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2
-MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0OD
-ksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgw
-MzkzNTU0Nl19
+eyJoaXN0b3J5IjpbLTE3Mjg5MDE0MywxNjAzNDExMzI5LC0xND
+IwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQy
+NDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5OD
+EsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkz
+NjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MD
+MxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1
+ODA0MTA5Nl19
 -->
