@@ -230,31 +230,19 @@ You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-
 
 The code used in the example above is this:
 ```c#
+public  class  SimpleIK2D : MonoBehaviour
 {
-
-struct  IKResult
-
-{
-
-public float Angle0;
-
-public float Angle1;
-
-}
-
-  
-
-[Header("Joints")]
-
-public  Transform  Joint0;
-
-public  Transform  Joint1;
-
-public  Transform  Hand;
-
-  
-
-Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
+	struct  IKResult
+	{
+		public float Angle0;
+		public float Angle1;
+	}
+	
+	[Header("Joints")]
+	public  Transform  Joint0;
+	public  Transform  Joint1;
+	public  Transform  Hand;
+		Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
 
   
 
@@ -363,11 +351,11 @@ return true;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMyMTg3ODYsMjAxMTcyNjUyNiwtMj
-AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
-NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
-E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
-MTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMy
-wtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5
-NDY4NzMyNl19
+eyJoaXN0b3J5IjpbNTQ2NDE2MTgxLDIwMTE3MjY1MjYsLTIwMT
+A1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUy
+NywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxND
+IyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2
+NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLT
+IwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2
+ODczMjZdfQ==
 -->
