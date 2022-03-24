@@ -172,16 +172,16 @@ From the previous diagrams it should be clear to solve the problem of forward ki
 
 Let’s see how this is calculated with just **two joints**. Once solved for two, we can just replicate it in sequence to solve chains of any length.
 
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $\alpha_0=0$, like in the following diagram.
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $$\alpha_0=0$$, like in the following diagram.
 
 ![Angles and positions of nested objects](images/forward-angles.png)
 *Fig.14 - Angles and positions of nested objects*
 
 This means that, simply: 
 
-$$  P_1 = P_0 + D_1$$
+$$ P_1 = P_0 + D_1$$
 
-When \alpha_0 is not zero, what we have to do is rotate the distance vector at rest D_1 around P_0 by \alpha_0 degrees:
+When $$\alpha_0=0$$ is not zero, what we have to do is rotate the distance vector at rest $$D1$$ around $$P0$$ by $$\alpha_0$$ degrees:
 
 Mathematically we can write this as:CLICK
 
@@ -194,11 +194,133 @@ By replicating the same logic, we can derive the equation for P_2:
 And finally, the general equation:
 
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
+
+### Inverse Kinematics (IK)
+#### Two Degrees of Freedom
+
+![Inverse Joints](images/inverse-joints.png)
+*Fig.15 - Two Degress of Freedom*
+
+In this scenario, we have a robot arm with 2 degrees of freedom. We are going to create simple 2D inverse kinematics implementation.
+
+The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
+
+*Equation A.*
+$$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
+*Equation B.*
+$$\begin{equation*}  B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}} \end{equation*}$$
+
+We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
+
+ - Root
+	 - Joint 0
+	 - Bone 0
+		 - Joint 1
+		 - Bone 1
+		 - Hand
+
+I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects.
+
+![Basic IK Rig](images/unity-arm.png)
+*Fig.15 - Basic rig for IK in Unity*
+
+#### IK Example in Unity
+
+You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
+
+The code used in the example above is this:
+
+```c#
+public class SimpleIK2D : MonoBehaviour
+{
+    struct IKResult
+    {
+        public float Angle0;
+        public float Angle1;
+    }
+
+    [Header("Joints")]
+    public Transform Joint0;
+    public Transform Joint1;
+    public Transform Hand;
+
+    [Header("Target")]
+    public Transform Target;
+
+    // Update is called once per frame
+    void Update()
+    {
+        IKResult result;
+        IK(out result);
+        {
+            Vector3 Euler0 = Joint0.transform.localEulerAngles;
+            Euler0.z = result.Angle0;
+            Joint0.transform.localEulerAngles = Euler0;
+
+            Vector3 Euler1 = Joint1.transform.localEulerAngles;
+            Euler1.z = result.Angle1;
+            Joint1.transform.localEulerAngles = Euler1;
+        }
+    }
+
+    private bool IK (out IKResult result)
+    {
+        float length0 = Vector2.Distance(Joint0.position, Joint1.position);
+        float length1 = Vector2.Distance(Joint1.position, Hand.position);
+        float length2 = Vector2.Distance(Joint0.position, Target.position);
+
+        // Angle from Joint0 and Target
+        Vector2 diff = Target.position - Joint0.position;
+        float atan = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+
+        result = new IKResult();
+            
+        // Is the target reachable? If not, we stretch as far as possible
+        if (length0 + length1 < length2)
+        {
+            result.Angle0 = atan;
+            result.Angle1 = 0f;
+            return false;
+        }
+          
+        float cosAngle0 = ((length2 * length2) + (length0 * length0) - (length1 * length1)) / (2 * length2 * length0);
+        float angle0 = Mathf.Acos(cosAngle0) * Mathf.Rad2Deg;
+
+        float cosAngle1 = ((length1 * length1) + (length0 * length0) - (length2 * length2)) / (2 * length1 * length0);
+        float angle1 = Mathf.Acos(cosAngle1) * Mathf.Rad2Deg;
+
+        // So they work in Unity reference frame
+        result.Angle0 = atan + angle0;
+        result.Angle1 = 180f + angle1;
+
+        return true;
+    }
+}
+```
+
+In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a struct to contain the angle values of the 2 joints. 
+
+The joints are rotated by accessing the localEulerAngles property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
+
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length
+
+ What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. 
+
+Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
+
+  
+
+———-
+
+  
+
+The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtOD
-AxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1
-OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOT
-U4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQx
-MDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC
-0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbLTEzNzU3MTc5ODMsLTExMTg0MjQ1OTMsLT
+g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
+NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
+wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
+Nzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOT
+YsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEw
+MDcwMjc4MzBdfQ==
 -->
