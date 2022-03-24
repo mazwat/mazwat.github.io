@@ -142,22 +142,24 @@ This logical thinking underpins the way we manage transitions in matrices in com
 ### Forward & Inverse Kinematics
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6E0Ajxm2q4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Fig. 10 - Pain by Deck Nine, San Diego Studio (2007)*
 
 When we want to transform from one state to the next we need to apply some maths and physics to make things move effectively. Many robots and a lot of games are trying to mimic the movement of real world creatures. Most animals have joints and their movement is based on the rotation of numerous bones around various joints.
 
 ![Forward & Inverse Kinematics](images/kinematics.gif)
-Fig. 10 - 
+
 
 This process of moving around a joint is called Forward Kinematics when it is directly moving a joint to a position or inverse kinematics when the joint is being moved based on it’s relationship to the end effector. IN the example above the end effector is the characters hand.
  
 ![enter image description here](https://s3.amazonaws.com/ksr/assets/003/188/805/4c82ee12cc4e1b9db4774ed128b2d4f8_large.gif?1422284040)
-Fig. 11 - 
+*Fig. 11 - Rain World | Videocult (2017)*
+
 In this example of a game Rainworld. The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTMzNzkyMiw4ODA2OTI1MjcsMTY5Mz
-YyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAz
-MSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNT
-gwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5
-NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX
-0=
+eyJoaXN0b3J5IjpbLTYxMzE2MTk0LDg4MDY5MjUyNywxNjkzNj
+IzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMx
+LDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1OD
+A0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3
+MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ
+==
 -->
