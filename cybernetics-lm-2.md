@@ -57,9 +57,7 @@ Cybernetics comes from the Greek word - **kybernetes** which means ‘_steersman
 
 The seminal text on the subject is *Cybernetics or Control and Communication in the Animal and the Machine* By Norbert Weiner who is considered the father of cybernetics.
 
-Wiener described the field like this: 
-
-*"Control and communication in the animal and the machine"*
+Wiener described the field like this:  *"Control and communication in the animal and the machine"*
 
 Cybernetics is also about learning processes from animals and plants and using robotic simulations to gain a better understanding of complex natural systems.
 
@@ -108,7 +106,7 @@ Cybernetics is concerned with the concept of determinate machines. Maths and phy
  ![Insect Behaviour](images/insect.svg)
 *fig. 9 - Insect mating behaviour*
 
-In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
+In this example of a study of insect mating behaviour one state proceeds to the next. Although the insect behaviour may vary slightly. We can work on the basis that each state is relatively stable and will proceed in some fashion to the next.
 
 ### Calculating Transformations
 
@@ -333,11 +331,11 @@ A transistor works when the electrons and the holes start moving across the two 
 
 When there is no current to the base, little or no current flows between the collector and the emitter. Turn on the base current and a big current flows. So the base current switches the whole transistor on and off. So then we have a binary switch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzQ1Mzk2NiwyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3My
-w4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3
-NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNy
-wxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUx
-NzgzMzMzXX0=
+eyJoaXN0b3J5IjpbOTg4MzAzMTUxLDI1OTAzNTUyNSwtMjA0ND
+czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
+MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLD
+g4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3
+MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LD
+E3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3
+ODMzMzNdfQ==
 -->
