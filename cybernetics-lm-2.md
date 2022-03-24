@@ -367,15 +367,15 @@ I have used vibration motors the type found in mobile phones. These will vibrate
 
 What the Braitenburg vehicle demonstrates is that you can have an autonomous agent that can orient itself in space based on a simple set of sensors, a simple controller (2 transistors) that allows for variance in the output of it’s motors that translates directly from the input to it’s sensors. As humans we immediately assign animal like qualities to it’s behaviour. In this instance the robot is aggressive because it is always moving towards the light if we switch the polarity of the motors the robot will interpret less light to mean more power, this will produce a shy behaviour moving away from the light.
 
-  This demonstrates how simple sensing, controlling and actuating can produce complex intriguing behaviour.
+ This demonstrates how simple sensing, controlling and actuating can produce complex intriguing behaviour.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzIxOTYxMywxNjAzNDExMzI5LC0xND
-IwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQy
-NDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5OD
-EsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkz
-NjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MD
-MxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1
-ODA0MTA5Nl19
+eyJoaXN0b3J5IjpbMzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0Mj
+A1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0
+NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MS
+wtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2
+MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMz
+EsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4
+MDQxMDk2XX0=
 -->
