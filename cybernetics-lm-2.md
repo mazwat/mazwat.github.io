@@ -325,7 +325,7 @@ It’s other use is as a switch. A tiny electric current flowing through one par
 A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, the p-type has holes where electrons should be. The layers have pins attached to them that are called the emitter, the base and the collector. Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
 
  ![Transistors](images/transistor-on-off.png)
-*Fig.15 - Transistor in On and Off state* 
+*Fig.16 - Transistor in On and Off state* 
 
 A transistor works when the electrons and the holes start moving across the two junctions between the n-type and p-type silicon. If we connect the transistor up to some power. CLICK and we attach a small positive voltage to the base, make the emitter negatively charged, and make the collector positively charged. Electrons are pulled from the emitter into the base through these holes—and then from the base into the collector. And the transistor switches to its "on" state:
 
@@ -362,11 +362,12 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
  ![Transistors](images/transistor-on-off.png)
-*Fig.16 - Schematic for a Braitenburg Vehicle* 
+*Fig.17 - Schematic for a Braitenburg Vehicle* 
 
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
 
-
+ ![Transistors](images/braitenburg.gif)
+*Fig.18 - Braitenburg Vehicle in Action* 
 
 What the Braitenburg vehicle demonstrates is that you can have an autonomous agent that can orient itself in space based on a simple set of sensors, a simple controller (2 transistors) that allows for variance in the output of it’s motors that translates directly from the input to it’s sensors. As humans we immediately assign animal like qualities to it’s behaviour. In this instance the robot is aggressive because it is always moving towards the light if we switch the polarity of the motors the robot will interpret less light to mean more power, this will produce a shy behaviour moving away from the light.
 
@@ -374,11 +375,11 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzU3NzEwLDM0NjA5OTQwNSwxNjAzND
-ExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkz
-MCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLT
-IwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5
-MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NC
-wxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1
-MzE2NjhdfQ==
+eyJoaXN0b3J5IjpbMTIzMjkyMjE4NCwzNDYwOTk0MDUsMTYwMz
+QxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwNDQ3MzA5
+MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2NTI2LC
+0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2
+OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0OD
+QsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMy
+NTMxNjY4XX0=
 -->
