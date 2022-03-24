@@ -226,9 +226,11 @@ I have modelled an arm using various cubes. You can see how I have named them an
 
 #### IK Example in Unity
 
-You 
+You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
+
+The code use
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjc5NTk3NCwyMDExNzI2NTI2LC0yMD
+eyJoaXN0b3J5IjpbMTQ0MTI1OTYzMSwyMDExNzI2NTI2LC0yMD
 EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
 MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
 QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
