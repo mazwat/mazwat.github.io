@@ -145,13 +145,18 @@ This logical thinking underpins the way we manage transitions in matrices in com
 
 When we want to transform from one state to the next we need to apply some maths and physics to make things move effectively. Many robots and a lot of games are trying to mimic the movement of real world creatures. Most animals have joints and their movement is based on the rotation of numerous bones around various joints.
 
- This process of moving around a joint is called Forward Kinematics when it is directly moving a joint to a position or inverse kinematics when the joint is being moved based on it’s relationship to the end effector. IN the example above the end effector is the characters hand.
+![enter image description here](https://1159711764-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets/-M3EXlibk6bj2FzPQW-9/-MfPWpwdnk5xJCUflQ0y/-MfPccG5sh97OsrXxKFM/image.gif?alt=media&token=475db444-fdff-4839-9911-6f4c577aa76f)
+
+This process of moving around a joint is called Forward Kinematics when it is directly moving a joint to a position or inverse kinematics when the joint is being moved based on it’s relationship to the end effector. IN the example above the end effector is the characters hand.
+ 
+![enter image description here](https://s3.amazonaws.com/ksr/assets/003/188/805/4c82ee12cc4e1b9db4774ed128b2d4f8_large.gif?1422284040)
 
 In this example of a game Rainworld. CLICK The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1Nj
-EyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5
-LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MD
-M5MzU1NDYsLTQ1MTc4MzMzMywtMjA2NDQyOTcyLC0xMDA3MDI3
-ODMwLC0xMzUzMzk2MTg0LDM5NDY4NzMyNl19
+eyJoaXN0b3J5IjpbMTEyMTYxMTE0MCw4ODA2OTI1MjcsMTY5Mz
+YyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAz
+MSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNT
+gwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5
+NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX
+0=
 -->
