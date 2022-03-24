@@ -242,24 +242,18 @@ public  class  SimpleIK2D : MonoBehaviour
 	public  Transform  Joint0;
 	public  Transform  Joint1;
 	public  Transform  Hand;
+	
 	Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
+	
 	[Header("Target")]
-
-public  Transform  Target;
-
-  
-
-// Update is called once per frame
-
-void Update()
-
-{
-
-IKResult result;
-
-IK(out result);
-
-{
+	public  Transform  Target;
+	// Update is called once per frame
+...
+	void Update()
+	{
+		IKResult result;
+		IK(out result);
+	{
 
 Vector3  Euler0 = Joint0.transform.localEulerAngles;
 
@@ -348,11 +342,11 @@ return true;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTEwMjI5MywyMDExNzI2NTI2LC0yMD
-EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
-MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
-QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
-NjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC
-0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0
-Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTkwNTExOTg4NywtODcxMTAyMjkzLDIwMT
+E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
+NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
+Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
+ODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC
+00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1
+MzM5NjE4NF19
 -->
