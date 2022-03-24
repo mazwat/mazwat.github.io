@@ -181,7 +181,7 @@ This means that, simply:
 
 $$ P_1 = P_0 + D_1$$
 
-When $\alpha_0=0$ is not zero, what we have to do is rotate the distance vector at rest $$D1$$ around $P0$ by $\alpha_0$ degrees:
+When $$\alpha_0=0$$ is not zero, what we have to do is rotate the distance vector at rest $$D1$$ around $$P0$$ by $$\alpha_0$$ degrees:
 
 Mathematically we can write this as:CLICK
 
@@ -195,8 +195,8 @@ And finally, the general equation:
 
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 
-### INverse Kinematics
-#### Two Degrees of Free
+### Inverse Kinematics
+#### Two Degrees of Freedom
 
 ![Inverse Joints](images/inverse-joints.png)
 *Fig.15 - Two Degress of Freedom*
@@ -207,23 +207,23 @@ The length of the arms, lower case **c** and **a**, is a known. If the point we 
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
 
- - Root
+ ***- Root
 	 - Joint 0
 	 - Bone 0
 		 - Joint 1
 		 - Bone 1
-		 - Hand
+		 - Hand***
 
 I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects.
 
 ![Basic IK Rig](images/unity-arm.png)
 *Fig.15 - Basic rig for IK in Unity*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwMDEyNzQsMjAxMTcyNjUyNiwtMj
-AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
-NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
-E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
-MTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMy
-wtMjA2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5
-NDY4NzMyNl19
+eyJoaXN0b3J5IjpbMTI1OTc2NDg3NiwyMDExNzI2NTI2LC0yMD
+EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
+MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
+QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
+NjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC
+0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0
+Njg3MzI2XX0=
 -->
