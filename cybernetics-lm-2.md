@@ -353,13 +353,19 @@ The vehicles are put in an environment with lights. The robot’s behaviour is s
 -   Or a ‘light phobe’ (avoids light)
 -   Each behaviour can be considered  ‘aggressive’ or ‘shy’
 
-Let’s return to TinkerCAD and look at how we might build a simple robot like this. We’re going to look at the light seeker example. The example below demonstrates how a transister can act in it's role as an amplifier by directly translating the resistance from a light dependent resistor (LDR) to 
+Let’s return to TinkerCAD and look at how we might build a simple robot like this. We’re going to look at the light seeker example. The example below demonstrates how a transister can act in it's role as an amplifier by directly translating the resistance from a light dependent resistor (LDR) to the transistoer which amplifies the current to an LED making it fade in an out as the light changes.
+
+### Transistor and LDR Dimmer Circuit
+
+[https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzUxMDQyNywxNjAzNDExMzI5LC0xND
-IwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQy
-NDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5OD
-EsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkz
-NjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MD
-MxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1
-ODA0MTA5Nl19
+eyJoaXN0b3J5IjpbNjUwMzg3NjYxLDE2MDM0MTEzMjksLTE0Mj
+A1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0
+NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MS
+wtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2
+MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMz
+EsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4
+MDQxMDk2XX0=
 -->
