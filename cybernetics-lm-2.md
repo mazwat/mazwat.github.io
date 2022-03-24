@@ -189,7 +189,7 @@ This means that, simply: CLICK
 
   
 
-$$\[P_1 = P_0 + D_1\]$$
+$$  P_1 = P_0 + D_1$$
 
   
 
@@ -199,7 +199,7 @@ Mathematically we can write this as:CLICK
 
   
 
-$$\[P_1 = P_0 + rotate\left(D_1, P_0, \alpha_0\right)\]$$
+$$P_1 = P_0 + rotate\left(D_1, P_0, \alpha_0\right)$$
 
   
 
@@ -207,7 +207,7 @@ By replicating the same logic, we can derive the equation for P_2:
 
   
 
-$$\[P_2 = P_1 + rotate\left(D_2, P_1, \alpha_0 + \alpha_1\right)\]$$
+$$P_2 = P_1 + rotate\left(D_2, P_1, \alpha_0 + \alpha_1\right)$$
 
   
 
@@ -215,9 +215,9 @@ And finally, the general equation:
 
   
 
-&&\[P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)\]
+&&P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE0MTEyNjMsLTIwMTA1MTA5ODEsLT
+eyJoaXN0b3J5IjpbLTE1NjM2MjA0MjMsLTIwMTA1MTA5ODEsLT
 gwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIz
 NTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLD
 k1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0
