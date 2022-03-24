@@ -172,13 +172,13 @@ From the previous diagrams it should be clear to solve the problem of forward ki
 
 Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
 
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK $$/alpha0=0$$, like in the following diagram:
 This means that, simply:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NzcyMDM4LC04MDE0NTcyMTEsMTY3ND
-U0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEz
-LC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMj
-MzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0
-NiwtNDUxNzgzMzMzLC0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLT
-EzNTMzOTYxODQsMzk0Njg3MzI2XX0=
+eyJoaXN0b3J5IjpbLTEzNzIyNjg3MTksLTgwMTQ1NzIxMSwxNj
+c0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2
+MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNT
+IyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1
+NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMC
+wtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
 -->
