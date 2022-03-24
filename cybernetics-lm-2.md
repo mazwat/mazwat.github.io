@@ -361,6 +361,9 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
+ ![Transistors](images/transistor-on-off.png)
+*Fig.16 - Schematic for a Braitenburg Vehicle* 
+
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
 
 
@@ -371,11 +374,11 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0Mj
-A1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0
-NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MS
-wtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2
-MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMz
-EsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4
-MDQxMDk2XX0=
+eyJoaXN0b3J5IjpbMjU0MzU3NzEwLDM0NjA5OTQwNSwxNjAzND
+ExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkz
+MCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLT
+IwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5
+MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NC
+wxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1
+MzE2NjhdfQ==
 -->
