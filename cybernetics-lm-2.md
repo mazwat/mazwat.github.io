@@ -170,20 +170,12 @@ If the arm moves around it’s joints we have to calculate the movement and rota
 
 From the previous diagrams it should be clear to solve the problem of forward kinematics, we need to be able to calculate the position of nested objects due to their rotation.
 
-Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
+Let’s see how this is calculated with just **two joints**. Once solved for two, we can just replicate it in sequence to solve chains of any length.
+
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $\alpha_0=0$, like in the following diagram.
 
 ![Angles and positions of nested objects](images/forward-angles.png)
 *Fig.14 - Angles and positions of nested objects*
-
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that $\alpha_0=0$, like in the following diagram:
-This means that, simply:
-
-
-From the previous diagrams it should be clear to solve the problem of forward kinematics, we need to be able to calculate the position of nested objects due to their rotation.
-
-Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
-
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
 
 This means that, simply: 
 
@@ -203,7 +195,7 @@ And finally, the general equation:
 
 $$P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzA5ODk3OSwtMjAxMDUxMDk4MSwtOD
+eyJoaXN0b3J5IjpbMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtOD
 AxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1
 OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOT
 U4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2OCwtMzU4MDQx
