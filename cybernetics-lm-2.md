@@ -242,11 +242,8 @@ public  class  SimpleIK2D : MonoBehaviour
 	public  Transform  Joint0;
 	public  Transform  Joint1;
 	public  Transform  Hand;
-		Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
-
-  
-
-[Header("Target")]
+	Vector3  nextPoint = prevPoint + rotation * Joints[i].StartOffset;
+	[Header("Target")]
 
 public  Transform  Target;
 
@@ -351,11 +348,11 @@ return true;
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NDE2MTgxLDIwMTE3MjY1MjYsLTIwMT
-A1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUy
-NywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxND
-IyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2
-NjgsLTM1ODA0MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLT
-IwNjQ0Mjk3MiwtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2
-ODczMjZdfQ==
+eyJoaXN0b3J5IjpbLTg3MTEwMjI5MywyMDExNzI2NTI2LC0yMD
+EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
+MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
+QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
+NjY4LC0zNTgwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC
+0yMDY0NDI5NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0
+Njg3MzI2XX0=
 -->
