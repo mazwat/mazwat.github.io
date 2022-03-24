@@ -205,6 +205,11 @@ In this scenario, we have a robot arm with 2 degrees of freedom.
 
 The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
 
+*Equation 1.*
+$$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
+*Equation 2.*
+$$\begin{equation*}  B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}} \end{equation*}$$
+
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
 
  ***- Root
@@ -219,7 +224,7 @@ I have modelled an arm using various cubes. You can see how I have named them an
 ![Basic IK Rig](images/unity-arm.png)
 *Fig.15 - Basic rig for IK in Unity*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTc2NDg3NiwyMDExNzI2NTI2LC0yMD
+eyJoaXN0b3J5IjpbMTI5Mjg4MTMxNiwyMDExNzI2NTI2LC0yMD
 EwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1
 MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMT
 QyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMx
