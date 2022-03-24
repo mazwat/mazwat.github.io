@@ -208,7 +208,7 @@ The length of the arms, lower case **c** and **a**, is a known. If the point we 
 *Equation A.*
 $$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
 *Equation B.*
-$$\begin{equation*}  B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}} \end{equation*}$$
+$$B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}}$$
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
 
@@ -316,7 +316,7 @@ Finally we have to calculate the angles. If we translate equations (A) and (B) d
 
 The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3MTc5ODMsLTExMTg0MjQ1OTMsLT
+eyJoaXN0b3J5IjpbLTE5NDk1MjQ5MDUsLTExMTg0MjQ1OTMsLT
 g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
 NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
 wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
