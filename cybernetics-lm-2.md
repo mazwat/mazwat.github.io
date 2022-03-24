@@ -175,13 +175,53 @@ Let’s see how this is calculated with just two joints. Once solved for two, we
 ![Angles and positions of nested objects](images/forward-angles.png)
 *Fig.14 - Angles and positions of nested objects*
 
-In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK $$/alpha0=0$$, like in the following diagram:
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK $$\alpha_0=0$$, like in the following diagram:
 This means that, simply:
+
+
+From the previous diagrams it should be clear to solve the problem of forward kinematics, we need to be able to calculate the position of nested objects due to their rotation.
+
+Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
+
+In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK \alpha0=0, like in the following diagram:
+
+This means that, simply: CLICK
+
+  
+
+$$\[P_1 = P_0 + D_1\]$$
+
+  
+
+When \alpha_0 is not zero, what we have to do is rotate the distance vector at rest D_1 around P_0 by \alpha_0 degrees:
+
+Mathematically we can write this as:CLICK
+
+  
+
+$$\[P_1 = P_0 + rotate\left(D_1, P_0, \alpha_0\right)\]$$
+
+  
+
+By replicating the same logic, we can derive the equation for P_2:
+
+  
+
+$$\[P_2 = P_1 + rotate\left(D_2, P_1, \alpha_0 + \alpha_1\right)\]$$
+
+  
+
+And finally, the general equation:
+
+  
+
+&&\[P_{i} = P_{i-1} + rotate\left(D_i, P_{i-1}, \sum_{k=0}^{i-1}\alpha_k\right)\]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNj
-c0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2
-MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNT
-IyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1
-NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3MiwtMTAwNzAyNzgzMC
-wtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTE0MTEyNjMsLTIwMTA1MTA5ODEsLT
+gwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIz
+NTk5LDIwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLD
+k1ODE3NzQ4OSwxNTIyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0
+MTA5NiwtODAzOTM1NTQ2LC00NTE3ODMzMzMsLTIwNjQ0Mjk3Mi
+wtMTAwNzAyNzgzMCwtMTM1MzM5NjE4NCwzOTQ2ODczMjZdfQ==
+
 -->
