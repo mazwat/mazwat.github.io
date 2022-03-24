@@ -120,7 +120,8 @@ It is an important function of cybernetics to calculate the transformations in s
 
 But what if we have multiple operands?
 
-Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this. 
+Ross Ashby another key figure in Cybernetics whose book - *An introduction to Cybernetics* in 1956 described the machine with input and how multiple operands can change states. So he abstracted states and their transisitions we can have transformations **R1, R2** and **R3** and they change the states of a machine from **a** to **b** or **c** or d they can be measured in a table like this:
+\
 $$\begin{matrix}
  \downarrow & a & b & c\\
 \hline
@@ -136,11 +137,29 @@ monster1.transform.Translate(movementMonster * Time.deltaTime);
 ```
 This logical thinking underpins the way we manage transitions in matrices in computer generated imagery. Vector transforms are a good example of this thinking.
 
+## Applying Cybernetics
 
+### Forward & Inverse Kinematics
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6E0Ajxm2q4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Fig. 10 - Pain by Deck Nine, San Diego Studio (2007)*
+
+When we want to transform from one state to the next we need to apply some maths and physics to make things move effectively. Many robots and a lot of games are trying to mimic the movement of real world creatures. Most animals have joints and their movement is based on the rotation of numerous bones around various joints.
+
+![Forward & Inverse Kinematics](images/kinematics.gif)
+*Image Attribution - Rive Software IK Help Centre*
+
+This process of moving around a joint is called Forward Kinematics when it is directly moving a joint to a position or inverse kinematics when the joint is being moved based on it’s relationship to the end effector. IN the example above the end effector is the characters hand.
+ 
+![enter image description here](https://s3.amazonaws.com/ksr/assets/003/188/805/4c82ee12cc4e1b9db4774ed128b2d4f8_large.gif?1422284040)
+*Fig. 12 - Rain World | Videocult (2017)*
+
+In this example of a game Rainworld. The creators use procedural animation that uses Kinematics and more specifically Inverse Kinematics to achieve flowing interactions of objects. Having joints and limbs weighted by physics creates a life-like effect to the characters and their movement. As the characters move the environment impacts and alters their bodies as it might in real life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0Mj
-IyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUzMTY2
-OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1MTc4MzMzMywtMj
-A2NDQyOTcyLC0xMDA3MDI3ODMwLC0xMzUzMzk2MTg0LDM5NDY4
-NzMyNl19
+eyJoaXN0b3J5IjpbMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5Mz
+YyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAz
+MSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNT
+gwNDEwOTYsLTgwMzkzNTU0NiwtNDUxNzgzMzMzLC0yMDY0NDI5
+NzIsLTEwMDcwMjc4MzAsLTEzNTMzOTYxODQsMzk0Njg3MzI2XX
+0=
 -->
