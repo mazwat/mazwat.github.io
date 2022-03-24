@@ -224,9 +224,9 @@ I have modelled an arm using various cubes. You can see how I have named them an
 
 #### IK Example in Unity
 
-You can see the repo for this example here: [https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)
+You can see the repo for this example here: **[https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)**
 
-The code used in the example above is this:
+Let's break down the code used in the example above:
 
 ```c#
 public class SimpleIK2D : MonoBehaviour
@@ -339,11 +339,11 @@ I won’t go into great detail as you have already touched on the theory of this
 
 [https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
-Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
-NjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3Nz
-MsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYw
-NzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4Mj
-csMTczMjUzMTY2OCwtMzU4MDQxMDk2LC04MDM5MzU1NDYsLTQ1
-MTc4MzMzM119
+eyJoaXN0b3J5IjpbMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNT
+kwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEw
+MjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMT
+EsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2
+MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0OD
+ksMTUyMjMzMDgyNywxNzMyNTMxNjY4LC0zNTgwNDEwOTYsLTgw
+MzkzNTU0Nl19
 -->
