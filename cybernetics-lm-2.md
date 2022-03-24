@@ -166,19 +166,19 @@ A robot arm may have 3 joints and an end effector (this is the name used to desc
 If the arm moves around it’s joints we have to calculate the movement and rotations between each bone and it’s joint.
 
 ![Angles in Robot Arm](images/arm2.svg)
-*Fig.14 - Angles and Rotations of a Robot Arm*
+*Fig.14 - Angles and Rotations of a robot arm*
 
 From the previous diagrams it should be clear to solve the problem of forward kinematics, we need to be able to calculate the position of nested objects due to their rotation.
 
 Let’s see how this is calculated with just two joints. Once solved for two, we can just replicate it in sequence to solve chains of any length.
 
-![Angles in Forward kinematics](images/forward-angles.png)
-*Fig.14 - Angles and Rotations of a Robot Arm*
+![Angles and positions of nested objects](images/forward-angles.png)
+*Fig.14 - Angles and positions of nested objects*
 
 In this example we will start with the easy case, the one in which the first joint is in its starting position. This means that CLICK $$/alpha0=0$$, like in the following diagram:
 This means that, simply:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI4MzQ3MDEsLTgwMTQ1NzIxMSwxNj
+eyJoaXN0b3J5IjpbLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNj
 c0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2
 MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNT
 IyMzMwODI3LDE3MzI1MzE2NjgsLTM1ODA0MTA5NiwtODAzOTM1
