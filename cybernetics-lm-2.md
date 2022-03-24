@@ -298,25 +298,19 @@ public class SimpleIK2D : MonoBehaviour
 }
 ```
 
-In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a struct to contain the angle values of the 2 joints. 
+In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects. We also create a `struct` to contain the angle values of the two joints. 
 
-The joints are rotated by accessing the localEulerAngles property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
+The joints are rotated by accessing the `localEulerAngles` property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced.
 
-The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the floats _length
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the `floats _length`
 
  What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. 
 
-Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called Mathf.Acos and Mathf.Atan2 in Unity. Also, the final angles are converted to degrees using Mathf.Rad2Deg, since the Transform component accepts degrees, instead of radians.
+Finally we have to calculate the angles. If we translate equations (A) and (B) directly to code, we end up with something like this. The mathematical functions $$cos^{-1}$$ and $$tan^{-1}$$ are called `Mathf.Acos` and `Mathf.Atan2` in Unity. Also, the final angles are converted to degrees using `Mathf.Rad2Deg`, since the Transform component accepts degrees, instead of radians.
 
-  
-
-———-
-
-  
-
-The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how
+The principle of Inverse Kinematics is at the heart of both robotic movement but also virtual movement in games. We have explored it here to demonstrate how	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk1MjQ5MDUsLTExMTg0MjQ1OTMsLT
+eyJoaXN0b3J5IjpbLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLT
 g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
 NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
 wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
