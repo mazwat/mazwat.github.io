@@ -353,9 +353,9 @@ The vehicles are put in an environment with lights. The robot’s behaviour is s
 -   Or a ‘light phobe’ (avoids light)
 -   Each behaviour can be considered  ‘aggressive’ or ‘shy’
 
-Let’s return to TinkerCAD and look at how we might build a simple robot like this. We’re going to look at the light seeker example.
+Let’s return to TinkerCAD and look at how we might build a simple robot like this. We’re going to look at the light seeker example. The example below demonstrates how a transister can act in it's role as an amplifier by directly translating the resistance from a light dependent resistor (LDR) to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg5MDE0MywxNjAzNDExMzI5LC0xND
+eyJoaXN0b3J5IjpbLTg2NzUxMDQyNywxNjAzNDExMzI5LC0xND
 IwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQy
 NDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5OD
 EsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkz
