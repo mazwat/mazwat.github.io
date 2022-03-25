@@ -608,7 +608,7 @@ void loop()
   led3.Update();
 }
 ```
-
+You can see the complete version of the Finite State Machine here: **[TinkerCAD Example](https://www.tinkercad.com/things/iK5nt1hK1a1-state-machine-v2/editel?sharecode=1rTt9kOGr6jWJCP3FerWqFwGnoi-TieRCMLcAtDSPO0)**
 
 ## Conclusion
 In this lecture we have looked at:
@@ -618,7 +618,7 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTM2NTc3NCwxMDQ5Mjc5MjgxLC04OD
+eyJoaXN0b3J5IjpbLTEzNjc3MzcyNywxMDQ5Mjc5MjgxLC04OD
 g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
 NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
 IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
