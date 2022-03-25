@@ -485,7 +485,9 @@ To do this we will use bit of **OOP** to create **two classes** - **sweeper** an
 ![Arduino FSM](images/fsm-diagram.svg)
 *Fig.24 - Class Diagram for our state machine*
 
-Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the State part of the State Machine.
+Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the *State* part of the State Machine.
+
+We also have code that looks at the state and decides when and how it needs to change. That is the *Machine* part.  Every time through the loop we ‘*run the machine*’ and the machine takes care of updating the state. Finally we have an interface to the Servo library which is essential for the servos functioning. This is a standard Arduino library.
 ```c++
 #include <Servo.h> 
 
@@ -618,11 +620,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3MzcyNywxMDQ5Mjc5MjgxLC04OD
-g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
-NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
-IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
-MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2XX0=
+eyJoaXN0b3J5IjpbOTY3MDc5MDA1LC0xMzY3NzM3MjcsMTA0OT
+I3OTI4MSwtODg4NzQ4MzU1LDIxMDAwNjI1NDMsNDA2OTU3Njg3
+LC01ODg3NDQ5NzcsLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxND
+AyNjMxODYsMzMyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgs
+MzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MD
+M1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIy
+OTNdfQ==
 -->
