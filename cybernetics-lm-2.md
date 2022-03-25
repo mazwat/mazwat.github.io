@@ -205,7 +205,7 @@ The length of the arms, lower case **c** and **a**, is a known. If the point we 
 
 *Equation A.*\
 $$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
-\*Equation B.*\
+*Equation B.* \
 $$B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}}$$
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE1OTI0MDgsMTA0OTI3OTI4MSwtOD
-g4NzQ4MzU1LDIxMDAwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5
-NzcsLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMz
-MyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1
-LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
-Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
-NjUyNl19
+eyJoaXN0b3J5IjpbLTcwOTg1Nzk1NCwxMDQ5Mjc5MjgxLC04OD
+g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
+NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2XX0=
 -->
