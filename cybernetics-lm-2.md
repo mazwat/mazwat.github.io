@@ -417,7 +417,7 @@ We have covered Object Oriented Design patterns and their application. The state
 This pattern is especially useful for defining state machines. Ray Wenderlich has a great [article](https://www.raywenderlich.com/%206034380-state-pattern-using-unity) on using the pattern to control animation states in player characters in Unity. You can also explore the basic implementation of the state at [refactoring guru](https://refactoring.guru/design-patterns/state).
 
 ![Ray Wenderlich example](https://koenig-media.raywenderlich.com/uploads/2019/10/jumpingOpt.gif)
-*Fig.22 - State Design Pattern example implementation in Unity Image Attribution: raywenderlich.com* 
+*Fig.22 - State Design Pattern example implementation in Unity\ Image Attribution: raywenderlich.com* 
 
 ### State Machines in Arduino
 
@@ -427,11 +427,11 @@ Let’s look at an example in Arduino.
 
 But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMjE3MDA2LDEwMzE2NjQ3MDksNTY4Nj
-YxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcs
-MjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04Nz
-ExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3
-MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMj
-A1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3
-NDg5XX0=
+eyJoaXN0b3J5IjpbLTIxNDAyNjMxODYsMzMyMjE3MDA2LDEwMz
+E2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjks
+LTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMT
+E4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUx
+MDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LD
+E2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIy
+NDYwMzFdfQ==
 -->
