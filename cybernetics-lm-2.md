@@ -429,17 +429,6 @@ Let’s look at an example in Arduino.
 *Fig.23 - Arduino and breadboard set up for our state machine example*
 
 But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
-
-
-This is a clumsy way to build an effective system that can handle states so lets build an Finite state machine that is not tied to the loop but is running off the clock this will increase the performance of the system.
-
-To do this we will use bit of OOP to create 2 classes - sweeper and flasher. We can then generate instances of these classes to create more state machines.
-
-Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the State part of the State Machine.
-
-![Arduino FSM](images/fsm-class.svg)
-*Fig.24 - Class Diagram for our state machine*
-
 ```c++
 #include <Servo.h> 
 // VERSION 1 - No Millis
@@ -450,7 +439,8 @@ int led1 = 13;
 int led2 = 12;
 
 Servo myservo;
-Servo myservo2;// create servo object to control a servo twelve servo objects can be created on most boards
+Servo myservo2;// create servo object to control a servo 
+twelve servo objects can be created on most boards
  
 int pos = 0;    // variable to store the servo position 
  
@@ -488,12 +478,22 @@ void loop()
   } 
 }
 ```
+This is a clumsy way to build an effective system that can handle states so lets build an Finite state machine that is not tied to the loop but is running off the clock this will increase the performance of the system.
+
+To do this we will use bit of **OOP** to create **two classes** - **sweeper** and **flasher**. We can then generate instances of these classes to create more state machines.
+
+![Arduino FSM](images/fsm-class.svg)
+*Fig.24 - Class Diagram for our state machine*
+
+Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the State part of the State Machine.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDcxNzU0NSwtMjE0MDI2MzE4NiwzMz
-IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
-MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3My
-w4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3
-NzM0ODRdfQ==
+eyJoaXN0b3J5IjpbNDIxNDc2MDU1LC0yMTQwMjYzMTg2LDMzMj
+IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
+NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
+czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
+MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLD
+g4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3
+MzQ4NF19
 -->
