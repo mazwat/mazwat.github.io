@@ -311,7 +311,7 @@ The principle of Inverse Kinematics is at the heart of both robotic movement but
 ## The Transistor
 
 ![Transistors](images/transistors.png)
-*Fig.14 - Modern PNP and MOSFET transistor and a 1930 vacuum transistor*
+*Fig.14 - Modern PNP and MOSFET transistors and a 1930's vacuum transistor*
 
 The digital revolution owes its success to one small component which is standard in all electronic devices - the transistor. The first Transistors were made in glass vacuum tubes in 1907(the above example is from the 1930s) however the first solid state transistor was not invented until 1947.
 
@@ -379,16 +379,16 @@ The Braitenburg example is a simple system and in most of your application for C
 
 But in future you may want to pursue more complex methods of processing incoming signals and measuring more subtle change. This is where signal processing comes in. We can use various algorithmic approaches to detect the mean of a wave, or use **Fourier transforms** and **Finite Impulse Response** to work out patterns in a data set based on their change over time and the sum of their harmonic oscillations. Scientists classically have used this to measure the light from stars to estimate their distance from us.
 
-![enter image description here](images/bike-run.png)
-*Fig.19 - Interpr* 
+![Fitbit and a perons cycling and running](images/bike-run.png)
+*Fig.19 - Interpreting data from an accelerometer for use in a Fitbit* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI3MDQ5MDMsNTY4NjYxODgsMzQ2MD
-k5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1
-LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMj
-AxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1
-NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMy
-wtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIz
-MzA4MjddfQ==
+eyJoaXN0b3J5IjpbOTYyODA0ODQwLDU2ODY2MTg4LDM0NjA5OT
+QwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwt
+MjA0NDczMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMT
+E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
+NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
+Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
+ODI3XX0=
 -->
