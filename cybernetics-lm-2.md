@@ -608,13 +608,19 @@ void loop()
   led3.Update();
 }
 ```
-
+## Conclusion
+In this lecture we have looked at:
+1.  We have addressed the context and history of **cybernetics**
+2.  We have looked at **causal loops** and how self regulating systems apply to procedural motion in games and robots with an example of **inverse kinematics**
+3.  We have explored the role of the **transistor** and how it can provide the simplest implementation of a robot control system.
+4.  We have touched on **signal processing** and its role in interpreting data from sensors.
+5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMj
-IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
-NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
-czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
-MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQyNzczLD
-g4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLTQ2MDc3
-MzQ4NF19
+eyJoaXN0b3J5IjpbLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxND
+AyNjMxODYsMzMyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgs
+MzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MD
+M1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIy
+OTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLD
+E2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEy
+MzYxM119
 -->
