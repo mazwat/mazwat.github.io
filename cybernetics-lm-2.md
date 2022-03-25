@@ -379,9 +379,12 @@ The Braitenburg example is a simple system and in most of your application for C
 
 But in future you may want to pursue more complex methods of processing incoming signals and measuring more subtle change. This is where signal processing comes in. We can use various algorithmic approaches to detect the mean of a wave, or use **Fourier transforms** and **Finite Impulse Response** to work out patterns in a data set based on their change over time and the sum of their harmonic oscillations. Scientists classically have used this to measure the light from stars to estimate their distance from us.
 
+![enter image description here](images/bike-run.png)
+*Fig.19 - Interpr* 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI0ODUyMDYsNTY4NjYxODgsMzQ2MD
+eyJoaXN0b3J5IjpbLTE3MjI3MDQ5MDMsNTY4NjYxODgsMzQ2MD
 k5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1
 LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMj
 AxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1
