@@ -319,13 +319,10 @@ A transistor is a miniature electronic component that can do two different jobs.
 
 It’s other use is as a switch. A tiny electric current flowing through one part of a transistor can make a much bigger current flow through another part of it. In other words, the small current switches on the larger one. Another way of imagining this is to say we use electrical current rather than a finger to flick a switch. A modern memory chip contains hundreds of millions or even billions of transistors, each of which can be switched on or off individually. Since each transistor can be in two distinct states, it can store two different numbers, zero and one. If something can be in 2 states it is like a very small very primitive brain.
 
-![Transistors](images/transistor-layers.png)
-*Fig.15 -Layers of silicon in a transistor*
+![Transistor Function](images/transistor-function.png)
+*Fig.15 -Layers of silicon in a transistor and a transistorin its ON and OFF state*
 
 A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, the p-type has holes where electrons should be. The layers have pins attached to them that are called the emitter, the base and the collector. Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
-
- ![Transistors](images/transistor-on-off.png)
-*Fig.16 - Transistor in On and Off state* 
 
 A transistor works when the electrons and the holes start moving across the two junctions between the n-type and p-type silicon. If we connect the transistor up to some power. CLICK and we attach a small positive voltage to the base, make the emitter negatively charged, and make the collector positively charged. Electrons are pulled from the emitter into the base through these holes—and then from the base into the collector. And the transistor switches to its "on" state:
 
@@ -395,6 +392,9 @@ The final part of our discussion about Cybernetics is to look at an aspect that 
 
 The world is full of state machines from Traffic lights to thermostats to game controllers to turnstiles. If we consider this example of a coin operated turnstile. A turnstile is locked (the first state) until the user introduces a coin it is then unlocked (the second state) and can pushed. Once it has been pushed it is then locked again and requires another coin. As we have established cybernetics is concerned with **states** and the **transformations** between states - locked to unlocked and how we move between these states using transitions in this case a coin and a push.
 
+![enter image description here](images/turnstile.png)
+*Fig.21 - State Diagram for a coin operated turnstile* 
+
 ### Properties of Finite State Machines
 
 -   An FSM consists of a **finite** number of states. At a given time only **one** such state is **active**.
@@ -425,7 +425,7 @@ State machines are vital in embedded systems as we have to manage power time and
 
 Let’s look at an example in Arduino.
 
-![Arduino FSM](images/fsm-tinkercad.png)
+![Arduino FSM](images/fsm-tinkecad.png)
 *Fig.23 - Arduino and breadboard set up for our state machine example*
 
 But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2OTU3Njg3LC01ODg3NDQ5NzcsLTY2OT
-YwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMzMyMjE3MDA2
-LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MT
-EzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMw
-LC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMj
-AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
-NTI3XX0=
+eyJoaXN0b3J5IjpbLTg4ODc0ODM1NSwyMTAwMDYyNTQzLDQwNj
+k1NzY4NywtNTg4NzQ0OTc3LC02Njk2MDE3NzMsNzc1ODA2Njk3
+LC0yMTQwMjYzMTg2LDMzMjIxNzAwNiwxMDMxNjY0NzA5LDU2OD
+Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
+LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
+cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
+NzIxMV19
 -->
