@@ -298,9 +298,9 @@ public class SimpleIK2D : MonoBehaviour
 
 In the first part of the script we assign the joints, hands and target as variables, for example ``public Transform Joint0;`` that take the transforms of the game objects. We also create a `struct` to contain the angle values of the two joints. 
 
-The joints are rotated by accessing the `localEulerAngles` property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced. Euler0.z = result.Angle0; fo
+The joints are rotated by accessing the `localEulerAngles` property of the joints’ Transform component. Unfortunately, it is not possible to change the z angle directly, so the vector needs to be copied, edited and replaced. `Euler0.z = result.Angle0;` for example
 
-The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the IK bool in the `floats _length`
+The equations derived from knowing the length of the first two bones (called c and a, respectively). Since the length of the bones is not supposed to change, it can be calculated in the `bool IK` in the floats `length`.
 
  What happens if the target is unreachable? The solution is to fully stretch the arm in the direction of the target. Such a behaviour is consistent with the reaching movement that we are trying to simulate. The code detects if the target is out of reach by checking if the distance from the root is greater than that the total length of the arm. 
 
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg3OTEyMjksMTA0OTI3OTI4MSwtOD
-g4NzQ4MzU1LDIxMDAwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5
-NzcsLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMz
-MyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1
-LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
-Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
-NjUyNl19
+eyJoaXN0b3J5IjpbMTQ1ODA1Nzk4LDEwNDkyNzkyODEsLTg4OD
+c0ODM1NSwyMTAwMDYyNTQzLDQwNjk1NzY4NywtNTg4NzQ0OTc3
+LC02Njk2MDE3NzMsNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMj
+IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
+NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
+czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
+MjZdfQ==
 -->
