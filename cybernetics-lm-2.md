@@ -438,13 +438,15 @@ To do this we will use bit of OOP to create 2 classes - sweeper and flasher. We 
 Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the State part of the State Machine.
 
 ![Arduino FSM](images/fsm-class.svg)
-*Fig.24 - Class Diagram for 
+*Fig.24 - Class Diagram for our state machine*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYzNjUwMzUsLTIxNDAyNjMxODYsMz
-MyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1
-LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
-Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
-NjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3Nz
-MsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYw
-NzczNDg0XX0=
+eyJoaXN0b3J5IjpbMTU1OTk2NzE0NywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3My
+w4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3
+NzM0ODRdfQ==
 -->
