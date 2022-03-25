@@ -137,7 +137,7 @@ This logical thinking underpins the way we manage transitions in matrices in com
 
 ## Applying Cybernetics
 
-### Forward & Inverse Kinematics
+### Procedural Movement Generation
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6E0Ajxm2q4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Fig. 10 - Pain by Deck Nine, San Diego Studio (2007)*
@@ -608,6 +608,8 @@ void loop()
   led3.Update();
 }
 ```
+
+
 ## Conclusion
 In this lecture we have looked at:
 1.  We have addressed the context and history of **cybernetics**
@@ -616,11 +618,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTM0NTU5LDEwNDkyNzkyODEsLTg4OD
-c0ODM1NSwyMTAwMDYyNTQzLDQwNjk1NzY4NywtNTg4NzQ0OTc3
-LC02Njk2MDE3NzMsNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMj
-IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
-NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
-czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
-MjZdfQ==
+eyJoaXN0b3J5IjpbMjA3NTM2NTc3NCwxMDQ5Mjc5MjgxLC04OD
+g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
+NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2XX0=
 -->
