@@ -319,7 +319,7 @@ A transistor is a miniature electronic component that can do two different jobs.
 
 It’s other use is as a switch. A tiny electric current flowing through one part of a transistor can make a much bigger current flow through another part of it. In other words, the small current switches on the larger one. Another way of imagining this is to say we use electrical current rather than a finger to flick a switch. A modern memory chip contains hundreds of millions or even billions of transistors, each of which can be switched on or off individually. Since each transistor can be in two distinct states, it can store two different numbers, zero and one. If something can be in 2 states it is like a very small very primitive brain.
 
-![Transistor Function](images/transistor-function.png)
+![Transistor Function](images/transistor-function.svg)
 *Fig.15 -Layers of silicon in a transistor and a transistorin its ON and OFF state*
 
 A transistor is comprised of 3 layers of silicon in a sandwich. The layers are comprised of either an **n** or a **p** type of silicon and so transistors are often called either **NPN** or **PNP** transistors, because of the order the materials are sandwiched. To understand the difference of the layers we can say that the n-type has a surplus of electrons, the p-type has holes where electrons should be. The layers have pins attached to them that are called the emitter, the base and the collector. Let’s look at this arrangement from a different angle. Normally, the holes in the base act like a barrier, preventing any significant current flow from the emitter to the collector while the transistor is in its "off" state.
@@ -334,7 +334,7 @@ I won’t go into great detail as you have already touched on the theory of this
 
 #### Logic Gate Circuits Example
 
-[https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)
+**[TinkerCAD circuit example](https://www.tinkercad.com/things/6pURQwx2YsP-logic-gates/editel?sharecode=CsmNu6uMDJCwxejR--CdsJP7_1qkLjSHwrUugVOw4OA)**
 
 ### Braitenburg Vehicles
 
@@ -354,11 +354,11 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 #### Transistor and LDR Dimmer Circuit
 
-[https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
+**[TinkerCAD Circuit Example](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)**
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
- ![ Schematic for a Braitenburg Vehicle](images/braitenburg-diagram.png)
+ ![ Schematic for a Braitenburg Vehicle](images/braitenberg-diagram.svg)
 *Fig.17 - Schematic for a Braitenburg Vehicle* 
 
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
@@ -398,7 +398,7 @@ The world is full of state machines from Traffic lights to thermostats to game c
 ### Properties of Finite State Machines
 
 -   An FSM consists of a **finite** number of states. At a given time only **one** such state is **active**.
--   Each state defines which state it’ll **transition** to as an **output**, based on the **sequence** of **inputs** it receives.
+-   Each state defines which state it will **transition** to as an **output**, based on the **sequence** of **inputs** it receives.
 -   The output state becomes the **new active state**. In other words, a **state transition** occurs.
 
 Finite State Machines is in abstract method of modelling logic in a machine. It can be a real machine or a virtual one. A UML state diagram in its pure form identifies a numbered state and then assigns numbered transitions to establish the relationship between states. The table illustrates the inputs and transformations to the new states.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODc0ODM1NSwyMTAwMDYyNTQzLDQwNj
-k1NzY4NywtNTg4NzQ0OTc3LC02Njk2MDE3NzMsNzc1ODA2Njk3
-LC0yMTQwMjYzMTg2LDMzMjIxNzAwNiwxMDMxNjY0NzA5LDU2OD
-Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
-LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
-cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
-NzIxMV19
+eyJoaXN0b3J5IjpbMTE3Nzg3NDA1NiwxMDQ5Mjc5MjgxLC04OD
+g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
+NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2XX0=
 -->
