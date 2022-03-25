@@ -425,13 +425,18 @@ State machines are vital in embedded systems as we have to manage power time and
 
 Let’s look at an example in Arduino.
 
+![Arduino FSM](images/fsm-tinkercad.png)
+*Fig.23 - Arduino and breadboard set up for our state machine example*
+
 But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAyNjMxODYsMzMyMjE3MDA2LDEwMz
-E2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjks
-LTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMT
-E4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUx
-MDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LD
-E2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIy
-NDYwMzFdfQ==
+eyJoaXN0b3J5IjpbLTc4OTUzNjAzNywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3My
+w4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3
+NzM0ODRdfQ==
 -->
