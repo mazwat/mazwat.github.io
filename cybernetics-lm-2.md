@@ -203,19 +203,19 @@ In this scenario, we have a robot arm with 2 degrees of freedom. We are going to
 
 The length of the arms, lower case **c** and **a**, is a known. If the point we have to reach is C, then the configuration becomes a triangle in which all sides are known. We have then derived the equations for the angles A and B, which controls the rotation of the robotic arms’ joints.
 
-*Equation A.*
+*Equation A.*\
 $$A = \underset{\alpha}{\underbrace{\cos^{-1}{\left(\frac{b^2+c^2-a^2}{2bc}\right)}}} + \underset{A'}{\underbrace{\tan^{-1}{\left(\frac{C_Y-A_Y}{C_X-A_X}\right)}}}$$
-*Equation B.*
+\*Equation B.*\
 $$B = \pi - \underset{\beta}{\underbrace{\cos^{-1}{\left(\frac{a^2 + c^2 -b^2}{2ac}\right)}}}$$
 
 We can model this in Unity. The concept of “joints” is not something that Unity comes with. However, the parenting system offered by the engine can be exploited to create a **hierarchy** of components that will behave exactly like a robotic arm.
 
- - Root
-	 - Joint 0
-	 - Bone 0
-		 - Joint 1
-		 - Bone 1
-		 - Hand
+ - *Root*
+	 - *Joint 0*
+	 - *Bone 0*
+		 - *Joint 1*
+		 - *Bone 1*
+		 - *Hand*
 
 I have modelled an arm using various cubes. You can see how I have named them and parented them in the scene in Unity. In the first part of the script we assign the joints, hands and target as variables that take the transforms of the game objects.
 
@@ -424,12 +424,14 @@ This pattern is especially useful for defining state machines. Ray Wenderlich ha
 State machines are vital in embedded systems as we have to manage power time and the sequence of control to actuators like motors, servos and lights.
 
 Let’s look at an example in Arduino.
+
+But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDA1NDU5MiwxMDMxNjY0NzA5LDU2OD
-Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
-LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
-cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
-NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LD
-IwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3
-NzQ4OV19
+eyJoaXN0b3J5IjpbMzMyMjE3MDA2LDEwMzE2NjQ3MDksNTY4Nj
+YxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcs
+MjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04Nz
+ExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3
+MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMj
+A1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3
+NDg5XX0=
 -->
