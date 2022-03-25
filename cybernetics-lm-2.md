@@ -398,7 +398,7 @@ The world is full of state machines from Traffic lights to thermostats to game c
 ### Properties of Finite State Machines
 
 -   An FSM consists of a **finite** number of states. At a given time only **one** such state is **active**.
--   Each state defines which state it’ll **transition** to as an **output**, based on the **sequence** of **inputs** it receives.
+-   Each state defines which state it will **transition** to as an **output**, based on the **sequence** of **inputs** it receives.
 -   The output state becomes the **new active state**. In other words, a **state transition** occurs.
 
 Finite State Machines is in abstract method of modelling logic in a machine. It can be a real machine or a virtual one. A UML state diagram in its pure form identifies a numbered state and then assigns numbered transitions to establish the relationship between states. The table illustrates the inputs and transformations to the new states.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMzUzMzQ1LDEwNDkyNzkyODEsLTg4OD
-c0ODM1NSwyMTAwMDYyNTQzLDQwNjk1NzY4NywtNTg4NzQ0OTc3
-LC02Njk2MDE3NzMsNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMj
-IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
-NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
-czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTE3Nzg3NDA1NiwxMDQ5Mjc5MjgxLC04OD
+g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
+NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
+IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
+MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
+Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
+NTI2XX0=
 -->
