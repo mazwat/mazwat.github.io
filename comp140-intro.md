@@ -21,25 +21,6 @@ micro_nav: false
 page_nav: false
 
 ---
-
-# Worksheets
-
-#### 1 - [Object Oriented Programming](../oop-ws "OOP")
-#### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
-#### 3 - [Research Week](../research-week-ws "Research Week")
-#### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
-#### 5 - [Build Prototype](../prototype-ws "Build Prototype")
-#### 6 - [Data Structures](../data-structures-ws "Data Structures")
-#### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
-#### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
-<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->    
-# Submission Planning
-
-#### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
-#### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
-#### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
-#### 4 - [Poster Preparation](../poster-preparation "Poster Preparation")
-<!---#### 4 - [Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")-->
 # Lecture Materials
 
 #### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
@@ -52,13 +33,35 @@ page_nav: false
 #### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
 #### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
 <!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
+
+# Worksheets
+
+#### 1 - [Object Oriented Programming](../oop-ws "OOP")
+#### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
+#### 3 - [Research Week](../research-week-ws "Research Week")
+#### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
+#### 5 - [Build Prototype](../prototype-ws "Build Prototype")
+#### 6 - [Data Structures](../data-structures-ws "Data Structures")
+#### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
+#### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
+<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->
+    
+# Submission Planning
+
+#### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
+#### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
+#### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
+#### 4 - [Poster Preparation](../poster-preparation "Poster Preparation")
+<!---#### 4 - [Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")-->
+
+
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODIyMDM0OSwtMzM3MzcxOTI3LDE3Nz
-k0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0NTcsLTI5NTA0NDU5
-OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAxNTEsOT
-A3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1NjczMTksLTc5NjE0
-MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4NzY0LC0yMjQwNzA1NT
-EsLTE1MDA5NTMwNzgsLTIwNjk3MDE0MjksLTY5NTcxODgzOSwt
-ODgzNDk3NzIxXX0=
+eyJoaXN0b3J5IjpbLTExMzIwNzI3NTksMTk4ODIyMDM0OSwtMz
+M3MzcxOTI3LDE3Nzk0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0
+NTcsLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC
+02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1
+NjczMTksLTc5NjE0MTIwNSwtMjA2ODY5OTQ3NCwtMzUwMjM4Nz
+Y0LC0yMjQwNzA1NTEsLTE1MDA5NTMwNzgsLTIwNjk3MDE0Mjks
+LTY5NTcxODgzOV19
 -->
