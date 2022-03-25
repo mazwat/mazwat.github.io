@@ -394,12 +394,13 @@ Are they cycling or running or standing still. This is where Signal Processing h
 The final part of our discussion about Cybernetics is to look at an aspect that is directly relevant to your goals in this module.
 
 The world is full of state machines from Traffic lights to thermostats to game controllers to turnstiles. If we consider this example of a coin operated turnstile. A turnstile is locked (the first state) until the user introduces a coin it is then unlocked (the second state) and can pushed. Once it has been pushed it is then locked again and requires another coin. As we have established cybernetics is concerned with **states** and the **transformations** between states - locked to unlocked and how we move between these states using transitions in this case a coin and a push.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOT
-k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
-LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
-ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
-Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
-00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
-MDgyN119
+eyJoaXN0b3J5IjpbMTMyNTkyNTY4MywxMDMxNjY0NzA5LDU2OD
+Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
+LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
+cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
+NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LD
+IwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3
+NzQ4OV19
 -->
