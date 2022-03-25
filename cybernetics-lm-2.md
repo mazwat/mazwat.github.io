@@ -440,9 +440,56 @@ Note that we have variables to keep track of whether the LED is ON or OFF and me
 ![Arduino FSM](images/fsm-class.svg)
 *Fig.24 - Class Diagram for our state machine*
 
+```c++
+#include <Servo.h> 
+// VERSION 1 - No Millis
+ 
+// Pin 13 has an LED connected on most Arduino boards.
+// give it a name:
+int led1 = 13;
+int led2 = 12;
 
+Servo myservo;
+Servo myservo2;// create servo object to control a servo twelve servo objects can be created on most boards
+ 
+int pos = 0;    // variable to store the servo position 
+ 
+void setup() 
+{ 
+  // initialize the digital pin as an output.
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+  myservo.attach(9);
+  myservo2.attach(10);// attaches the servo on pin 9 to the servo object 
+} 
+ 
+void loop() 
+{ 
+  digitalWrite(led1, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(led1, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);
+  digitalWrite(led2, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(led2, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);   // wait for a second
+  
+  for(pos = 0; pos <= 180; pos += 1) // goes from 0 degrees to 180 degrees 
+  {                                  // in steps of 1 degree 
+    myservo.write(pos);
+    myservo2.write(pos);// tell servo to go to position in variable 'pos' 
+    delay(15);                       // waits 15ms for the servo to reach the position 
+  } 
+  for(pos = 180; pos>=0; pos-=1)     // goes from 180 degrees to 0 degrees 
+  {                                
+    myservo.write(pos); 
+    myservo2.write(pos);// tell servo to go to position in variable 'pos' 
+    delay(15);                       // waits 15ms for the servo to reach the position 
+  } 
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTk2NzE0NywtMjE0MDI2MzE4NiwzMz
+eyJoaXN0b3J5IjpbMjA5MDcxNzU0NSwtMjE0MDI2MzE4NiwzMz
 IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
 MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
 Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
