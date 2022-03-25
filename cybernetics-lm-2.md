@@ -378,7 +378,7 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 The Braitenburg example is a simple system and in most of your application for COMP140 you will probably have fairly predictable inputs from your analog sensors. Maybe measuring values that you can easily map to outputs in your game. 
 
 ![enter image description here](https://diyrobocars.com/wp-content/uploads/2020/05/Annotation-2020-04-30-213522.png)
-*Fig.19 - Multiple sensor signals in Arduino Serial Plotter* 
+*Fig.19 - Multiple sensor signals in Arduino Serial Plotter. Image Attribution: https://diyrobocars.com* 
 
 But in future you may want to pursue more complex methods of processing incoming signals and measuring more subtle change. This is where signal processing comes in. We can use various algorithmic approaches to detect the mean of a wave, or use **Fourier transforms** and **Finite Impulse Response** to work out patterns in a data set based on their change over time and the sum of their harmonic oscillations. Scientists classically have used this to measure the light from stars to estimate their distance from us.
 
@@ -388,12 +388,16 @@ But in future you may want to pursue more complex methods of processing incoming
 In embedded systems one of the recent conundrums faced by the designers of Fitbit's and similar health apps that make use of accelerometers is how to take the 3 dimensional vectors outputted by accelerometers and determine the states of activity being undertaken by it’s user.
 
 Are they cycling or running or standing still. This is where Signal Processing helps us to work out the complex variance in the signal produced. Robotics students will study this area in more detail next year.
+
+## Finite State Machines
+
+The final part of our discussion about Cybernetics is to look at an aspect that is directly relevant to your goals in this module…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjM0NDA2Myw1Njg2NjE4OCwzNDYwOT
-k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
-LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
-ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
-Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
-00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
-MDgyN119
+eyJoaXN0b3J5IjpbLTE0ODEwNDA3NjgsNTY4NjYxODgsMzQ2MD
+k5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1
+LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMj
+AxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1
+NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMy
+wtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIz
+MzA4MjddfQ==
 -->
