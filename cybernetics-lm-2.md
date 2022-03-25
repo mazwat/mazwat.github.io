@@ -361,12 +361,12 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
- ![Transistors](images/transistor-on-off.png)
+ ![ Schematic for a Braitenburg Vehicle](images/braitenburg-diagram.png)
 *Fig.17 - Schematic for a Braitenburg Vehicle* 
 
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
 
- ![Transistors](images/braitenburg.gif)
+ ![Braitenburg Vehicle in Action](images/braitenburg.gif)
 *Fig.18 - Braitenburg Vehicle in Action* 
 
 What the Braitenburg vehicle demonstrates is that you can have an autonomous agent that can orient itself in space based on a simple set of sensors, a simple controller (2 transistors) that allows for variance in the output of it’s motors that translates directly from the input to it’s sensors. As humans we immediately assign animal like qualities to it’s behaviour. In this instance the robot is aggressive because it is always moving towards the light if we switch the polarity of the motors the robot will interpret less light to mean more power, this will produce a shy behaviour moving away from the light.
@@ -375,11 +375,11 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjkyMjE4NCwzNDYwOTk0MDUsMTYwMz
-QxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwNDQ3MzA5
-MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2NTI2LC
-0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2
-OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC00NjA3NzM0OD
-QsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMzMDgyNywxNzMy
-NTMxNjY4XX0=
+eyJoaXN0b3J5IjpbNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MT
+EzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMw
+LC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMj
+AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
+NTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMywtNDYwNzczNDg0LD
+E0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIzMzA4MjcsMTczMjUz
+MTY2OF19
 -->
