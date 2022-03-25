@@ -410,9 +410,11 @@ You are probably familiar with seeing them in Unity to manage animations in game
 
 ### OOP and Finite State Machines
 
-We have covered Object Oriented Design patterns and their application. The state pattern - READ
+We have covered Object Oriented Design patterns and their application. The state pattern:
 
-This pattern is especially useful for defining state machines. Ray Wenderlich CLICK has a great article on using the pattern to control animation states in player characters in Unity. You can also explore the basic implementation of the state at refactoring guru.
+*A behavioural design pattern that lets an object alter its behaviour when its internal state changes.*
+
+This pattern is especially useful for defining state machines. Ray Wenderlich has a great [article](https://www.raywenderlich.com/%206034380-state-pattern-using-unity) on using the pattern to control animation states in player characters in Unity. You can also explore the basic implementation of the state at [refactoring guru](https://refactoring.guru/design-patterns/state).
 
 ### State Machines in Arduino
 
@@ -420,11 +422,11 @@ State machines are vital in embedded systems as we have to manage power time and
 
 Let’s look at an example in Arduino.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYxNTQ1MzYsMTAzMTY2NDcwOSw1Nj
-g2NjE4OCwzNDYwOTk0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQw
-NywyNTkwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLT
-g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
-NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
-wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
-Nzc0ODldfQ==
+eyJoaXN0b3J5IjpbMTE4NTcwMjUyOCwxMDMxNjY0NzA5LDU2OD
+Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
+LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
+cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
+NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LD
+IwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3
+NzQ4OV19
 -->
