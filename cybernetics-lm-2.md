@@ -417,7 +417,7 @@ We have covered Object Oriented Design patterns and their application. The state
 This pattern is especially useful for defining state machines. Ray Wenderlich has a great [article](https://www.raywenderlich.com/%206034380-state-pattern-using-unity) on using the pattern to control animation states in player characters in Unity. You can also explore the basic implementation of the state at [refactoring guru](https://refactoring.guru/design-patterns/state).
 
 ![Ray Wenderlich example](https://koenig-media.raywenderlich.com/uploads/2019/10/jumpingOpt.gif)
-*Fig.22 - State Design Pattern example implementation in Unity* 
+*Fig.22 - State Design Pattern example implementation in Unity Image Attribution: raywenderlich.com* 
 
 ### State Machines in Arduino
 
@@ -425,7 +425,7 @@ State machines are vital in embedded systems as we have to manage power time and
 
 Let’s look at an example in Arduino.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk3NDkxOCwxMDMxNjY0NzA5LDU2OD
+eyJoaXN0b3J5IjpbMTk3NDA1NDU5MiwxMDMxNjY0NzA5LDU2OD
 Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
 LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
 cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
