@@ -482,7 +482,7 @@ This is a clumsy way to build an effective system that can handle multiple overl
 
 To do this we will use bit of **OOP** to create **two classes** - **sweeper** and **flasher**. We can then generate instances of these classes to create more state machines.
 
-![Arduino FSM](images/fsm-class.svg)
+![Arduino FSM](images/fsm-diagram.svg)
 *Fig.24 - Class Diagram for our state machine*
 
 Note that we have variables to keep track of whether the LED is ON or OFF and method determine whether a servo is attached and running or not.  And variables to keep track of when the last change happened. That is the State part of the State Machine.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzc5MzAzNywxMDQ5Mjc5MjgxLC04OD
-g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
-NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
-IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
-MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2XX0=
+eyJoaXN0b3J5IjpbLTE0NjE1OTI0MDgsMTA0OTI3OTI4MSwtOD
+g4NzQ4MzU1LDIxMDAwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5
+NzcsLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMz
+MyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1
+LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMD
+Q0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcy
+NjUyNl19
 -->
