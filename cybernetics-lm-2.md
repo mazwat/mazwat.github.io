@@ -373,15 +373,17 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
  This demonstrates how simple sensing, controlling and actuating can produce complex intriguing behaviour.
 
+## Signal Processing
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MDQ1ODAwLDU2ODY2MTg4LDM0NjA5OT
-QwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwt
-MjA0NDczMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMT
-E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
-NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
-Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
-ODI3XX0=
+eyJoaXN0b3J5IjpbLTMyMDA5MzA5NSw1Njg2NjE4OCwzNDYwOT
+k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
+LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
+ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
+Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
+00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
+MDgyN119
 -->
