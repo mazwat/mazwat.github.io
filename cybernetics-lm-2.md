@@ -224,7 +224,7 @@ I have modelled an arm using various cubes. You can see how I have named them an
 
 #### IK Example in Unity
 
-You can see the repo for this example here: **[Example RE](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)**
+You can see the repo for this example here: **[Example IK Repo](https://github.falmouth.ac.uk/Matt-Watkins/Simple-Inverse-Kinematics)**
 
 Let's break down the code used in the example above:
 
@@ -616,7 +616,7 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk4OTM0OTUsMTA0OTI3OTI4MSwtOD
+eyJoaXN0b3J5IjpbLTEyMDc0OTg1MTYsMTA0OTI3OTI4MSwtOD
 g4NzQ4MzU1LDIxMDAwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5
 NzcsLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMz
 MyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1
