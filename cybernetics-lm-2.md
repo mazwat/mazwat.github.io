@@ -403,7 +403,7 @@ The world is full of state machines from Traffic lights to thermostats to game c
 
 Finite State Machines is in abstract method of modelling logic in a machine. It can be a real machine or a virtual one. A UML state diagram in its pure form identifies a numbered state and then assigns numbered transitions to establish the relationship between states. The table illustrates the inputs and transformations to the new states.
 
-![State Diagram FSM](images/fsm-diagram.svg)
+![State Diagram FSM](images/classic-fsm-diagram.svg)
 *Fig.21 - State Diagram and table for a classic FSM* 
 
 You are probably familiar with seeing them in Unity to manage animations in games. The animation state machine manages states or animation cycles and their transition to others.
@@ -616,7 +616,7 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzg3NDA1NiwxMDQ5Mjc5MjgxLC04OD
+eyJoaXN0b3J5IjpbMTQxMzc5MzAzNywxMDQ5Mjc5MjgxLC04OD
 g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
 NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
 IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
