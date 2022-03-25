@@ -354,7 +354,7 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 #### Transistor and LDR Dimmer Circuit
 
-[https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)
+**[TinkerCAD Circuit Example](https://www.tinkercad.com/things/gvxdd5giar6-dimmer-with-sensor-and-transistor/editel?sharecode=HrVKHgZyrUCAhjKakZQsVza66zpYiOxcgDQcHcoVTA0)**
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTEyNzM4MjYsLTg4ODc0ODM1NSwyMT
-AwMDYyNTQzLDQwNjk1NzY4NywtNTg4NzQ0OTc3LC02Njk2MDE3
-NzMsNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMjIxNzAwNiwxMD
-MxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5
-LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMT
-ExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1
-MTA5ODFdfQ==
+eyJoaXN0b3J5IjpbMTA0OTI3OTI4MSwtODg4NzQ4MzU1LDIxMD
+AwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5NzcsLTY2OTYwMTc3
+Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMzMyMjE3MDA2LDEwMz
+E2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjks
+LTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMT
+E4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUx
+MDk4MV19
 -->
