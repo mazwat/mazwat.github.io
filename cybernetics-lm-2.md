@@ -377,18 +377,22 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
 The Braitenburg example is a simple system and in most of your application for COMP140 you will probably have fairly predictable inputs from your analog sensors. Maybe measuring values that you can easily map to outputs in your game. 
 
+
+
 But in future you may want to pursue more complex methods of processing incoming signals and measuring more subtle change. This is where signal processing comes in. We can use various algorithmic approaches to detect the mean of a wave, or use **Fourier transforms** and **Finite Impulse Response** to work out patterns in a data set based on their change over time and the sum of their harmonic oscillations. Scientists classically have used this to measure the light from stars to estimate their distance from us.
 
 ![Fitbit and a perons cycling and running](images/bike-run.png)
 *Fig.19 - Interpreting data from an accelerometer for use in a Fitbit* 
 
+In embedded systems one of the recent conundrums faced by the designers of Fitbit's and similar health apps that make use of accelerometers is how to take the 3 dimensional vectors outputted by accelerometers and determine the states of activity being undertaken by it’s user.
 
+Are they cycling or running or standing still. This is where Signal Processing helps us to work out the complex variance in the signal produced. Robotics students will study this area in more detail next year.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyODA0ODQwLDU2ODY2MTg4LDM0NjA5OT
-QwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwt
-MjA0NDczMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMT
-E3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1NzIxMSwxNjc0NTQy
-NzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LDIwNTYxMjM2MTMsLT
-Q2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3NzQ4OSwxNTIyMzMw
-ODI3XX0=
+eyJoaXN0b3J5IjpbLTU4MTA1Nzk4MSw1Njg2NjE4OCwzNDYwOT
+k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
+LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
+ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
+Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
+00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
+MDgyN119
 -->
