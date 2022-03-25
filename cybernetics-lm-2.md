@@ -358,7 +358,7 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
- ![ Schematic for a Braitenburg Vehicle](images/braitenburg-diagram.svg)
+ ![ Schematic for a Braitenburg Vehicle](images/braitenberg-diagram.svg)
 *Fig.17 - Schematic for a Braitenburg Vehicle* 
 
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTI3OTI4MSwtODg4NzQ4MzU1LDIxMD
-AwNjI1NDMsNDA2OTU3Njg3LC01ODg3NDQ5NzcsLTY2OTYwMTc3
-Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMzMyMjE3MDA2LDEwMz
-E2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjks
-LTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMT
-E4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUx
-MDk4MV19
+eyJoaXN0b3J5IjpbOTAwMzUzMzQ1LDEwNDkyNzkyODEsLTg4OD
+c0ODM1NSwyMTAwMDYyNTQzLDQwNjk1NzY4NywtNTg4NzQ0OTc3
+LC02Njk2MDE3NzMsNzc1ODA2Njk3LC0yMTQwMjYzMTg2LDMzMj
+IxNzAwNiwxMDMxNjY0NzA5LDU2ODY2MTg4LDM0NjA5OTQwNSwx
+NjAzNDExMzI5LC0xNDIwNTY3NDA3LDI1OTAzNTUyNSwtMjA0ND
+czMDkzMCwtMTExODQyNDU5MywtODcxMTAyMjkzLDIwMTE3MjY1
+MjZdfQ==
 -->
