@@ -403,17 +403,28 @@ The world is full of state machines from Traffic lights to thermostats to game c
 
 Finite State Machines is in abstract method of modelling logic in a machine. It can be a real machine or a virtual one. A UML state diagram in its pure form identifies a numbered state and then assigns numbered transitions to establish the relationship between states. The table illustrates the inputs and transformations to the new states.
 
-[State Diagram](images/fsm-diagram.svg)
-![enter image description here](images/fsm-diagram.svg)
+![State Diagram FSM](images/fsm-diagram.svg)
 *Fig.21 - State Diagram and table for a classic FSM* 
 
-CLICK You are probably familiar with seeing them in Unity to manage animations in games. The animation state machine manages states or animation cycles and their transition to others.
+You are probably familiar with seeing them in Unity to manage animations in games. The animation state machine manages states or animation cycles and their transition to others.
+
+### OOP and Finite State Machines
+
+We have covered Object Oriented Design patterns and their application. The state pattern - READ
+
+This pattern is especially useful for defining state machines. Ray Wenderlich CLICK has a great article on using the pattern to control animation states in player characters in Unity. You can also explore the basic implementation of the state at refactoring guru.
+
+### State Machines in Arduino
+
+State machines are vital in embedded systems as we have to manage power time and the sequence of control to actuators like motors, servos and lights.
+
+Let’s look at an example in Arduino.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODIyNDU3MSwxMDMxNjY0NzA5LDU2OD
-Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
-LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
-cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
-NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LD
-IwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3
-NzQ4OV19
+eyJoaXN0b3J5IjpbLTE0NDYxNTQ1MzYsMTAzMTY2NDcwOSw1Nj
+g2NjE4OCwzNDYwOTk0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQw
+NywyNTkwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLT
+g3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0
+NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OS
+wyMDU2MTIzNjEzLC00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgx
+Nzc0ODldfQ==
 -->
