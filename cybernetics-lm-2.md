@@ -395,6 +395,9 @@ The final part of our discussion about Cybernetics is to look at an aspect that 
 
 The world is full of state machines from Traffic lights to thermostats to game controllers to turnstiles. If we consider this example of a coin operated turnstile. A turnstile is locked (the first state) until the user introduces a coin it is then unlocked (the second state) and can pushed. Once it has been pushed it is then locked again and requires another coin. As we have established cybernetics is concerned with **states** and the **transformations** between states - locked to unlocked and how we move between these states using transitions in this case a coin and a push.
 
+![enter image description here](images/turnstile.png)
+*Fig.21 - State Diagram for a coin operated turnstile* 
+
 ### Properties of Finite State Machines
 
 -   An FSM consists of a **finite** number of states. At a given time only **one** such state is **active**.
@@ -425,7 +428,7 @@ State machines are vital in embedded systems as we have to manage power time and
 
 Let’s look at an example in Arduino.
 
-![Arduino FSM](images/fsm-tinkercad.png)
+![Arduino FSM](images/fsm-tinkecad.png)
 *Fig.23 - Arduino and breadboard set up for our state machine example*
 
 But we are going to focus on creating a Finite State Machine to handle multiple machines in Arduino. It is common in robotics or electronics projects to end up with numerous inputs and outputs and this is all power and resource hungry. We are going to work with this example layout with 3 Led’s and 2 servo’s and a button to create a changes in states.
@@ -616,11 +619,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2OTU3Njg3LC01ODg3NDQ5NzcsLTY2OT
-YwMTc3Myw3NzU4MDY2OTcsLTIxNDAyNjMxODYsMzMyMjE3MDA2
-LDEwMzE2NjQ3MDksNTY4NjYxODgsMzQ2MDk5NDA1LDE2MDM0MT
-EzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1LC0yMDQ0NzMwOTMw
-LC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMjAxMTcyNjUyNiwtMj
-AxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1NDI3NzMsODgwNjky
-NTI3XX0=
+eyJoaXN0b3J5IjpbMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4OD
+c0NDk3NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4
+NiwzMzIyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOT
+k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
+LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
+ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
+Mjc3M119
 -->
