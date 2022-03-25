@@ -478,7 +478,7 @@ void loop()
   } 
 }
 ```
-This is a clumsy way to build an effective system that can handle states so lets build an Finite state machine that is not tied to the loop but is running off the clock this will increase the performance of the system.
+This is a clumsy way to build an effective system that can handle states so lets build an Finite state machine that is not tied to the loop but is running off the clock this will increase the performance of the system. Effectvely the states will be tied to `millis()`. The time milliseconds of the system clock rather than `loop()`
 
 To do this we will use bit of **OOP** to create **two classes** - **sweeper** and **flasher**. We can then generate instances of these classes to create more state machines.
 
@@ -616,11 +616,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTYwMTc3Myw3NzU4MDY2OTcsLTIxND
-AyNjMxODYsMzMyMjE3MDA2LDEwMzE2NjQ3MDksNTY4NjYxODgs
-MzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MD
-M1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIy
-OTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLD
-E2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEy
-MzYxM119
+eyJoaXN0b3J5IjpbLTU4ODc0NDk3NywtNjY5NjAxNzczLDc3NT
+gwNjY5NywtMjE0MDI2MzE4NiwzMzIyMTcwMDYsMTAzMTY2NDcw
+OSw1Njg2NjE4OCwzNDYwOTk0MDUsMTYwMzQxMTMyOSwtMTQyMD
+U2NzQwNywyNTkwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1
+OTMsLTg3MTEwMjI5MywyMDExNzI2NTI2LC0yMDEwNTEwOTgxLC
+04MDE0NTcyMTEsMTY3NDU0Mjc3Myw4ODA2OTI1MjcsMTY5MzYy
+MzU5OV19
 -->
