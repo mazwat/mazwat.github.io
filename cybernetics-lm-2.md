@@ -375,15 +375,17 @@ What the Braitenburg vehicle demonstrates is that you can have an autonomous age
 
 ## Signal Processing
 
+The Braitenburg example is a simple system and in most of your application for COMP140 you will probably have fairly predictable inputs from your analog sensors. Maybe measuring values that you can easily map to outputs in your game. 
 
+But in future you may want to pursue more complex methods of processing incoming signals and measuring more subtle change. This is where signal processing comes in. We can use various algorithmic approaches to detect the mean of a wave, or use **Fourier transforms** and **Finite Impulse Response** to work out patterns in a data set based on their change over time and the sum of their harmonic oscillations. Scientists classically have used this to measure the light from stars to estimate their distance from us.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDA5MzA5NSw1Njg2NjE4OCwzNDYwOT
-k0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUs
-LTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMD
-ExNzI2NTI2LC0yMDEwNTEwOTgxLC04MDE0NTcyMTEsMTY3NDU0
-Mjc3Myw4ODA2OTI1MjcsMTY5MzYyMzU5OSwyMDU2MTIzNjEzLC
-00NjA3NzM0ODQsMTQyMjI0NjAzMSw5NTgxNzc0ODksMTUyMjMz
-MDgyN119
+eyJoaXN0b3J5IjpbLTE1OTI0ODUyMDYsNTY4NjYxODgsMzQ2MD
+k5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcsMjU5MDM1NTI1
+LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04NzExMDIyOTMsMj
+AxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3MjExLDE2NzQ1
+NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMjA1NjEyMzYxMy
+wtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3NDg5LDE1MjIz
+MzA4MjddfQ==
 -->
