@@ -395,12 +395,23 @@ The final part of our discussion about Cybernetics is to look at an aspect that 
 
 The world is full of state machines from Traffic lights to thermostats to game controllers to turnstiles. If we consider this example of a coin operated turnstile. A turnstile is locked (the first state) until the user introduces a coin it is then unlocked (the second state) and can pushed. Once it has been pushed it is then locked again and requires another coin. As we have established cybernetics is concerned with **states** and the **transformations** between states - locked to unlocked and how we move between these states using transitions in this case a coin and a push.
 
+### Properties of Finite State Machines
+
+-   An FSM consists of a **finite** number of states. At a given time only **one** such state is **active**.
+-   Each state defines which state it’ll **transition** to as an **output**, based on the **sequence** of **inputs** it receives.
+-   The output state becomes the **new active state**. In other words, a **state transition** occurs.
+
+Finite State Machines is in abstract method of modelling logic in a machine. It can be a real machine or a virtual one. A UML state diagram in its pure form identifies a numbered state and then assigns numbered transitions to establish the relationship between states. The table illustrates the inputs and transformations to the new states.
+
+
+
+CLICK You are probably familiar with seeing them in Unity to manage animations in games. The animation state machine manages states or animation cycles and their transition to others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTkyNTY4MywxMDMxNjY0NzA5LDU2OD
-Y2MTg4LDM0NjA5OTQwNSwxNjAzNDExMzI5LC0xNDIwNTY3NDA3
-LDI1OTAzNTUyNSwtMjA0NDczMDkzMCwtMTExODQyNDU5MywtOD
-cxMTAyMjkzLDIwMTE3MjY1MjYsLTIwMTA1MTA5ODEsLTgwMTQ1
-NzIxMSwxNjc0NTQyNzczLDg4MDY5MjUyNywxNjkzNjIzNTk5LD
-IwNTYxMjM2MTMsLTQ2MDc3MzQ4NCwxNDIyMjQ2MDMxLDk1ODE3
-NzQ4OV19
+eyJoaXN0b3J5IjpbMTM2NjQyMTY4LDEwMzE2NjQ3MDksNTY4Nj
+YxODgsMzQ2MDk5NDA1LDE2MDM0MTEzMjksLTE0MjA1Njc0MDcs
+MjU5MDM1NTI1LC0yMDQ0NzMwOTMwLC0xMTE4NDI0NTkzLC04Nz
+ExMDIyOTMsMjAxMTcyNjUyNiwtMjAxMDUxMDk4MSwtODAxNDU3
+MjExLDE2NzQ1NDI3NzMsODgwNjkyNTI3LDE2OTM2MjM1OTksMj
+A1NjEyMzYxMywtNDYwNzczNDg0LDE0MjIyNDYwMzEsOTU4MTc3
+NDg5XX0=
 -->
