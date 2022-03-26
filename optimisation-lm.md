@@ -155,21 +155,156 @@ This is an automatic process and has been tuned for maximum performance
   
 **However** you should understand how this process works and create code which ensures that garbage collection **only runs when needed**
 
-Earlier I mentioned Garbage collection, so what is it?
+### How Garbage Collection Works
 
-When garbage collection is triggered the garbage collector deems every object in the graphs as garbage. The garbage collector then recursively traverses each graph looking for reachable objects.CLICK Every time the garbage collector visits an object, it tags it as reachable. Because the graphs represent the relationships between clients and objects, when the garbage collector is done traversing the graphs, it knows which objects were reachable and which were not. Reachable objects should be kept alive. Unreachable objects are considered deallocated and therefore garbage, and therefore destroying them does no harm.
+When garbage collection is triggered the garbage collector deems every object in the graphs as garbage. The garbage collector then recursively traverses each graph looking for reachable objects. Every time the garbage collector visits an object, it tags it as reachable. Because the graphs represent the relationships between clients and objects, when the garbage collector is done traversing the graphs, it knows which objects were reachable and which were not. Reachable objects should be kept alive. Unreachable objects are considered deallocated and therefore garbage, and therefore destroying them does no harm.
 
 ![Visualising Garbage Collection](images/garb-coll.gif)
 *fig.2 - Visualising Garbage Collection*
 
-Next, CLICK the garbage collector scans the managed heap and disposes of the unreachable objects by compacting the heap and overwriting the unreachable objects with reachable one. The garbage collector moves reachable objects down the heap, writing over the garbage, and thus frees more space at the end for new object allocations. All unreachable objects are purged from the graphs.
+Next, the garbage collector scans the managed heap and disposes of the unreachable objects by compacting the heap and overwriting the unreachable objects with reachable one. The garbage collector moves reachable objects down the heap, writing over the garbage, and thus frees more space at the end for new object allocations. All unreachable objects are purged from the graphs.
+
+### Caching
+#### BAD Code Example
+```c#
+void  Update() {
+	//Get Health Component and check health
+	Health health = GetComponent<Health>();
+	if (health.IsDead()) {
+		//Do Something
+	}
+}
+```
+The above code allocates on the heap and gets deallocated every update, causing not only unnecessary allocation but deallocation via the Garbage Collector.
+
+If our code repeatedly calls expensive functions that return a result and then discards those results, this may be an opportunity for optimization. Storing and reusing references to these results can be more efficient. This technique is known as **caching**.
+
+ If you call functions which allocate memory on the heap: `Find()`
+`GetComponent()` `Object.FindObjectOfType`
+
+Note: Consider moving these out of **Update** functions and retrieve in the **Start** function.
+
+#### GOOD Code Example
+```c#
+private  Health  health;  
+void Start() {
+	health = GetComponent<Health>();
+}
+void  Update() {
+	if (health.IsDead()) {
+		//Do Something
+	}
+}
+```
+### Garbage Collection Tips
+#### Allocation
+Don’t allocate on the heap in **Update** functions (use **caching**)  
+Also consider calling function on a **timer** if you need to allocate frequently, this will reduce the amount of allocations in **update**
+#### Update vs Timer - Call only when needed
+```c#
+void  Update()
+{
+	ExampleExpensiveFunction();	
+}
+```
+```c#
+private  int  interval = 3;
+void  Update()
+{
+	if (Time.frameCount % interval == 0)
+	{
+		ExampleExpensiveFunction();
+	}
+}
+```
+In the first example this might be a memory intensive function we are calling but we don’t need to call it every frame so we can use **modulo** `%` to call it every 3 seconds this makes performance better.
+
+#### Reuse Collections
+Don’t initialise collections using the **new keyword** in the **Update** function
+
+• Initialise on the **Start** function and call the **Clear** function of the collection if you need to fill with new data
+
+• This all holds true for some Unity functions that return **arrays** such as `FindGameObjectsWithTag`
+
+## Unity Performance Tips
+
+### Limit the use of Loops
+```c#
+void  Update()
+{
+	for (int i = 0; i < myArray.Length; i++)
+	{
+		if (exampleBool)
+		{
+			ExampleFunction(myArray[i]);
+		}
+	}
+}
+```
+In this example a for loop is being executed unnecessarily while a boolean remains false.
+```c#
+void  Update()
+{
+	if (exampleBool)
+	{
+		for (int i = 0; i < myArray.Length; i++)
+		{
+			ExampleFunction(myArray[i]);
+		}
+	}
+}
+```
+If we switch the for loop with the if statement we achieve much more efficient code.
+### Object Pooling
+Object pooling is a technique where, instead of creating and destroying instances of an object, objects are temporarily deactivated and then recycled and reactivated as needed. Although well known as a technique for managing memory usage, object pooling can also be useful as a technique for reducing excessive CPU usage.
+
+ ![Object Pooling](images/many-objects.gif)
+*Fig. 3 - Keep many objects in the pool and respawn* 
+
+The **object pool p
+attern** is a software creational design pattern that uses a set of initialised objects kept ready to use – a "*pool*" – rather than allocating and destroying them on demand. In this example you can imitate the effect of infinite objects by moving object that are out of the camera a view into the pool and simply re spawning them in a new location to fall back into the scene
+
+### Culling
+Unity contains code that checks whether objects are within the frustum of a camera. If they are not within the frustum of a camera, code related to rendering these objects does not run. The term for this is frustum culling.
+
+We can take a similar approach to the code in our scripts.
+```c#
+void  Update()
+{
+	UpdateTransformPosition();
+	UpdateAnimations();
+}
+```
+In the following simplified example code, we have an example of a patrolling enemy. Every time `Update()` is called, the script controlling this enemy calls two example functions: one related to moving the enemy, one related to its visual state.
+```c#
+private  Renderer  myRenderer;
+void  Start()
+{
+	myRenderer = GetComponent<Renderer>();
+}
+void  Update()
+{
+	UpdateTransformPosition();
+	if (myRenderer.isVisible)
+	{
+		UpateAnimations();
+	}
+}
+```
+In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
+
+### Level of Detail (LOD)
+![enter image description here](https://forum.unity.com/proxy.php?image=https://i.gyazo.com/8e524123a4062558934ddebc188a4674.gif&hash=42be223bfa7ae2707d7cec54a31a0abc)
+Level of detail, also known as LOD, is another common rendering optimisation technique. Objects nearest to the player are rendered at full fidelity using detailed meshes and textures. Distant objects use less detailed meshes and textures. A similar approach can be used with our code. For example, CLICK we may have an enemy with an AI script that determines its behaviour. Part of this behaviour may involve costly operations for determining what it can see and hear, and how it should react to this input. We could use a level of detail system to enable and disable these expensive operations based on the enemy's distance from the player. In a Scene with many of these enemies, we could make a considerable performance saving if only the nearest enemies are performing the most expensive operations.
+
+CLICK Unity's CullingGroup API allows us to hook into Unity's LOD system to optimise our code.
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MzYyODA3LDE1NTY1NTAzMjQsMjI1Mz
-MyNzk4LC0xODQ2NTg2OTE1LDE1MTEzNjEyODMsMTA4MTA4NTky
-MV19
+eyJoaXN0b3J5IjpbLTE1MjExNjY1MDksODg2NDMyMzU1LDM2Nj
+M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
+NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
