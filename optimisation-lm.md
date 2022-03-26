@@ -46,13 +46,18 @@ The most fundamental factor in understanding how we can fine tune our projects i
 -   **Dynamic memory** (allocated with new) is allocated on the **Heap** and will grow in size
 -   **Stack memory** (everything that doesn’t use new) is allocated on the **Stack** and is fixed size
 
-let's fur between the two types is to identify their differences.
+Let's further clarify the differences between the two types:
+
+|STACK| HEAP |
+|--|--|
+|The memory is allocated at the **compile time**.  | The memory is allocated at the **runtime**. |
+
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NzgwMjY3LDE1MTEzNjEyODMsMTA4MT
-A4NTkyMV19
+eyJoaXN0b3J5IjpbLTE2NTEyNDkxMzIsMTUxMTM2MTI4MywxMD
+gxMDg1OTIxXX0=
 -->
