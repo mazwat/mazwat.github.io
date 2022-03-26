@@ -309,7 +309,11 @@ Unity has it’s own Profiler tool you can use to get performance information ab
 
 I won’t go through it here but it is recommended you explore it during the process of developing your projects. You can find more information about using it **[here](https://docs.unity3d.com/Manual/profiler-profiling-applications.html).** 
 
-I have also 
+#### Test Project with Profiler
+
+I have also included an example test project repo that demonstrates the use of profiler: 
+https://github.com/Falmouth-Games-Academy/COMP140-Profiler-Test
+
 
 ## Optimisation in Arduino
 
@@ -413,7 +417,7 @@ void  ReadData() {
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDgzNTIyOSwtMTk1NTkwMzUxMiw4OD
+eyJoaXN0b3J5IjpbLTIwNTAzMDg5MiwtMTk1NTkwMzUxMiw4OD
 Y0MzIzNTUsMzY2MzYyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4
 LC0xODQ2NTg2OTE1LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
