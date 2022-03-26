@@ -396,25 +396,21 @@ void  ReadData() {
 
 ## Further Reading
 
+ 1. Optimisation in Unity - [https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity.html](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity.html)
+ 2. UI - [https://create.unity3d.com/Unity-UI-optimization-tips](https://create.unity3d.com/Unity-UI-optimization-tips)
 
+• OptimisingGraphics– [https://create.unity3d.com/Unity-UI-optimization-tips](https://create.unity3d.com/Unity-UI-%20optimization-tips)
 
-• Optimisation in Unity - [https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity.html](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity.html)
-
-• UI - [https://create.unity3d.com/Unity-UI-optimization-tips](https://create.unity3d.com/Unity-UI-optimization-tips)
-
-• OptimisingGraphics– [https://create.unity3d.com/Unity-UI- optimization-tips](https://create.unity3d.com/Unity-UI-%20optimization-tips)
-
-• Profiling in Unity - https://learn.unity.com/tutorial/profilingapplications-made-with-unity
+• Profiling in Unity - [https://learn.unity.com/tutorial/profilingapplications-made-with-unity](https://learn.unity.com/tutorial/profilingapplications-made-with-unity)
     
--   Practical Guide to Profiling in Unity - https://www.youtube.com/watch?v=OSlOwJP 8Z14
+• Practical Guide to Profiling in Unity - [https://www.youtube.com/watch?v=OSlOwJP8Z14](https://www.youtube.com/watch?v=OSlOwJP8Z14)
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM4NDI4MTYsLTE5NTU5MDM1MTIsOD
-g2NDMyMzU1LDM2NjM2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5
-OCwtMTg0NjU4NjkxNSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ
-==
+eyJoaXN0b3J5IjpbMTk4NjkxNzM1MiwtMTk1NTkwMzUxMiw4OD
+Y0MzIzNTUsMzY2MzYyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4
+LC0xODQ2NTg2OTE1LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
