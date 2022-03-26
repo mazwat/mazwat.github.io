@@ -329,65 +329,37 @@ Even though Arduino is a simpler platform and we don’t have to manage visual o
 Remember the same relationship of data types to heap and stack apply in Arduino as well.
 ```c#
 void  setup()
-
 {
-
-pinMode(LED_BUILTIN, OUTPUT);
-
+	pinMode(LED_BUILTIN, OUTPUT);
 }
-
-  
-
 void  loop()
-
 {
-
-dot(); dot(); dot();
-
-dash(); dash(); dash();
-
-dot(); dot(); dot();
-
-delay(3000);
-
+	dot(); dot(); dot();
+	dash(); dash(); dash();
+	dot(); dot(); dot();
+	delay(3000);
 }
-
-  
-
 void  dot()
-
 {
-
-digitalWrite(LED_BUILTIN, HIGH);
-
-delay(250);
-
-digitalWrite(LED_BUILTIN, LOW);
-
-delay(250);
-
+	digitalWrite(LED_BUILTIN, HIGH);
+	delay(250);
+	digitalWrite(LED_BUILTIN, LOW);
+	delay(250);
 }
-
-  
-
 void  dash()
-
 {
-
-digitalWrite(LED_BUILTIN, HIGH);
-
-delay(1000);
-
-digitalWrite(LED_BUILTIN, LOW);
-
+	digitalWrite(LED_BUILTIN, HIGH);
+	delay(1000);
+	digitalWrite(LED_BUILTIN, LOW);
 }
-
+```
+This may seem obvious but try to implement your digitalwrites into functions. Using functions in this way saves 200 bytes of memory. This is mainly because a single instance of the function is created in memory. And when the function is called again, the CPU loads the code again from its location in memory, without having to re-create the variables.
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTg4NzM5Niw4ODY0MzIzNTUsMzY2Mz
-YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
-LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTE0ODk3MjQ3ODgsODg2NDMyMzU1LDM2Nj
+M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
+NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
