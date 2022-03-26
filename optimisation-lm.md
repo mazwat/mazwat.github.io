@@ -25,7 +25,7 @@ page_nav:
 
 # 10. Optimisation & Performance
 
-![enter image description here](images/optimisation-banner.png)
+![Banner Image](images/optimisation-banner.png)
 
 The following materials are derived from the *Optimisation & Performance lecture*. The video lecture is included at the bottom of the [***page***](#video-lecture).
 {: .callout .callout--warning}
@@ -67,6 +67,6 @@ This is a visualisation of the 2 types of memory, However you should be aware th
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIwODkxNTgsLTE4NDY1ODY5MTUsMT
-UxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMjA5MzM3NzMwMCwtMTg0NjU4NjkxNSwxNT
+ExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
