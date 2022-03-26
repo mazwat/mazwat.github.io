@@ -50,7 +50,9 @@ Let's further clarify the differences between the two types:
 
 |STACK| HEAP |
 |--|--|
-|The memory is allocated at the **compile time**.  | The memory is allocated at the **runtime**. |
+|The memory is allocated at the **compile time**.| The memory is allocated at the **runtime**.|
+|In static memory allocation, while executing a program, **the memory cannot be changed**.| In dynamic memory allocation, while executing a program, the **memory can be changed**.|
+|Static memory allocation is preferred in an **array**.  | Dynamic memory allocation is preferred in the **linked list**. |
 
 
 ## Video Lecture
@@ -58,6 +60,6 @@ Let's further clarify the differences between the two types:
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEyNDkxMzIsMTUxMTM2MTI4MywxMD
-gxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbLTg0NTYzNjc0NSwxNTExMzYxMjgzLDEwOD
+EwODU5MjFdfQ==
 -->
