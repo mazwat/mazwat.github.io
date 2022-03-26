@@ -145,11 +145,15 @@ sb.Append(100);
 string  s = sb.ToString();
 ```
 
+## Memory Management
+
+
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0NjUzNDYsMjI1MzMyNzk4LC0xOD
-Q2NTg2OTE1LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTE3OTQ4NTcwOCwyMjUzMzI3OTgsLTE4ND
+Y1ODY5MTUsMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
