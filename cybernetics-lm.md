@@ -31,6 +31,9 @@ page_nav:
 
 ![Header Image](images/states-header.jpg)
 
+The following materials are derived from the *States & Transitions lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+{: .callout .callout--warning}
+
 In this lecture I plan to outline some key theories but also their application in the field of Cybernetics. Cybernetics is commonly applied to robotics but its applications are relevant to all areas of computing and design and especially realtime systems like computer games where we are dealing with the transformations between the states of a system.
 
 This can be useful in thinking about both the physical and virtual components of your system but also the human interface with the experience you intend to develop.
@@ -624,14 +627,14 @@ In this lecture we have looked at:
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/790e8ac7-ba64-4348-839b-5748852c6d47?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Part 2
-<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/051771dc-cdbe-4afc-a522-1c395abbe8b1?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzM0NDcwMCwtMjA5Nzg2NjQyMywxNT
-ExMjY0MTI3LC00MDA3NDE2NTUsLTU5NzgwOTQ3NiwtNzIxMTcz
-NzE4LDE3NDA0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLD
-EwMTM0NTk1MzQsLTk0NDg3NTAyMF19
+eyJoaXN0b3J5IjpbNzYzNjYzODA0LC0yMDk3ODY2NDIzLDE1MT
+EyNjQxMjcsLTQwMDc0MTY1NSwtNTk3ODA5NDc2LC03MjExNzM3
+MTgsMTc0MDQ2NTAxMSwyNDA4ODA4NzYsLTE2NDM0NTA2ODIsMT
+AxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
 -->
