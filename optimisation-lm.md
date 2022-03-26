@@ -220,19 +220,20 @@ void  Update()
 In the first example this might be a memory intensive function we are calling but we don’t need to call it every frame so we can use **modulo** `%` to call it every 3 seconds this make performance better.
 
 #### Reuse Collections
-
 Don’t initialise collections using the **new keyword** in the **Update** function
 
 • Initialise on the **Start** function and call the **Clear** function of the collection if you need to fill with new data
 
-• This all holds true for some Unity functions that return **arrays** such as FindGameObjectsWithTag
+• This all holds true for some Unity functions that return **arrays** such as `FindGameObjectsWithTag`
+
+## Unity Performance Tips
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDM1MTk1MCwzNjYzNjI4MDcsMTU1Nj
+eyJoaXN0b3J5IjpbMTY4MTEyMjY0NSwzNjYzNjI4MDcsMTU1Nj
 U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
 MywxMDgxMDg1OTIxXX0=
 -->
