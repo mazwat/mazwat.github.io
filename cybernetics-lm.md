@@ -617,18 +617,21 @@ In this lecture we have looked at:
 3.  We have explored the role of the **transistor** and how it can provide the simplest implementation of a robot control system.
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
+
+## Video Lecture
+
+### Part 1
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/790e8ac7-ba64-4348-839b-5748852c6d47?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+### Part 2
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3MzcyNywxMDQ5Mjc5MjgxLC04OD
-g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
-NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
-IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
-MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4NjY0MjMsMTUxMTI2NDEyNywtND
-AwNzQxNjU1LC01OTc4MDk0NzYsLTcyMTE3MzcxOCwxNzQwNDY1
-MDExLDI0MDg4MDg3NiwtMTY0MzQ1MDY4MiwxMDEzNDU5NTM0LC
-05NDQ4NzUwMjBdfQ==
+eyJoaXN0b3J5IjpbLTUzMzM0NDcwMCwtMjA5Nzg2NjQyMywxNT
+ExMjY0MTI3LC00MDA3NDE2NTUsLTU5NzgwOTQ3NiwtNzIxMTcz
+NzE4LDE3NDA0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLD
+EwMTM0NTk1MzQsLTk0NDg3NTAyMF19
 -->
