@@ -255,20 +255,34 @@ void  Update()
 }
 ```
 If we switch the for loop with the if statement we achieve much more efficient code.
-## Object Pooling
+### Object Pooling
 Object pooling is a technique where, instead of creating and destroying instances of an object, objects are temporarily deactivated and then recycled and reactivated as needed. Although well known as a technique for managing memory usage, object pooling can also be useful as a technique for reducing excessive CPU usage.
 
  ![Object Pooling](images/many-objects.gif)
 *Fig. 3 - Keep many objects in the pool and respawn* 
 
-The object pool pattern is a software creational design pattern that uses a set of initialised objects kept ready to use – a "pool" – rather than allocating and destroying them on demand. In this example you can imitate the effect of infinite objects by moving object that are out of the camera a view into the pool and simply re spawning them in a new location to fall back into the scene
+The **object pool p
+attern** is a software creational design pattern that uses a set of initialised objects kept ready to use – a "*pool*" – rather than allocating and destroying them on demand. In this example you can imitate the effect of infinite objects by moving object that are out of the camera a view into the pool and simply re spawning them in a new location to fall back into the scene
+
+### Culling
+Unity contains code that checks whether objects are within the frustum of a camera. If they are not within the frustum of a camera, code related to rendering these objects does not run. The term for this is frustum culling.
+
+We can take a similar approach to the code in our scripts.
+
+  
+
+In the following simplified example code, we have an example of a patrolling enemy. Every time Update() is called, the script controlling this enemy calls two example functions: one related to moving the enemy, one related to its visual state.
+
+  
+
+CLICK In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTM4ODMxLDM2NjM2MjgwNywxNTU2NT
+eyJoaXN0b3J5IjpbODg2NDMyMzU1LDM2NjM2MjgwNywxNTU2NT
 UwMzI0LDIyNTMzMjc5OCwtMTg0NjU4NjkxNSwxNTExMzYxMjgz
 LDEwODEwODU5MjFdfQ==
 -->
