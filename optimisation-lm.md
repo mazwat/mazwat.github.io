@@ -214,18 +214,25 @@ void  Update()
 	if (Time.frameCount % interval == 0)
 	{
 		ExampleExpensiveFunction();
-
-}
-
+	}
 }
 ```
+In the first example this might be a memory intensive function we are calling but we don’t need to call it every frame so we can use **modulo** `%` to call it every 3 seconds this make performance better.
+
+#### Reuse Collections
+
+Don’t initialise collections using the **new keyword** in the **Update** function
+
+• Initialise on the **Start** function and call the **Clear** function of the collection if you need to fill with new data
+
+• This all holds true for some Unity functions that return **arrays** such as FindGameObjectsWithTag
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU2NTQ1OTQsMzY2MzYyODA3LDE1NT
-Y1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1LDE1MTEzNjEy
-ODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbMTA0MDM1MTk1MCwzNjYzNjI4MDcsMTU1Nj
+U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
+MywxMDgxMDg1OTIxXX0=
 -->
