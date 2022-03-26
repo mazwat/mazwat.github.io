@@ -91,11 +91,45 @@ void  Update() {
 4.  But ... in **C#** the Heap Memory is managed by the **Garbage Collector  
     **– In C++ we have to allocate and deallocate on the Heap!
 
+```c#
+public  class  MonsterStats {
+	private  int  health;
+	private  int  strength;
+	public  MonsterStats ( ) {
+		health = 100;
+		strength = 10; }
+public  void  ChangeHealth (int  h) {
+
+health += h ;
+
+}//<- h drops out of scope here
+
+void  ChangeStrength(int  s ) {
+
+strength += s;
+
+}//<- s drops out of scope here
+
+}
+
+void Start( ) {
+
+//Create an instance of the class on the Heap
+
+MonsterStats  new  stats = MonsterStats();
+
+stats.ChangeHealth(10);
+
+stats.ChangeStrength(-2);
+
+}
+```
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4OTY4NzAzLC0xODQ2NTg2OTE1LDE1MT
-EzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTc5MDk3OTg1NCwtMTg0NjU4NjkxNSwxNT
+ExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
