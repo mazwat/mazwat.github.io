@@ -235,13 +235,23 @@ void  Update()
 	for (int i = 0; i < myArray.Length; i++)
 	{
 		if (exampleBool)
+		{
+			ExampleFunction(myArray[i]);
+		}
+	}
+}
+```
+In this example a for loop is being executed unnecessarily while a boolean remains false.
+```c#
+void  Update()
+{
+	if (exampleBool)
 	{
-	ExampleFunction(myArray[i]);
-
-}
-
-}
-
+		for (int i = 0; i < myArray.Length; i++)
+		{
+			ExampleFunction(myArray[i]);
+		}
+	}
 }
 ```
 ## Video Lecture
@@ -249,7 +259,7 @@ void  Update()
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjA5ODg0MiwzNjYzNjI4MDcsMTU1Nj
-U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
-MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMzE0ODQ0MTM0LDM2NjM2MjgwNywxNTU2NT
+UwMzI0LDIyNTMzMjc5OCwtMTg0NjU4NjkxNSwxNTExMzYxMjgz
+LDEwODEwODU5MjFdfQ==
 -->
