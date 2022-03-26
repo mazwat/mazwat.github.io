@@ -314,7 +314,15 @@ I won’t go through it here but it is recommended you explore it during the pro
 |Type|Size (bits)|Values|
 |--|--|--|
 |bool|8|1 or 0|
-
+|char|8|-128 to 127|
+|unsigned char, byte|8|0 to 255|
+|short, int|||
+||||
+||||
+||||
+||||
+||||
+||||
 
 
 ## Video Lecture
@@ -322,7 +330,7 @@ I won’t go through it here but it is recommended you explore it during the pro
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjczODIyMyw4ODY0MzIzNTUsMzY2Mz
-YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
-LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTE0ODU3MzU2NTMsODg2NDMyMzU1LDM2Nj
+M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
+NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
