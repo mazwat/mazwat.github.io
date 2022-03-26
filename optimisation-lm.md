@@ -378,25 +378,28 @@ In general, the Arduino stores variables in SRAM. The size of these variables ca
 const int16_t chars[] PROGMEM = {200, 101, 521, 24, 892, 3012, 100};
 void  ReadData() {
 	unsigned int displayInt;
-for (byte k = 0; k < (sizeof(chars) / sizeof(chars[0])); k++) {
-
-displayInt = pgm_read_word_near(chars + k);
-
-Serial.println(displayInt);
-
-}
-
-Serial.println();
-
+	for (byte k = 0; k < (sizeof(chars) / sizeof(chars[0])); k++) {
+		displayInt = pgm_read_word_near(chars + k);
+		Serial.println(displayInt);
+	}
+	Serial.println();
 }
 ```
+## Conclusion
+
+-   The role of memory and data allocation based on **stack** and **heap**
+-   Using **string** managers can help with memory saving in both Arduino and Unity - C++ and C#
+-   How ordering the execution of your code and using **caching** can ensure memory improvements.
+-   How **Garbage Collection** works in Unity
+-   How using culling. **Object pooling** and **LOD** can make the visual elements of a game run more efficiently
+-   I have also highlighted how Unity’s profiler can be used to manage and optimise your applications
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwODkxMjE2LDg4NjQzMjM1NSwzNjYzNj
-I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
-MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbLTU1OTExODg0MCw4ODY0MzIzNTUsMzY2Mz
+YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
+LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
