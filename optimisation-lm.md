@@ -29,6 +29,14 @@ page_nav:
 -   Identify the role of hardware in performance.
 -   Assess various techniques to optimise your code
 -   Apply these methods using specific tools.
+
+
+## Video Lecture
+
+### Part 1
+<iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/790e8ac7-ba64-4348-839b-5748852c6d47?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMjA5MTI4MDIyOSwxNTExMzYxMjgzLDEwOD
+EwODU5MjFdfQ==
 -->
