@@ -201,15 +201,31 @@ void  Update() {
 Don’t allocate on the heap in **Update** functions (use **caching**)  
 Also consider calling function on a **timer** if you need to allocate frequently, this will reduce the amount of allocations in **update**
 #### Update vs Timer - Call only when needed
+```c#
+void  Update()
+{
+	ExampleExpensiveFunction();	
+}
+```
+```c#
+private  int  interval = 3;
+void  Update()
+{
+	if (Time.frameCount % interval == 0)
+	{
+		ExampleExpensiveFunction();
 
+}
 
+}
+```
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDQ2NjE5MSwzNjYzNjI4MDcsMTU1Nj
-U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
-MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbLTEwMDU2NTQ1OTQsMzY2MzYyODA3LDE1NT
+Y1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1LDE1MTEzNjEy
+ODMsMTA4MTA4NTkyMV19
 -->
