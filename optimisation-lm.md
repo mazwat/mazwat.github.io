@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 10. States & Transitions
+title: 10. Optimisation & Performance
 description: COMP140 - Lecture Materials 10
 
 # Author box
@@ -19,12 +19,12 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Cybernetics
+        content: States & Transistions
         url: '../cybernetics-lm'
 ---
 
 # 10. Optimisation & Performance
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTE2NDA0NV19
+eyJoaXN0b3J5IjpbMTA4MTA4NTkyMV19
 -->
