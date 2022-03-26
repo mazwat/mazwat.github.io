@@ -217,7 +217,7 @@ void  Update()
 	}
 }
 ```
-In the first example this might be a memory intensive function we are calling but we don’t need to call it every frame so we can use **modulo** `%` to call it every 3 seconds this make performance better.
+In the first example this might be a memory intensive function we are calling but we don’t need to call it every frame so we can use **modulo** `%` to call it every 3 seconds this makes performance better.
 
 #### Reuse Collections
 Don’t initialise collections using the **new keyword** in the **Update** function
@@ -228,12 +228,28 @@ Don’t initialise collections using the **new keyword** in the **Update** funct
 
 ## Unity Performance Tips
 
+### Limit the use of Loops
+```c#
+void  Update()
+{
+	for (int i = 0; i < myArray.Length; i++)
+	{
+		if (exampleBool)
+	{
+	ExampleFunction(myArray[i]);
+
+}
+
+}
+
+}
+```
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTEyMjY0NSwzNjYzNjI4MDcsMTU1Nj
+eyJoaXN0b3J5IjpbLTk5MjA5ODg0MiwzNjYzNjI4MDcsMTU1Nj
 U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
 MywxMDgxMDg1OTIxXX0=
 -->
