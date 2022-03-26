@@ -25,7 +25,7 @@ page_nav:
 
 # 10. Optimisation & Performance
 
-The following materials are derived from the *Optimisation & Performance lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+The following materials are derived from the *Optimisation & Performance lecture*. The video lecture is included at the bottom of the [***page***](#video-lecture).
 {: .callout .callout--warning}
 
 -   Explain the role of optimisation in the development of software
@@ -33,12 +33,22 @@ The following materials are derived from the *Optimisation & Performance lecture
 -   Assess various techniques to optimise your code
 -   Apply these methods using specific tools.
 
+## Introduction
+
+One of the important aspect of programming is **optimising** for **performance**
+We need to understand the **hardware** our products will be deployed onto
+
+We need to understand the **programming languages** we use
+
+We also need to understand the **frameworks, platforms** or **game engines** we develop for
+
+And finally we need to understand the **tools** we can use to tune **performance**
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njk2MjgzOCwxNTExMzYxMjgzLDEwOD
+eyJoaXN0b3J5IjpbMTQxNzUzNzg3MSwxNTExMzYxMjgzLDEwOD
 EwODU5MjFdfQ==
 -->
