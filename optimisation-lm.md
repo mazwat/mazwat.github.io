@@ -75,7 +75,7 @@ This is a visualisation of the 2 types of memory, However you should be aware th
 -   Values passed into functions are copied onto the stack
 -   The **stack is of fixed size – 1MB for C#**
 
-### Stack - Code Example
+### HEAP - Code Example
 ```c#
 void  Update() {
 	int  x = 10;
@@ -91,6 +91,7 @@ void  Update() {
 4.  But ... in **C#** the Heap Memory is managed by the **Garbage Collector  
     **– In C++ we have to allocate and deallocate on the Heap!
 
+### HEAP - Code Example
 ```c#
 public  class  MonsterStats {
 	private  int  health;
@@ -115,11 +116,40 @@ void Start( ) {
 }
 ```
 
+### Data Types and Memory in C#
+
+1.  **Values types** such as int, float, etc are allocated on the **Stack**
+2.  **Struct’s** are custom **values types** so are allocated on the **Stack** (except on a few cases)
+3.  **Reference Types** are allocated on the **Heap** and include **class, interface** and **delegate types**
+
+## Strings
+
+Strings act and look like value types but are actually reference types
+
+-   This means we need to be careful in allocating new strings
+-   And each time we create a new string using concatenation (+)
+-   If we are creating lots of new strings we should use the StringBuilder class
+
+### String Builder - Code Example
+```c#
+//We need to use the namespace - System.Text
+using  namespace  System.Text
+//Create the string builder with a capacity of - 1024 and max capacity of 1024
+StringBuilder  sb = new  StringBuilder(1024,1024);
+//Append some text
+sb.Append("Name: ");
+sb.Append("Meera");
+sb.Append("Health: ");
+sb.Append(100);
+//Get the String from the String Builder
+string  s = sb.ToString();
+```
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MzMyNzk4LC0xODQ2NTg2OTE1LDE1MT
-EzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTE3MDU0NjUzNDYsMjI1MzMyNzk4LC0xOD
+Q2NTg2OTE1LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
