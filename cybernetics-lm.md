@@ -31,7 +31,7 @@ page_nav:
 
 ![Header Image](images/states-header.jpg)
 
-The following materials are derived from the *States & Transitions lecture*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+The following materials are derived from the *States & Transitions lecture*. The video lecture is included at the bottom of the [**page**](#video-lecture).
 {: .callout .callout--warning}
 
 In this lecture I plan to outline some key theories but also their application in the field of Cybernetics. Cybernetics is commonly applied to robotics but its applications are relevant to all areas of computing and design and especially realtime systems like computer games where we are dealing with the transformations between the states of a system.
@@ -633,7 +633,7 @@ In this lecture we have looked at:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNjYzODA0LC0yMDk3ODY2NDIzLDE1MT
+eyJoaXN0b3J5IjpbMzQxNDQ0Njc4LC0yMDk3ODY2NDIzLDE1MT
 EyNjQxMjcsLTQwMDc0MTY1NSwtNTk3ODA5NDc2LC03MjExNzM3
 MTgsMTc0MDQ2NTAxMSwyNDA4ODA4NzYsLTE2NDM0NTA2ODIsMT
 AxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
