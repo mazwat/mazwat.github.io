@@ -293,14 +293,18 @@ void  Update()
 ```
 In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
 
-@
+### Level of Detail (LOD)\
+
+Level of detail, also known as LOD, is another common rendering optimisation technique. Objects nearest to the player are rendered at full fidelity using detailed meshes and textures. Distant objects use less detailed meshes and textures. A similar approach can be used with our code. For example, CLICK we may have an enemy with an AI script that determines its behaviour. Part of this behaviour may involve costly operations for determining what it can see and hear, and how it should react to this input. We could use a level of detail system to enable and disable these expensive operations based on the enemy's distance from the player. In a Scene with many of these enemies, we could make a considerable performance saving if only the nearest enemies are performing the most expensive operations.
+
+CLICK Unity's CullingGroup API allows us to hook into Unity's LOD system to optimise our code.
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTc0Njk1LDg4NjQzMjM1NSwzNjYzNj
-I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
-MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbLTMxNjU2OTU4Niw4ODY0MzIzNTUsMzY2Mz
+YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
+LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
