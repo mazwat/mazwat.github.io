@@ -367,13 +367,36 @@ Serial.print(F("Optimizing Code"));
 ```
 This simple, yet powerful solution forces the compiler to put the enclosed string in **PROGMEM**.
 
-Including such a macro on these two words `Optimizing Code` , can save as much as 16 bytes
+Including such a macro on these two words `Optimizing Code` , can save as much as **16 bytes**.
+
+### PROGMEM
+```c++
+const int16_t chars[] = {200, 101, 521, 24, 892, 3012, 100};
+```
+In general, the Arduino stores variables in SRAM. The size of these variables can change during program execution. To avoid running out of RAM, we need to control the data that goes into this memory block. To achieve this, we use the PROGMEM keyword to store the data in program memory instead of RAM. It is particularly useful for data that never changes, such as constants. The drawback, however, is that this is slower; but the bigger picture is that we save RAM. Here is an example of PROGMEM implementation.
+```c++
+const int16_t chars[] PROGMEM = {200, 101, 521, 24, 892, 3012, 100};
+void  ReadData() {
+	unsigned int displayInt;
+for (byte k = 0; k < (sizeof(chars) / sizeof(chars[0])); k++) {
+
+displayInt = pgm_read_word_near(chars + k);
+
+Serial.println(displayInt);
+
+}
+
+Serial.println();
+
+}
+```
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTMyMzk0OSw4ODY0MzIzNTUsMzY2Mz
-YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
-LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbODQwODkxMjE2LDg4NjQzMjM1NSwzNjYzNj
+I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
+MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
