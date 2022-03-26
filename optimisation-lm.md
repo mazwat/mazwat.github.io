@@ -269,58 +269,38 @@ Unity contains code that checks whether objects are within the frustum of a came
 
 We can take a similar approach to the code in our scripts.
 ```c#
-  void  Update()
-
-{
-
-UpdateTransformPosition();
-
-UpdateAnimations();
-
-}
-```
-In the following simplified example code, we have an example of a patrolling enemy. Every time Update() is called, the script controlling this enemy calls two example functions: one related to moving the enemy, one related to its visual state.
-```c#
-  private  Renderer  myRenderer;
-
-  
-
-void  Start()
-
-{
-
-myRenderer = GetComponent<Renderer>();
-
-}
-
-  
-
 void  Update()
-
 {
-
-UpdateTransformPosition();
-
-  
-
-if (myRenderer.isVisible)
-
-{
-
-UpateAnimations();
-
-}
-
+	UpdateTransformPosition();
+	UpdateAnimations();
 }
 ```
-CLICK In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
+In the following simplified example code, we have an example of a patrolling enemy. Every time `Update()` is called, the script controlling this enemy calls two example functions: one related to moving the enemy, one related to its visual state.
+```c#
+private  Renderer  myRenderer;
+void  Start()
+{
+	myRenderer = GetComponent<Renderer>();
+}
+void  Update()
+{
+	UpdateTransformPosition();
+	if (myRenderer.isVisible)
+	{
+		UpateAnimations();
+	}
+}
+```
+In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
+
+@
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTQ2MDYxLDg4NjQzMjM1NSwzNjYzNj
+eyJoaXN0b3J5IjpbLTQ2NTc0Njk1LDg4NjQzMjM1NSwzNjYzNj
 I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
 MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
