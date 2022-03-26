@@ -311,6 +311,8 @@ I won’t go through it here but it is recommended you explore it during the pro
 
 ## Optimisation in Arduino
 
+Size of data types in Arduino
+
 |Type|Size (bits)|Values|
 |--|--|--|
 |bool|8|1 or 0|
@@ -318,19 +320,74 @@ I won’t go through it here but it is recommended you explore it during the pro
 |unsigned char, byte|8|0 to 255|
 |short, int|16|-327768 to 32767|
 |unsigned int, word|16|0 to 65535|
-|long|||
-|unsigned long|||
-|float, double|||
-||||
-||||
+|long|32|-2147483648 to 2147483648|
+|unsigned long|32|0 to 4294967295|
+|float, double|32|1.175e-38 to 3.402e38|
 
+Even though Arduino is a simpler platform and we don’t have to manage visual object management, there are still some savings we can make. Managing our data types is really important. Only use the data type needed to satisfy the memory for the content of the variable.
+
+Remember the same relationship of data types to heap and stack apply in Arduino as well.
+```c#
+void  setup()
+
+{
+
+pinMode(LED_BUILTIN, OUTPUT);
+
+}
+
+  
+
+void  loop()
+
+{
+
+dot(); dot(); dot();
+
+dash(); dash(); dash();
+
+dot(); dot(); dot();
+
+delay(3000);
+
+}
+
+  
+
+void  dot()
+
+{
+
+digitalWrite(LED_BUILTIN, HIGH);
+
+delay(250);
+
+digitalWrite(LED_BUILTIN, LOW);
+
+delay(250);
+
+}
+
+  
+
+void  dash()
+
+{
+
+digitalWrite(LED_BUILTIN, HIGH);
+
+delay(1000);
+
+digitalWrite(LED_BUILTIN, LOW);
+
+}
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MjEwOTM0LDg4NjQzMjM1NSwzNjYzNj
-I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
-MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMjEyOTg4NzM5Niw4ODY0MzIzNTUsMzY2Mz
+YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
+LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
