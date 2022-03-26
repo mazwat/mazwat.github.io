@@ -327,7 +327,9 @@ Size of data types in Arduino
 Even though Arduino is a simpler platform and we don’t have to manage visual object management, there are still some savings we can make. Managing our data types is really important. Only use the data type needed to satisfy the memory for the content of the variable.
 
 Remember the same relationship of data types to heap and stack apply in Arduino as well.
-```c#
+
+### Use Functions
+```c++
 void  setup()
 {
 	pinMode(LED_BUILTIN, OUTPUT);
@@ -354,12 +356,18 @@ void  dash()
 }
 ```
 This may seem obvious but try to implement your digitalwrites into functions. Using functions in this way saves 200 bytes of memory. This is mainly because a single instance of the function is created in memory. And when the function is called again, the CPU loads the code again from its location in memory, without having to re-create the variables.
+
+### Managing Strings in Arduino
+```c++
+Serial.print("Optimizing Code");
+Serial.print(F("Optimizing Code"));
+```
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk3MjQ3ODgsODg2NDMyMzU1LDM2Nj
+eyJoaXN0b3J5IjpbLTE0NzQ1MDE2MTAsODg2NDMyMzU1LDM2Nj
 M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
 NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
