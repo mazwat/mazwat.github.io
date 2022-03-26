@@ -35,20 +35,24 @@ The following materials are derived from the *Optimisation & Performance lecture
 
 ## Introduction
 
-One of the important aspect of programming is **optimising** for **performance**
-We need to understand the **hardware** our products will be deployed onto
+One of the important aspect of programming is **optimising** for **performance**. We need to understand the **hardware** our products will be deployed onto, We need to understand the **programming languages** we use. We also need to understand the **frameworks, platforms** or **game engines** we develop for. And finally we need to understand the **tools** we can use to tune **performance**.
 
-We need to understand the **programming languages** we use
+## Memory
 
-We also need to understand the **frameworks, platforms** or **game engines** we develop for
+The most fundamental factor in understanding how we can fine tune our projects is to identify the role played by memory.
 
-And finally we need to understand the **tools** we can use to tune **performance**
+**Memory** in most modern programming languages is allocated in two spaces
+
+-   **Dynamic memory** (allocated with new) is allocated on the **Heap** and will grow in size
+-   **Stack memory** (everything that doesn’t use new) is allocated on the **Stack** and is fixed size
+
+let's fur between the two types is to identify their differences.
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzUzNzg3MSwxNTExMzYxMjgzLDEwOD
-EwODU5MjFdfQ==
+eyJoaXN0b3J5IjpbNTE3NzgwMjY3LDE1MTEzNjEyODMsMTA4MT
+A4NTkyMV19
 -->
