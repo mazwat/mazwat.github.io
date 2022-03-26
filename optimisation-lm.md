@@ -128,7 +128,7 @@ Strings act and look like value types but are actually reference types
 
 -   This means we need to be careful in allocating new strings
 -   And each time we create a new string using concatenation (+)
--   If we are creating lots of new strings we should use the StringBuilder class
+-   If we are creating lots of new strings we should use the `StringBuilder` class
 
 ### String Builder - Code Example
 ```c#
@@ -169,6 +169,6 @@ Next, CLICK the garbage collector scans the managed heap and disposes of the unr
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzcwNjIzMiwyMjUzMzI3OTgsLTE4ND
+eyJoaXN0b3J5IjpbMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4ND
 Y1ODY5MTUsMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
