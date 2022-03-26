@@ -175,9 +175,17 @@ void  Update() {
 	}
 }
 ```
-The above code allocates on the heap and gets deallocated every update
+The above code allocates on the heap and gets deallocated every update, causing not only unnecessary allocation but deallocation via the Garbage Collector.
 
-Causing not only unnecessary allocation but deallocation via the Garbage Collector
+If our code repeatedly calls expensive functions that return a result and then discards those results, this may be an opportunity for optimization. Storing and reusing references to these results can be more efficient. This technique is known as **caching**.
+
+**Cache**, if you call functions which allocate memory on the heap:
+
+  
+
+  
+
+Note: Consider moving these out of **Update** functions and retrieve in the **Start** function.
 
 
 
@@ -187,7 +195,7 @@ Causing not only unnecessary allocation but deallocation via the Garbage Collect
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTExMzM0NSwzNjYzNjI4MDcsMTU1Nj
+eyJoaXN0b3J5IjpbMTQ1NDYwMzI1MSwzNjYzNjI4MDcsMTU1Nj
 U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
 MywxMDgxMDg1OTIxXX0=
 -->
