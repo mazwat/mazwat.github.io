@@ -355,7 +355,7 @@ void  dash()
 	digitalWrite(LED_BUILTIN, LOW);
 }
 ```
-This may seem obvious but try to implement your digitalwrites into functions. Using functions in this way saves 200 bytes of memory. This is mainly because a single instance of the function is created in memory. And when the function is called again, the CPU loads the code again from its location in memory, without having to re-create the variables.
+This may seem obvious but try to implement your `digitalWrites` into functions. Using functions in this way saves 200 bytes of memory. This is mainly because a single instance of the function is created in memory. And when the function is called again, the CPU loads the code again from its location in memory, without having to re-create the variables.
 
 ### Managing Strings in Arduino
 ```c++
@@ -392,14 +392,18 @@ void  ReadData() {
 -   How ordering the execution of your code and using **caching** can ensure memory improvements.
 -   How **Garbage Collection** works in Unity
 -   How using culling. **Object pooling** and **LOD** can make the visual elements of a game run more efficiently
--   I have also highlighted how Unity’s profiler can be used to manage and optimise your applications
+-   I have also highlighted how **Unity’s profiler** can be used to manage and optimise your applications
+
+## Further Reading
+
+
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTExODg0MCw4ODY0MzIzNTUsMzY2Mz
-YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
-LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTE5NTU5MDM1MTIsODg2NDMyMzU1LDM2Nj
+M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
+NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
