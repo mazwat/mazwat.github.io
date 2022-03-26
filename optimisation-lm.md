@@ -75,7 +75,7 @@ This is a visualisation of the 2 types of memory, However you should be aware th
 -   Values passed into functions are copied onto the stack
 -   The **stack is of fixed size – 1MB for C#**
 
-### Stack - Code Example
+### HEAP - Code Example
 ```c#
 void  Update() {
 	int  x = 10;
@@ -91,6 +91,7 @@ void  Update() {
 4.  But ... in **C#** the Heap Memory is managed by the **Garbage Collector  
     **– In C++ we have to allocate and deallocate on the Heap!
 
+### HEAP - Code Example
 ```c#
 public  class  MonsterStats {
 	private  int  health;
@@ -115,11 +116,17 @@ void Start( ) {
 }
 ```
 
+### Data Types and Memory in C#
+
+1.  **Values types** such as int, float, etc are allocated on the **Stack**
+2.  **Struct’s** are custom **values types** so are allocated on the **Stack** (except on a few cases)
+3.  **Reference Types** are allocated on the **Heap** and include **class, interface** and **delegate types**
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MzMyNzk4LC0xODQ2NTg2OTE1LDE1MT
-EzNjEyODMsMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbLTY3OTgwODg5OSwyMjUzMzI3OTgsLTE4ND
+Y1ODY5MTUsMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
