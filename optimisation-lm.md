@@ -304,16 +304,19 @@ Unity's CullingGroup API allows us to hook into Unity's LOD system to optimise o
 
 ### Profiler
 
+![Unity Profiler](https://docs.unity3d.com/uploads/Main/profiler-window-homepage.png)
 Unity has it’s own Profiler tool you can use to get performance information about your application. You can connect it to devices on your network or devices connected to your machine to test how your application runs on your intended release platform. You can also run it in the Editor to get an overview of resource allocation with specific reference to the CPU, memory, renderer, and audio while you’re developing your application.
 
 I won’t go through it here but it is recommended you explore it during the process of developing your projects. You can find more information about using it [here](https://docs.unity3d.com/Manual/profiler-profiling-applications.html). 
+
+OP
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mjg1MjI5LDg4NjQzMjM1NSwzNjYzNj
-I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
-MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMTExMDc1MDQ1Nyw4ODY0MzIzNTUsMzY2Mz
+YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
+LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
