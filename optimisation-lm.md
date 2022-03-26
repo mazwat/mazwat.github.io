@@ -25,6 +25,8 @@ page_nav:
 
 # 10. Optimisation & Performance
 
+![Banner Image](images/optimisation-banner.png)
+
 The following materials are derived from the *Optimisation & Performance lecture*. The video lecture is included at the bottom of the [***page***](#video-lecture).
 {: .callout .callout--warning}
 
@@ -54,12 +56,70 @@ Let's further clarify the differences between the **two types**:
 |In static memory allocation, while executing a program, **the memory cannot be changed**.| In dynamic memory allocation, while executing a program, the **memory can be changed**.|
 |Static memory allocation is preferred in an **array**.  | Dynamic memory allocation is preferred in the **linked list**. |
 
+### Stack vs Heap
+![enter image description here](images/stack-vs-heap.gif)
+*fig.1 - Visualising Address Space*
+
+This is a visualisation of the 2 types of memory, However you should be aware that his doesn’t reflect any real space. Stack and Heap are memory abstractions, there is no physical difference between them. However in order to address the allocation of memory - address space was created. Each type of memory has its own address and is divided into different segments, hence the diagram we are going to look at. 
+
+1. Stack deals with the removal and addition of objects from the top this is why it is referred to as a stack and this is why we have put it at the bottom of the diagram here. You will remember the principle of LIFO (last in first out) from our discussion of data structures. 
+2. Heap memory on the other hand is dynamic memory and it changes as the program runs. Its only limitation is the available free space. 
+3. Heap is slower than stack because it has to use a pointer which is stored on the stack to locate the stored object in heap. 
+4. This is known as a reference type. 
+5. An object in stack holds it’s own reference type and is known as a value type. 
+6. Finally we have the code that is not making use of memory at runtime.
+
+### STACK - Impacts on Programming
+-   When you allocated values types (int, float, bool, short, char etc), these allocated on the stack
+-   Values allocated on the stack are local, these are deallocated when they drop out of scope
+-   Values passed into functions are copied onto the stack
+-   The **stack is of fixed size – 1MB for C#**
+
+### Stack - Code Example
+```c#
+void  Update() {
+	int  x = 10;
+	int  y = 10;
+	Vector2  pos = Vector2(x, y);
+} //<-- x, y and pos drop out of scope here
+```
+
+### HEAP - Impacts on Programming
+1.  Heap memory is allocated dynamically
+2.  Any type allocated using the new keyword are allocated on the heap
+3.  We as programmers have responsibility for allocating on the heap
+4.  But ... in **C#** the Heap Memory is managed by the **Garbage Collector  
+    **– In C++ we have to allocate and deallocate on the Heap!
+
+```c#
+public  class  MonsterStats {
+	private  int  health;
+	private  int  strength;
+	public  MonsterStats ( ) {
+		health = 100;
+		strength = 10; 
+	}
+	public  void  ChangeHealth (int  h) {
+		health += h ;
+	}//<- h drops out of scope here
+	void  ChangeStrength(int  s ) {
+		strength += s;
+	}//<- s drops out of scope here
+}
+
+void Start( ) {
+	//Create an instance of the class on the Heap
+	MonsterStats  new  stats = MonsterStats();
+	stats.ChangeHealth(10);
+	stats.ChangeStrength(-2);
+}
+```
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1OTAzOTI3LDE1MTEzNjEyODMsMTA4MT
-A4NTkyMV19
+eyJoaXN0b3J5IjpbMjI1MzMyNzk4LC0xODQ2NTg2OTE1LDE1MT
+EzNjEyODMsMTA4MTA4NTkyMV19
 -->
