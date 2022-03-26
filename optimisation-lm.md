@@ -76,11 +76,23 @@ This is a visualisation of the 2 types of memory, However you should be aware th
 -   Values passed into functions are copied onto the stack
 -   The **stack is of fixed size – 1MB for C#**
 
+### Stack - Code Example
+
+void  Update() {
+
+int  x = 10;
+
+int  y = 10;
+
+Vector2  pos = Vector2(x, y);
+
+} //<-- x, y and pos drop out of scope here
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM2OTkzNDUsLTE4NDY1ODY5MTUsMT
-UxMTM2MTI4MywxMDgxMDg1OTIxXX0=
+eyJoaXN0b3J5IjpbMTUxNDc1OTgyOSwtMTg0NjU4NjkxNSwxNT
+ExMzYxMjgzLDEwODEwODU5MjFdfQ==
 -->
