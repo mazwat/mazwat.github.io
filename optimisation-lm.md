@@ -268,13 +268,51 @@ attern** is a software creational design pattern that uses a set of initialised 
 Unity contains code that checks whether objects are within the frustum of a camera. If they are not within the frustum of a camera, code related to rendering these objects does not run. The term for this is frustum culling.
 
 We can take a similar approach to the code in our scripts.
+```c#
+  void  Update()
 
-  
+{
 
+UpdateTransformPosition();
+
+UpdateAnimations();
+
+}
+```
 In the following simplified example code, we have an example of a patrolling enemy. Every time Update() is called, the script controlling this enemy calls two example functions: one related to moving the enemy, one related to its visual state.
+```c#
+  private  Renderer  myRenderer;
 
   
 
+void  Start()
+
+{
+
+myRenderer = GetComponent<Renderer>();
+
+}
+
+  
+
+void  Update()
+
+{
+
+UpdateTransformPosition();
+
+  
+
+if (myRenderer.isVisible)
+
+{
+
+UpateAnimations();
+
+}
+
+}
+```
 CLICK In the following code, we now check whether the enemy's renderer is within the frustum of any camera. The code related to the enemy's visual state runs only if the enemy is visible.
 
 ## Video Lecture
@@ -282,7 +320,7 @@ CLICK In the following code, we now check whether the enemy's renderer is within
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NDMyMzU1LDM2NjM2MjgwNywxNTU2NT
-UwMzI0LDIyNTMzMjc5OCwtMTg0NjU4NjkxNSwxNTExMzYxMjgz
-LDEwODEwODU5MjFdfQ==
+eyJoaXN0b3J5IjpbODU4OTQ2MDYxLDg4NjQzMjM1NSwzNjYzNj
+I4MDcsMTU1NjU1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUs
+MTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
