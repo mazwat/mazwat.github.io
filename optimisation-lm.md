@@ -254,12 +254,20 @@ void  Update()
 	}
 }
 ```
+If we switch the for loop with the if statement we achieve much more efficient code.
+## Object Pooling
+Object pooling is a technique where, instead of creating and destroying instances of an object, objects are temporarily deactivated and then recycled and reactivated as needed. Although well known as a technique for managing memory usage, object pooling can also be useful as a technique for reducing excessive CPU usage.
+
+  
+
+The object pool pattern is a software creational design pattern that uses a set of initialised objects kept ready to use – a "pool" – rather than allocating and destroying them on demand. In this example you can imitate the effect of infinite objects by moving object that are out of the camera a view into the pool and simply re spawning them in a new location to fall back into the scene
+
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0ODQ0MTM0LDM2NjM2MjgwNywxNTU2NT
-UwMzI0LDIyNTMzMjc5OCwtMTg0NjU4NjkxNSwxNTExMzYxMjgz
-LDEwODEwODU5MjFdfQ==
+eyJoaXN0b3J5IjpbLTQxNTI5NDc4MCwzNjYzNjI4MDcsMTU1Nj
+U1MDMyNCwyMjUzMzI3OTgsLTE4NDY1ODY5MTUsMTUxMTM2MTI4
+MywxMDgxMDg1OTIxXX0=
 -->
