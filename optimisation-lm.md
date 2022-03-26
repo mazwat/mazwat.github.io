@@ -360,14 +360,20 @@ This may seem obvious but try to implement your digitalwrites into functions. Us
 ### Managing Strings in Arduino
 ```c++
 Serial.print("Optimizing Code");
+```
+As with Unity we can manage the deployment of strings more effectively. Printing a lot of strings on the serial monitor or to an LCD display consumes a lot of RAM. To save the precious RAM, such strings can be saved on the Flash memory instead. To achieve this, the Arduino employs the `F()` macro.
+```c++
 Serial.print(F("Optimizing Code"));
 ```
+This simple, yet powerful solution forces the compiler to put the enclosed string in **PROGMEM**.
+
+Including such a macro on these two words `Optimizing Code` , can save as much as 16 bytes
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ1MDE2MTAsODg2NDMyMzU1LDM2Nj
-M2MjgwNywxNTU2NTUwMzI0LDIyNTMzMjc5OCwtMTg0NjU4Njkx
-NSwxNTExMzYxMjgzLDEwODEwODU5MjFdfQ==
+eyJoaXN0b3J5IjpbMTAzNTMyMzk0OSw4ODY0MzIzNTUsMzY2Mz
+YyODA3LDE1NTY1NTAzMjQsMjI1MzMyNzk4LC0xODQ2NTg2OTE1
+LDE1MTEzNjEyODMsMTA4MTA4NTkyMV19
 -->
