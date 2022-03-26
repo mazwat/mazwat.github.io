@@ -159,7 +159,8 @@ Earlier I mentioned Garbage collection, so what is it?
 
 When garbage collection is triggered the garbage collector deems every object in the graphs as garbage. The garbage collector then recursively traverses each graph looking for reachable objects.CLICK Every time the garbage collector visits an object, it tags it as reachable. Because the graphs represent the relationships between clients and objects, when the garbage collector is done traversing the graphs, it knows which objects were reachable and which were not. Reachable objects should be kept alive. Unreachable objects are considered deallocated and therefore garbage, and therefore destroying them does no harm.
 
-  ![enter image description here](images/garb-coll.gif)
+![enter image description here](images/garb-coll.gif)
+*fig.2 - Visualising Garbage Collection*
 
 Next, CLICK the garbage collector scans the managed heap and disposes of the unreachable objects by compacting the heap and overwriting the unreachable objects with reachable one. The garbage collector moves reachable objects down the heap, writing over the garbage, and thus frees more space at the end for new object allocations. All unreachable objects are purged from the graphs.
 
@@ -168,6 +169,6 @@ Next, CLICK the garbage collector scans the managed heap and disposes of the unr
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA3MjIzOCwyMjUzMzI3OTgsLTE4ND
+eyJoaXN0b3J5IjpbLTU0NzcwNjIzMiwyMjUzMzI3OTgsLTE4ND
 Y1ODY5MTUsMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
