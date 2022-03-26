@@ -25,6 +25,10 @@ page_nav:
 
 # 10. Optimisation & Performance
 
+-   Explain the role of optimisation in the development of software
+-   Identify the role of hardware in performance.
+-   Assess various techniques to optimise your code
+-   Apply these methods using specific tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTA4NTkyMV19
+eyJoaXN0b3J5IjpbMTUxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
