@@ -25,6 +25,8 @@ page_nav:
 
 # 10. Optimisation & Performance
 
+![enter image description here](images/optimisation-banner.png)
+
 The following materials are derived from the *Optimisation & Performance lecture*. The video lecture is included at the bottom of the [***page***](#video-lecture).
 {: .callout .callout--warning}
 
@@ -54,12 +56,14 @@ Let's further clarify the differences between the **two types**:
 |In static memory allocation, while executing a program, **the memory cannot be changed**.| In dynamic memory allocation, while executing a program, the **memory can be changed**.|
 |Static memory allocation is preferred in an **array**.  | Dynamic memory allocation is preferred in the **linked list**. |
 
+### Stack vs Heap
+
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1OTAzOTI3LDE1MTEzNjEyODMsMTA4MT
-A4NTkyMV19
+eyJoaXN0b3J5IjpbLTE4NDY1ODY5MTUsMTUxMTM2MTI4MywxMD
+gxMDg1OTIxXX0=
 -->
