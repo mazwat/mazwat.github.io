@@ -60,13 +60,27 @@ Let's further clarify the differences between the **two types**:
 ![enter image description here](images/stack-vs-heap.gif)
 *fig.1 - Visualising Address Space*
 
-This is a visualisation of the 2 types of memory, However you should be aware that his doesn’t reflect any real space. Stack and Heap are memory abstractions, there is no physical difference between them. However in order to address the allocation of memory - address space was created. Each type of memory has its own address and is divided into different segments, hence the diagram we are going to look at. CLICK Stack deals with the removal and addition of objects from the top this is why it is referred to as a stack and this is why we have put it at the bottom of the diagram here. You will remember the principle of LIFO (last in first out) from our discussion of data structures. CLICK Heap memory on the other hand is dynamic memory and it changes as the program runs. Its only limitation is the available free space. CLICK Heap is slower than stack because it has to use a pointer which is stored on the stack to locate the stored object in heap. CLICK This is known as a reference type. CLICK An object in stack holds it’s own reference type and is known as a value type. CLICK Finally we have the code that is not making use of memory at runtime.
+This is a visualisation of the 2 types of memory, However you should be aware that his doesn’t reflect any real space. Stack and Heap are memory abstractions, there is no physical difference between them. However in order to address the allocation of memory - address space was created. Each type of memory has its own address and is divided into different segments, hence the diagram we are going to look at. 
+
+1. Stack deals with the removal and addition of objects from the top this is why it is referred to as a stack and this is why we have put it at the bottom of the diagram here. You will remember the principle of LIFO (last in first out) from our discussion of data structures. 
+2. Heap memory on the other hand is dynamic memory and it changes as the program runs. Its only limitation is the available free space. 
+3. Heap is slower than stack because it has to use a pointer which is stored on the stack to locate the stored object in heap. 
+4. This is known as a reference type. 
+5. An object in stack holds it’s own reference type and is known as a value type. 
+6. Finally we have the code that is not making use of memory at runtime.
+
+### Stack - Impacts on Programming
+
+-   When you allocated values types (int, float, bool, short, char etc), these allocated on the stack
+-   Values allocated on the stack are local, these are deallocated when they drop out of scope
+-   Values passed into functions are copied onto the stack
+-   The **stack is of fixed size – 1MB for C#**
 
 ## Video Lecture
 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/f40015bb-d506-4ffc-9a7a-8e90069ffdae?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzM3NzMwMCwtMTg0NjU4NjkxNSwxNT
-ExMzYxMjgzLDEwODEwODU5MjFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTM2OTkzNDUsLTE4NDY1ODY5MTUsMT
+UxMTM2MTI4MywxMDgxMDg1OTIxXX0=
 -->
