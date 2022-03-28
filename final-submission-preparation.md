@@ -62,13 +62,13 @@ You must submit a **link to a repo** that is fullly documented. By this we expec
 There are some essential elements that should be included **in the repo**:
 
  1. A **video** showing your game/experience/robot functioning as intended. It should show your control system, any enclosures and your UI or interface. A person should be seen to be using/playing the project.
- 2. **5 images** than show the electronics,wiring, CAD designs and the enclosure and game screens (if you have them)
- 3. **Unity project** (if your project requires a game or GUI element).
+ 2. **5 images** - thee shou show the electronics,wiring, CAD designs and the enclosure and game screens (if you have them)
+ 3. **Unity project** - (if your project requires a game or GUI element).
  4. **Arduino files** - .ino and any other libraries - .cpp and Header files (if used).
- 5. **CAD files**. If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
+ 5. **CAD files** - If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
  6. **Readme.md** - as mentioned previously include detailed documentation.
  7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
- 8. Code q
+ 8. **Code quality** - We expect code to be easily accessible and well commented. Reltationships between object and classess should be explicit.
 
 
 ## Peer Review
@@ -81,6 +81,6 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgwNDM4NjUsMTA2OTc5NTU1LDgzMD
+eyJoaXN0b3J5IjpbLTE4NjA0MzI1NjUsMTA2OTc5NTU1LDgzMD
 U3NjQ2NCwyMzU1OTY0MjZdfQ==
 -->
