@@ -44,11 +44,16 @@ In summary here they are:
 |Creative Response to Brief| 10% |
 |Use of Version Control| 10% |
 
-Insure that you have given each criteria your consideration when designing your project.
+Ensure that you have given each criteria your consideration when designing your project.
 
 ## Contracts
 
-We will be assessing you on how well you have met the requirements of the **[contract](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876)**. Does your experience meet the needs of your specific client. This will effect how we consider all of the above criteria.
+We will be assessing you on how well you have met the requirements of the **[contract](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876)**. Does your experience meet the needs of your specific client. This will effect how we appraise all of the above criteria.
+
+
+## Deliverable Elements
+
+You are required to submit a number of specifci componentas
 
 
 
@@ -57,6 +62,6 @@ We will be assessing you on how well you have met the requirements of the **[con
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzA4MDUxMCw4MzA1NzY0NjQsMjM1NT
-k2NDI2XX0=
+eyJoaXN0b3J5IjpbNjY2NjYwMzE3LDgzMDU3NjQ2NCwyMzU1OT
+Y0MjZdfQ==
 -->
