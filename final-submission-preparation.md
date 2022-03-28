@@ -25,13 +25,20 @@ page_nav: false
 
 You are rapidly approaching your COMP140 Assignment 1 deadline. I have prepared this information to support your submission and help you prepare the resources you need to submit.
 
-Submission Criteria
+## Submission Criteria
 
-If you want to achieve a good grade it is really important to pay attention to the key criteria in the rubric which is at the bottom of the brief for Assignment 2.
+First and foremest, if you want to achieve a good grade it is vital you pay attention to the key criteria in the rubric which is at the bottom of the **[brief](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228190)** for Assignment 2.
+
+In summary here they are:
+
+|Criteria |  |
+|--|--|
+|  |  |
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODIyMjQ4NCwyMzU1OTY0MjZdfQ==
+eyJoaXN0b3J5IjpbMjk2NjI2Njg0LDIzNTU5NjQyNl19
 -->
