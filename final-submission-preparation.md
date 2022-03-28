@@ -55,7 +55,7 @@ We will be assessing you on how well you have met the requirements of the **[con
 You are required to submit a number of specific components to complete the assignment. They are:
 
 ### A Repo
-You must submit a **link to a repo** that is fullly documented. By this we expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be **used a by third-party**. In which case you should make it clear how to use it and to **recreate** your experience.
+You must submit a **link to a repo** that is fullly documented. We expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be **used by a third-party**. In which case you should make it clear how to use it and to **recreate** your experience.
 
 There are some essential elements that should be included **in the repo**:
 
@@ -78,7 +78,7 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODUyMjk0NSwzMDcxNDMyNjQsMTIzNj
-QyOTY5MSwxMDY5Nzk1NTUsODMwNTc2NDY0LDIzNTU5NjQyNl19
-
+eyJoaXN0b3J5IjpbMTI4NjMxMjQzOCwtNTY4NTIyOTQ1LDMwNz
+E0MzI2NCwxMjM2NDI5NjkxLDEwNjk3OTU1NSw4MzA1NzY0NjQs
+MjM1NTk2NDI2XX0=
 -->
