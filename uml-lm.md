@@ -251,6 +251,7 @@ Boxes containing classes are joined by arrows which declare the relationship bet
 The above example demonstrates how all the previous elements can be brought together to represent an entire game and it's objects relationships.
 
 **You may find the examples above of class diagrams difficult to read. You can view them in more detail on Lucid Chart [here.](https://lucid.app/lucidchart/13ad9686-b153-4ff8-8e30-24401ad1bdb0/edit?viewport_loc=-349,-16,2558,1205,ImEcv_L7YKPY&invitationId=inv_26341ea9-d6a6-4da3-b0f4-3392d2a99e99) Use the tabs at the bottom of the chart to switch between the examples.
+{: .callout .callout--info}
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UI6lqHOVHic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -273,11 +274,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzODY0NTcsLTE3NjQzMjU4NjYsLTEwND
-kyMTQ4ODIsLTEwMzY0NDEwOTUsLTE4MjU1NDMyNzMsMTMzOTA5
-NzU0NCwtMTI5NTg4MDYzMiwtMjA3NDE0OTk0NCwtMTA3NjU1OD
-UyNSwtNjIyMDE3ODQ1LDI2MTgyMTgzNywxMDY1NTk0OTcxLC05
-ODk3ODQ1MjksNzY4MzY5MDUsLTM5MjAwMzQ2MCwtMTYwNjMxOD
-kzNywtMTk2MjUzMzg1NywtMTI5MjU3MTA4NywtNTkwNDc2NTA3
-LDE1OTgyNjc5MjhdfQ==
+eyJoaXN0b3J5IjpbNTA0NjUzNzczLC0xNzY0MzI1ODY2LC0xMD
+Q5MjE0ODgyLC0xMDM2NDQxMDk1LC0xODI1NTQzMjczLDEzMzkw
+OTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQxNDk5NDQsLTEwNzY1NT
+g1MjUsLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5NDk3MSwt
+OTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMT
+g5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUw
+NywxNTk4MjY3OTI4XX0=
 -->
