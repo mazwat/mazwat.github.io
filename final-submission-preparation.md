@@ -1,4 +1,3 @@
-
 ---
 # Page settings
 layout: default
@@ -6,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Poster Preparation
-description: COMP140 - Week 3 
+title: Preparation for Final Submisson
+description: COMP140 - Week 10
 
 # Author box
 author:
@@ -30,5 +29,5 @@ You are rapidly approaching your COMP140 Assignment 1 deadline. I have prepared 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMzOTMxMSwyMzU1OTY0MjZdfQ==
+eyJoaXN0b3J5IjpbMTYzMzI0ODA4OCwyMzU1OTY0MjZdfQ==
 -->
