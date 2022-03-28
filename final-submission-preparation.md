@@ -21,7 +21,7 @@ page_nav: false
 
 ---
 
-# Preparing for your Final Submission
+# Prepare your Final Submission
 
 ![Finalising a prototype](images/submission.jpg)
 *Image Attribution: Photo by [Tool., Inc](https://unsplash.com/@tool_inc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/prototype?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
@@ -74,10 +74,10 @@ Please be aware that a peer review will take place **next week (monday).** Your 
 
 If you still have questions about your upcoming submissions please don't hesitate to ask me.
 
-*Matt Watkins March 2022*
+*Matt Watkins 03/2022*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzY0NzkxMywxMjM2NDI5NjkxLDEwNj
-k3OTU1NSw4MzA1NzY0NjQsMjM1NTk2NDI2XX0=
+eyJoaXN0b3J5IjpbMzA3MTQzMjY0LDEyMzY0Mjk2OTEsMTA2OT
+c5NTU1LDgzMDU3NjQ2NCwyMzU1OTY0MjZdfQ==
 -->
