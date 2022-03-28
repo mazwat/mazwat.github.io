@@ -36,13 +36,16 @@ In summary here they are:
 
 |Criteria |Weight |
 |--|--|
-|  |  |
+|Basic Competency Threshold  | 30% |
+|Sophistication of Code  | 15% |
+|Maintainability of Code  | 10% |
+|Functionality of Physical Prototype  | 15% |
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIxMzU2MTQsODMwNTc2NDY0LDIzNT
+eyJoaXN0b3J5IjpbLTE2OTE1NjA3NzEsODMwNTc2NDY0LDIzNT
 U5NjQyNl19
 -->
