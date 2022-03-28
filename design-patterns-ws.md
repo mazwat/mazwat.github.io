@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: COMP140 - Worksheet 5
+title: Worksheet 6
 
 # Author box
 author:
@@ -25,7 +25,7 @@ page_nav:
         url: '../cybernetics-lm'
 ---
 
-# Design Patterns
+# 6. Design Patterns
 
 Note - Please **don't start the exercises** below until the begining of mondays workshop as the task will be done in groups and may change in the run up to the session.
 {: .callout .callout--info}
@@ -60,7 +60,8 @@ It is assumed that you have watched the **video lecture** and viewed the [**mate
 {: .callout .callout--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY5ODgxMzksMTk1NzM1ODY3OCwtMz
-I4MzQwMjMsNTA5MzMxNDA1LC02NDc5NjIxODgsLTE4NjA3MTk2
-OTQsLTEzNDA5NTg1NjIsLTU3NDc3MDcxOV19
+eyJoaXN0b3J5IjpbLTI1NzIxMzczMywtMTg2Njk4ODEzOSwxOT
+U3MzU4Njc4LC0zMjgzNDAyMyw1MDkzMzE0MDUsLTY0Nzk2MjE4
+OCwtMTg2MDcxOTY5NCwtMTM0MDk1ODU2MiwtNTc0NzcwNzE5XX
+0=
 -->
