@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Rapid Prototyping
+title: Worjsrj
 description: COMP140 - Week 6
 
 # Author box
@@ -58,6 +58,7 @@ You should be building on the foundations of your programming skills. After you 
 In **week 7** we will be expecting to see a **basic prototype** in your seminar groups.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MDU3MTI4LC0xMzE2MzEzODE2LDEyNj
-k5MTQwNDUsNDc0MjQ3ODk4LC01NzUwMDE5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzMyMzQwMDgsMjg1MDU3MTI4LC0xMz
+E2MzEzODE2LDEyNjk5MTQwNDUsNDc0MjQ3ODk4LC01NzUwMDE5
+MzJdfQ==
 -->
