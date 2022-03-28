@@ -65,12 +65,11 @@ There are some essential elements that should be included:
  2. **5 images** than show the electronics,wiring, CAD designs and the enclosure and game screens (if you have them)
  3. A **Unity project** (if your project requites a game or GUI element).
  4. **Arduino files** - .ino and any other libraries - .cpp and Header files (if used).
- 5. **CAD files**. If your enclsoure required the use of Fusion or a similar CAD application include images/files in your repo.
- 6. Readme.md - as mentioned previously include detailed documentation
- 7. Licencing/Copyright - if you are using any thirdaprty assets or libraries please provide details of the licences and in
+ 5. **CAD files**. If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
+ 6. **Readme.md** - as mentioned previously include detailed documentation.
+ 7. **Licencing/Copyright** - if you are using any thirdaprty assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods.
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4ODU4MjM5LDgzMDU3NjQ2NCwyMzU1OT
-Y0MjZdfQ==
+eyJoaXN0b3J5IjpbLTMxMDk5MDUyMCw4MzA1NzY0NjQsMjM1NT
+k2NDI2XX0=
 -->
