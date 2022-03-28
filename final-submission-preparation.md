@@ -24,9 +24,11 @@ page_nav: false
 
 # Preparation for your Final Submission
 
-You are rapidly approaching your COMP140
+You are rapidly approaching your COMP140 Assignment 1 deadline. I have prepared this information to support your submission and help you prepare the resources you need to submit.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NTk2NDI2XX0=
+eyJoaXN0b3J5IjpbLTEwMTMzOTMxMSwyMzU1OTY0MjZdfQ==
 -->
