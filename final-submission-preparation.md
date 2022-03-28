@@ -57,15 +57,15 @@ You are required to submit a number of specific components to complete the assig
 
 ### Repo
 
-You must submit a link to a repo that is fullly documented. By this we expect you to provide a readme.md or multiple that explain the function of the repo. You should imagine that the project contained within is going to be used a by third-party. In which case you should make it clear how to use it. You should share *CAD drawings, electrical diagrams/schematics and code example*s in your readme that would assist a user of the repo to recreate your project. 
+You must submit a link to a repo that is fullly documented. By this we expect you to provide a readme.md or multiple that explain the function of the repo. You should imagine that the project contained within is going to be used a by third-party. In which case you should make it clear how to use it. You should share *CAD drawings, electrical diagrams/schematics and code examples* in your readme that would assist a user of the repo to recreate your project. 
 
 There are some essential elements that should be included:
 
  1. A **video** showing your game/experiecne/robot functioning as intended. It should show your control system, any enclosures and your UI or interface. A person should be seen to be using/playing the project.
- 2. 
+ 2. 5 images than show the electronics,wiring and the enclosur
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2NTUwNSw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbMTMyNTI3OTI0NSw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
