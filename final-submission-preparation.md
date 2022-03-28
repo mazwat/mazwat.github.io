@@ -62,10 +62,12 @@ You must submit a link to a repo that is fullly documented. By this we expect yo
 There are some essential elements that should be included:
 
  1. A **video** showing your game/experiecne/robot functioning as intended. It should show your control system, any enclosures and your UI or interface. A person should be seen to be using/playing the project.
- 2. 5 images than show the electronics,wiring and the enclosur
+ 2. **5 images** than show the electronics,wiring and the enclosure and game screens (if you have them)
+ 3. A **Unity project** (if your project requites a game or GUI element).
+ 4. Arduino ION
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTI3OTI0NSw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbMTg0MDYyODY3MCw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
