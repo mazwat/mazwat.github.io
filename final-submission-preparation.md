@@ -53,7 +53,11 @@ We will be assessing you on how well you have met the requirements of the **[con
 
 ## Deliverable Elements
 
-You are required to submit a number of specifci componentas
+You are required to submit a number of specific components to complete the assignment. They are:
+
+### Repo
+
+You must submit a link to a repo that is fullly documented. By this we expect you to provide a readme.md or multiple that explain the function of the r
 
 
 
@@ -62,6 +66,6 @@ You are required to submit a number of specifci componentas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NjYwMzE3LDgzMDU3NjQ2NCwyMzU1OT
-Y0MjZdfQ==
+eyJoaXN0b3J5IjpbMTYwODczNDUwMiw4MzA1NzY0NjQsMjM1NT
+k2NDI2XX0=
 -->
