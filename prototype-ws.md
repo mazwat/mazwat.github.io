@@ -5,8 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Worjsrj
-description: COMP140 - Week 6
+title: Worksheet 6
 
 # Author box
 author:
@@ -21,7 +20,7 @@ page_nav: false
 
 ---
 
-# Rapid Prototyping
+# 6. Rapid Prototyping
 
 ![Prototype banner](images/prototype.jpg)
 *fig. 1 - Image Attribution - Photo by [Tom Claes](https://unsplash.com/@tomspentys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@tomspentys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
@@ -58,7 +57,7 @@ You should be building on the foundations of your programming skills. After you 
 In **week 7** we will be expecting to see a **basic prototype** in your seminar groups.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyMzQwMDgsMjg1MDU3MTI4LC0xMz
-E2MzEzODE2LDEyNjk5MTQwNDUsNDc0MjQ3ODk4LC01NzUwMDE5
-MzJdfQ==
+eyJoaXN0b3J5IjpbMjExOTE4MzQwOCwyODUwNTcxMjgsLTEzMT
+YzMTM4MTYsMTI2OTkxNDA0NSw0NzQyNDc4OTgsLTU3NTAwMTkz
+Ml19
 -->
