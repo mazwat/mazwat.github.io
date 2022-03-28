@@ -21,12 +21,12 @@ page_nav: false
 
 ---
 
-# Preparation for your Final Submission
+# Preparing for your Final Submission
 
 ![Finalising a prototype](images/submission.jpg)
 *Image Attribution: Photo by [Tool., Inc](https://unsplash.com/@tool_inc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/prototype?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-You are rapidly approaching your COMP140 Assignment 1 deadline. I have prepared this information to support your submission and help you prepare the resources you need to submit.
+You are rapidly approaching your **COMP140 Assignment 1 deadline**. I have prepared this information to support your submission and help you prepare the resources you need to submit.
 
 ## Submission Criteria
 
@@ -44,7 +44,7 @@ In summary here they are:
 |Creative Response to Brief| 10% |
 |Use of Version Control| 10% |
 
-Ensure that you have given each criteria your consideration when designing your project.
+Ensure that you have given each criteria your consideration when designing your project. This assignment constitutes **70%** of your grade.
 
 ## Contracts
 
@@ -78,6 +78,6 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjQyOTY5MSwxMDY5Nzk1NTUsODMwNT
-c2NDY0LDIzNTU5NjQyNl19
+eyJoaXN0b3J5IjpbLTg4NzY0NzkxMywxMjM2NDI5NjkxLDEwNj
+k3OTU1NSw4MzA1NzY0NjQsMjM1NTk2NDI2XX0=
 -->
