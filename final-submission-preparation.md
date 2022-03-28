@@ -23,6 +23,9 @@ page_nav: false
 
 # Preparation for your Final Submission
 
+![Finalising a prototype](images/submission.jpg)
+*Image Attribution: Photo by [Tool., Inc](https://unsplash.com/@tool_inc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/prototype?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
 You are rapidly approaching your COMP140 Assignment 1 deadline. I have prepared this information to support your submission and help you prepare the resources you need to submit.
 
 ## Submission Criteria
@@ -40,5 +43,6 @@ In summary here they are:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNTc2NDY0LDIzNTU5NjQyNl19
+eyJoaXN0b3J5IjpbLTE2NDIxMzU2MTQsODMwNTc2NDY0LDIzNT
+U5NjQyNl19
 -->
