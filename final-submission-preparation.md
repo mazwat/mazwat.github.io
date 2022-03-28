@@ -72,12 +72,14 @@ There are some essential elements that should be included:
 
 ## Peer Review
 
-PLease be aware that a peer review will take place next week (monday). Your project should be in a form for your peers to review it and provide appraisal to support you when you submit your final work.
+Please be aware that a peer review will take place **next week (monday).** Your project should be in a form for your peers to review it and provide appraisal to support you when you submit your final work. Ideally you should have functioning prototype and a well formed repo at this stage.
 
-If you still have questions about your upcoming submision
+If you still have questions about your upcoming submissions please don't hesitate to ask me.
+
+Matt Watkins March 2022
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3OTU1NDgyLDgzMDU3NjQ2NCwyMzU1OT
-Y0MjZdfQ==
+eyJoaXN0b3J5IjpbLTMxMjA2NTkxNyw4MzA1NzY0NjQsMjM1NT
+k2NDI2XX0=
 -->
