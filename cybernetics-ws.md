@@ -6,6 +6,7 @@ comments: false
 
 # Hero section
 title: Worksheet 6
+description: COMP140 - Worksheet 2
 
 # Author box
 author:
@@ -63,7 +64,7 @@ Arduino State Pattern Example Repo\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5OTM4NjE5LDIwNjc0NzU4NzgsLTEyND
+eyJoaXN0b3J5IjpbMTQyMDY2MTAyLDIwNjc0NzU4NzgsLTEyND
 M3OTg0NDcsLTE0NTI5MDcyMTYsMTQ1Mzg4NTQ4OCwxMDY2MDA3
 ODE4XX0=
 -->
