@@ -70,7 +70,7 @@ There are some essential elements that should be included **in the repo**:
 
 ## Peer Review
 
-Please be aware that a peer review will take place **next week (monday).** Your project should be in a form for your peers to review it and provide appraisal to support you when you submit your final work. Ideally you should have functioning prototype and a well formed repo at this stage.
+Please be aware that a peer review will take place **next week (monday).** Your project should be in a form for your peers to review it and provide appraisal to support you when you submit your final work. Ideally you should have a **functioning prototype** and a **well formed repo** at this stage.
 
 If you still have questions about your upcoming submissions please don't hesitate to ask me.
 
@@ -78,6 +78,7 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MTQzMjY0LDEyMzY0Mjk2OTEsMTA2OT
-c5NTU1LDgzMDU3NjQ2NCwyMzU1OTY0MjZdfQ==
+eyJoaXN0b3J5IjpbLTU2ODUyMjk0NSwzMDcxNDMyNjQsMTIzNj
+QyOTY5MSwxMDY5Nzk1NTUsODMwNTc2NDY0LDIzNTU5NjQyNl19
+
 -->
