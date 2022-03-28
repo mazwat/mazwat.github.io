@@ -37,15 +37,19 @@ In summary here they are:
 |Criteria |Weight |
 |--|--|
 |Basic Competency Threshold  | 30% |
-|Sophistication of Code  | 15% |
-|Maintainability of Code  | 10% |
-|Functionality of Physical Prototype  | 15% |
+|Sophistication of Code| 15% |
+|Maintainability of Code| 10% |
+|Functionality of Physical Prototype| 15% |
+|Physical Form Factor Sophistication| 15% |
+|Creative Response to Brief| 15% |
+|| 15% |
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE1NjA3NzEsODMwNTc2NDY0LDIzNT
-U5NjQyNl19
+eyJoaXN0b3J5IjpbMTM5ODgwMDg1MCw4MzA1NzY0NjQsMjM1NT
+k2NDI2XX0=
 -->
