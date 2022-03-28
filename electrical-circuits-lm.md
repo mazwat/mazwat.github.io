@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 1. Electrical Circuits
+title: Lecture 1
 description: COMP140 - Lecture Materials 1
 
 # Author box
@@ -273,11 +273,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjU0MjUzOCwtNDUxNDA1OTEzLDIyMj
-EwNDAzNCwyNjU0MDE5MjksMjY1NDAxOTI5LC0xMTYwMTIxMzky
-LC0xOTUyMzY0OTMwLDExNjcwMTI5ODgsLTc2ODM3MTAzNiwtMj
-A5MzE4MDI2OSwtMjA0NzQ3NjQwMiwtMTU2NjI4OTIyNywtMTcw
-MjQ0MjY2NCwxMTU1NjU3OTk3LDE0ODQ2ODIwOTAsLTU5MzcxOT
-Y1NCwxNjgxMTU2NDc5LDkxMjAxODE2NiwtMTEyMzY0MTQ0Miwt
-MTE3ODE0OTk2NF19
+eyJoaXN0b3J5IjpbMTI5NTkxNzMzOCwtODY2NTQyNTM4LC00NT
+E0MDU5MTMsMjIyMTA0MDM0LDI2NTQwMTkyOSwyNjU0MDE5Mjks
+LTExNjAxMjEzOTIsLTE5NTIzNjQ5MzAsMTE2NzAxMjk4OCwtNz
+Y4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2
+Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4Mj
+A5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0x
+MTIzNjQxNDQyXX0=
 -->
