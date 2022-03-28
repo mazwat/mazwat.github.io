@@ -39,10 +39,10 @@ In summary here they are:
 |Basic Competency Threshold  | 30% |
 |Sophistication of Code| 15% |
 |Maintainability of Code| 10% |
-|Functionality of Physical Prototype| 15% |
-|Physical Form Factor Sophistication| 15% |
-|Creative Response to Brief| 15% |
-|| 15% |
+|Functionality of Physical Prototype| 5% |
+|Physical Form Factor Sophistication| 10% |
+|Creative Response to Brief| 10% |
+|Use of Version Control| 10% |
 
 
 
@@ -50,6 +50,6 @@ In summary here they are:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODgwMDg1MCw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbLTIzMTc1NDMyMSw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
