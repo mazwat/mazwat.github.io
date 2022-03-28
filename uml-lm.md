@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 6. Unified Modelling Language
+title: Lecture 6
 description: COMP140 - Lecture Materials 6
 
 # Author box
@@ -275,11 +275,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkxMDc1OSwtMTc2NDMyNTg2NiwtMT
-A0OTIxNDg4MiwtMTAzNjQ0MTA5NSwtMTgyNTU0MzI3MywxMzM5
-MDk3NTQ0LC0xMjk1ODgwNjMyLC0yMDc0MTQ5OTQ0LC0xMDc2NT
-U4NTI1LC02MjIwMTc4NDUsMjYxODIxODM3LDEwNjU1OTQ5NzEs
-LTk4OTc4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2Mz
-E4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1
-MDcsMTU5ODI2NzkyOF19
+eyJoaXN0b3J5IjpbLTMwNjY0MjI0MiwtMTY0OTEwNzU5LC0xNz
+Y0MzI1ODY2LC0xMDQ5MjE0ODgyLC0xMDM2NDQxMDk1LC0xODI1
+NTQzMjczLDEzMzkwOTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQxND
+k5NDQsLTEwNzY1NTg1MjUsLTYyMjAxNzg0NSwyNjE4MjE4Mzcs
+MTA2NTU5NDk3MSwtOTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMD
+M0NjAsLTE2MDYzMTg5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEw
+ODcsLTU5MDQ3NjUwN119
 -->
