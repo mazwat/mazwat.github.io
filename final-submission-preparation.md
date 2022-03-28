@@ -48,12 +48,15 @@ Insure that you have given each criteria your consideration when designing your 
 
 ## Contracts
 
-We will be assessing you on how well you have met the requirements of the contract. Does your experience meet the needs of your specific cl
+We will be assessing you on how well you have met the requirements of the **[contract](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876)**. Does your experience meet the needs of your specific client. This will effect how we consider all of the above criteria.
+
+
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDQ2OTQ3Nyw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbMTQxMzA4MDUxMCw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
