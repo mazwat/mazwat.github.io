@@ -31,7 +31,7 @@ First and foremest, if you want to achieve a good grade it is vital you pay atte
 
 In summary here they are:
 
-|Criteria |  |
+|Criteria |Weight |
 |--|--|
 |  |  |
 
@@ -40,5 +40,5 @@ In summary here they are:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NjI2Njg0LDIzNTU5NjQyNl19
+eyJoaXN0b3J5IjpbODMwNTc2NDY0LDIzNTU5NjQyNl19
 -->
