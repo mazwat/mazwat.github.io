@@ -44,12 +44,16 @@ In summary here they are:
 |Creative Response to Brief| 10% |
 |Use of Version Control| 10% |
 
-Insure that you have given e
+Insure that you have given each criteria your consideration when designing your project.
+
+## Contracts
+
+We will be assessing you on how well you have met the requirements of the contract. Does your experience meet the needs of your specific cl
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEyMTIzMSw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbLTY3NDQ2OTQ3Nyw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
