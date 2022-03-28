@@ -57,7 +57,7 @@ You are required to submit a number of specific components to complete the assig
 
 ### Repo
 
-You must submit a **link to a repo** that is fullly documented. By this we expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be used a by third-party. In which case you should make it clear how to use it.
+You must submit a **link to a repo** that is fullly documented. By this we expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be **used a by third-party**. In which case you should make it clear how to use it and to **recreate** your experience.
 
 There are some essential elements that should be included:
 
@@ -70,7 +70,12 @@ There are some essential elements that should be included:
  7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
 
 
+###
+
+If you still have questions about your upcoming submision
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDUzNzQ5Myw4MzA1NzY0NjQsMjM1NT
-k2NDI2XX0=
+eyJoaXN0b3J5IjpbLTE1MTU0NDczNDQsODMwNTc2NDY0LDIzNT
+U5NjQyNl19
 -->
