@@ -55,19 +55,20 @@ We will be assessing you on how well you have met the requirements of the **[con
 
 You are required to submit a number of specific components to complete the assignment. They are:
 
-### Repo
+### A Repo
 
 You must submit a **link to a repo** that is fullly documented. By this we expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be **used a by third-party**. In which case you should make it clear how to use it and to **recreate** your experience.
 
-There are some essential elements that should be included:
+There are some essential elements that should be included **in the repo**:
 
  1. A **video** showing your game/experience/robot functioning as intended. It should show your control system, any enclosures and your UI or interface. A person should be seen to be using/playing the project.
  2. **5 images** than show the electronics,wiring, CAD designs and the enclosure and game screens (if you have them)
- 3. A **Unity project** (if your project requites a game or GUI element).
+ 3. **Unity project** (if your project requires a game or GUI element).
  4. **Arduino files** - .ino and any other libraries - .cpp and Header files (if used).
  5. **CAD files**. If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
  6. **Readme.md** - as mentioned previously include detailed documentation.
  7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
+ 8. Code q
 
 
 ## Peer Review
@@ -80,6 +81,6 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTc5NTU1LDgzMDU3NjQ2NCwyMzU1OT
-Y0MjZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzgwNDM4NjUsMTA2OTc5NTU1LDgzMD
+U3NjQ2NCwyMzU1OTY0MjZdfQ==
 -->
