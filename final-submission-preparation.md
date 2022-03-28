@@ -63,7 +63,7 @@ There are some essential elements that should be included **in the repo**:
  2. **5 images** - these should show the electronics,wiring, CAD designs and the enclosure and game screens (if you have them)
  3. **Unity project** - (if your project requires a game or GUI element).
  4. **Arduino files** - .ino and any other libraries - .cpp and Header files (if used).
- 5. **CAD files** - If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
+ 5. **CAD files** - If your enclosure required the use of Fusion or a similar CAD application include model files in your repo.
  6. **Readme.md** - as mentioned previously include detailed documentation.
  7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
  8. **Code quality** - We expect code to be easily accessible and well commented. Relationships between object and classess should be explicit.
@@ -78,7 +78,7 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI2ODA1NTgsLTU2ODUyMjk0NSwzMD
-cxNDMyNjQsMTIzNjQyOTY5MSwxMDY5Nzk1NTUsODMwNTc2NDY0
-LDIzNTU5NjQyNl19
+eyJoaXN0b3J5IjpbMTQ2NTg2MjMwLC01Njg1MjI5NDUsMzA3MT
+QzMjY0LDEyMzY0Mjk2OTEsMTA2OTc5NTU1LDgzMDU3NjQ2NCwy
+MzU1OTY0MjZdfQ==
 -->
