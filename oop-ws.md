@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 1. OOP
+title: Worksheet 1
 description: COMP140 - Worksheet 1
 
 # Author box
@@ -23,7 +23,7 @@ page_nav:
         url: '../software-architecture-ws'
 ---
 
-# Object Oriented Programming
+# 1. Object Oriented Programming
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
@@ -181,9 +181,9 @@ Based on the [Tavern example](https://learningspace.falmouth.ac.uk/mod/resource/
 It is assumed that you have watched the video lecture before this workshop. If not you should find time to watch them during the week. The lecture videos and materials are available [*here*](oop-lm)
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTc1NTQxMCwxNzUyNTg2MjgzLC04Nj
-AxODk4MSwtMTM4OTg2MTM0MywxMTY0NTgwNTA3LC0xMDkzNTgz
-ODc0LC05NzQzODE2NjgsLTY0MjUzOTYzNSwxMzM4ODg2MTAwLC
-0xMzY5Njc4NDE2LC0xMDYwNzc4NDE2LC0yMTE0MjE4NzBdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ1Mzc3MjEsMTc1MjU4NjI4MywtOD
+YwMTg5ODEsLTEzODk4NjEzNDMsMTE2NDU4MDUwNywtMTA5MzU4
+Mzg3NCwtOTc0MzgxNjY4LC02NDI1Mzk2MzUsMTMzODg4NjEwMC
+wtMTM2OTY3ODQxNiwtMTA2MDc3ODQxNiwtMjExNDIxODcwXX0=
 
 -->
