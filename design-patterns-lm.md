@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 8. Design Pattterns
+title: Lecture 8
 description: COMP140 - Lecture Materials 8
 
 # Author box
@@ -873,11 +873,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTQzMDI1OSwtODA1NDc2Njk3LC0yMT
-E1NTc4MDA0LC0xMTM0NzYwNjUyLDczMzYyNTI4MiwtNTcwNzE4
-MjU3LDI2NjY2ODIyMSwtMTI2MzQyNTQ1MywtNDg2MDE4OSwtMT
-k2MTA3NDU1OCwxNjI0NTI3ODc0LC0xNjcwNjc0MzIzLC0yMDI1
-ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYwODA0NTQsMTI0NzUzOD
-IwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkxLC0xMDE5NTk2MTQy
-LDk3NjQyMTM5MV19
+eyJoaXN0b3J5IjpbLTIwMTU1MTI4NzYsLTM3OTQzMDI1OSwtOD
+A1NDc2Njk3LC0yMTE1NTc4MDA0LC0xMTM0NzYwNjUyLDczMzYy
+NTI4MiwtNTcwNzE4MjU3LDI2NjY2ODIyMSwtMTI2MzQyNTQ1My
+wtNDg2MDE4OSwtMTk2MTA3NDU1OCwxNjI0NTI3ODc0LC0xNjcw
+Njc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYwOD
+A0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkx
+LC0xMDE5NTk2MTQyXX0=
 -->
