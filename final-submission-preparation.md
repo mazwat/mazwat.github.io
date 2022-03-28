@@ -70,12 +70,14 @@ There are some essential elements that should be included:
  7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
 
 
-###
+## Peer Review
+
+PLease be aware that a peer review will take place next week (monday). Your project should be in a form for your peers to review it and provide appraisal to support you when you submit your final work.
 
 If you still have questions about your upcoming submision
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU0NDczNDQsODMwNTc2NDY0LDIzNT
-U5NjQyNl19
+eyJoaXN0b3J5IjpbNjQ3OTU1NDgyLDgzMDU3NjQ2NCwyMzU1OT
+Y0MjZdfQ==
 -->
