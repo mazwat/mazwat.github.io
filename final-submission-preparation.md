@@ -67,9 +67,10 @@ There are some essential elements that should be included:
  4. **Arduino files** - .ino and any other libraries - .cpp and Header files (if used).
  5. **CAD files**. If your enclosure required the use of Fusion or a similar CAD application include images/files in your repo.
  6. **Readme.md** - as mentioned previously include detailed documentation.
- 7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo sho
+ 7. **Licencing/Copyright** - if you are using any third-party assets or libraries please provide details of the licences and include comments in your code where you have made use of third-party libraries and methods. Your repo should also have it's own licence attached.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTMzMzkwMyw4MzA1NzY0NjQsMjM1NT
+eyJoaXN0b3J5IjpbMTA2NDUzNzQ5Myw4MzA1NzY0NjQsMjM1NT
 k2NDI2XX0=
 -->
