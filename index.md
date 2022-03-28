@@ -14,10 +14,13 @@ grid_navigation:
       cta: Read more
       url: 'comp120-intro'
       
-    - title: COMP140
-      excerpt: Module Workshop Documents & Resources
-      cta: Read more
-      url: 'comp140-intro'      
+   - title: COMP140
+     excerpt: Module Workshop Documents & Resources
+     cta: Read more
+     url: 'comp140-intro'      
 ---
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzQ1MzExMTM1XX0=
+-->
