@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: 9. States & Transitions
+title: Lecture 9
 description: COMP140 - Lecture Materials 9
 
 # Author box
@@ -633,8 +633,8 @@ In this lecture we have looked at:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNDQ0Njc4LC0yMDk3ODY2NDIzLDE1MT
-EyNjQxMjcsLTQwMDc0MTY1NSwtNTk3ODA5NDc2LC03MjExNzM3
-MTgsMTc0MDQ2NTAxMSwyNDA4ODA4NzYsLTE2NDM0NTA2ODIsMT
-AxMzQ1OTUzNCwtOTQ0ODc1MDIwXX0=
+eyJoaXN0b3J5IjpbMTM5MDIxMTkzNiwtMjA5Nzg2NjQyMywxNT
+ExMjY0MTI3LC00MDA3NDE2NTUsLTU5NzgwOTQ3NiwtNzIxMTcz
+NzE4LDE3NDA0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLD
+EwMTM0NTk1MzQsLTk0NDg3NTAyMF19
 -->
