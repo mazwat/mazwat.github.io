@@ -32,7 +32,7 @@ page_nav: false
 #### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
 #### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
 #### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
-<!---#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")-->
+#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")
 
 # Worksheets
 
@@ -57,7 +57,7 @@ page_nav: false
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE2OTUyMzIsLTExODkyNTg5NDUsLT
+eyJoaXN0b3J5IjpbLTE1OTgyNjI5MTgsLTExODkyNTg5NDUsLT
 ExMzIwNzI3NTksMTk4ODIyMDM0OSwtMzM3MzcxOTI3LDE3Nzk0
 NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0NTcsLTI5NTA0NDU5OC
 wtMjE0MTEwMzUzNywtMjk4NjU4NjExLC02MDQ1ODAxNTEsOTA3
