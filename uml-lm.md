@@ -21,7 +21,7 @@ page_nav:
     prev:
         content: Software Architecture
         url: '../software-architecture-lm'
-  next:
+    next:
         content: Data Structures
         url: '../data-structures-lm'
 ---
@@ -73,6 +73,7 @@ UML can be divided into **2 types**:
 |Timing | Composite Structure |
 
 The ones in bold are the diagrams we are going to explore during the lecture. They constitute the diagrams you will find the most useful in COMP140. But feel free to do further research into the other types.
+{: .callout .callout--info}
 
 ## Behavioural Diagrams
 
@@ -274,11 +275,11 @@ Many of the above options are freemium. You may have a limited number of diagram
 ### Lecture (Part 2) - UML
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/5221fa0a-1604-4fca-89f5-a46fd69d37d8?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NjUzNzczLC0xNzY0MzI1ODY2LC0xMD
-Q5MjE0ODgyLC0xMDM2NDQxMDk1LC0xODI1NTQzMjczLDEzMzkw
-OTc1NDQsLTEyOTU4ODA2MzIsLTIwNzQxNDk5NDQsLTEwNzY1NT
-g1MjUsLTYyMjAxNzg0NSwyNjE4MjE4MzcsMTA2NTU5NDk3MSwt
-OTg5Nzg0NTI5LDc2ODM2OTA1LC0zOTIwMDM0NjAsLTE2MDYzMT
-g5MzcsLTE5NjI1MzM4NTcsLTEyOTI1NzEwODcsLTU5MDQ3NjUw
-NywxNTk4MjY3OTI4XX0=
+eyJoaXN0b3J5IjpbLTE2NDkxMDc1OSwtMTc2NDMyNTg2NiwtMT
+A0OTIxNDg4MiwtMTAzNjQ0MTA5NSwtMTgyNTU0MzI3MywxMzM5
+MDk3NTQ0LC0xMjk1ODgwNjMyLC0yMDc0MTQ5OTQ0LC0xMDc2NT
+U4NTI1LC02MjIwMTc4NDUsMjYxODIxODM3LDEwNjU1OTQ5NzEs
+LTk4OTc4NDUyOSw3NjgzNjkwNSwtMzkyMDAzNDYwLC0xNjA2Mz
+E4OTM3LC0xOTYyNTMzODU3LC0xMjkyNTcxMDg3LC01OTA0NzY1
+MDcsMTU5ODI2NzkyOF19
 -->
