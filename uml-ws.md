@@ -23,7 +23,7 @@ page_nav:
         url: '../research-week-ws'
     next:
         content: Build Prototype
-        url: '../data-structures-ws'
+        url: '../prototype-ws'
 ---
 
 # Unified Modelling Language
@@ -109,9 +109,10 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjE2Mjk3LDgyNjE5NjYzLDEyMjA5MT
-c4MzksMTE4NTU2Njk0NywtMTc0NjQ0NjgyNywtNDk1OTQ4MzIs
-MTA3NTU2OTU5MiwtMTMyNTQwOTg2NCwtMTQ3NTgzMzYxMywtMz
-g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
-OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
+eyJoaXN0b3J5IjpbOTk0NDg1Mjg4LDYwMTYxNjI5Nyw4MjYxOT
+Y2MywxMjIwOTE3ODM5LDExODU1NjY5NDcsLTE3NDY0NDY4Mjcs
+LTQ5NTk0ODMyLDEwNzU1Njk1OTIsLTEzMjU0MDk4NjQsLTE0Nz
+U4MzM2MTMsLTM4NzQxNTg0NSwtMTQ0MjE1ODg0LDQ3NTE5NTUx
+MSwtMTEwMzIyOTkxOSwxMjI0MzY5NzAzLC0xNTAxMTkyOTgxXX
+0=
 -->
