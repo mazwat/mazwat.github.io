@@ -26,7 +26,7 @@ page_nav:
         url: '../design-patterns-ws'
 ---
 
-# 5. Data Structures
+# 6. Data Structures
 
 ## EXERCISE 1
 ### Collections
@@ -101,10 +101,11 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwNjk5MDIsLTkxNjUzOTM1OCwxOT
-EzNTExMTU1LC0xMDIzNDc4NjA1LC0xNTY2OTcxNTQ5LC0yMDU5
-MDYxMzAzLDE2MDU3MjY5NTcsLTY3MTU0NzUxNCwtNDg3NzkyMj
-AwLDExNjA1MzU3MzYsLTMxMjM4NTQ4MCwtMjI3NTgwMDksLTIy
-NzU4MDA5LC0xMDIzOTI2MDMwLC0xNDg0NDUyNDQ2LDM2ODEwMz
-A1LDk1NTg5NTc0OCwtMTAxMzA2MzA3OV19
+eyJoaXN0b3J5IjpbLTE2NDQ5NzQ5NTksLTExNzUwNjk5MDIsLT
+kxNjUzOTM1OCwxOTEzNTExMTU1LC0xMDIzNDc4NjA1LC0xNTY2
+OTcxNTQ5LC0yMDU5MDYxMzAzLDE2MDU3MjY5NTcsLTY3MTU0Nz
+UxNCwtNDg3NzkyMjAwLDExNjA1MzU3MzYsLTMxMjM4NTQ4MCwt
+MjI3NTgwMDksLTIyNzU4MDA5LC0xMDIzOTI2MDMwLC0xNDg0ND
+UyNDQ2LDM2ODEwMzA1LDk1NTg5NTc0OCwtMTAxMzA2MzA3OV19
+
 -->
