@@ -4,13 +4,13 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Falmouth Computing Documentation 
+title: GA Computing Documentation 
 escription: Matt Watkins documents for Computing Courses
 
 # Grid navigation
 grid_navigation:
     - title: COMP120
-      excerpt: Module Workshop Documents & Resources
+      excerpt: To develop comfort using code and computational techniques to manipulate digital media.
       cta: Read more
       url: 'comp120-intro'
       
@@ -26,5 +26,5 @@ grid_navigation:
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg4NjgyMTldfQ==
+eyJoaXN0b3J5IjpbLTQyMzQ1Mjc5XX0=
 -->
