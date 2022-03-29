@@ -21,6 +21,9 @@ page_nav:
     prev:
         content: UML
         url: '../uml-ws'
+    next:
+        content: Build Prototype
+        url: '../prototype-ws'
 ---
 
 # 5. Data Structures
@@ -98,10 +101,10 @@ It is assumed that you have watched the video lecture before this workshop. If n
 <iframe width="100%" height="360" src="https://web.microsoftstream.com/embed/video/620d8fc4-9ce0-41d9-83f0-35ee903040dc?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjUzOTM1OCwxOTEzNTExMTU1LC0xMD
-IzNDc4NjA1LC0xNTY2OTcxNTQ5LC0yMDU5MDYxMzAzLDE2MDU3
-MjY5NTcsLTY3MTU0NzUxNCwtNDg3NzkyMjAwLDExNjA1MzU3Mz
-YsLTMxMjM4NTQ4MCwtMjI3NTgwMDksLTIyNzU4MDA5LC0xMDIz
-OTI2MDMwLC0xNDg0NDUyNDQ2LDM2ODEwMzA1LDk1NTg5NTc0OC
-wtMTAxMzA2MzA3OV19
+eyJoaXN0b3J5IjpbNjQwNDE4MzkxLC05MTY1MzkzNTgsMTkxMz
+UxMTE1NSwtMTAyMzQ3ODYwNSwtMTU2Njk3MTU0OSwtMjA1OTA2
+MTMwMywxNjA1NzI2OTU3LC02NzE1NDc1MTQsLTQ4Nzc5MjIwMC
+wxMTYwNTM1NzM2LC0zMTIzODU0ODAsLTIyNzU4MDA5LC0yMjc1
+ODAwOSwtMTAyMzkyNjAzMCwtMTQ4NDQ1MjQ0NiwzNjgxMDMwNS
+w5NTU4OTU3NDgsLTEwMTMwNjMwNzldfQ==
 -->
