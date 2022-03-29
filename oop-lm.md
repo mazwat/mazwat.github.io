@@ -84,9 +84,11 @@ A new class is created with the name that you call the file. In this instance a 
 ## Classes
 
 You are probably wondering what’s the purpose of a class. Let’s look at an example. We are setting up the variables for a character and then we are going to define these variables for a specific character.
+
 <div class="CODE SAMPLE">
     <a href="#" target="blank">VIEW</a>
 </div>
+
 ```c#
 string name;  
 float strength;  
@@ -786,11 +788,11 @@ OOP is like a skeleton or framework for the code that performs useful operations
 <iframe width="640" height="370" src="https://web.microsoftstream.com/embed/video/c32fde4c-659e-467e-818c-2ce413cdd00d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIyNTA1NTYsLTEyNjQyOTkwODAsMT
-I0NTIyNDI2NiwtNTAwMjczNjQ5LC0xOTMzNTM1NDg1LDM2NTM5
-Mjc4OCwtMTA0NjgzNTY3MiwzMzAyMDM2OTAsMTY4MjI3NjA4MC
-wtNzAwOTA2OTY1LDU5NDg3NTk4Nyw0NzM3NzUzNjAsLTExNTM5
-NjM2OTQsLTE0MzU2OTE3ODgsMTM1MTU1NTEyNCwxODE1MDUwNj
-kxLDE0OTgwNzczMjMsLTE1OTEzNTI0MTQsMTQyNDAwNjM1Miw4
-OTg4MzQ4NV19
+eyJoaXN0b3J5IjpbLTIxOTgyMTA4MCwtMTQ0MjI1MDU1NiwtMT
+I2NDI5OTA4MCwxMjQ1MjI0MjY2LC01MDAyNzM2NDksLTE5MzM1
+MzU0ODUsMzY1MzkyNzg4LC0xMDQ2ODM1NjcyLDMzMDIwMzY5MC
+wxNjgyMjc2MDgwLC03MDA5MDY5NjUsNTk0ODc1OTg3LDQ3Mzc3
+NTM2MCwtMTE1Mzk2MzY5NCwtMTQzNTY5MTc4OCwxMzUxNTU1MT
+I0LDE4MTUwNTA2OTEsMTQ5ODA3NzMyMywtMTU5MTM1MjQxNCwx
+NDI0MDA2MzUyXX0=
 -->
