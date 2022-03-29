@@ -26,7 +26,7 @@ page_nav:
         url: '../research-week-ws'
 ---
 
-# Software Architecture
+# 2. Software Architecture
 
 This workshop is divided into to 2 parts where we will explore the use of code in Visual Studio and Unity. Complete each task in your own time. We will review solutions at the halfway point.
 
@@ -71,6 +71,6 @@ You are not designing Mario, but you are using it as a template.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTE5NzA2MCw2ODM5NDYyOCwtMTY2OT
+eyJoaXN0b3J5IjpbMTM5MDM3NDMwNiw2ODM5NDYyOCwtMTY2OT
 U0MTM3OCwxMDIzMzU4ODk3LDk1Mjk4OTY3OF19
 -->
