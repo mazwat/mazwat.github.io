@@ -5,7 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Worksheet 6
+title: Worksheet 5
+description: COMP140 - Worksheet 5
 
 # Author box
 author:
@@ -16,7 +17,13 @@ author:
 micro_nav: true
 
 # Page navigation
-page_nav: false
+page_nav:
+    prev:
+        content: UML
+        url: '../uml-ws'
+    next:
+        content: Data Structures
+        url: '../data-structures-ws'
 
 ---
 
@@ -57,7 +64,7 @@ You should be building on the foundations of your programming skills. After you 
 In **week 7** we will be expecting to see a **basic prototype** in your seminar groups.
 {: .callout .callout--warning}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTE4MzQwOCwyODUwNTcxMjgsLTEzMT
-YzMTM4MTYsMTI2OTkxNDA0NSw0NzQyNDc4OTgsLTU3NTAwMTkz
-Ml19
+eyJoaXN0b3J5IjpbNzk5NjA3NjMsMjg1MDU3MTI4LC0xMzE2Mz
+EzODE2LDEyNjk5MTQwNDUsNDc0MjQ3ODk4LC01NzUwMDE5MzJd
+fQ==
 -->
