@@ -13,6 +13,7 @@ grid_navigation:
       excerpt: Module Workshop Documents & Resources
       cta: Read more
       url: 'comp120-intro'
+      
       - title: COMP140
       excerpt: Module Workshop Documents & Resources
       cta: Read more
@@ -22,6 +23,7 @@ grid_navigation:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODAwNjU3NSwxNzI3ODgzMTg1LDY0OT
-I4MzkyNywtMTY0NTk2MTgzMywzNDUzMTExMzVdfQ==
+eyJoaXN0b3J5IjpbLTkzNTQzNDc4MSwtNTQ4MDA2NTc1LDE3Mj
+c4ODMxODUsNjQ5MjgzOTI3LC0xNjQ1OTYxODMzLDM0NTMxMTEz
+NV19
 -->
