@@ -4,16 +4,16 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Computing Documentation 
-description: Matt Watkins documents for Computing Courses
+title: Computing 4. OOPl
+escription: Matt Watkins documents for Computing Courses
 
 # Grid navigation
 grid_navigation:
     - title: COMP120
       excerpt: Module Workshop Documents & Resources
       cta: Read more
-      url: 'comp120-intro'  
-   
+      url: 'comp120-intro' 
+      
    - title: COMP140
      excerpt: Module Workshop Documents & Resources
      cta: Read more
@@ -22,6 +22,6 @@ grid_navigation:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTU2MjI3Nyw2NDkyODM5MjcsLTE2ND
+eyJoaXN0b3J5IjpbMTcyNzg4MzE4NSw2NDkyODM5MjcsLTE2ND
 U5NjE4MzMsMzQ1MzExMTM1XX0=
 -->
