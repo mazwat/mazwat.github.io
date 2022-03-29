@@ -17,15 +17,10 @@ grid_navigation:
    - title: COMP140
      excerpt: Module Workshop Documents & Resources
      cta: Read more
-     url: 'comp140-intro'  
-
-   - title: ROB210
-     excerpt: Module Workshop Documents & Resources
-     cta: Read more
-     url: 'comp140-intro'     
+     url: 'comp140-intro'   
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEwMTk3NzQsMzQ1MzExMTM1XX0=
+eyJoaXN0b3J5IjpbLTE2NDU5NjE4MzMsMzQ1MzExMTM1XX0=
 -->
