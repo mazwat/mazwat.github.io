@@ -22,7 +22,7 @@ page_nav:
         content: Research Week
         url: '../research-week-ws'
     next:
-        content: Data Structures
+        content: Build Prototype
         url: '../data-structures-ws'
 ---
 
@@ -109,9 +109,9 @@ It is assumed that you have watched the video lecture before this workshop or re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MTk2NjMsMTIyMDkxNzgzOSwxMTg1NT
-Y2OTQ3LC0xNzQ2NDQ2ODI3LC00OTU5NDgzMiwxMDc1NTY5NTky
-LC0xMzI1NDA5ODY0LC0xNDc1ODMzNjEzLC0zODc0MTU4NDUsLT
-E0NDIxNTg4NCw0NzUxOTU1MTEsLTExMDMyMjk5MTksMTIyNDM2
-OTcwMywtMTUwMTE5Mjk4MV19
+eyJoaXN0b3J5IjpbNjAxNjE2Mjk3LDgyNjE5NjYzLDEyMjA5MT
+c4MzksMTE4NTU2Njk0NywtMTc0NjQ0NjgyNywtNDk1OTQ4MzIs
+MTA3NTU2OTU5MiwtMTMyNTQwOTg2NCwtMTQ3NTgzMzYxMywtMz
+g3NDE1ODQ1LC0xNDQyMTU4ODQsNDc1MTk1NTExLC0xMTAzMjI5
+OTE5LDEyMjQzNjk3MDMsLTE1MDExOTI5ODFdfQ==
 -->
