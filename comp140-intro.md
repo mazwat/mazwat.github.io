@@ -29,18 +29,17 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
-\
 
  1. **[Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")**
  2. **[Arduino](../arduino-lm "Arduino Lecture Materials")**
- 3. [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
- 4. [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
- 5. [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
- 6. [Unified Modelling Language](../uml-lm "UML Lecture Materials")
- 7. [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
- 8. [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
- 9. [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
- 10. [Optimisation](../optimisation-lm "Optimisation Lecture Materials")
+ 3. **[Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")**
+ 4. **[Object Oriented Programming](../oop-lm "OOP Lecture Materials")**
+ 5. **[Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")**
+ 6. **[Unified Modelling Language](../uml-lm "UML Lecture Materials")**
+ 7. **[Data Structures](../data-structures-lm "Data Structures Lecture Materials")**
+ 8. **[Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")**
+ 9. **[States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")**
+ 10. **[Optimisation](../optimisation-lm "Optimisation Lecture Materials")**
 
 
 ### Worksheets
@@ -67,7 +66,7 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTUzMzczMyw4OTA5MTEzMSwtMTU5OD
+eyJoaXN0b3J5IjpbMTAzNTE2ODcyMyw4OTA5MTEzMSwtMTU5OD
 I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
 LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
 MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
