@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: ROB210
-description: Index of Resources
+description: Robotics & Cybernetics
 
 # Author box
 author:
@@ -59,5 +59,5 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MDM2OTgsLTE4Mjc0NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTc3MDc0MjIyLC0xODI3NDUxNDQyXX0=
 -->
