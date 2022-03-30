@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: ROB210
-description: Workshop Materials for the module
+description: Index of Resources
 
 # Author box
 author:
@@ -45,5 +45,5 @@ The following materials are support documentation and resources for the module.
 ### Submission Planning
  1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzM3ODAyOV19
+eyJoaXN0b3J5IjpbLTE4Mjc0NTE0NDJdfQ==
 -->
