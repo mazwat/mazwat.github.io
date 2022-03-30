@@ -30,16 +30,17 @@ The following materials are support documentation and resources for the module.
 
 ### Lecture Materials
 
-##### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
-##### 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
-##### 3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
-##### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
-##### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
-##### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
-##### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
-##### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
-##### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
-##### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")\
+1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
+2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
+3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
+4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
+5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
+6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
+7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
+8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
+9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
+10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")
+
 
 ### Worksheets
 
@@ -64,11 +65,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODY1ODE1Myw4OTA5MTEzMSwtMTU5OD
-I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
-LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
-MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
-NDU3LC0yOTUwNDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMS
-wtNjA0NTgwMTUxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4
-NTY3MzE5XX0=
+eyJoaXN0b3J5IjpbLTIwODIxNTA5MzcsODkwOTExMzEsLTE1OT
+gyNjI5MTgsLTc1MDI5MDA4NiwtODkxMzYxMDg0LDI3ODIzOTU1
+OCwtMTE4OTI1ODk0NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC
+0zMzczNzE5MjcsMTc3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4
+NDQ1NywtMjk1MDQ0NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MT
+EsLTYwNDU4MDE1MSw5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5
+ODU2NzMxOV19
 -->
