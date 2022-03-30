@@ -35,7 +35,12 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
- 1. **[Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")**
+ 1. **Kinematics**
+ 2. Actuators & Sensors
+ 3. 
+ 4. COntrol Architecture
+ 5. Dynamics
+ 6. Motion Control
  
 
 ### Worksheets
@@ -45,5 +50,5 @@ The following materials are support documentation and resources for the module.
 ### Submission Planning
  1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc0NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbNzc0MTk0MjM3LC0xODI3NDUxNDQyXX0=
 -->
