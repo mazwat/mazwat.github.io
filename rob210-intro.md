@@ -17,13 +17,8 @@ author:
 micro_nav: false
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
+page_nav: false
+
 ---
 
 # Introduction
@@ -59,5 +54,6 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMT
+gyNzQ1MTQ0Ml19
 -->
