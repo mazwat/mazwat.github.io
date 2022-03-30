@@ -44,7 +44,6 @@ The following materials are support documentation and resources for the module.
 7. **Motion Control**
 8. **Materials and Construction**
 9. **Ethics & Robotics**
- 
 
 ### Worksheets
 1. **Introduction to Robotics & Cybernetics**
@@ -60,5 +59,5 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NTE5NjYxLC0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbMTExMjk4MjU2NywtMTgyNzQ1MTQ0Ml19
 -->
