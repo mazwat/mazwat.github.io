@@ -36,19 +36,25 @@ The following materials are support documentation and resources for the module.
 
 ### Lecture Materials
  1. **Kinematics**
- 2. Actuators & Sensors
- 3. 
- 4. COntrol Architecture
- 5. Dynamics
- 6. Motion Control
+ 2. **Actuators & Sensors**
+ 3. **Signal Processing**
+ 4. **Control Architecture**
+ 5. **Dynamics**
+ 6. **Motion Control**
  
 
 ### Worksheets
- 1. 
-
+1. **Kinematics**
+ 2. **Actuators & Sensors**
+ 3. **Signal Processing**
+ 4. **Control Architecture**
+ 5. **Dynamics**
+ 6. **Motion Control**
 
 ### Submission Planning
- 1. 
+ 1.  Journal
+ 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MTk0MjM3LC0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbLTEwMDI5NTk0MzYsLTE4Mjc0NTE0NDJdfQ
+==
 -->
