@@ -47,12 +47,13 @@ The following materials are support documentation and resources for the module.
  
 
 ### Worksheets
-1. **Kinematics**
-2. **Actuators & Sensors**
-3. **Signal Processing**
-4. **Control Architecture**
-5. **Dynamics**
-6. **Motion Control**
+1. **Introduction to Robotics & Cybernetics**
+2. **Kinematics**
+3. **Actuators & Sensors**
+4. **Signal Processing**
+5. **Control Architecture**
+6. **Dynamics**
+7. **Motion Control**
 
 
 ### Submission Planning
@@ -60,6 +61,5 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAxMjcwMTcsLTE4Mjc0NTE0NDJdfQ
-==
+eyJoaXN0b3J5IjpbNjc2MDA1NDM5LC0xODI3NDUxNDQyXX0=
 -->
