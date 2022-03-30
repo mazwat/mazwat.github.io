@@ -35,14 +35,15 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
- 1. **Kinematics**
- 2. **Actuators & Sensors**
- 3. **Signal Processing**
- 4. **Control Architecture**
- 5. **Dynamics**
- 6. **Motion Control**
- 7. **Materials and Construction**
- 8.  **Ethics & Robotics**
+ 1. Robtics
+ 2. **Kinematics**
+ 3. **Actuators & Sensors**
+ 4. **Signal Processing**
+ 5. **Control Architecture**
+ 6. **Dynamics**
+ 7. **Motion Control**
+ 8. **Materials and Construction**
+ 9.  **Ethics & Robotics**
  
 
 ### Worksheets
@@ -59,6 +60,5 @@ The following materials are support documentation and resources for the module.
  2. **Presentation Planning**
  3. **Final Submission Planning**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4NjE0NDcsLTE4Mjc0NTE0NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTQ5NjY0MzA5NCwtMTgyNzQ1MTQ0Ml19
 -->
