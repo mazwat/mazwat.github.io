@@ -41,6 +41,8 @@ The following materials are support documentation and resources for the module.
  4. **Control Architecture**
  5. **Dynamics**
  6. **Motion Control**
+ 7.  **Ethics in Robotics**
+ 8. **Materials and Construction**
  
 
 ### Worksheets
@@ -50,12 +52,12 @@ The following materials are support documentation and resources for the module.
  4. **Control Architecture**
  5. **Dynamics**
  6. **Motion Control**
- 7. Ethics in Robot
+
 
 ### Submission Planning
  1. Journal
  2. Presentation Planning
  3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTExMjQ2NCwtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbNjM4MzQyMTI3LC0xODI3NDUxNDQyXX0=
 -->
