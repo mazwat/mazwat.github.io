@@ -23,7 +23,7 @@ page_nav: false
 ---
 # Introduction
 
-COMP140 is intended for students to individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.
+**COMP140 is intended for students to individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.**
 
 The following materials are support documentation and resources for the module.
 
@@ -65,11 +65,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzc4NzMzMywtMTU5ODI2MjkxOCwtNz
-UwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4LC0xMTg5MjU4
-OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLTMzNzM3MTkyNy
-wxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0NDU3LC0yOTUw
-NDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMSwtNjA0NTgwMT
-UxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4NTY3MzE5LC03
-OTYxNDEyMDVdfQ==
+eyJoaXN0b3J5IjpbODkwOTExMzEsLTE1OTgyNjI5MTgsLTc1MD
+I5MDA4NiwtODkxMzYxMDg0LDI3ODIzOTU1OCwtMTE4OTI1ODk0
+NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC0zMzczNzE5MjcsMT
+c3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4NDQ1NywtMjk1MDQ0
+NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MTEsLTYwNDU4MDE1MS
+w5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwtNzk2
+MTQxMjA1XX0=
 -->
