@@ -6,8 +6,7 @@ comments: false
 
 # Hero section
 title: COMP140
-description: Materials for the module
-
+description: Contents
 # Author box
 author:
     title: Matt Watkins
@@ -51,8 +50,8 @@ The following materials are support documentation and resources for the module.
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
 #### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
-#### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
-<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->\
+#### 8 - [States & Transitions](../cybernetics-ws "States & Transitions")\ 
+<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->
     
 ### Submission Planning
 
@@ -65,11 +64,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzIzNTEzLDg5MDkxMTMxLC0xNTk4Mj
-YyOTE4LC03NTAyOTAwODYsLTg5MTM2MTA4NCwyNzgyMzk1NTgs
-LTExODkyNTg5NDUsLTExMzIwNzI3NTksMTk4ODIyMDM0OSwtMz
-M3MzcxOTI3LDE3Nzk0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0
-NTcsLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC
-02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1
-NjczMTldfQ==
+eyJoaXN0b3J5IjpbMTQ4ODY1ODE1Myw4OTA5MTEzMSwtMTU5OD
+I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
+LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
+MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
+NDU3LC0yOTUwNDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMS
+wtNjA0NTgwMTUxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4
+NTY3MzE5XX0=
 -->
