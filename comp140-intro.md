@@ -27,22 +27,22 @@ page_nav: false
 
 The following materials are support documentation and resources for the module.
 
-# Table of Contents
+## Table of Contents
 
-## Lecture Materials
+### Lecture Materials
 
-#### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
-#### 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
-#### 3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
-#### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
-#### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
-#### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
-#### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
-#### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
-#### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
-#### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")
+##### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
+##### 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
+##### 3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
+##### 4 - [Object Oriented Programming](../oop-lm "OOP Lecture Materials")
+##### 5 - [Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")
+##### 6 - [Unified Modelling Language](../uml-lm "UML Lecture Materials")
+##### 7 - [Data Structures](../data-structures-lm "Data Structures Lecture Materials")
+##### 8 - [Design Patterns](../design-patterns-lm "Design Patterns Lecture Materials")
+##### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
+##### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")\
 
-## Worksheets
+### Worksheets
 
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
@@ -52,9 +52,9 @@ The following materials are support documentation and resources for the module.
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
 #### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
 #### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
-<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->
+<!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->\
     
-## Submission Planning
+### Submission Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
@@ -65,11 +65,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTExMzEsLTE1OTgyNjI5MTgsLTc1MD
-I5MDA4NiwtODkxMzYxMDg0LDI3ODIzOTU1OCwtMTE4OTI1ODk0
-NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC0zMzczNzE5MjcsMT
-c3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4NDQ1NywtMjk1MDQ0
-NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MTEsLTYwNDU4MDE1MS
-w5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwtNzk2
-MTQxMjA1XX0=
+eyJoaXN0b3J5IjpbLTc4MzIzNTEzLDg5MDkxMTMxLC0xNTk4Mj
+YyOTE4LC03NTAyOTAwODYsLTg5MTM2MTA4NCwyNzgyMzk1NTgs
+LTExODkyNTg5NDUsLTExMzIwNzI3NTksMTk4ODIyMDM0OSwtMz
+M3MzcxOTI3LDE3Nzk0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0
+NTcsLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC
+02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1
+NjczMTldfQ==
 -->
