@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: COMP140
-description: Index of Resources
+description: Individual Computing Project
 # Author box
 author:
     title: Matt Watkins
@@ -62,7 +62,7 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE4NTcyNTAsODkwOTExMzEsLTE1OT
+eyJoaXN0b3J5IjpbLTEwNjExMzM0MzgsODkwOTExMzEsLTE1OT
 gyNjI5MTgsLTc1MDI5MDA4NiwtODkxMzYxMDg0LDI3ODIzOTU1
 OCwtMTE4OTI1ODk0NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC
 0zMzczNzE5MjcsMTc3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4
