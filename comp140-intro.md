@@ -21,6 +21,12 @@ micro_nav: false
 page_nav: false
 
 ---
+# Table of Contents
+
+To individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.
+
+The following materials are support documentation and resources for the module
+
 # Lecture Materials
 
 #### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
@@ -57,11 +63,11 @@ page_nav: false
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyNjI5MTgsLTc1MDI5MDA4NiwtOD
-kxMzYxMDg0LDI3ODIzOTU1OCwtMTU5ODI2MjkxOCwtMTE4OTI1
-ODk0NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC0zMzczNzE5Mj
-csMTc3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4NDQ1NywtMjk1
-MDQ0NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MTEsLTYwNDU4MD
-E1MSw5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5ODU2NzMxOSwt
-Nzk2MTQxMjA1XX0=
+eyJoaXN0b3J5IjpbLTg3MjM1MjAwNSwtMTU5ODI2MjkxOCwtNz
+UwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4LC0xMTg5MjU4
+OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLTMzNzM3MTkyNy
+wxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0NDU3LC0yOTUw
+NDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMSwtNjA0NTgwMT
+UxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4NTY3MzE5LC03
+OTYxNDEyMDVdfQ==
 -->
