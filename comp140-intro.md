@@ -41,7 +41,6 @@ The following materials are support documentation and resources for the module.
  10. **[Optimisation](../optimisation-lm "Optimisation Lecture Materials")**
 
 ### Worksheets
-
  1. **[Object Oriented Programming](../oop-ws "OOP")**
  2. **[Software Architecture](../software-architecture-ws "Software Architecture")**
  3. **[Research Week](../research-week-ws "Research Week")**
@@ -54,17 +53,16 @@ The following materials are support documentation and resources for the module.
 
 
 ### Submission Planning
-
  1. **[Exemplar Projects](../exemplar-research "Exemplar Projects")**
-#### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
-#### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
-#### 4 - [Poster Preparation](../poster-preparation "Poster Preparation")
-#### 5 - [Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")
+ 2. **[Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")**
+ 3. **[Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")**
+ 4. **[Poster Preparation](../poster-preparation "Poster Preparation")**
+ 5. **[Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")**
 
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjQ4OTkwNCw4OTA5MTEzMSwtMTU5OD
+eyJoaXN0b3J5IjpbLTE3MDAzODc3MCw4OTA5MTEzMSwtMTU5OD
 I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
 LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
 MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
