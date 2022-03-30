@@ -14,7 +14,7 @@ author:
     description: Lecturer in Computing at Falmouth University
 
 # Micro navigation
-micro_nav: true
+micro_nav: false
 
 # Page navigation
 page_nav:
@@ -59,5 +59,5 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjk4MjU2NywtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbNDU2MDM2OTgsLTE4Mjc0NTE0NDJdfQ==
 -->
