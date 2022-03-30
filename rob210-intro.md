@@ -55,11 +55,10 @@ The following materials are support documentation and resources for the module.
 6. **Dynamics**
 7. **Motion Control**
 
-
 ### Submission Planning
 1. **Journal**
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MDA1NDM5LC0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbNjU5NTE5NjYxLC0xODI3NDUxNDQyXX0=
 -->
