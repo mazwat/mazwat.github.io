@@ -57,8 +57,9 @@ The following materials are support documentation and resources for the module.
 
 ### Submission Planning
 1. **Journal**
-2. **Presentation Planning**
-3. **Final Submission Planning**
+2. **Proposal**
+3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDAyNzM4MywtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE2NjAxMjcwMTcsLTE4Mjc0NTE0NDJdfQ
+==
 -->
