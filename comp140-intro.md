@@ -41,9 +41,7 @@ The following materials are support documentation and resources for the module.
  9. **[States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")**
  10. **[Optimisation](../optimisation-lm "Optimisation Lecture Materials")**
 
-
 ### Worksheets
-\
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
 #### 3 - [Research Week](../research-week-ws "Research Week")
@@ -66,7 +64,7 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE2ODcyMyw4OTA5MTEzMSwtMTU5OD
+eyJoaXN0b3J5IjpbMTAyMzE0MTAzOSw4OTA5MTEzMSwtMTU5OD
 I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
 LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
 MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
