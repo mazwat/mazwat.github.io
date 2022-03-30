@@ -21,13 +21,15 @@ micro_nav: false
 page_nav: false
 
 ---
+# Introduction
+
+COMP140 is intended for students to individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.
+
+The following materials are support documentation and resources for the module.
+
 # Table of Contents
 
-To individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.
-
-The following materials are support documentation and resources for the module
-
-# Lecture Materials
+## Lecture Materials
 
 #### 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
 #### 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
@@ -40,7 +42,7 @@ The following materials are support documentation and resources for the module
 #### 9 - [States & Transitions](../cybernetics-lm "Cybernetics Lecture Materials")
 #### 10 - [Optimisation](../optimisation-lm "Optimisation Lecture Materials")
 
-# Worksheets
+## Worksheets
 
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
@@ -52,7 +54,7 @@ The following materials are support documentation and resources for the module
 #### 8 - [States & Transitions](../cybernetics-ws "States & Transitions") 
 <!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->
     
-# Submission Planning
+## Submission Planning
 
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
@@ -63,7 +65,7 @@ The following materials are support documentation and resources for the module
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjM1MjAwNSwtMTU5ODI2MjkxOCwtNz
+eyJoaXN0b3J5IjpbLTMxNzc4NzMzMywtMTU5ODI2MjkxOCwtNz
 UwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4LC0xMTg5MjU4
 OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLTMzNzM3MTkyNy
 wxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0NDU3LC0yOTUw
