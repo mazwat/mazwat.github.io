@@ -29,7 +29,7 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
-
+\
 1 - [Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")
 2 - [Arduino](../arduino-lm "Arduino Lecture Materials")
 3 - [Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")
@@ -43,7 +43,7 @@ The following materials are support documentation and resources for the module.
 
 
 ### Worksheets
-
+\
 #### 1 - [Object Oriented Programming](../oop-ws "OOP")
 #### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
 #### 3 - [Research Week](../research-week-ws "Research Week")
@@ -53,9 +53,10 @@ The following materials are support documentation and resources for the module.
 #### 7 - [Design Patterns](../design-patterns-ws "Design Patterns")
 #### 8 - [States & Transitions](../cybernetics-ws "States & Transitions")\ 
 <!---#### 9 - [Optimisation](../optimisation-ws "Optimisation")-->
-    
-### Submission Planning
 
+
+### Submission Planning
+\
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
 #### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
@@ -65,11 +66,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxNTA5MzcsODkwOTExMzEsLTE1OT
-gyNjI5MTgsLTc1MDI5MDA4NiwtODkxMzYxMDg0LDI3ODIzOTU1
-OCwtMTE4OTI1ODk0NSwtMTEzMjA3Mjc1OSwxOTg4MjIwMzQ5LC
-0zMzczNzE5MjcsMTc3OTQ2NDk4MCwtNTQ1MjQ5ODMyLC0xODY4
-NDQ1NywtMjk1MDQ0NTk4LC0yMTQxMTAzNTM3LC0yOTg2NTg2MT
-EsLTYwNDU4MDE1MSw5MDc3OTc3MjgsMTI2NjQ1NDU3MywtMTk5
-ODU2NzMxOV19
+eyJoaXN0b3J5IjpbNTMxMTE2NjY1LDg5MDkxMTMxLC0xNTk4Mj
+YyOTE4LC03NTAyOTAwODYsLTg5MTM2MTA4NCwyNzgyMzk1NTgs
+LTExODkyNTg5NDUsLTExMzIwNzI3NTksMTk4ODIyMDM0OSwtMz
+M3MzcxOTI3LDE3Nzk0NjQ5ODAsLTU0NTI0OTgzMiwtMTg2ODQ0
+NTcsLTI5NTA0NDU5OCwtMjE0MTEwMzUzNywtMjk4NjU4NjExLC
+02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0NTQ1NzMsLTE5OTg1
+NjczMTldfQ==
 -->
