@@ -29,7 +29,6 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
-
  1. **[Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")**
  2. **[Arduino](../arduino-lm "Arduino Lecture Materials")**
  3. **[Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")**
@@ -42,9 +41,10 @@ The following materials are support documentation and resources for the module.
  10. **[Optimisation](../optimisation-lm "Optimisation Lecture Materials")**
 
 ### Worksheets
-#### 1 - [Object Oriented Programming](../oop-ws "OOP")
-#### 2 - [Software Architecture](../software-architecture-ws "Software Architecture")
-#### 3 - [Research Week](../research-week-ws "Research Week")
+
+ 1. **[Object Oriented Programming](../oop-ws "OOP")**
+ 2. **[Software Architecture](../software-architecture-ws "Software Architecture")**
+ 3. **[Research Week](../research-week-ws "Research Week")**
 #### 4 - [Unified Modelling Language (UML)](../uml-ws "UML")
 #### 5 - [Build Prototype](../prototype-ws "Build Prototype")
 #### 6 - [Data Structures](../data-structures-ws "Data Structures")
@@ -54,7 +54,6 @@ The following materials are support documentation and resources for the module.
 
 
 ### Submission Planning
-\
 #### 1 - [Exemplar Projects](../exemplar-research "Exemplar Projects")
 #### 2 - [Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")
 #### 3 - [Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")
@@ -64,7 +63,7 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzE0MTAzOSw4OTA5MTEzMSwtMTU5OD
+eyJoaXN0b3J5IjpbMTQ3Mzc3ODc3MCw4OTA5MTEzMSwtMTU5OD
 I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
 LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
 MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
