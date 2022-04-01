@@ -23,8 +23,13 @@ grid_navigation:
       excerpt: To apply robotics and cybernetics principles to the design and development of simple robot prototypes.
       cta: Read more
       url: 'rob210-intro'
+
+    - title: ROB220
+      excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
+      cta: Read more
+      url: 'rob220-intro'
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzQ1Mjc5XX0=
+eyJoaXN0b3J5IjpbMTQ2NjQwMjM5NiwtNDIzNDUyNzldfQ==
 -->
