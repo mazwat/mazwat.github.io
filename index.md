@@ -28,8 +28,19 @@ grid_navigation:
       excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
       cta: Read more
       url: 'rob220-intro'
+
+    - title: ROB310
+      excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
+      cta: Read more
+      url: 'rob220-intro'
+      
+    - title: ROB320
+      excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
+      cta: Read more
+      url: 'rob220-intro'
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjQwMjM5NiwtNDIzNDUyNzldfQ==
+eyJoaXN0b3J5IjpbLTUwNDk4MDE0NSwxNDY2NDAyMzk2LC00Mj
+M0NTI3OV19
 -->
