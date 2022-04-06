@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: GA Computing Documentation 
+title: Falmouth Computing & Robotics Documentation 
 escription: Matt Watkins documents for Computing Courses
 
 # Grid navigation
@@ -36,6 +36,7 @@ grid_navigation:
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA2MTkwMTcsMjEwMDUwNzA3MywtMT
-QwOTQwMDEyOCwxNDY2NDAyMzk2LC00MjM0NTI3OV19
+eyJoaXN0b3J5IjpbNDE5NjE0NjU2LC0xNDUwNjE5MDE3LDIxMD
+A1MDcwNzMsLTE0MDk0MDAxMjgsMTQ2NjQwMjM5NiwtNDIzNDUy
+NzldfQ==
 -->
