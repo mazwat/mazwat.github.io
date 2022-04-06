@@ -8,12 +8,7 @@ title: GA Computing Documentation
 escription: Matt Watkins documents for Computing Courses
 
 # Grid navigation
-grid_navigation:
-   <!-- - title: COMP120
-      excerpt: To develop comfort using code and computational techniques to manipulate digital media.
-      cta: Read more
-      url: 'comp120-intro'-->
-      
+grid_navigation:      
     - title: COMP140
       excerpt: To individually design and implement physical computing systems in a creative context whilst considering legal, social, ethical, and professional issues.
       cta: Read more
@@ -41,6 +36,6 @@ grid_navigation:
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDUwNzA3MywtMTQwOTQwMDEyOCwxND
-Y2NDAyMzk2LC00MjM0NTI3OV19
+eyJoaXN0b3J5IjpbLTE0NTA2MTkwMTcsMjEwMDUwNzA3MywtMT
+QwOTQwMDEyOCwxNDY2NDAyMzk2LC00MjM0NTI3OV19
 -->
