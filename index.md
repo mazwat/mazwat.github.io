@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Falmouth Computing & Robotics Documentation 
-escription: Matt Watkins documents for Computing Courses
+title: Computing & Robotics Documentation 
+description: School of Computing, Games Academy, Falmouth University
 
 # Grid navigation
 grid_navigation:      
@@ -36,7 +36,7 @@ grid_navigation:
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NjE0NjU2LC0xNDUwNjE5MDE3LDIxMD
-A1MDcwNzMsLTE0MDk0MDAxMjgsMTQ2NjQwMjM5NiwtNDIzNDUy
-NzldfQ==
+eyJoaXN0b3J5IjpbMTk1NjI3MTYyNiw0MTk2MTQ2NTYsLTE0NT
+A2MTkwMTcsMjEwMDUwNzA3MywtMTQwOTQwMDEyOCwxNDY2NDAy
+Mzk2LC00MjM0NTI3OV19
 -->
