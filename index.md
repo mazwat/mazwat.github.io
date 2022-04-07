@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Computing & Robotics 
-description: Teaching Materials - School of Computing, Games Academy, Falmouth University
+description: Teaching Materials - School of Computing, Games Academy at Falmouth University
 
 # Grid navigation
 grid_navigation:      
@@ -36,7 +36,8 @@ grid_navigation:
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDI2Nzg0OCwxOTU2MjcxNjI2LDQxOT
-YxNDY1NiwtMTQ1MDYxOTAxNywyMTAwNTA3MDczLC0xNDA5NDAw
-MTI4LDE0NjY0MDIzOTYsLTQyMzQ1Mjc5XX0=
+eyJoaXN0b3J5IjpbMTM1Njg0Mzg4OSwtNDg0MjY3ODQ4LDE5NT
+YyNzE2MjYsNDE5NjE0NjU2LC0xNDUwNjE5MDE3LDIxMDA1MDcw
+NzMsLTE0MDk0MDAxMjgsMTQ2NjQwMjM5NiwtNDIzNDUyNzldfQ
+==
 -->
