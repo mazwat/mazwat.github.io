@@ -22,22 +22,21 @@ grid_navigation:
     - title: ROB220
       excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
       cta: Read more
-      url: 'rob220-intro'
+      url: '#'
 
     - title: ROB310
       excerpt: To integrate core principles of human-robot interaction into the design and implementation of social robots.
       cta: Read more
-      url: 'rob310-intro'
+      url: '#'
       
     - title: ROB320
       excerpt: To explore the domain of social and entertainment robots and implement key insights to deliver an engaging robot.
       cta: Read more
-      url: 'rob320-intro'
+      url: '#'
   
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njg0Mzg4OSwtNDg0MjY3ODQ4LDE5NT
-YyNzE2MjYsNDE5NjE0NjU2LC0xNDUwNjE5MDE3LDIxMDA1MDcw
-NzMsLTE0MDk0MDAxMjgsMTQ2NjQwMjM5NiwtNDIzNDUyNzldfQ
-==
+eyJoaXN0b3J5IjpbMTAwOTA3Nzk1LC00ODQyNjc4NDgsMTk1Nj
+I3MTYyNiw0MTk2MTQ2NTYsLTE0NTA2MTkwMTcsMjEwMDUwNzA3
+MywtMTQwOTQwMDEyOCwxNDY2NDAyMzk2LC00MjM0NTI3OV19
 -->
