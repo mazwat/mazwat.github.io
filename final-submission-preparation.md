@@ -48,7 +48,7 @@ Ensure that you have given each criteria your consideration when designing your 
 
 ## Contracts
 
-We will be assessing you on how well you have met the requirements of the **[contract](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876)**. Does your experience meet the needs of your specific client. This will effect how we appraise all of the above criteria.
+We will be assessing you on how well you have met the requirements of the **[contract](https://learningspace.falmouth.ac.uk/mod/resource/view.php?id=228876)**. Does your experience meet the needs of your specific client. **This will effect how we appraise all of the above criteria.**
 
 ## Deliverable Elements
 
@@ -81,7 +81,7 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI1NTcwNzIsLTU2ODUyMjk0NSwzMD
-cxNDMyNjQsMTIzNjQyOTY5MSwxMDY5Nzk1NTUsODMwNTc2NDY0
-LDIzNTU5NjQyNl19
+eyJoaXN0b3J5IjpbLTg4NzIwMzI4MCwtMTQxMjU1NzA3MiwtNT
+Y4NTIyOTQ1LDMwNzE0MzI2NCwxMjM2NDI5NjkxLDEwNjk3OTU1
+NSw4MzA1NzY0NjQsMjM1NTk2NDI2XX0=
 -->
