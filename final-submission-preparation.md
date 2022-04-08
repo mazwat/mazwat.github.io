@@ -56,7 +56,9 @@ You are required to submit a number of specific components to complete the assig
 
 ### A Repo
 You must submit a **link to a repo** that is fullly documented. We expect you to provide a readme.md that explains the function and purpose of the repo. You should imagine that the project contained within is going to be **used by a third-party**. Consequently you should make it clear to this third-party how your project works and how to **recreate** your experience.
-One way to think of is to refer to professional repos you have downloaded projects and libraries from how do they document their code to make it possible for you to install and use the repo.
+
+One way to think of how to prepare your repo is to refer to other professional repos you have downloaded projects and libraries from. How do they document their code to make it possible for you to install and use the repo?
+{: .callout .callout--info}
 
 There are some essential elements that should be included **in the repo**:
 
@@ -79,7 +81,7 @@ If you still have questions about your upcoming submissions please don't hesitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU1Mjk2NCwtNTY4NTIyOTQ1LDMwNz
-E0MzI2NCwxMjM2NDI5NjkxLDEwNjk3OTU1NSw4MzA1NzY0NjQs
-MjM1NTk2NDI2XX0=
+eyJoaXN0b3J5IjpbLTE0MTI1NTcwNzIsLTU2ODUyMjk0NSwzMD
+cxNDMyNjQsMTIzNjQyOTY5MSwxMDY5Nzk1NTUsODMwNTc2NDY0
+LDIzNTU5NjQyNl19
 -->
