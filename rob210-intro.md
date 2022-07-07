@@ -30,9 +30,9 @@ The following materials are support documentation and resources for the module.
 ## Table of Contents
 
 ### Lecture Materials
-1. **Introduction to Robotics & Cybernetics**
-2. **Kinematics**
-3. **Actuators & Sensors**
+1. **Introduction to Cybernetics**
+2. **Self Regulating Systems**
+3. **Robot in **
 4. **Signal Processing**
 5. **Control Architecture**
 6. **Dynamics**
@@ -41,8 +41,8 @@ The following materials are support documentation and resources for the module.
 9. **Ethics & Robotics**
 
 ### Worksheets
-1. **Introduction to Robotics & Cybernetics**
-2. **Kinematics**
+1. **Introduction to Cybernetics**
+2. **Self Regulating Systems**
 3. **Actuators & Sensors**
 4. **Signal Processing**
 5. **Control Architecture**
@@ -54,6 +54,6 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMT
-gyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbLTQwMDU5ODEwMSwtMTU1NzM2MzUxMSwtND
+g3MTU2MDM4LC0xODI3NDUxNDQyXX0=
 -->
