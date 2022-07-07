@@ -25,7 +25,7 @@ page_nav: false
 
 ***ROB210 is intended to apply robotics and cybernetics principles to the design and development of simple robot prototypes.***
 
-The following materials are support documentation and resources for the module.
+The following materials are supporting documentation and resources for the module.
 
 ## Table of Contents
 
@@ -59,6 +59,6 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1ODAwMTY3LC0xNTU3MzYzNTExLC00OD
-cxNTYwMzgsLTE4Mjc0NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNDg2NjY0NzUsLTE1NTczNjM1MTEsLT
+Q4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
 -->
