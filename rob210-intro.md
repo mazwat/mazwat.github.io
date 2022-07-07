@@ -40,22 +40,25 @@ The following materials are support documentation and resources for the module.
 8. **Inverse Kinematics**
 9. **Data Flow**
 10. **Signal Processing**
-11.  
+11. **Ethical Cybernetics** 
 
 ### Worksheets
 1. **Introduction to Cybernetics**
 2. **Self Regulating Systems**
-3. **Actuators & Sensors**
-4. **Signal Processing**
+3. **Robot in Space**
+4. **Sensing & Actuating**
 5. **Control Architecture**
-6. **Dynamics**
-7. **Motion Control**
+6. **Materials & Construction**
+7. **Inverse Kinematics**
+8. **Data Flow**
+9. **Signal Processing**
+10. **Ethical Cybernetics** 
 
 ### Submission Planning
 1. **Journal**
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODEyMDU0NiwtMTU1NzM2MzUxMSwtND
-g3MTU2MDM4LC0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbNzY1ODAwMTY3LC0xNTU3MzYzNTExLC00OD
+cxNTYwMzgsLTE4Mjc0NTE0NDJdfQ==
 -->
