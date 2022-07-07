@@ -32,13 +32,15 @@ The following materials are support documentation and resources for the module.
 ### Lecture Materials
 1. **Introduction to Cybernetics**
 2. **Self Regulating Systems**
-3. **Robot in **
-4. **Signal Processing**
+3. **Robot in Space**
+4. **Sensing & Actuating**
 5. **Control Architecture**
-6. **Dynamics**
-7. **Motion Control**
-8. **Materials and Construction**
-9. **Ethics & Robotics**
+6. **Reading Week**
+7. **Materials & Construction**
+8. **Inverse Kinematics**
+9. **Data Flow**
+10. **Signal Processing**
+11.  
 
 ### Worksheets
 1. **Introduction to Cybernetics**
@@ -54,6 +56,6 @@ The following materials are support documentation and resources for the module.
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDU5ODEwMSwtMTU1NzM2MzUxMSwtND
+eyJoaXN0b3J5IjpbMTYzODEyMDU0NiwtMTU1NzM2MzUxMSwtND
 g3MTU2MDM4LC0xODI3NDUxNDQyXX0=
 -->
