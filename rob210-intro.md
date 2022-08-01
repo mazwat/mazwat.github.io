@@ -35,12 +35,12 @@ The following materials are supporting documentation and resources for the modul
 1. **Introduction to Cybernetics**
 2. **Self Regulating Systems**
 3. **Robot in Space**
-4. **Sensing & Actuating**
-5. **Control Architecture**
+4. **Actuating**
+5. **Control Architecture & Project Pitch**
 6. **Reading Week**
 7. **Materials & Construction**
 8. **Inverse Kinematics**
-9. **Data Flow**
+9. **Data Flow & System mod**
 10. **Signal Processing**
 11. **Ethical Cybernetics** 
 
@@ -61,6 +61,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NzYyNTM2LC0xMzQ4NjY2NDc1LC0xNT
-U3MzYzNTExLC00ODcxNTYwMzgsLTE4Mjc0NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbMTk5NTY5NDIyMyw2MTc3NjI1MzYsLTEzND
+g2NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1
+MTQ0Ml19
 -->
