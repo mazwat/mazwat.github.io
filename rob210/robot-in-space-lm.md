@@ -29,7 +29,7 @@ page_nav:
 # 1. The Robot in Space
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
-The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+The following materials are derived from the *The Robot in Space*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
 ## 1. Rigid Bodies
@@ -38,6 +38,6 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4NTg5MjMsMjAzMzM0NjM2MiwxNT
-EzNDc5OTU0XX0=
+eyJoaXN0b3J5IjpbMTQ0MTkzNjQ1MSwyMDMzMzQ2MzYyLDE1MT
+M0Nzk5NTRdfQ==
 -->
