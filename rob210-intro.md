@@ -33,8 +33,8 @@ The following materials are supporting documentation and resources for the modul
 
 ### Lecture Materials
 1. **[Introduction to Cybernetics](../rob210/intro-cybernetics-lm "Introduction to Cybernetics")**
-2. **Self Regulating Systems**
-3. **Robot in Space**
+2. **[Self Regulating Systems](../rob210/self-regulating-systems-lm "Self Regulating Systems")**
+3. **Robot in Space****[Robot in Space](../rob210/self-regulating-systems-lm "Robot in Space")**
 4. **Actuating**
 5. **Control Architecture**
 6. **Reading Week**
@@ -62,7 +62,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODExNDkxMiwxNDU1NjM1NjczLC0xMD
+eyJoaXN0b3J5IjpbMTE5NDE0NTczNCwxNDU1NjM1NjczLC0xMD
 Y4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC0xMzQ4NjY2
 NDc1LC0xNTU3MzYzNTExLC00ODcxNTYwMzgsLTE4Mjc0NTE0ND
 JdfQ==
