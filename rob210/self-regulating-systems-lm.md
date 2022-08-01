@@ -26,7 +26,7 @@ page_nav:
         url: '../robot-in-space-lm'
 ---
 
-# 1. Self Regulating Systems	
+# 2. Self Regulating Systems	
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
@@ -38,6 +38,6 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NDYyOTMzLC0xNjMzNzkxNjU2LDQ2OT
-E1NzM3OSwtMjEwNjE4NjY3MF19
+eyJoaXN0b3J5IjpbLTQ0MzM0NTE5NCwtMTYzMzc5MTY1Niw0Nj
+kxNTczNzksLTIxMDYxODY2NzBdfQ==
 -->
