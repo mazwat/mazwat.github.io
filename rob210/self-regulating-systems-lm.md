@@ -22,7 +22,7 @@ page_nav:
         content: Introduction to Cybernetics
         url: '../intro-cybernetics-lm'
     next:
-        content: The Robot in Spce
+        content: The Robot in Space
         url: '../robot-in-space-lm'
 ---
 
@@ -32,12 +32,12 @@ page_nav:
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. Rigid Bodies
-## 2. Degrees of Freedom
-## 3. Joint Space
-## 4. Global Frame of Reference.
+## 1. Feedback
+## 2. Second Order Self Regulation
+## 3. Abstraction of Braitenburg vehicle
+## 4. Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM3OTE2NTYsNDY5MTU3Mzc5LC0yMT
-A2MTg2NjcwXX0=
+eyJoaXN0b3J5IjpbLTM3MTMzNzY1OSwtMTYzMzc5MTY1Niw0Nj
+kxNTczNzksLTIxMDYxODY2NzBdfQ==
 -->
