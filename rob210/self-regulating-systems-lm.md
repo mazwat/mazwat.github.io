@@ -26,7 +26,7 @@ page_nav:
         url: '../robot-in-space-lm'
 ---
 
-# 1. The Robot in Space
+# 1. Self Regulating Systme	
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
@@ -38,5 +38,5 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYxODY2NzBdfQ==
+eyJoaXN0b3J5IjpbNDY5MTU3Mzc5LC0yMTA2MTg2NjcwXX0=
 -->
