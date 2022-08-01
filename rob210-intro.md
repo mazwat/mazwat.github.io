@@ -36,7 +36,8 @@ The following materials are supporting documentation and resources for the modul
 2. **Self Regulating Systems**
 3. **Robot in Space**
 4. **Actuating**
-5. **Control Architecture & Project Pitch**
+5. **Control Architecture & 
+	6. Project Pitch** 
 6. **Reading Week**
 7. **Materials & Construction**
 8. **Inverse Kinematics**
@@ -62,7 +63,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjk5NTEyNiwxNDY3NTc4NTQ2LDYxNz
-c2MjUzNiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3MTU2
-MDM4LC0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbLTE2MDE3Mzk1MjIsMTQ2NzU3ODU0Niw2MT
+c3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1
+NjAzOCwtMTgyNzQ1MTQ0Ml19
 -->
