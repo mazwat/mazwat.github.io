@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Lecture 1
-description: ROB210 - Lecture Materials 1
+title: Lecture 3
+description: ROB210 - Lecture Materials 3
 
 # Author box
 author:
@@ -18,21 +18,26 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-    next:
+    prev:
         content: Self Regulating Systems
         url: '../self-regulating-systems-lm'
+   <!--  next:
+        content: Actuation
+        url: '../actuation-lm' -->
 ---
 
-# 1. Introduction to Cybernetics
-
+# 1. The Robot in Space
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. What is Cybernetics
-## 2. Topic 2
+## 1. Rigid Bodies
+## 2. Degrees of Freedom
+## 3. Joint Space
+## 4. Global Frame of Reference.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNTcwOTg4LDE2OTE4NDEzMDksODk4Nz
-M4Njc5LDQ4NDQ0OTAxMl19
+eyJoaXN0b3J5IjpbLTE5MTI4NTg5MjMsMjAzMzM0NjM2MiwxNT
+EzNDc5OTU0XX0=
 -->
