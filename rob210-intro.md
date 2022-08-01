@@ -40,7 +40,7 @@ The following materials are supporting documentation and resources for the modul
 6. **Reading Week**
 7. **Materials & Construction**
 8. **Inverse Kinematics**
-9. **Data Flow & System mod**
+9. **Data Flow & System Modelling**
 10. **Signal Processing**
 11. **Ethical Cybernetics** 
 
@@ -61,7 +61,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTY5NDIyMyw2MTc3NjI1MzYsLTEzND
+eyJoaXN0b3J5IjpbMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzND
 g2NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1
 MTQ0Ml19
 -->
