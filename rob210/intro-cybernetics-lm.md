@@ -30,8 +30,9 @@ page_nav:
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## What is Cybernetics
-## Etc.
+## 1. What is Cybernetics
+## 2. Topic 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NzM4Njc5LDQ4NDQ0OTAxMl19
+eyJoaXN0b3J5IjpbMTY5MTg0MTMwOSw4OTg3Mzg2NzksNDg0ND
+Q5MDEyXX0=
 -->
