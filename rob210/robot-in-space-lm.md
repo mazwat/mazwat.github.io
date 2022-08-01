@@ -21,9 +21,9 @@ page_nav:
     prev:
         content: Self Regulating Systems
         url: '../self-regulating-systems-lm'
-   <!--  next:
+   next:
         content: Actuation
-        url: '../actuation-lm' -->
+        url: '../actuation-lm'
 ---
 
 # 1. The Robot in Space
@@ -38,6 +38,6 @@ The following materials are derived from the *The Robot in Space*. The video lec
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTkzNjQ1MSwyMDMzMzQ2MzYyLDE1MT
-M0Nzk5NTRdfQ==
+eyJoaXN0b3J5IjpbNDc5ODk5NDM0LDIwMzMzNDYzNjIsMTUxMz
+Q3OTk1NF19
 -->
