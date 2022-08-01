@@ -22,7 +22,7 @@ page_nav:
         content: Intro to Cybernetics
         url: '../intro-cybernetics-lm'
     next:
-        content: S
+        content: Self Regulating Systems
         url: '../self-regulating-systems-lm'
 ---
 
@@ -35,5 +35,5 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 1. What is Cybernetics
 ## 2. Topic 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTY4MTU5N119
+eyJoaXN0b3J5IjpbMTk3NzQwODgxMl19
 -->
