@@ -19,8 +19,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: The Robot in Space
-        url: '../robot-in-space-lm'
+        content: Self Regulating Systems
+        url: '../self-regulating-systems-lm'
 ---
 
 # 1. Introduction to Cybernetics
@@ -33,6 +33,6 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 1. What is Cybernetics
 ## 2. Topic 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTg0MTMwOSw4OTg3Mzg2NzksNDg0ND
-Q5MDEyXX0=
+eyJoaXN0b3J5IjpbOTAwNTcwOTg4LDE2OTE4NDEzMDksODk4Nz
+M4Njc5LDQ4NDQ0OTAxMl19
 -->
