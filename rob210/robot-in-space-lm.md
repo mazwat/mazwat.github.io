@@ -21,9 +21,9 @@ page_nav:
     prev:
         content: Self Regulating Systems
         url: '../self-regulating-systems-lm'
-    next:
+   <!--  next:
         content: Actuation
-        url: '../actuation-lm'
+        url: '../actuation-lm' -->
 ---
 
 # 1. The Robot in Space
@@ -38,5 +38,6 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzM0NjM2MiwxNTEzNDc5OTU0XX0=
+eyJoaXN0b3J5IjpbLTE5MTI4NTg5MjMsMjAzMzM0NjM2MiwxNT
+EzNDc5OTU0XX0=
 -->
