@@ -32,7 +32,7 @@ The following materials are supporting documentation and resources for the modul
 ## Table of Contents
 
 ### Lecture Materials
-1. **Introduction to Cybernetics****[Electrical Circuits](../rob210/intro-cybernetics-lm "Electrical Circuits Lecture Materials")**
+1. **[Introduction to Cybernetics](../rob210/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **Self Regulating Systems**
 3. **Robot in Space**
 4. **Actuating**
@@ -62,8 +62,8 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcxMDkzNjQsMTQ1NTYzNTY3MywtMT
-A2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2MjUzNiwtMTM0ODY2
-NjQ3NSwtMTU1NzM2MzUxMSwtNDg3MTU2MDM4LC0xODI3NDUxND
-QyXX0=
+eyJoaXN0b3J5IjpbMTg0ODExNDkxMiwxNDU1NjM1NjczLC0xMD
+Y4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC0xMzQ4NjY2
+NDc1LC0xNTU3MzYzNTExLC00ODcxNTYwMzgsLTE4Mjc0NTE0ND
+JdfQ==
 -->
