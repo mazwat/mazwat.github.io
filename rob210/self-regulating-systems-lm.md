@@ -23,7 +23,7 @@ page_nav:
         url: '../intro-cybernetics-lm'
     next:
         content: The Robot in Spce
-        url: '../actuation-lm'
+        url: '../robot-in-space-lm'
 ---
 
 # 1. The Robot in Space
@@ -38,5 +38,5 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODQ2MDQ4OV19
+eyJoaXN0b3J5IjpbLTIxMDYxODY2NzBdfQ==
 -->
