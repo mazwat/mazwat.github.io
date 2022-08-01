@@ -30,7 +30,7 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 {: .callout .callout--warning}
 
 ## What is Cybernetics
-
+## Etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQ1MDc0Niw0ODQ0NDkwMTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA5OTg0NDQsNDg0NDQ5MDEyXX0=
 -->
