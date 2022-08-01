@@ -20,7 +20,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Self Regulating Systems
-        url: '../intro-cybernetics-lm'
+        url: '../self-regulating-systems-lm'
     next:
         content: Actuation
         url: '../actuation-lm'
@@ -38,5 +38,5 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzQ3OTk1NF19
+eyJoaXN0b3J5IjpbMjAzMzM0NjM2MiwxNTEzNDc5OTU0XX0=
 -->
