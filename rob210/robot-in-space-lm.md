@@ -32,10 +32,11 @@ page_nav:
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. Feedback
-## 2. 2nd Order Self Regulation
-## 3. Abstraction of Braitenburg vehicle
-## 4. Introduction to PID
+## 1. Rigid Bodies
+## Degrees of Freedom
+## Joint Space
+## Global Frame of Reference.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyOTUyODU4XX0=
+eyJoaXN0b3J5IjpbMTc2ODAzMTYxXX0=
 -->
