@@ -32,8 +32,10 @@ page_nav:
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. What is Cybernetics
-## 2. Topic 2
+## 1. Feedback
+## 2. 2nd Order Self Regulation
+## 3. Abstraction of Braitenburg vehicle
+## 4.Introduction to PID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzQwODgxMl19
+eyJoaXN0b3J5IjpbLTE5ODYxMzI5MzRdfQ==
 -->
