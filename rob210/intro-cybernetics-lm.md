@@ -22,7 +22,7 @@ page_nav:
         url: '../robot-in-space-lm'
 ---
 
-# 7. Data Structures
+# 1. Introduction to Cybernetics
 
 ![Hero Banner Image](images/data-hero-banner.png)
 
@@ -34,5 +34,5 @@ The following materials are derived from the *Data Structures lecture*. The vide
 -   Most programming languages have these built in
 -   Before writing any system you should always examine these data structures and pick the appropriate one for your Use Case
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjczMjk5MzhdfQ==
+eyJoaXN0b3J5IjpbNDg0NDQ5MDEyXX0=
 -->
