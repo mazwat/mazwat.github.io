@@ -18,7 +18,7 @@ micro_nav: true
 # Page navigation
 page_nav:
     next:
-        content: The Robot in Spac
+        content: The Robot in Space
         url: '../robot-in-space-lm'
 ---
 
@@ -34,5 +34,5 @@ The following materials are derived from the *Data Structures lecture*. The vide
 -   Most programming languages have these built in
 -   Before writing any system you should always examine these data structures and pick the appropriate one for your Use Case
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ5NDQzMTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjczMjk5MzhdfQ==
 -->
