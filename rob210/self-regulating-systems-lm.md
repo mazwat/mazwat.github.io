@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Lecture 3
-description: ROB210 - Lecture Materials 3
+title: Lecture 2
+description: ROB210 - Lecture Materials 2
 
 # Author box
 author:
@@ -26,7 +26,7 @@ page_nav:
         url: '../robot-in-space-lm'
 ---
 
-# 1. Self Regulating Systme	
+# 1. Self Regulating Systems	
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
@@ -38,5 +38,6 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MTU3Mzc5LC0yMTA2MTg2NjcwXX0=
+eyJoaXN0b3J5IjpbLTE2MzM3OTE2NTYsNDY5MTU3Mzc5LC0yMT
+A2MTg2NjcwXX0=
 -->
