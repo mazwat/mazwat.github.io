@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Lecture 1
-description: ROB210 - Lecture Materials 1
+title: Lecture 3
+description: ROB210 - Lecture Materials 3
 
 # Author box
 author:
@@ -33,10 +33,10 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 {: .callout .callout--warning}
 
 ## 1. Rigid Bodies
-## Degrees of Freedom
-## Joint Space
-## Global Frame of Reference.
+## 2. Degrees of Freedom
+## 3. Joint Space
+## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODAzMTYxXX0=
+eyJoaXN0b3J5IjpbMTUxMzQ3OTk1NF19
 -->
