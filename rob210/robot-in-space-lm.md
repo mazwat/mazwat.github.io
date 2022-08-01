@@ -19,11 +19,11 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Intro to Cybernetics
+        content: Self Regulating Systems
         url: '../intro-cybernetics-lm'
     next:
-        content: Self Regulating Systems
-        url: '../self-regulating-systems-lm'
+        content: Actuation
+        url: '../actuation-lm'
 ---
 
 # 1. The Robot in Space
@@ -35,7 +35,7 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 1. Feedback
 ## 2. 2nd Order Self Regulation
 ## 3. Abstraction of Braitenburg vehicle
-## 4.Introduction to PID
+## 4. Introduction to PID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYxMzI5MzRdfQ==
+eyJoaXN0b3J5IjpbMzMyOTUyODU4XX0=
 -->
