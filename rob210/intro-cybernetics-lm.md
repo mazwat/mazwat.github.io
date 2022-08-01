@@ -1,3 +1,4 @@
+---
 # Page settings
 layout: default
 keywords:
@@ -32,5 +33,5 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## What is Cybernetics
 ## Etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA5OTg0NDQsNDg0NDQ5MDEyXX0=
+eyJoaXN0b3J5IjpbODk4NzM4Njc5LDQ4NDQ0OTAxMl19
 -->
