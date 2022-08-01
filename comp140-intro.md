@@ -30,7 +30,7 @@ The following materials are support documentation and resources for the module.
 
 ### Lecture Materials
  1. **[Electrical Circuits](../electrical-circuits-lm "Electrical Circuits Lecture Materials")**
- 2. **[Arduino](../arduino-lm "Arduino Lecture Materials")**
+ 2. **[Arduino](../comp140/arduino-lm "Arduino Lecture Materials")**
  3. **[Making Circuits](../making-circuits-lm "Making Circuits Lecture Materials")**
  4. **[Object Oriented Programming](../oop-lm "OOP Lecture Materials")**
  5. **[Software Architecture](../software-architecture-lm "Software Architecture Lecture Materials")**
@@ -62,11 +62,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODY1NzE5NCw4OTA5MTEzMSwtMTU5OD
-I2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4
-LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLT
-MzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0
-NDU3LC0yOTUwNDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMS
-wtNjA0NTgwMTUxLDkwNzc5NzcyOCwxMjY2NDU0NTczLC0xOTk4
-NTY3MzE5XX0=
+eyJoaXN0b3J5IjpbMTAxNDM1MDM2MywxNjY4NjU3MTk0LDg5MD
+kxMTMxLC0xNTk4MjYyOTE4LC03NTAyOTAwODYsLTg5MTM2MTA4
+NCwyNzgyMzk1NTgsLTExODkyNTg5NDUsLTExMzIwNzI3NTksMT
+k4ODIyMDM0OSwtMzM3MzcxOTI3LDE3Nzk0NjQ5ODAsLTU0NTI0
+OTgzMiwtMTg2ODQ0NTcsLTI5NTA0NDU5OCwtMjE0MTEwMzUzNy
+wtMjk4NjU4NjExLC02MDQ1ODAxNTEsOTA3Nzk3NzI4LDEyNjY0
+NTQ1NzNdfQ==
 -->
