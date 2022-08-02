@@ -29,7 +29,7 @@ page_nav:
 # 2. Self Regulating Systems	
 ![Hero Banner Image](images/norbert-weiner.jpg)
 
-The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
+The following materials are derived from the *Self Regulating Systems*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
 ## 1. Feedback
@@ -38,6 +38,7 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## 4. Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNjU2ODYsLTQ0MzM0NTE5NCwtMTYzMz
-c5MTY1Niw0NjkxNTczNzksLTIxMDYxODY2NzBdfQ==
+eyJoaXN0b3J5IjpbLTM0Mjk3MDgzMiwzNjI2NTY4NiwtNDQzMz
+Q1MTk0LC0xNjMzNzkxNjU2LDQ2OTE1NzM3OSwtMjEwNjE4NjY3
+MF19
 -->
