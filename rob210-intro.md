@@ -57,13 +57,13 @@ The following materials are supporting documentation and resources for the modul
 9. **Signal Processing**
 10. **Ethical Cybernetics** 
 
-### Submission Planning
+### Guides
 1. **Journal**
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNj
-gyODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2NjY0
-NzUsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml
-19
+eyJoaXN0b3J5IjpbLTUwOTI5ODM2MCw5ODA0MjM0NzAsMTQ1NT
+YzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2MjUz
+NiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3MTU2MDM4LC
+0xODI3NDUxNDQyXX0=
 -->
