@@ -32,13 +32,13 @@ page_nav:
 The following materials are derived from the *The Robot in Space*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. Rigid Bodies
-## 2. Degrees of Freedom
-## 3. Joint Space
-## 4. Global Frame of Reference.
+## Rigid Bodies
+## Degrees of Freedom
+## Joint Space
+## Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAzMzAwMCwtNDgwNTU5ODg4LC0xNz
-Y5OTE3NzcyLDEyMDMwMzMyMTAsNDc5ODk5NDM0LDIwMzMzNDYz
-NjIsMTUxMzQ3OTk1NF19
+eyJoaXN0b3J5IjpbMjA4NTkyODY4MCwtMTA4MDMzMDAwLC00OD
+A1NTk4ODgsLTE3Njk5MTc3NzIsMTIwMzAzMzIxMCw0Nzk4OTk0
+MzQsMjAzMzM0NjM2MiwxNTEzNDc5OTU0XX0=
 -->
