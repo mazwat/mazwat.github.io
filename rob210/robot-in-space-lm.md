@@ -24,7 +24,7 @@ page_nav:
    next:
         content: Actuation
         url: '../actuation-lm'
----
+---		
 
 # 1. The Robot in Space
 ![Hero Banner Image](images/norbert-weiner.jpg)
@@ -38,6 +38,6 @@ The following materials are derived from the *The Robot in Space*. The video lec
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5ODk5NDM0LDIwMzMzNDYzNjIsMTUxMz
-Q3OTk1NF19
+eyJoaXN0b3J5IjpbMTIwMzAzMzIxMCw0Nzk4OTk0MzQsMjAzMz
+M0NjM2MiwxNTEzNDc5OTU0XX0=
 -->
