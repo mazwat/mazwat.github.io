@@ -14,8 +14,8 @@ author:
     description: Lecturer in Computing at Falmouth University
 
 # Micro navigation
-micro_nav: true
-	
+micro_nav: true	
+
 # Page navigation
 page_nav:
     prev:
@@ -38,7 +38,7 @@ The following materials are derived from the *The Robot in Space*. The video lec
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDU1OTg4OCwtMTc2OTkxNzc3MiwxMj
-AzMDMzMjEwLDQ3OTg5OTQzNCwyMDMzMzQ2MzYyLDE1MTM0Nzk5
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwODAzMzAwMCwtNDgwNTU5ODg4LC0xNz
+Y5OTE3NzcyLDEyMDMwMzMyMTAsNDc5ODk5NDM0LDIwMzMzNDYz
+NjIsMTUxMzQ3OTk1NF19
 -->
