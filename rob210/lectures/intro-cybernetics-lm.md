@@ -31,11 +31,12 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 {: .callout .callout--warning}
 
 ## What is Cybernetics
-## Topic 2
+## Cybernetics Loop
 ## Topic 3
 ## Topic 4
 ## Topic 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjM1MDkzMCw5MDA1NzA5ODgsMTY5MT
-g0MTMwOSw4OTg3Mzg2NzksNDg0NDQ5MDEyXX0=
+eyJoaXN0b3J5IjpbLTE5NTYyNTI5MiwxNzIyMzUwOTMwLDkwMD
+U3MDk4OCwxNjkxODQxMzA5LDg5ODczODY3OSw0ODQ0NDkwMTJd
+fQ==
 -->
