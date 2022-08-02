@@ -23,7 +23,7 @@ page_nav:
         url: '../self-regulating-systems-lm'
     next:
         content: Actuation
-url: '../actuation-lm'
+	url: '../actuation-lm'
 ---
 
 # 1. The Robot in Space
