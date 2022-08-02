@@ -15,16 +15,16 @@ author:
 
 # Micro navigation
 micro_nav: true
-
+	
 # Page navigation
 page_nav:
     prev:
         content: Self Regulating Systems
         url: '../self-regulating-systems-lm'
-   next:
+    next:
         content: Actuation
         url: '../actuation-lm'
----		
+---	
 
 # 1. The Robot in Space
 ![Hero Banner Image](images/robot-arm.jpg)
@@ -38,6 +38,7 @@ The following materials are derived from the *The Robot in Space*. The video lec
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk5MTc3NzIsMTIwMzAzMzIxMCw0Nz
-k4OTk0MzQsMjAzMzM0NjM2MiwxNTEzNDc5OTU0XX0=
+eyJoaXN0b3J5IjpbLTQ4MDU1OTg4OCwtMTc2OTkxNzc3MiwxMj
+AzMDMzMjEwLDQ3OTg5OTQzNCwyMDMzMzQ2MzYyLDE1MTM0Nzk5
+NTRdfQ==
 -->
