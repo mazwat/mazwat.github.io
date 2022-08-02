@@ -54,15 +54,15 @@ The following materials are support documentation and resources for the module.
 
 ### Submission Planning
  1. **[Exemplar Projects](../comp140/exemplar-research "Exemplar Projects")**
- 2. **[Project Proposal (part 1)](../project-proposal-part-1 "Project Proposal Part 1")**
- 3. **[Project Proposal (part 2)](../project-proposal-part-2 "Project Proposal Part 2")**
- 4. **[Poster Preparation](../poster-preparation "Poster Preparation")**
- 5. **[Final Submission Preparation](../final-submission-preparation "Final Submission Preparation")**
+ 2. **[Project Proposal (part 1)](../comp140/project-proposal-part-1 "Project Proposal Part 1")**
+ 3. **[Project Proposal (part 2)](../comp140/project-proposal-part-2 "Project Proposal Part 2")**
+ 4. **[Poster Preparation](../comp140/poster-preparation "Poster Preparation")**
+ 5. **[Final Submission Preparation](../comp140/final-submission-preparation "Final Submission Preparation")**
 
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzI1MDQ3NiwxMDE0MzUwMzYzLDE2Nj
+eyJoaXN0b3J5IjpbMjA5NjY1MTMwNiwxMDE0MzUwMzYzLDE2Nj
 g2NTcxOTQsODkwOTExMzEsLTE1OTgyNjI5MTgsLTc1MDI5MDA4
 NiwtODkxMzYxMDg0LDI3ODIzOTU1OCwtMTE4OTI1ODk0NSwtMT
 EzMjA3Mjc1OSwxOTg4MjIwMzQ5LC0zMzczNzE5MjcsMTc3OTQ2
