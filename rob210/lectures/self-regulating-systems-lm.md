@@ -27,7 +27,7 @@ page_nav:
 ---
 
 # 2. Self Regulating Systems	
-![Hero Banner Image](images/norbert-weiner.jpg)
+![Hero Banner Image](images/thermostat.jpg)
 
 The following materials are derived from the *Self Regulating Systems*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
@@ -38,7 +38,7 @@ The following materials are derived from the *Self Regulating Systems*. The vide
 ## 4. Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mjk3MDgzMiwzNjI2NTY4NiwtNDQzMz
-Q1MTk0LC0xNjMzNzkxNjU2LDQ2OTE1NzM3OSwtMjEwNjE4NjY3
-MF19
+eyJoaXN0b3J5IjpbNzkyOTIyMDY0LC0zNDI5NzA4MzIsMzYyNj
+U2ODYsLTQ0MzM0NTE5NCwtMTYzMzc5MTY1Niw0NjkxNTczNzks
+LTIxMDYxODY2NzBdfQ==
 -->
