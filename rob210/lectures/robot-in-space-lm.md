@@ -24,7 +24,7 @@ page_nav:
     next:
         content: Actuation
 	url: '../actuation-lm'
----	
+---
 
 # 1. The Robot in Space
 ![Hero Banner Image](images/robot-arm.jpg)
