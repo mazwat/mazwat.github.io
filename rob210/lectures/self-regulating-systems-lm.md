@@ -21,9 +21,9 @@ page_nav:
     prev:
         content: Introduction to Cybernetics
         url: '../intro-cybernetics-lm'
-   next:
+    next:
         content: The Robot in Space
-      url: '../robot-in-space-lm'
+        url: '../robot-in-space-lm'
 ---
 
 # 2. Self Regulating Systems	
@@ -38,7 +38,7 @@ The following materials are derived from the *Self Regulating Systems*. The vide
 ## 4. Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyOTIyMDY0LC0zNDI5NzA4MzIsMzYyNj
-U2ODYsLTQ0MzM0NTE5NCwtMTYzMzc5MTY1Niw0NjkxNTczNzks
-LTIxMDYxODY2NzBdfQ==
+eyJoaXN0b3J5IjpbMjExMzEyODMyMCw3OTI5MjIwNjQsLTM0Mj
+k3MDgzMiwzNjI2NTY4NiwtNDQzMzQ1MTk0LC0xNjMzNzkxNjU2
+LDQ2OTE1NzM3OSwtMjEwNjE4NjY3MF19
 -->
