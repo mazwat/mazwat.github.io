@@ -32,13 +32,13 @@ page_nav:
 The following materials are derived from the *Self Regulating Systems*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## 1. Feedback
-## 2. Second Order Self Regulation
-## 3. Abstraction of Braitenburg vehicle
-## 4. Introduction to PID
+## Feedback
+## Second Order Self Regulation
+## Abstraction of Braitenburg vehicle
+## Introduction to PID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzEyODMyMCw3OTI5MjIwNjQsLTM0Mj
+eyJoaXN0b3J5IjpbLTM3MDMxNTg2NCw3OTI5MjIwNjQsLTM0Mj
 k3MDgzMiwzNjI2NTY4NiwtNDQzMzQ1MTk0LC0xNjMzNzkxNjU2
 LDQ2OTE1NzM3OSwtMjEwNjE4NjY3MF19
 -->
