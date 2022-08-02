@@ -30,13 +30,13 @@ page_nav:
 The following materials are derived from the *Introduction to Cybernetics*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
 
-## What is Cybernetics
+## What is Cybernetics?
 ## Cybernetics Loop
 ## Causal Systems
 ## Topic 4
 ## Topic 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjE3NjEzMSwtMTk1NjI1MjkyLDE3Mj
-IzNTA5MzAsOTAwNTcwOTg4LDE2OTE4NDEzMDksODk4NzM4Njc5
-LDQ4NDQ0OTAxMl19
+eyJoaXN0b3J5IjpbLTEzNzIxNTU2MDYsLTE5NTYyNTI5MiwxNz
+IyMzUwOTMwLDkwMDU3MDk4OCwxNjkxODQxMzA5LDg5ODczODY3
+OSw0ODQ0NDkwMTJdfQ==
 -->
