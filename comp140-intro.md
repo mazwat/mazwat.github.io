@@ -52,7 +52,7 @@ The following materials are support documentation and resources for the module.
 <!---#### 9 - [Optimisation](../comp140/worksheets/optimisation-ws "Optimisation")-->
 
 
-### Submission Planning
+### Guides
  1. **[Exemplar Projects](../comp140/guides/exemplar-research "Exemplar Projects")**
  2. **[Project Proposal (part 1)](../comp140/guides/project-proposal-part-1 "Project Proposal Part 1")**
  3. **[Project Proposal (part 2)](../comp140/guides/project-proposal-part-2 "Project Proposal Part 2")**
@@ -62,11 +62,11 @@ The following materials are support documentation and resources for the module.
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTYyNTM5NCwyMDk2NjUxMzA2LDEwMT
-QzNTAzNjMsMTY2ODY1NzE5NCw4OTA5MTEzMSwtMTU5ODI2Mjkx
-OCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMjc4MjM5NTU4LC0xMT
-g5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgyMjAzNDksLTMzNzM3
-MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4MzIsLTE4Njg0NDU3LC
-0yOTUwNDQ1OTgsLTIxNDExMDM1MzcsLTI5ODY1ODYxMSwtNjA0
-NTgwMTUxXX0=
+eyJoaXN0b3J5IjpbLTExNzQ2ODIwNjAsMTA5NTYyNTM5NCwyMD
+k2NjUxMzA2LDEwMTQzNTAzNjMsMTY2ODY1NzE5NCw4OTA5MTEz
+MSwtMTU5ODI2MjkxOCwtNzUwMjkwMDg2LC04OTEzNjEwODQsMj
+c4MjM5NTU4LC0xMTg5MjU4OTQ1LC0xMTMyMDcyNzU5LDE5ODgy
+MjAzNDksLTMzNzM3MTkyNywxNzc5NDY0OTgwLC01NDUyNDk4Mz
+IsLTE4Njg0NDU3LC0yOTUwNDQ1OTgsLTIxNDExMDM1MzcsLTI5
+ODY1ODYxMV19
 -->
