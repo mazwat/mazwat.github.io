@@ -32,11 +32,11 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 
 ## What is Cybernetics
 ## Cybernetics Loop
-## Topic 3
+## Causal Systems
 ## Topic 4
 ## Topic 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYyNTI5MiwxNzIyMzUwOTMwLDkwMD
-U3MDk4OCwxNjkxODQxMzA5LDg5ODczODY3OSw0ODQ0NDkwMTJd
-fQ==
+eyJoaXN0b3J5IjpbLTczMjE3NjEzMSwtMTk1NjI1MjkyLDE3Mj
+IzNTA5MzAsOTAwNTcwOTg4LDE2OTE4NDEzMDksODk4NzM4Njc5
+LDQ4NDQ0OTAxMl19
 -->
