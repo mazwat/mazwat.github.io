@@ -27,7 +27,7 @@ page_nav:
 ---		
 
 # 1. The Robot in Space
-![Hero Banner Image](images/norbert-weiner.jpg)
+![Hero Banner Image](images/robot-arm.jpg)
 
 The following materials are derived from the *The Robot in Space*. The video lecture is included at the bottom of the [*document*](#video-lecture).
 {: .callout .callout--warning}
@@ -38,6 +38,6 @@ The following materials are derived from the *The Robot in Space*. The video lec
 ## 4. Global Frame of Reference.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzAzMzIxMCw0Nzk4OTk0MzQsMjAzMz
-M0NjM2MiwxNTEzNDc5OTU0XX0=
+eyJoaXN0b3J5IjpbLTE3Njk5MTc3NzIsMTIwMzAzMzIxMCw0Nz
+k4OTk0MzQsMjAzMzM0NjM2MiwxNTEzNDc5OTU0XX0=
 -->
