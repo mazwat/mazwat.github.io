@@ -42,7 +42,7 @@ The following materials are supporting documentation and resources for the modul
 8. **Inverse Kinematics**
 9. **Data Flow & System Modelling**
 10. **Signal Processing**
-11. **Ethical Cybernetics**
+11. **Ethics in Cybernetics**
 12. **Review** 
 
 ### Worksheets
@@ -53,17 +53,17 @@ The following materials are supporting documentation and resources for the modul
 5. **Control Architecture**
 6. **Materials & Construction**
 7. **Inverse Kinematics**
-8. **DData Flow & System Modelling**
+8. **Data Flow & System Modelling**
 9. **Signal Processing**
-10. **Ethical Cybernetics** 
+10. **Ethics in Cybernetics** 
 
 ### Guides
 1. **Journal**
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTI5ODM2MCw5ODA0MjM0NzAsMTQ1NT
-YzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2MjUz
-NiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3MTU2MDM4LC
-0xODI3NDUxNDQyXX0=
+eyJoaXN0b3J5IjpbMzIxNTg2ODA2LC01MDkyOTgzNjAsOTgwND
+IzNDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2NzU3ODU0
+Niw2MTc3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTczNjM1MTEsLT
+Q4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
 -->
