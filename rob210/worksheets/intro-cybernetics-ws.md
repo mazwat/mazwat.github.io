@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Worksheet 8
-description: COMP140 - Worksheet 8
+title: Worksheet 1
+description: ROB210 - Worksheet 1
 
 # Author box
 author:
@@ -23,11 +23,9 @@ page_nav:
         url: '../design-patterns-ws'
 ---
 
-# Cybe
+# Cybernetics
 
-This week your primary focus for the workshop should be on your project and your specific needs and requirements.
-
-The theme for the week is intended as supporting material for the development of your final product. One of the key elements of the lecture was implementing **finite state machines**.
+This weeks workshop will entail undetaking 2 tasks to be completed and implemented by week 2.
 
 ## Task 1 - Finite State Machines
 
@@ -42,5 +40,5 @@ Design a finite state machine using Python.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI1MzcyMzVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODc4MjY3OTldfQ==
 -->
