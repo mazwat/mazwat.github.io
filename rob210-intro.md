@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: ROB210 - Robotics & Cybernetics
-description: ***ROB210 is intended to apply robotics and cybernetics principles to the design and development of simple robot prototypes.***
+description: ROB210 is intended to apply robotics and cybernetics principles to the design and development of simple robot prototypes.
 
 # Author box
 author:
@@ -60,9 +60,10 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxMjcxNjMsMTg3OTcxODM1NiwyMD
-IzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgz
-NjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMT
-Q2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTcz
-NjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMT
+g3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2
+ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLT
+EwNjgyODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2
+NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MT
+Q0Ml19
 -->
