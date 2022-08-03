@@ -46,7 +46,7 @@ The following materials are supporting documentation and resources for the modul
 12. **Review** 
 
 ### Worksheets
-1. **[**Introduction to Cybernetics**](../rob210/worksheet/intro-cybernetics-ws "Introduction to Cybernetics")**
+1. **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**
 2. **Self Regulating Systems**
 3. **Robot in Space**
 4. **Actuating**
@@ -62,9 +62,9 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzE3NjIwNywxMDkxOTUwNTYyLDMyMT
-U4NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1Njcz
-LC0xMDY4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC0xMz
-Q4NjY2NDc1LC0xNTU3MzYzNTExLC00ODcxNTYwMzgsLTE4Mjc0
-NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbMTg3OTcxODM1NiwyMDIzMTc2MjA3LDEwOT
+E5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcw
+LDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2NzU3ODU0Niw2MT
+c3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1
+NjAzOCwtMTgyNzQ1MTQ0Ml19
 -->
