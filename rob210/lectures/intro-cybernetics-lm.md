@@ -33,10 +33,10 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 ## What is Cybernetics?
 ## Feedback Loop
 ## Causal Systems
-## Instruments of Cybernetics
+## Instruments of Control
 ## Topic 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDgzMzM2NSwtMTM3MjE1NTYwNiwtMT
-k1NjI1MjkyLDE3MjIzNTA5MzAsOTAwNTcwOTg4LDE2OTE4NDEz
-MDksODk4NzM4Njc5LDQ4NDQ0OTAxMl19
+eyJoaXN0b3J5IjpbMTI5NTg5MTk0OSwxNDM0ODMzMzY1LC0xMz
+cyMTU1NjA2LC0xOTU2MjUyOTIsMTcyMjM1MDkzMCw5MDA1NzA5
+ODgsMTY5MTg0MTMwOSw4OTg3Mzg2NzksNDg0NDQ5MDEyXX0=
 -->
