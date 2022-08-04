@@ -31,12 +31,12 @@ The following materials are derived from the *Introduction to Cybernetics*. The 
 {: .callout .callout--warning}
 
 ## What is Cybernetics?
-## Cybernetics Loop
+## Feedback Loop
 ## Causal Systems
-## Topic 4
+## Instruments of Cybernetics
 ## Topic 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxNTU2MDYsLTE5NTYyNTI5MiwxNz
-IyMzUwOTMwLDkwMDU3MDk4OCwxNjkxODQxMzA5LDg5ODczODY3
-OSw0ODQ0NDkwMTJdfQ==
+eyJoaXN0b3J5IjpbMTQzNDgzMzM2NSwtMTM3MjE1NTYwNiwtMT
+k1NjI1MjkyLDE3MjIzNTA5MzAsOTAwNTcwOTg4LDE2OTE4NDEz
+MDksODk4NzM4Njc5LDQ4NDQ0OTAxMl19
 -->
