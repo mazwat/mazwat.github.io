@@ -51,9 +51,9 @@ The following materials are supporting documentation and resources for the modul
 | 15 |**Submission and Viva**|
 
 ### Worksheets
-|Week|Topic|
+|Week|Topic|Task|
 |--|--|--|
-| 1 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**|Build a simple Braintenb
+| 1 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a simple Braintenburg Machine|
 
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
@@ -85,11 +85,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA3OTk1NjMsODA3MzgzMTY0LDYwNz
-A2MzUyNCwtMTg5ODk1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3
-OSwtMTg3NzA0NTM5NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LD
-IwMjMxNzYyMDcsMTA5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5
-ODM2MCw5ODA0MjM0NzAsMTQ1NTYzNTY3MywtMTA2ODI4MDMyOS
-wxNDY3NTc4NTQ2LDYxNzc2MjUzNiwtMTM0ODY2NjQ3NSwtMTU1
-NzM2MzUxMV19
+eyJoaXN0b3J5IjpbMTU1NzQwMzg5Nyw4MDczODMxNjQsNjA3MD
+YzNTI0LC0xODk4OTU1MDM2LDU4NzU1OTUzOSwxNTU0NTM3MTc5
+LC0xODc3MDQ1Mzk1LC0xNjcyMTI3MTYzLDE4Nzk3MTgzNTYsMj
+AyMzE3NjIwNywxMDkxOTUwNTYyLDMyMTU4NjgwNiwtNTA5Mjk4
+MzYwLDk4MDQyMzQ3MCwxNDU1NjM1NjczLC0xMDY4MjgwMzI5LD
+E0Njc1Nzg1NDYsNjE3NzYyNTM2LC0xMzQ4NjY2NDc1LC0xNTU3
+MzYzNTExXX0=
 -->
