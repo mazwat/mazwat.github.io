@@ -29,6 +29,11 @@ The following materials are supporting documentation and resources for the modul
 
 ## Table of Contents
 
+|Week|Topic  | |
+|--|--|--|
+|  |  |  |
+
+
 ### Lecture Materials
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
@@ -60,10 +65,10 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMT
-g3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2
-ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLT
-EwNjgyODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2
-NjY0NzUsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MT
-Q0Ml19
+eyJoaXN0b3J5IjpbMjAyMjYyNzUxNiwtMTg3NzA0NTM5NSwtMT
+Y3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMTA5MTk1
+MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0NzAsMT
+Q1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2
+MjUzNiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3MTU2MD
+M4LC0xODI3NDUxNDQyXX0=
 -->
