@@ -41,8 +41,10 @@ The following materials are supporting documentation and resources for the modul
 | 6 | *READING WEEK*|
 | 7 |**Materials & Construction**|
 | 8 |**Inverse Kinematics**|
-| 8 |9. **Data Flow & System Modelling**
-| 10 |**Data Flow & System Modelling**|
+| 8 |**Data Flow & System Modelling**|
+| 10 |**Signal Processing**|
+| 11 |**Ethics in Cybernetics**|
+| 12 |**Review**|
 
 
 
@@ -76,11 +78,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDIzNjUyMCw2MDcwNjM1MjQsLTE4OT
-g5NTUwMzYsNTg3NTU5NTM5LDE1NTQ1MzcxNzksLTE4NzcwNDUz
-OTUsLTE2NzIxMjcxNjMsMTg3OTcxODM1NiwyMDIzMTc2MjA3LD
-EwOTE5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgzNjAsOTgwNDIz
-NDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2NzU3ODU0Ni
-w2MTc3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTczNjM1MTEsLTQ4
-NzE1NjAzOF19
+eyJoaXN0b3J5IjpbNDM2MzEyODEzLDYwNzA2MzUyNCwtMTg5OD
+k1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0NTM5
+NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMT
+A5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0
+NzAsMTQ1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LD
+YxNzc2MjUzNiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3
+MTU2MDM4XX0=
 -->
