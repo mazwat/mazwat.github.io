@@ -58,9 +58,6 @@ The following materials are supporting documentation and resources for the modul
 |  || Using PID Control|
 | 3 |**[The Robot in Space](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**||
 
-1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
-2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
-3. **[Robot in Space](../rob210/lectures/robot-in-space-lm "Robot in Space")**
 4. **Actuating**
 5. **Control Architecture**
 6. **Reading Week**
@@ -88,7 +85,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDUwMDcxMywtMTM3NTk5Njg2NCwxNT
+eyJoaXN0b3J5IjpbLTYyMjM1MTY4OSwtMTM3NTk5Njg2NCwxNT
 U3NDAzODk3LDgwNzM4MzE2NCw2MDcwNjM1MjQsLTE4OTg5NTUw
 MzYsNTg3NTU5NTM5LDE1NTQ1MzcxNzksLTE4NzcwNDUzOTUsLT
 E2NzIxMjcxNjMsMTg3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5
