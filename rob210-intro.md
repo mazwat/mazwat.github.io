@@ -45,7 +45,7 @@ The following materials are supporting documentation and resources for the modul
 | 10 |**Signal Processing**|
 | 11 |**Ethics in Cybernetics**|
 | 12 |**Review**|
-<td colspan='2'>*CHRISTMAS BREAK (2 Weeks)*</td>
+|<td colspan='2'>*CHRISTMAS BREAK (2 Weeks)*</td>|
 | 13 |**No Lecture (Project Development)**|
 | 14 |**No Lecture (Project Development)**|
 | 15 |**Submission and Viva**|
@@ -54,6 +54,7 @@ The following materials are supporting documentation and resources for the modul
 |Week|Topic|Task|
 |--|--|--|
 | 1 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a simple Braintenburg Machine|
+| 2 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a more complex Braintenburg Machine with FSM|
 
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
@@ -85,11 +86,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NzU3NTc0LDE1NTc0MDM4OTcsODA3Mz
-gzMTY0LDYwNzA2MzUyNCwtMTg5ODk1NTAzNiw1ODc1NTk1Mzks
-MTU1NDUzNzE3OSwtMTg3NzA0NTM5NSwtMTY3MjEyNzE2MywxOD
-c5NzE4MzU2LDIwMjMxNzYyMDcsMTA5MTk1MDU2MiwzMjE1ODY4
-MDYsLTUwOTI5ODM2MCw5ODA0MjM0NzAsMTQ1NTYzNTY3MywtMT
-A2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2MjUzNiwtMTM0ODY2
-NjQ3NV19
+eyJoaXN0b3J5IjpbMTc4MjMzMDMzMCwxNTU3NDAzODk3LDgwNz
+M4MzE2NCw2MDcwNjM1MjQsLTE4OTg5NTUwMzYsNTg3NTU5NTM5
+LDE1NTQ1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMT
+g3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2
+ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLT
+EwNjgyODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2
+NjY0NzVdfQ==
 -->
