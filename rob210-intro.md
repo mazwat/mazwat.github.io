@@ -36,7 +36,7 @@ The following materials are supporting documentation and resources for the modul
 | 1 | **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")** |
 | 2 | **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")** |
 | 3 | **[Robot in Space](../rob210/lectures/robot-in-space-lm "Robot in Space")** |
-| 3 | 
+| 3 | |
 
 
 
@@ -70,7 +70,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxOTk3NzQ2LC0xODk4OTU1MDM2LDU4Nz
+eyJoaXN0b3J5IjpbNjA3MDYzNTI0LC0xODk4OTU1MDM2LDU4Nz
 U1OTUzOSwxNTU0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcyMTI3
 MTYzLDE4Nzk3MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNTYyLD
 MyMTU4NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1
