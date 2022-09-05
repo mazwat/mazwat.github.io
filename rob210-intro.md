@@ -45,6 +45,7 @@ The following materials are supporting documentation and resources for the modul
 | 10 |**Signal Processing**|
 | 11 |**Ethics in Cybernetics**|
 | 12 |**Review**|
+| *CHRISTMAS BREAK*|
 
 
 
@@ -78,7 +79,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MzEyODEzLDYwNzA2MzUyNCwtMTg5OD
+eyJoaXN0b3J5IjpbNzM5MjQxMzU4LDYwNzA2MzUyNCwtMTg5OD
 k1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0NTM5
 NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMT
 A5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0
