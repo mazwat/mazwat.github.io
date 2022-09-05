@@ -29,13 +29,15 @@ The following materials are supporting documentation and resources for the modul
 
 ## Table of Contents
 
+### Lecture Materials
+
 |Week|Topic|
 |--|--|
-| 1 | Introduction to Cybernetics |
+| 1 | **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")** |
 | 2 | Self Regulating Systems |
 
 
-### Lecture Materials
+
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
 3. **[Robot in Space](../rob210/lectures/robot-in-space-lm "Robot in Space")**
@@ -66,10 +68,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NTU5NTM5LDE1NTQ1MzcxNzksLTE4Nz
-cwNDUzOTUsLTE2NzIxMjcxNjMsMTg3OTcxODM1NiwyMDIzMTc2
-MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgzNjAsOT
-gwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2NzU3
-ODU0Niw2MTc3NjI1MzYsLTEzNDg2NjY0NzUsLTE1NTczNjM1MT
-EsLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE4OTg5NTUwMzYsNTg3NTU5NTM5LDE1NT
+Q1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMTg3OTcx
+ODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC
+01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgy
+ODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2NjY0Nz
+UsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
+
 -->
