@@ -36,7 +36,9 @@ The following materials are supporting documentation and resources for the modul
 | 1 | **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")** |
 | 2 | **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")** |
 | 3 | **[Robot in Space](../rob210/lectures/robot-in-space-lm "Robot in Space")** |
-| 3 | |
+| 4 | **Actuating**|
+| 5 | **Control Architecture**|
+| 6 | *READING WEEK|
 
 
 
@@ -70,11 +72,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MDYzNTI0LC0xODk4OTU1MDM2LDU4Nz
-U1OTUzOSwxNTU0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcyMTI3
-MTYzLDE4Nzk3MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNTYyLD
-MyMTU4NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1
-NjczLC0xMDY4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC
-0xMzQ4NjY2NDc1LC0xNTU3MzYzNTExLC00ODcxNTYwMzgsLTE4
-Mjc0NTE0NDJdfQ==
+eyJoaXN0b3J5IjpbNzA4MDgxMDI0LDYwNzA2MzUyNCwtMTg5OD
+k1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0NTM5
+NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMT
+A5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0
+NzAsMTQ1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LD
+YxNzc2MjUzNiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3
+MTU2MDM4XX0=
 -->
