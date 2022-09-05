@@ -45,8 +45,10 @@ The following materials are supporting documentation and resources for the modul
 | 10 |**Signal Processing**|
 | 11 |**Ethics in Cybernetics**|
 | 12 |**Review**|
-<td colspan=2>*CHRISTMAS BREAK*
-| 12 |**Review**|
+|*CHRISTMAS BREAK*|
+| 13 |**No Lecture (Project Development)**|
+| 14 |**No Lecture (Project Development)**|
+| 15 |**Submission and Viva**|
 
 
 
@@ -80,11 +82,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUyNTI0NzAsNjA3MDYzNTI0LC0xOD
-k4OTU1MDM2LDU4NzU1OTUzOSwxNTU0NTM3MTc5LC0xODc3MDQ1
-Mzk1LC0xNjcyMTI3MTYzLDE4Nzk3MTgzNTYsMjAyMzE3NjIwNy
-wxMDkxOTUwNTYyLDMyMTU4NjgwNiwtNTA5Mjk4MzYwLDk4MDQy
-MzQ3MCwxNDU1NjM1NjczLC0xMDY4MjgwMzI5LDE0Njc1Nzg1ND
-YsNjE3NzYyNTM2LC0xMzQ4NjY2NDc1LC0xNTU3MzYzNTExLC00
-ODcxNTYwMzhdfQ==
+eyJoaXN0b3J5IjpbMzg1NTQyOTQwLDYwNzA2MzUyNCwtMTg5OD
+k1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0NTM5
+NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMT
+A5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0
+NzAsMTQ1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LD
+YxNzc2MjUzNiwtMTM0ODY2NjQ3NSwtMTU1NzM2MzUxMSwtNDg3
+MTU2MDM4XX0=
 -->
