@@ -54,7 +54,8 @@ The following materials are supporting documentation and resources for the modul
 |Week|Topic|Task|
 |--|--|--|
 | 1 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a simple Braintenburg Machine|
-| 2 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a more complex Braintenburg Machine with FSM|
+| 2 | **[Self Regulating Systems](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a more complex Braintenburg Machine with a Finite State Machine|
+|  || Using ID Control|
 
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
@@ -86,11 +87,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjMzMDMzMCwxNTU3NDAzODk3LDgwNz
-M4MzE2NCw2MDcwNjM1MjQsLTE4OTg5NTUwMzYsNTg3NTU5NTM5
-LDE1NTQ1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMT
-g3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2
-ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLT
-EwNjgyODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2
-NjY0NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzU5OTY4NjQsMTU1NzQwMzg5Nyw4MD
+czODMxNjQsNjA3MDYzNTI0LC0xODk4OTU1MDM2LDU4NzU1OTUz
+OSwxNTU0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcyMTI3MTYzLD
+E4Nzk3MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNTYyLDMyMTU4
+NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1NjczLC
+0xMDY4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC0xMzQ4
+NjY2NDc1XX0=
 -->
