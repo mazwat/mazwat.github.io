@@ -29,9 +29,9 @@ The following materials are supporting documentation and resources for the modul
 
 ## Table of Contents
 
-|Week|Topic  | |
-|--|--|--|
-|  |  |  |
+|Week|Topic|
+|--|--|
+| 1 | Introduction to Cybernetics |
 
 
 ### Lecture Materials
@@ -65,7 +65,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjYyNzUxNiwtMTg3NzA0NTM5NSwtMT
+eyJoaXN0b3J5IjpbMTU1NDUzNzE3OSwtMTg3NzA0NTM5NSwtMT
 Y3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMTA5MTk1
 MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0NzAsMT
 Q1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3NTc4NTQ2LDYxNzc2
