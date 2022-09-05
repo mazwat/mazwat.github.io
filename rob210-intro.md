@@ -23,7 +23,7 @@ page_nav: false
 
 # Introduction
 
-“Cybernetics” comes from a Greek word ***kybernetes*** meaning the "the art of steering". Cybernetics is a philosophy of technology that describes how automatic control systems operate in both machines and the natural world. Cybernetics is concerned with defining a goal and taking action to achieve that goal. Knowing whether you have reached your goal (or at least are getting closer to it) requires “feedback”. Feedback is explored extensively by the principles of cybernetics.
+Cybernetics comes from the Greek word ***kybernetes*** meaning the "the art of steering". Cybernetics is a philosophy of technology that describes how automatic control systems operate in both machines and the natural world. Cybernetics is concerned with defining a goal and taking action to achieve that goal. Knowing whether you have reached your goal (or at least are getting closer to it) requires “feedback”. Feedback is explored extensively by the principles of cybernetics.
 
 The following materials are supporting documentation and resources for the module.
 
@@ -34,7 +34,9 @@ The following materials are supporting documentation and resources for the modul
 |Week|Topic|
 |--|--|
 | 1 | **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")** |
-| 2 | Self Regulating Systems |
+| 2 | **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")** |
+| 3 | **[Robot in Space](../rob210/lectures/robot-in-space-lm "Robot in Space")** |
+| 3 | 
 
 
 
@@ -68,11 +70,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg5NTUwMzYsNTg3NTU5NTM5LDE1NT
-Q1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMTg3OTcx
-ODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC
-01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgy
-ODAzMjksMTQ2NzU3ODU0Niw2MTc3NjI1MzYsLTEzNDg2NjY0Nz
-UsLTE1NTczNjM1MTEsLTQ4NzE1NjAzOCwtMTgyNzQ1MTQ0Ml19
-
+eyJoaXN0b3J5IjpbOTkxOTk3NzQ2LC0xODk4OTU1MDM2LDU4Nz
+U1OTUzOSwxNTU0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcyMTI3
+MTYzLDE4Nzk3MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNTYyLD
+MyMTU4NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1
+NjczLC0xMDY4MjgwMzI5LDE0Njc1Nzg1NDYsNjE3NzYyNTM2LC
+0xMzQ4NjY2NDc1LC0xNTU3MzYzNTExLC00ODcxNTYwMzgsLTE4
+Mjc0NTE0NDJdfQ==
 -->
