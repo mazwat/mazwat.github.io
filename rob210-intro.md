@@ -58,6 +58,7 @@ The following materials are supporting documentation and resources for the modul
 | 2 | **[Self Regulating Systems](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a more complex Braitenburg Machine with a Finite State Machine|
 | | | Using PID Control|
 | 3 |**[The Robot in Space](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| |
+| 4 |**Actuating** |
 
 4. **Actuating**
 5. **Control Architecture**
@@ -86,11 +87,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mzk0MzI1NiwtNzY5NjM5MDQxLC0xMz
-c1OTk2ODY0LDE1NTc0MDM4OTcsODA3MzgzMTY0LDYwNzA2MzUy
-NCwtMTg5ODk1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMT
-g3NzA0NTM5NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMx
-NzYyMDcsMTA5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MC
-w5ODA0MjM0NzAsMTQ1NTYzNTY3MywtMTA2ODI4MDMyOSwxNDY3
-NTc4NTQ2XX0=
+eyJoaXN0b3J5IjpbLTE4MDQ1ODEwNjIsLTc2OTYzOTA0MSwtMT
+M3NTk5Njg2NCwxNTU3NDAzODk3LDgwNzM4MzE2NCw2MDcwNjM1
+MjQsLTE4OTg5NTUwMzYsNTg3NTU5NTM5LDE1NTQ1MzcxNzksLT
+E4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMTg3OTcxODM1NiwyMDIz
+MTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgzNj
+AsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2
+NzU3ODU0Nl19
 -->
