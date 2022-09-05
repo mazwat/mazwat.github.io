@@ -45,12 +45,15 @@ The following materials are supporting documentation and resources for the modul
 | 10 |**Signal Processing**|
 | 11 |**Ethics in Cybernetics**|
 | 12 |**Review**|
-<td colspan=2>*CHRISTMAS BREAK (2 Weeks)*|
+|<td colspan=2>*CHRISTMAS BREAK (2 Weeks)*
 | 13 |**No Lecture (Project Development)**|
 | 14 |**No Lecture (Project Development)**|
 | 15 |**Submission and Viva**|
 
-
+### Worksheets
+|Week|Topic|
+|--|--|--|
+| 1 | **[Introduction to Cybernetics](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**|Build a simple Braintenb
 
 1. **[Introduction to Cybernetics](../rob210/lectures/intro-cybernetics-lm "Introduction to Cybernetics")**
 2. **[Self Regulating Systems](../rob210/lectures/self-regulating-systems-lm "Self Regulating Systems")**
@@ -82,7 +85,7 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk4NzE1MTEsODA3MzgzMTY0LDYwNz
+eyJoaXN0b3J5IjpbLTE3NjA3OTk1NjMsODA3MzgzMTY0LDYwNz
 A2MzUyNCwtMTg5ODk1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3
 OSwtMTg3NzA0NTM5NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LD
 IwMjMxNzYyMDcsMTA5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5
