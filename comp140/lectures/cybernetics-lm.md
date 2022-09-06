@@ -26,7 +26,7 @@ page_nav:
         url: '../optimisation-lm'
 ---
 
-# 9. States & Transitions
+# States & Transitions
 ## An Introduction to Cybernetics
 
 ![Header Image](images/states-header.jpg)
@@ -633,8 +633,8 @@ In this lecture we have looked at:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDIxMTkzNiwtMjA5Nzg2NjQyMywxNT
-ExMjY0MTI3LC00MDA3NDE2NTUsLTU5NzgwOTQ3NiwtNzIxMTcz
-NzE4LDE3NDA0NjUwMTEsMjQwODgwODc2LC0xNjQzNDUwNjgyLD
-EwMTM0NTk1MzQsLTk0NDg3NTAyMF19
+eyJoaXN0b3J5IjpbNTA3MTkxODU3LDEzOTAyMTE5MzYsLTIwOT
+c4NjY0MjMsMTUxMTI2NDEyNywtNDAwNzQxNjU1LC01OTc4MDk0
+NzYsLTcyMTE3MzcxOCwxNzQwNDY1MDExLDI0MDg4MDg3NiwtMT
+Y0MzQ1MDY4MiwxMDEzNDU5NTM0LC05NDQ4NzUwMjBdfQ==
 -->
