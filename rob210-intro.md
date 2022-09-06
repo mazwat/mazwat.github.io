@@ -67,13 +67,6 @@ The following materials are supporting documentation and resources for the modul
 | | | Derivatives and Integrals - speed, acceleration and position |
 | | | PWM explained - Pulse width modulation motor control |
 | | | Finite State Machines (Part 2) |
--   
--  
--   
-
--   Bit banging a problem
-
--   Finite State Machines
 | 6 |*READING WEEK*| |
 | 7 |**Materials & Construction**| |
 | 8 |**Inverse Kinematics**| |
@@ -86,11 +79,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ1ODYyOTYsNjUwNjgxNDA0LC0xMz
-gwNDYzMzEzLC03Njk2MzkwNDEsLTEzNzU5OTY4NjQsMTU1NzQw
-Mzg5Nyw4MDczODMxNjQsNjA3MDYzNTI0LC0xODk4OTU1MDM2LD
-U4NzU1OTUzOSwxNTU0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcy
-MTI3MTYzLDE4Nzk3MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNT
-YyLDMyMTU4NjgwNiwtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1
-NjM1NjczXX0=
+eyJoaXN0b3J5IjpbLTI2NjE0MjgyLC0xMTU0NTg2Mjk2LDY1MD
+Y4MTQwNCwtMTM4MDQ2MzMxMywtNzY5NjM5MDQxLC0xMzc1OTk2
+ODY0LDE1NTc0MDM4OTcsODA3MzgzMTY0LDYwNzA2MzUyNCwtMT
+g5ODk1NTAzNiw1ODc1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0
+NTM5NSwtMTY3MjEyNzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMD
+csMTA5MTk1MDU2MiwzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0
+MjM0NzBdfQ==
 -->
