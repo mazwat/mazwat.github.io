@@ -59,6 +59,13 @@ The following materials are supporting documentation and resources for the modul
 | | | Using PID Control|
 | 3 |**[The Robot in Space](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| |
 | 4 |**Actuating**| |
+| | |  Motors, Torque Curves
+-   H bridge
+-   Speed Controllers
+-   Sensor Values/Accuracy
+-   Signal Strength Noise
+
+• Active and Passive Sensor
 | 5 |**Control Architecture**| |
 | 6 |*READING WEEK*| |
 | 7 |**Materials & Construction**| |
@@ -72,11 +79,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA0NjMzMTMsLTc2OTYzOTA0MSwtMT
-M3NTk5Njg2NCwxNTU3NDAzODk3LDgwNzM4MzE2NCw2MDcwNjM1
-MjQsLTE4OTg5NTUwMzYsNTg3NTU5NTM5LDE1NTQ1MzcxNzksLT
-E4NzcwNDUzOTUsLTE2NzIxMjcxNjMsMTg3OTcxODM1NiwyMDIz
-MTc2MjA3LDEwOTE5NTA1NjIsMzIxNTg2ODA2LC01MDkyOTgzNj
-AsOTgwNDIzNDcwLDE0NTU2MzU2NzMsLTEwNjgyODAzMjksMTQ2
-NzU3ODU0Nl19
+eyJoaXN0b3J5IjpbMTkwMTgzMDcxMywtMTM4MDQ2MzMxMywtNz
+Y5NjM5MDQxLC0xMzc1OTk2ODY0LDE1NTc0MDM4OTcsODA3Mzgz
+MTY0LDYwNzA2MzUyNCwtMTg5ODk1NTAzNiw1ODc1NTk1MzksMT
+U1NDUzNzE3OSwtMTg3NzA0NTM5NSwtMTY3MjEyNzE2MywxODc5
+NzE4MzU2LDIwMjMxNzYyMDcsMTA5MTk1MDU2MiwzMjE1ODY4MD
+YsLTUwOTI5ODM2MCw5ODA0MjM0NzAsMTQ1NTYzNTY3MywtMTA2
+ODI4MDMyOV19
 -->
