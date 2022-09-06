@@ -26,7 +26,7 @@ page_nav:
         url: '../oop-lm'
 ---
 
-# 3. Making Circuits
+# Making Circuits
 
 ![Hero Banner Image](images/circuit-hero-banner.jpg)
 
@@ -220,11 +220,11 @@ In this lecture I have explained how to user the simulation environment of Tinke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc3OTY4MzEsLTEzNzE0MTQ3MzcsND
-Q1NzYwMzg1LC0xMzE1MzQzNDE1LDUxMTg5MTg2NiwtODgxNjAx
-NjgzLC04MDIxMDc3NTksMTcyOTQyNDczMywxNjcwNTE4NTg3LC
-0xNDEyODk2MDMsLTQ2MzU0MzkwOSwxNTk4NDgxNTAyLDEyNDgx
-OTE3NzMsMTQ2OTIwMTY0MSwtMTUyOTgyMjYyNyw1OTc3NDU2ND
-YsLTE3ODY1MDAzODUsLTIwOTUxMjY2MjgsMTQxMDgyMTI1MCw0
-NDQzODI0ODNdfQ==
+eyJoaXN0b3J5IjpbLTI1OTM2MjY1NiwtMTIwNzc5NjgzMSwtMT
+M3MTQxNDczNyw0NDU3NjAzODUsLTEzMTUzNDM0MTUsNTExODkx
+ODY2LC04ODE2MDE2ODMsLTgwMjEwNzc1OSwxNzI5NDI0NzMzLD
+E2NzA1MTg1ODcsLTE0MTI4OTYwMywtNDYzNTQzOTA5LDE1OTg0
+ODE1MDIsMTI0ODE5MTc3MywxNDY5MjAxNjQxLC0xNTI5ODIyNj
+I3LDU5Nzc0NTY0NiwtMTc4NjUwMDM4NSwtMjA5NTEyNjYyOCwx
+NDEwODIxMjUwXX0=
 -->
