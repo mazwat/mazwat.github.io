@@ -63,10 +63,12 @@ The following materials are supporting documentation and resources for the modul
 | | | Sensor Values/Accuracy & Signal Strength Noise |
 | 5 |**Control Architecture**| |
 | | | PID Loops for controlling an encoded motor |
-
+| | | Derivatives and Integrals - speed, acceleration and position |
+| | | PWM explained - Pulse width modulation motor control |
+| | | Finite State Machines (Part 2) |
 -   
--   Derivatives and Integrals - speed, acceleration and position
--   PWM explained - Pulse width modulation motor control
+-  
+-   
 
 -   Bit banging a problem
 
@@ -83,11 +85,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzMwNjI5NCw2NTA2ODE0MDQsLTEzOD
-A0NjMzMTMsLTc2OTYzOTA0MSwtMTM3NTk5Njg2NCwxNTU3NDAz
-ODk3LDgwNzM4MzE2NCw2MDcwNjM1MjQsLTE4OTg5NTUwMzYsNT
-g3NTU5NTM5LDE1NTQ1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIx
-MjcxNjMsMTg3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1Nj
-IsMzIxNTg2ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2
-MzU2NzNdfQ==
+eyJoaXN0b3J5IjpbMTE0MzI2NTI0LDY1MDY4MTQwNCwtMTM4MD
+Q2MzMxMywtNzY5NjM5MDQxLC0xMzc1OTk2ODY0LDE1NTc0MDM4
+OTcsODA3MzgzMTY0LDYwNzA2MzUyNCwtMTg5ODk1NTAzNiw1OD
+c1NTk1MzksMTU1NDUzNzE3OSwtMTg3NzA0NTM5NSwtMTY3MjEy
+NzE2MywxODc5NzE4MzU2LDIwMjMxNzYyMDcsMTA5MTk1MDU2Mi
+wzMjE1ODY4MDYsLTUwOTI5ODM2MCw5ODA0MjM0NzAsMTQ1NTYz
+NTY3M119
 -->
