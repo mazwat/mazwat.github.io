@@ -23,7 +23,7 @@ page_nav:
         url: '../arduino-lm'
 ---
 
-# 1. Electrical Circuits
+# Electrical Circuits
 
 ![Hero Banner Image](images/electrical-hero-banner.png)
 
@@ -273,11 +273,11 @@ Future lectures will address how to make these circuits but also how to use them
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTkxNzMzOCwtODY2NTQyNTM4LC00NT
-E0MDU5MTMsMjIyMTA0MDM0LDI2NTQwMTkyOSwyNjU0MDE5Mjks
-LTExNjAxMjEzOTIsLTE5NTIzNjQ5MzAsMTE2NzAxMjk4OCwtNz
-Y4MzcxMDM2LC0yMDkzMTgwMjY5LC0yMDQ3NDc2NDAyLC0xNTY2
-Mjg5MjI3LC0xNzAyNDQyNjY0LDExNTU2NTc5OTcsMTQ4NDY4Mj
-A5MCwtNTkzNzE5NjU0LDE2ODExNTY0NzksOTEyMDE4MTY2LC0x
-MTIzNjQxNDQyXX0=
+eyJoaXN0b3J5IjpbNDg0NTUyMDE1LDEyOTU5MTczMzgsLTg2Nj
+U0MjUzOCwtNDUxNDA1OTEzLDIyMjEwNDAzNCwyNjU0MDE5Mjks
+MjY1NDAxOTI5LC0xMTYwMTIxMzkyLC0xOTUyMzY0OTMwLDExNj
+cwMTI5ODgsLTc2ODM3MTAzNiwtMjA5MzE4MDI2OSwtMjA0NzQ3
+NjQwMiwtMTU2NjI4OTIyNywtMTcwMjQ0MjY2NCwxMTU1NjU3OT
+k3LDE0ODQ2ODIwOTAsLTU5MzcxOTY1NCwxNjgxMTU2NDc5LDkx
+MjAxODE2Nl19
 -->
