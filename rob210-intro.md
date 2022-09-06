@@ -58,13 +58,19 @@ The following materials are supporting documentation and resources for the modul
 | 2 | **[Self Regulating Systems](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| Build a more complex Braitenburg Machine with a Finite State Machine|
 | | | Using PID Control|
 | 3 |**[The Robot in Space](../rob210/worksheets/intro-cybernetics-ws "Introduction to Cybernetics")**| |
-| 4 |**Actuating**| |
-| | |  Motors & Torque Curves |
-| | | H bridges, Speed Controllers |
+| 4 |**Actuating**|Motors & Torque Curves |
+| | | H bridges & Speed Controllers  |
 | | | Sensor Values/Accuracy & Signal Strength Noise |
-
-• Active and Passive Sensor
 | 5 |**Control Architecture**| |
+| | | PID Loops for controlling an encoded motor |
+
+-   
+-   Derivatives and Integrals - speed, acceleration and position
+-   PWM explained - Pulse width modulation motor control
+
+-   Bit banging a problem
+
+-   Finite State Machines
 | 6 |*READING WEEK*| |
 | 7 |**Materials & Construction**| |
 | 8 |**Inverse Kinematics**| |
@@ -77,11 +83,11 @@ The following materials are supporting documentation and resources for the modul
 2. **Proposal**
 3. **Final Submission**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNjgxNDA0LC0xMzgwNDYzMzEzLC03Nj
-k2MzkwNDEsLTEzNzU5OTY4NjQsMTU1NzQwMzg5Nyw4MDczODMx
-NjQsNjA3MDYzNTI0LC0xODk4OTU1MDM2LDU4NzU1OTUzOSwxNT
-U0NTM3MTc5LC0xODc3MDQ1Mzk1LC0xNjcyMTI3MTYzLDE4Nzk3
-MTgzNTYsMjAyMzE3NjIwNywxMDkxOTUwNTYyLDMyMTU4NjgwNi
-wtNTA5Mjk4MzYwLDk4MDQyMzQ3MCwxNDU1NjM1NjczLC0xMDY4
-MjgwMzI5XX0=
+eyJoaXN0b3J5IjpbLTUzNzMwNjI5NCw2NTA2ODE0MDQsLTEzOD
+A0NjMzMTMsLTc2OTYzOTA0MSwtMTM3NTk5Njg2NCwxNTU3NDAz
+ODk3LDgwNzM4MzE2NCw2MDcwNjM1MjQsLTE4OTg5NTUwMzYsNT
+g3NTU5NTM5LDE1NTQ1MzcxNzksLTE4NzcwNDUzOTUsLTE2NzIx
+MjcxNjMsMTg3OTcxODM1NiwyMDIzMTc2MjA3LDEwOTE5NTA1Nj
+IsMzIxNTg2ODA2LC01MDkyOTgzNjAsOTgwNDIzNDcwLDE0NTU2
+MzU2NzNdfQ==
 -->
