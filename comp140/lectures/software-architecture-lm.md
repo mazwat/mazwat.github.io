@@ -26,7 +26,7 @@ page_nav:
         url: '../uml-lm'
 ---
 
-# 5. Software Architecture
+# Software Architecture
 
 ![Hero Banner Image](images/sa-hero-banner.png)
 
@@ -506,11 +506,11 @@ As we have seen in this lecture Software Architecture is about the structure and
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/369c1f31-5eef-4a19-926e-08dbc37a494c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzQxMzg5OCw4MDk5MDU4OTEsLTgyMT
-M4NjEzMCwxNDU3OTkzNDA2LC0xNjE0ODE0MjI4LC0xOTQ0OTYz
-OTYsLTEyMTQ1MDY2NzgsLTM2ODI2MDM3MSwtMTUyOTM1MjQwNC
-wxMDk1Njg4NzE5LDYwNDExMzAyMiwxNDU1Njg1NjQ3LDMxNDIy
-NDUyNywxMDg4ODI5OTM1LC05NTY5MzAzODQsMTQ5MDYzMjY3Ni
-wtMTkyOTM0MjQ3MywtMjEzMDIxNDk2MCw1MTc5ODU3ODUsLTk4
-MjgwODgzNl19
+eyJoaXN0b3J5IjpbMTg5NDQzMTQxOSwtODYzNDEzODk4LDgwOT
+kwNTg5MSwtODIxMzg2MTMwLDE0NTc5OTM0MDYsLTE2MTQ4MTQy
+MjgsLTE5NDQ5NjM5NiwtMTIxNDUwNjY3OCwtMzY4MjYwMzcxLC
+0xNTI5MzUyNDA0LDEwOTU2ODg3MTksNjA0MTEzMDIyLDE0NTU2
+ODU2NDcsMzE0MjI0NTI3LDEwODg4Mjk5MzUsLTk1NjkzMDM4NC
+wxNDkwNjMyNjc2LC0xOTI5MzQyNDczLC0yMTMwMjE0OTYwLDUx
+Nzk4NTc4NV19
 -->
