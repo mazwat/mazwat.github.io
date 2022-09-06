@@ -2442,6 +2442,7 @@ pre.highlight
 	font-weight: 500;
 	margin-top: 0;
 	padding: 0;
+	color: #434474;
 }
 .nav-grid__btn
 {
@@ -3002,7 +3003,7 @@ h1:hover .title-anchor-link:hover,h1:hover .title-anchor-link:focus,h1:hover .ti
 }
 .green .nav-grid__item
 {
-	background-color: #18ac9c;
+	background-color: #434474;
 }
 .green .nav-grid__item:hover,.green .nav-grid__item:active,.green .nav-grid__item:focus
 {
