@@ -26,7 +26,7 @@ page_nav:
         url: '../making-circuits-lm'
 ---
 
-# 2. Arduino
+# Arduino
 
 ![Hero Banner Image](images/arduino-hero-banner.png)
 
@@ -219,5 +219,5 @@ In this lecture I have outlined some of the key features of the Arduino and how 
 ### Lecture - Arduino 
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/a3e1a802-20e3-48f5-86f5-be2645beb6a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0OTI4NzddfQ==
+eyJoaXN0b3J5IjpbMjIxMDk5MzYzLC0xNTg0NDkyODc3XX0=
 -->
