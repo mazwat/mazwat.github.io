@@ -26,7 +26,7 @@ page_nav:
         url: '../cybernetics-lm'
 ---
 
-# 8. Design Patterns
+# Design Patterns
 
 ![Hero Banner Image](images/patterns-hero-banner.png)
 
@@ -873,11 +873,11 @@ See the full repo here:
 ### Part 2
 <iframe width="100%" height="370" src="https://web.microsoftstream.com/embed/video/404e9e03-5795-4635-8d69-088be751928d?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1MTI4NzYsLTM3OTQzMDI1OSwtOD
-A1NDc2Njk3LC0yMTE1NTc4MDA0LC0xMTM0NzYwNjUyLDczMzYy
-NTI4MiwtNTcwNzE4MjU3LDI2NjY2ODIyMSwtMTI2MzQyNTQ1My
-wtNDg2MDE4OSwtMTk2MTA3NDU1OCwxNjI0NTI3ODc0LC0xNjcw
-Njc0MzIzLC0yMDI1ODc4NzgsLTExMTcyMTY5OTgsLTE1NjYwOD
-A0NTQsMTI0NzUzODIwNSwtMTg2Njc2OTYwOCwxMDk4MDc0NDkx
-LC0xMDE5NTk2MTQyXX0=
+eyJoaXN0b3J5IjpbMTg2MDc4MzM3MCwtMjAxNTUxMjg3NiwtMz
+c5NDMwMjU5LC04MDU0NzY2OTcsLTIxMTU1NzgwMDQsLTExMzQ3
+NjA2NTIsNzMzNjI1MjgyLC01NzA3MTgyNTcsMjY2NjY4MjIxLC
+0xMjYzNDI1NDUzLC00ODYwMTg5LC0xOTYxMDc0NTU4LDE2MjQ1
+Mjc4NzQsLTE2NzA2NzQzMjMsLTIwMjU4Nzg3OCwtMTExNzIxNj
+k5OCwtMTU2NjA4MDQ1NCwxMjQ3NTM4MjA1LC0xODY2NzY5NjA4
+LDEwOTgwNzQ0OTFdfQ==
 -->
