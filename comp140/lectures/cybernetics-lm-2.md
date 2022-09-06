@@ -26,7 +26,7 @@ page_nav:
         url: '../optimisation-lm'
 ---
 
-# 9. States & Transitions
+# States & Transitions
 ## An Introduction to Cybernetics
 
 ![Header Image](images/states-header.jpg)
@@ -618,11 +618,11 @@ In this lecture we have looked at:
 4.  We have touched on **signal processing** and its role in interpreting data from sensors.
 5.  Finally we looked at how we can use **finite state machines** to control a series of sensors and actuators that facilitate stable transitions and efficient management of memory and power resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3MzcyNywxMDQ5Mjc5MjgxLC04OD
-g3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2ODcsLTU4ODc0NDk3
-NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMjE0MDI2MzE4NiwzMz
-IyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4OCwzNDYwOTk0MDUs
-MTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNTkwMzU1MjUsLTIwND
-Q3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEwMjI5MywyMDExNzI2
-NTI2XX0=
+eyJoaXN0b3J5IjpbLTE3OTI3NDQxOTYsLTEzNjc3MzcyNywxMD
+Q5Mjc5MjgxLC04ODg3NDgzNTUsMjEwMDA2MjU0Myw0MDY5NTc2
+ODcsLTU4ODc0NDk3NywtNjY5NjAxNzczLDc3NTgwNjY5NywtMj
+E0MDI2MzE4NiwzMzIyMTcwMDYsMTAzMTY2NDcwOSw1Njg2NjE4
+OCwzNDYwOTk0MDUsMTYwMzQxMTMyOSwtMTQyMDU2NzQwNywyNT
+kwMzU1MjUsLTIwNDQ3MzA5MzAsLTExMTg0MjQ1OTMsLTg3MTEw
+MjI5M119
 -->
