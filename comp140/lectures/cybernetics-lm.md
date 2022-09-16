@@ -361,7 +361,7 @@ Let’s return to TinkerCAD and look at how we might build a simple robot like t
 
 To create a Braitenburg vehicle we just repeat the setup of the previous wiring. That just incorporates a second sensor, motor, transistor and two more resistors.
 
- ![ Schematic for a Braitenburg Vehicle](images/braitenberg-diagram.svg)
+			 ![ Schematic for a Braitenburg Vehicle](images/braitenberg-diagram.svg)
 *Fig.17 - Schematic for a Braitenburg Vehicle* 
 
 I have used vibration motors the type found in mobile phones. These will vibrate the plastic triangular chassis to produce changes in direction.
@@ -633,8 +633,9 @@ In this lecture we have looked at:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MTkxODU3LDEzOTAyMTE5MzYsLTIwOT
-c4NjY0MjMsMTUxMTI2NDEyNywtNDAwNzQxNjU1LC01OTc4MDk0
-NzYsLTcyMTE3MzcxOCwxNzQwNDY1MDExLDI0MDg4MDg3NiwtMT
-Y0MzQ1MDY4MiwxMDEzNDU5NTM0LC05NDQ4NzUwMjBdfQ==
+eyJoaXN0b3J5IjpbMzY2NDA2NzEzLDUwNzE5MTg1NywxMzkwMj
+ExOTM2LC0yMDk3ODY2NDIzLDE1MTEyNjQxMjcsLTQwMDc0MTY1
+NSwtNTk3ODA5NDc2LC03MjExNzM3MTgsMTc0MDQ2NTAxMSwyND
+A4ODA4NzYsLTE2NDM0NTA2ODIsMTAxMzQ1OTUzNCwtOTQ0ODc1
+MDIwXX0=
 -->
